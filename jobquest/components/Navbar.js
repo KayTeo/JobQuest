@@ -1,3 +1,7 @@
+import firebase from "@/firebase/firebase-config";
+import { signOut } from "firebase/auth";
+import { useRouter } from "next/navigation";
+
 import {
     Box,
     Flex,
@@ -17,6 +21,7 @@ import {
 } from "@chakra-ui/react";
 import { HamburgerIcon, CloseIcon } from "@chakra-ui/icons";
 
+const auth = firebase.auth();
 const Links = ["Home", "Tracker", "Searcher", "Forum"];
 
 const NavLink = ({ children }) => (
@@ -35,11 +40,12 @@ const NavLink = ({ children }) => (
 );
 
 export default function Navbar() {
+    const router = useRouter();
     const { isOpen, onOpen, onClose } = useDisclosure();
 
     return (
         <>
-            <Box bg={"#EAFDFC"} px={4}>
+            <Box bg={"#EAFDFC"} px={5}>
                 <Flex
                     h={16}
                     alignItems={"center"}
@@ -87,7 +93,19 @@ export default function Navbar() {
                             </MenuButton>
                             <MenuList>
                                 <MenuItem>Settings</MenuItem>
-                                <MenuItem>Sign Out</MenuItem>
+                                <MenuItem
+                                    onClick={() => {
+                                        signOut(auth)
+                                            .then(() => {
+                                                router.push("/");
+                                            })
+                                            .catch((error) => {
+                                                console.log(error);
+                                            });
+                                    }}
+                                >
+                                    Sign Out
+                                </MenuItem>
                             </MenuList>
                         </Menu>
                     </Flex>

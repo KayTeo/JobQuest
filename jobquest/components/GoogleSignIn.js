@@ -1,15 +1,20 @@
 "use client";
 
-import { Button } from "@chakra-ui/react";
 import firebase from "@/firebase/firebase-config";
+import { Button } from "@chakra-ui/react";
+import { useRouter } from "next/navigation";
 
 const auth = firebase.auth();
 
 export default function GoogleSignIn() {
-    const signInWithGoogle = () => {
+    const router = useRouter();
+
+    const signInWithGoogle = async () => {
         const provider = new firebase.auth.GoogleAuthProvider();
-        auth.signInWithPopup(provider);
+        await auth.signInWithPopup(provider);
+        router.push("/home");
     };
+
     return (
         <Button colorScheme="blue" onClick={signInWithGoogle}>
             Sign In

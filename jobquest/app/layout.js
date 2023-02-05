@@ -1,7 +1,7 @@
 "use client";
 
-import { ChakraProvider} from "@chakra-ui/react";
-import Navbar from "@/app/Navbar";
+import { ChakraProvider } from "@chakra-ui/react";
+import Navbar from "@/components/Navbar";
 
 import firebase from "@/firebase/firebase-config";
 import { useAuthState } from "react-firebase-hooks/auth";

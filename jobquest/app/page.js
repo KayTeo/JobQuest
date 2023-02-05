@@ -1,8 +1,8 @@
 "use client";
 
 import { Flex } from "@chakra-ui/react";
-import Hero from "@/app/Hero";
-import Features from "@/app/Features";
+import Hero from "@/components/Hero";
+import Features from "@/components/Features";
 
 export default function Main() {
     return (
