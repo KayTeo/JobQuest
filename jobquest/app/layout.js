@@ -1,6 +1,6 @@
 "use client";
 
-import { ChakraProvider } from "@chakra-ui/react";
+import { ChakraProvider} from "@chakra-ui/react";
 import Navbar from "@/app/Navbar";
 
 import firebase from "@/firebase/firebase-config";
@@ -20,8 +20,10 @@ export default function RootLayout({ children }) {
             <head />
             <body>
                 <ChakraProvider>
-                    {user ? <Navbar /> : null}
-                    {children}
+                    <main>
+                        {user && <Navbar />}
+                        {children}
+                    </main>
                 </ChakraProvider>
             </body>
         </html>

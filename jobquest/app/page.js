@@ -11,6 +11,7 @@ export default function Main() {
             flexDirection="column"
             justifyContent="center"
             alignItems="center"
+            height="100%"
         >
             <Hero />
             <Features />
