@@ -9,7 +9,7 @@ import { useAuthState } from "react-firebase-hooks/auth";
 import "./globals.css";
 
 export default function RootLayout({ children }) {
-    const [user] = useAuthState(firebase.auth());
+    // const [user] = useAuthState(firebase.auth());
 
     return (
         <html lang="en">
@@ -21,7 +21,7 @@ export default function RootLayout({ children }) {
             <body>
                 <ChakraProvider>
                     <main>
-                        {user && <Navbar />}
+                        <Navbar />
                         {children}
                     </main>
                 </ChakraProvider>
