@@ -4,10 +4,7 @@
 
 html,
 body,
-body,
-main,
-div#__next,
-div#__next > div {
+main {
     height: 100%;
     overflow: auto;
 }

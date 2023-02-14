@@ -1,8 +1,7 @@
 import "./globals.css";
+import NavBar from "@/components/NavBar";
 
 export default function RootLayout({ children }) {
-    // const [user] = useAuthState(firebase.auth());
-
     return (
         <html lang="en">
             {/*
@@ -11,7 +10,10 @@ export default function RootLayout({ children }) {
       */}
             <head />
             <body>
-                <main className="bg-light-500 font-sans">{children}</main>
+                <NavBar />
+                <main className="bg-light-500 font-sans">
+                    {children}
+                </main>
             </body>
         </html>
     );
