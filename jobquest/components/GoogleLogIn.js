@@ -1,12 +1,11 @@
 "use client";
 
 import firebase from "@/firebase/firebase-config";
-import { Button } from "@chakra-ui/react";
 import { useRouter } from "next/navigation";
 
 const auth = firebase.auth();
 
-export default function GoogleSignIn() {
+export default function GoogleLogIn() {
     const router = useRouter();
 
     const signInWithGoogle = async () => {
@@ -16,8 +15,11 @@ export default function GoogleSignIn() {
     };
 
     return (
-        <Button colorScheme="blue" onClick={signInWithGoogle}>
-            Sign In
-        </Button>
+        <button
+            className="bg-accent-500 hover:bg-accent-700 text-white p-4 rounded-md"
+            onClick={signInWithGoogle}
+        >
+            Sign In With Google
+        </button>
     );
 }

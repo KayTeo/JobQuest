@@ -1,82 +1,39 @@
 "use client";
 
-import {
-    Box,
-    Heading,
-    Container,
-    Text,
-    Button,
-    Stack,
-    HStack,
-    Image,
-} from "@chakra-ui/react";
-
 import Link from "next/link";
+import Image from "next/image";
 
 export default function Hero() {
     return (
-        <>
-            <Container maxW={"3xl"}>
-                <Stack
-                    as={Box}
-                    textAlign={"center"}
-                    spacing={{ base: 8, md: 10 }}
-                    py={{ base: 10, md: 35 }}
-                    alignItems="center"
+        <div className="flex flex-col justify-center items-center text-center gap-2">
+            <Image
+                className="w-80 sm:w-11/12"
+                src={"/LogoSmall.png"}
+                width={500}
+                height={500}
+            ></Image>
+            <div className="flex flex-row justify-center">
+                <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl">
+                    Find Your&nbsp;
+                </h1>
+                <h1 className="text-4xl font-bold tracking-tight text-accent-500 sm:text-5xl">
+                    Dream Job
+                </h1>
+            </div>
+            <div className="mt-10 flex items-center justify-center gap-x-6">
+                <Link
+                    href="/login"
+                    className="rounded-full bg-accent-500 w-24 px-3.5 py-1.5 text-base font-semibold leading-7 text-white shadow-sm hover:bg-accent-300"
                 >
-                    <Image
-                        src="/LogoSmall.png"
-                        boxSize="70%"
-                        objectFit="cover"
-                    ></Image>
-                    <Heading
-                        fontWeight={600}
-                        fontSize={{ base: "2xl", sm: "4xl", md: "6xl" }}
-                        lineHeight={"110%"}
-                    >
-                        Find Your&nbsp;
-                        <Text as={"span"} color={"#107CF1"}>
-                            Dream Job
-                        </Text>
-                    </Heading>
-                    <HStack
-                        direction={"column"}
-                        spacing={3}
-                        align={"center"}
-                        alignSelf={"center"}
-                        position={"relative"}
-                    >
-                        <Link href="/login">
-                            <Button
-                                colorScheme={"blue"}
-                                bg={"#107CF1"}
-                                rounded={"full"}
-                                w={"110px"}
-                                px={6}
-                                _hover={{
-                                    bg: "#0A2647",
-                                }}
-                            >
-                                Log In
-                            </Button>
-                        </Link>
-                        <Link href="/signup">
-                            <Button
-                                colorScheme={"blue"}
-                                bg={"#107CF1"}
-                                rounded={"full"}
-                                w={"110px"}
-                                px={6}
-                                _hover={{
-                                    bg: "#0A2647",
-                                }}
-                            >
-                                Sign Up
-                            </Button>
-                        </Link>
-                    </HStack>
-                </Stack>
-            </Container>
-        </>
+                    Log In
+                </Link>
+                <Link
+                    href="/signup"
+                    className="rounded-full bg-accent-500 w-24 px-3.5 py-1.5 text-base font-semibold leading-7 text-white shadow-sm hover:bg-accent-300"
+                >
+                    Sign Up
+                </Link>
+            </div>
+        </div>
     );
 }
