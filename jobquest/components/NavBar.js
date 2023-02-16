@@ -49,7 +49,7 @@ export default function NavBar() {
                     className="rounded-full bg-dark-400 hover:bg-dark-300 text-white font-semibold text-lg text-center leading-8 w-24 h-8"
                     href="/"
                     onClick={() => {
-                        signOut(auth).catch((error) => {
+                        signOut(firebase.auth()).catch((error) => {
                             console.log(error);
                         });
                     }}
