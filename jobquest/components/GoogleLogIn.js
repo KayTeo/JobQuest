@@ -8,11 +8,11 @@ const auth = firebase.auth();
 export default function GoogleLogIn() {
     const router = useRouter();
 
-    const signInWithGoogle = async () => {
+    async function signInWithGoogle() {
         const provider = new firebase.auth.GoogleAuthProvider();
         await auth.signInWithPopup(provider);
-        router.push("/home");
-    };
+        router.push("/user/home");
+    }
 
     return (
         <button

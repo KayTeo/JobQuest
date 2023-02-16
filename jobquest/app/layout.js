@@ -10,10 +10,8 @@ export default function RootLayout({ children }) {
       */}
             <head />
             <body>
-                <NavBar />
-                <main className="bg-light-500 font-sans">
-                    {children}
-                </main>
+                {/* <NavBar /> */}
+                <main className="bg-light-500 font-sans">{children}</main>
             </body>
         </html>
     );
