@@ -2,6 +2,7 @@
 
 import firebase from "@/firebase/firebase-config";
 import { useRouter } from "next/navigation";
+import Cookies from "js-cookie";
 
 const auth = firebase.auth();
 
@@ -11,6 +12,7 @@ export default function GoogleLogIn() {
     async function signInWithGoogle() {
         const provider = new firebase.auth.GoogleAuthProvider();
         await auth.signInWithPopup(provider);
+        Cookies.set("loggedin", true);
         router.push("/user/home");
     }
 
