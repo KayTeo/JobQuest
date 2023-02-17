@@ -20,7 +20,7 @@ export default function NavBar() {
     const pathname = usePathname();
 
     return (
-        <div className="flex flex-row gap-10 h-16 bg-light-500 py-2 px-4 shadow-md justify-between items-center">
+        <div className="flex h-16 flex-row items-center justify-between gap-10 bg-light-500 py-2 px-4 shadow-md">
             <div className="flex flex-row gap-10">
                 <Image
                     alt="logo"
@@ -29,14 +29,14 @@ export default function NavBar() {
                     width={1000}
                     height={1000}
                 ></Image>
-                <div className="flex flex-row gap-4 justify-center items-center">
+                <div className="flex flex-row items-center justify-center gap-4">
                     {options.map((e) => (
                         <Link
                             className={`rounded-full ${
                                 pathname === e.route
                                     ? "bg-accent-500 hover:bg-accent-300"
                                     : "bg-dark-400 hover:bg-dark-300"
-                            } text-white font-semibold text-lg text-center leading-8 w-24 h-8`}
+                            } h-8 w-24 text-center text-lg font-semibold leading-8 text-white`}
                             href={e.route}
                         >
                             {e.name}
@@ -44,9 +44,9 @@ export default function NavBar() {
                     ))}
                 </div>
             </div>
-            <div className="flex flex-row justify-center items-center gap-4">
+            <div className="flex flex-row items-center justify-center gap-4">
                 <Link
-                    className="rounded-full bg-dark-400 hover:bg-dark-300 text-white font-semibold text-lg text-center leading-8 w-24 h-8"
+                    className="h-8 w-24 rounded-full bg-dark-400 text-center text-lg font-semibold leading-8 text-white hover:bg-dark-300"
                     href="/"
                     onClick={() => {
                         signOut(firebase.auth()).catch((error) => {
@@ -56,7 +56,7 @@ export default function NavBar() {
                 >
                     Sign Out
                 </Link>
-                <div className="rounded-full bg-black w-10 h-10"></div>
+                <div className="h-10 w-10 rounded-full bg-black"></div>
             </div>
         </div>
     );

@@ -27,22 +27,22 @@ const features = [
 
 export default function Features() {
     return (
-        <div className="flex flex-col justify-center items-center">
+        <div className="flex flex-col items-center justify-center">
             <p className="mt-2 text-3xl font-bold text-gray-900 sm:text-4xl">
                 Our features
             </p>
 
-            <dl className="flex flex-col gap-5 mt-8 w-full text-gray-600 sm:flex-row sm:gap-8">
+            <dl className="mt-8 flex w-full flex-col gap-5 text-gray-600 sm:flex-row sm:gap-8">
                 {features.map((feature) => (
                     <div
                         key={feature.name}
-                        className="flex flex-col justify-center items-center gap-2 w-48"
+                        className="flex w-48 flex-col items-center justify-center gap-2"
                     >
                         <feature.icon
-                            className="w-7 h-7 text-accent-500"
+                            className="h-7 w-7 text-accent-500"
                             aria-hidden="true"
                         />
-                        <dt className="font-semibold text-lg text-gray-900">
+                        <dt className="text-lg font-semibold text-gray-900">
                             {feature.name}
                         </dt>
                         <dd className="text-center">{feature.description}</dd>

@@ -5,7 +5,7 @@ import Image from "next/image";
 
 export default function Hero() {
     return (
-        <div className="flex flex-col justify-center items-center text-center gap-2">
+        <div className="flex flex-col items-center justify-center gap-2 text-center">
             <Image
                 className="w-80 sm:w-11/12"
                 src={"/LogoSmall.png"}
@@ -23,13 +23,13 @@ export default function Hero() {
             <div className="mt-10 flex items-center justify-center gap-x-6">
                 <Link
                     href="/login"
-                    className="rounded-full bg-accent-500 w-24 px-3.5 py-1.5 text-base font-semibold leading-7 text-white shadow-sm hover:bg-accent-300"
+                    className="w-24 rounded-full bg-accent-500 px-3.5 py-1.5 text-base font-semibold leading-7 text-white shadow-sm hover:bg-accent-300"
                 >
                     Log In
                 </Link>
                 <Link
                     href="/signup"
-                    className="rounded-full bg-accent-500 w-24 px-3.5 py-1.5 text-base font-semibold leading-7 text-white shadow-sm hover:bg-accent-300"
+                    className="w-24 rounded-full bg-accent-500 px-3.5 py-1.5 text-base font-semibold leading-7 text-white shadow-sm hover:bg-accent-300"
                 >
                     Sign Up
                 </Link>

@@ -16,7 +16,7 @@ export default function GoogleLogIn() {
 
     return (
         <button
-            className="bg-accent-500 hover:bg-accent-700 text-white p-4 rounded-md"
+            className="rounded-md bg-accent-500 p-4 text-white hover:bg-accent-700"
             onClick={signInWithGoogle}
         >
             Sign In With Google
