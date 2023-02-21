@@ -6,7 +6,7 @@ import Cookies from "js-cookie";
 
 const auth = firebase.auth();
 
-export default function GoogleLogIn() {
+export default function GoogleLogIn({ text }) {
     const router = useRouter();
 
     async function signInWithGoogle() {
@@ -18,10 +18,10 @@ export default function GoogleLogIn() {
 
     return (
         <button
-            className="rounded-md bg-accent-500 p-4 text-white hover:bg-accent-700"
+            className="w-40 rounded-full bg-accent-500 p-2 text-sm font-semibold text-white hover:bg-accent-700"
             onClick={signInWithGoogle}
         >
-            Sign In With Google
+            {text}
         </button>
     );
 }
