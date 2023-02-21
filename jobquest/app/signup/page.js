@@ -3,7 +3,7 @@ import GoogleLogIn from "@/components/GoogleLogIn";
 
 export default function SignInPage() {
     return (
-        <div className="flex flex-col items-center justify-center gap-3 pt-10 sm:pt-40">
+        <div className="flex flex-col items-center justify-center gap-3 pt-10 sm:pt-0">
             <h1 className="text-4xl font-bold tracking-tight text-accent-500 sm:text-5xl">
                 Get started on the
             </h1>

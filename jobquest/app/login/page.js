@@ -3,7 +3,7 @@ import Image from "next/image";
 
 export default function LogInPage() {
     return (
-        <div className="flex flex-col items-center justify-center gap-3 pt-10 sm:pt-40">
+        <div className="flex flex-col items-center justify-center gap-3 pt-10 sm:pt-0">
             <h1 className="text-4xl font-bold tracking-tight text-accent-500 sm:text-5xl">
                 Continue the
             </h1>

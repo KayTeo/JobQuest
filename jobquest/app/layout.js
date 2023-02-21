@@ -11,7 +11,9 @@ export default function RootLayout({ children }) {
             <head />
             <body>
                 {/* <NavBar /> */}
-                <main className="bg-light-500 font-sans">{children}</main>
+                <main className="flex-col items-center justify-center bg-light-500 font-sans sm:flex">
+                    {children}
+                </main>
             </body>
         </html>
     );
