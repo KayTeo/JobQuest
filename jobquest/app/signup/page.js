@@ -17,38 +17,37 @@ export default function SignInPage() {
             <form
                 action="/send-data-here"
                 method="post"
-                className="flex w-96 flex-col items-center justify-center gap-4 rounded-xl bg-dark-500 p-4"
+                className="flex flex-col items-center justify-center gap-7 rounded-xl bg-dark-500 py-4 px-10 sm:px-28"
             >
                 <div className="flex flex-col items-center justify-center gap-px">
                     <label className="font-semibold text-white" for="username">
-                        Username:
+                        Username
                     </label>
                     <input
-                        className="rounded-lg px-2"
+                        className="rounded-lg px-2 text-xl"
                         type="text"
                         id="username"
                         name="username"
                     />
-                </div>
-                <div className="flex flex-col items-center justify-center gap-px">
                     <label className="font-semibold text-white" for="password">
-                        Password:
+                        Password
                     </label>
                     <input
-                        className="rounded-lg px-2"
+                        className="rounded-lg px-2 text-xl"
                         type="text"
                         id="password"
                         name="password"
                     />
                 </div>
-                <button
-                    className="w-40 rounded-full bg-accent-500 p-2 text-sm font-semibold text-white hover:bg-accent-700"
-                    type="submit"
-                >
-                    Sign Up
-                </button>
-
-                <GoogleLogIn text="Sign Up With Google" />
+                <div className="flex flex-col items-center justify-center gap-2">
+                    <button
+                        className="w-40 rounded-full bg-accent-500 p-2 text-sm font-semibold text-white hover:bg-accent-700"
+                        type="submit"
+                    >
+                        Sign Up
+                    </button>
+                    <GoogleLogIn text="Sign Up With Google" />
+                </div>
             </form>
         </div>
     );
