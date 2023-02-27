@@ -14,37 +14,46 @@ export default function LogInPage() {
                 width={500}
                 height={500}
             ></Image>
-            <form className="flex flex-col items-center justify-center gap-7 rounded-xl bg-dark-500 py-4 px-10 sm:px-28">
-                <div className="flex flex-col items-center justify-center gap-px">
-                    <label className="font-semibold text-white" for="username">
-                        Username
-                    </label>
-                    <input
-                        className="rounded-lg px-2 text-xl"
-                        type="text"
-                        id="username"
-                        name="username"
-                    />
-                    <label className="font-semibold text-white" for="password">
-                        Password
-                    </label>
-                    <input
-                        className="rounded-lg px-2 text-xl"
-                        type="text"
-                        id="password"
-                        name="password"
-                    />
-                </div>
-                <div className="flex flex-col items-center justify-center gap-2">
+            <div className="flex flex-col items-center justify-center gap-4 rounded-xl bg-dark-500 py-4 px-10 sm:px-28">
+                <form
+                    action="submit "
+                    className="flex flex-col items-center justify-center gap-4"
+                >
+                    <div className="flex flex-col items-center justify-center gap-px">
+                        <label
+                            className="font-semibold text-white"
+                            for="username"
+                        >
+                            Username
+                        </label>
+                        <input
+                            className="rounded-lg px-2 text-xl"
+                            type="text"
+                            id="username"
+                            name="username"
+                        />
+                        <label
+                            className="font-semibold text-white"
+                            for="password"
+                        >
+                            Password
+                        </label>
+                        <input
+                            className="rounded-lg px-2 text-xl"
+                            type="text"
+                            id="password"
+                            name="password"
+                        />
+                    </div>
                     <button
                         className="w-40 rounded-full bg-accent-500 p-2 text-sm font-semibold text-white hover:bg-accent-700"
                         type="submit"
                     >
                         Log In
                     </button>
-                </div>
-            </form>
-            <GoogleLogIn text="Log In With Google" />
+                </form>
+                <GoogleLogIn text="Log In With Google" />
+            </div>
         </div>
     );
 }
