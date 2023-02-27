@@ -8,6 +8,7 @@ export default function Hero() {
         <div className="flex flex-col items-center justify-center gap-2 text-center">
             <Image
                 alt="logo"
+                priority={true}
                 className="w-80 sm:w-11/12"
                 src={"/LogoSmall.png"}
                 width={500}

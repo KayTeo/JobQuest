@@ -24,6 +24,7 @@ export default function NavBar() {
             <div className="flex flex-row justify-between gap-32">
                 <Image
                     alt="logo"
+                    priority={true}
                     className="w-52"
                     src={"/LogoSmall.png"}
                     width={1000}
