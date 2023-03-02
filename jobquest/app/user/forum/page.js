@@ -1,3 +1,3 @@
 export default function ForumPage() {
-    return <div>Forum</div>;
+    return <div className="h-[calc(100vh-64px)]">Forum</div>;
 }

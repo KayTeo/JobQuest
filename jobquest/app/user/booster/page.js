@@ -1,3 +1,3 @@
 export default function BoosterPage() {
-    return <div>Booster</div>;
+    return <div className="h-[calc(100vh-64px)]">Booster</div>;
 }
