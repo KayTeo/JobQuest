@@ -1,4 +1,4 @@
-import SearcherSetUp from "@/components/SearcherSetUp";
+import SearcherSetUp from "@/app/user/searcher/setup/SearcherSetUp";
 
 export default function SearcherSetUpPage() {
     return (
