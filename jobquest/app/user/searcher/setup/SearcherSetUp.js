@@ -4,111 +4,117 @@ import { useState } from "react";
 import Link from "next/link";
 
 export default function SearcherSetUp() {
-    // TODO: react stuff
     const [skills, setSkills] = useState([]);
     const [addSkills, setAddSkills] = useState(false);
 
+    const school = [
+        { name: "Nanyang Technological University" },
+        { name: "National University of Singapore" },
+        { name: "Singapore Management University" },
+        { name: "Singapore University of Technology and Design" },
+    ];
+
+    const major = [
+        { name: "Computer Engineering" },
+        { name: "Computer Science" },
+        { name: "Accountancy" },
+        { name: "Aerospace Engineering" },
+        { name: "Art, Design & Media" },
+        { name: "Arts (Education)" },
+        { name: "Bioengineering" },
+        { name: "Biological Sciences" },
+        { name: "Business" },
+        { name: "Chemical & Biomolecular Engineering" },
+        { name: "Chemistry & Biological Chemistry" },
+        { name: "Chinese" },
+        { name: "Civil Engineering" },
+        { name: "Communication Studies" },
+        { name: "Data Science & Artificial Intelligence" },
+        { name: "Double Major Programmes (Humanities)" },
+        { name: "Double Major Programmes (Science)" },
+        { name: "Double Major Programmes (Social Sciences)" },
+        { name: "Economics" },
+        { name: "Economics and Data Science" },
+        { name: "Electrical and Electronic Engineering" },
+        { name: "Engineering" },
+        { name: "English" },
+        { name: "Environmental Earth Systems Science" },
+        { name: "Environmental Engineering" },
+        { name: "History" },
+        { name: "Information Engineering & Media" },
+        { name: "Linguistics & Multilingual Studies" },
+        { name: "Maritime Studies" },
+        { name: "Materials Engineering" },
+        { name: "Mathematical Sciences" },
+        { name: "Mechanical Engineering" },
+        { name: "Medicine" },
+        { name: "Philosophy" },
+        { name: "Physics / Applied Physics" },
+        { name: "Public Policy & Global Affairs" },
+        { name: "Renaissance Engineering" },
+        { name: "Science (Education)" },
+        { name: "Sociology" },
+        { name: "Sport Science & Management" },
+    ];
+
+    const location = [
+        { name: "North" },
+        { name: "South" },
+        { name: "East" },
+        { name: "West" },
+        { name: "Central" },
+    ];
+
+    const typeJob = [
+        { name: "Internship" },
+        { name: "Contract" },
+        { name: "Part-Time" },
+        { name: "Full-Time" },
+    ];
+
+    const citizenship = [
+        { name: "Singaporean" },
+        { name: "PR" },
+        { name: "Others" },
+    ];
+
+    const selections = [
+        { options: school, title: "School" },
+        { options: major, title: "Major" },
+        { options: location, title: "Location" },
+        { options: typeJob, title: "Type of Job" },
+        { options: citizenship, title: "Citizenship" },
+    ];
+
     return (
-        <div className="flex h-full flex-col items-center justify-center gap-2 py-8">
-            <header className="text-3xl font-bold tracking-tight text-accent-500 sm:text-4xl">
+        <div className="my-8 flex flex-col items-center justify-center gap-2 p-10">
+            <header className="text-2xl font-bold text-accent-500 sm:text-3xl">
                 Setup Job Searcher
             </header>
-            <article className="w-96 text-center text-base text-black sm:text-lg">
+            <article className="w-96 text-center text-sm text-black sm:text-base">
                 In order to match you with the best jobs available, we need your
                 help to fill in the details below!
             </article>
-            <form className="flex h-full w-4/6 flex-col items-center rounded-xl border-2 border-black bg-light-200 py-5">
-                <div className="grid grid-cols-3 gap-x-10 gap-y-5 px-10">
-                    {/* School */}
-                    <div className="flex flex-col">
-                        <label for="school" className="font-bold">
-                            School:
-                        </label>
-                        <select
-                            id="school"
-                            className="rounded-xl border border-black"
-                        >
-                            <option value="NTU">
-                                Nanyang Technological University
-                            </option>
-                            <option value="NUS">
-                                National University of Singapore
-                            </option>
-                            <option value="SMU">
-                                Singapore Management University
-                            </option>
-                            <option value="SUTD">
-                                Singapore University of Technology and Design
-                            </option>
-                        </select>
-                    </div>
-
-                    {/* Major */}
-                    <div className="flex flex-col">
-                        <label for="major" className="font-bold">
-                            Major:
-                        </label>
-                        <select
-                            id="major"
-                            className="rounded-xl border border-black"
-                        >
-                            <option value="CE">Computer Engineering</option>
-                            <option value="CS">Computer Science</option>
-                        </select>
-                    </div>
-
-                    {/* Location */}
-                    <div className="flex flex-col">
-                        <label for="Location" className="font-bold">
-                            Location:
-                        </label>
-                        <select
-                            id="location"
-                            className="rounded-xl border border-black"
-                        >
-                            <option value="west">West</option>
-                            <option value="east">East</option>
-                            <option value="north">North</option>
-                            <option value="south">South</option>
-                            <option value="central">Central</option>
-                        </select>
-                    </div>
-
-                    {/* Type of Job */}
-                    <div className="flex flex-col">
-                        <label for="typeJob" className="font-bold">
-                            Type of Job:
-                        </label>
-                        <select
-                            id="typeJob"
-                            className="rounded-xl border border-black"
-                        >
-                            <option value="internship">Internship</option>
-                            <option value="contract">Contract</option>
-                            <option value="partTime">Part-Time</option>
-                            <option value="fullTime">Full-Time</option>
-                        </select>
-                    </div>
-
-                    {/* Citizenship */}
-                    <div className="flex flex-col">
-                        <label for="citizenship" className="font-bold">
-                            Citizenship:
-                        </label>
-                        <select
-                            id="citizenship"
-                            className="rounded-xl border border-black"
-                        >
-                            <option value="singaporean">Singaporean</option>
-                            <option value="PR">Permanent Resident</option>
-                            <option value="others">Others</option>
-                        </select>
-                    </div>
-
-                    {/* Minimum Interested Salary */}
+            <form className="flex h-[450px] w-[400px] flex-col items-center rounded-xl border border-black bg-light-200 py-5 text-xs md:h-72 md:w-[800px]">
+                <div className="flex flex-col gap-2 md:grid md:grid-cols-3 md:gap-x-10 md:gap-y-5 md:px-10">
+                    {selections.map((e) => (
+                        <div className="flex flex-col">
+                            <label for={e.title} className="font-bold">
+                                {e.title + ":"}
+                            </label>
+                            <select
+                                id={e.title}
+                                className="rounded-xl border border-black p-1"
+                            >
+                                {e.options.map((e) => (
+                                    <option value={e.name}>{e.name}</option>
+                                ))}
+                            </select>
+                        </div>
+                    ))}
                     <div className="flex flex-col">
                         <label for="salary" className="font-bold">
-                            Minimum Interested Salary:
+                            Minimum Salary:
                         </label>
                         <input
                             type="number"
@@ -116,35 +122,56 @@ export default function SearcherSetUp() {
                             name="salary"
                             min="0"
                             max="20000"
-                            className="rounded-xl border border-black required:border-red-500 out-of-range:border-red-500"
+                            className="rounded-xl border border-black p-1 required:border-red-500 out-of-range:border-red-500"
                         ></input>
                     </div>
                 </div>
-
-                {/* Skills */}
-                <div className="mt-2 flex justify-start">
+                <div className="m-2 flex w-5/6 justify-start gap-1">
                     <div className="font-bold">Skills:</div>
-                    {/* TODO: crud skills and show */}
-                    <button
-                        className="h-5 w-5 rounded-full bg-accent-500 text-center text-base font-semibold leading-7 text-white shadow-sm hover:bg-accent-300"
-                        onClick={() => {
-                            setAddSkills(!addSkills);
-                        }}
-                    >
-                        +
-                    </button>
+                    {!addSkills && (
+                        <button
+                            className="rounded-full bg-accent-500 px-2 text-center font-bold text-white hover:bg-accent-300"
+                            onClick={(e) => {
+                                e.preventDefault(0);
+                                setAddSkills(!addSkills);
+                            }}
+                        >
+                            +
+                        </button>
+                    )}
                 </div>
                 {addSkills ? (
-                    <div> adding skills</div>
+                    <>
+                        <label for="skill" className="font-bold">
+                            Add New Skill:
+                        </label>
+                        <input
+                            type="text"
+                            id="skill"
+                            name="skill"
+                            className="rounded-xl border border-black p-1"
+                        ></input>
+                        <button
+                            className="my-2 rounded-full bg-accent-500 px-2 text-center font-bold text-white hover:bg-accent-300"
+                            onClick={(e) => {
+                                e.preventDefault(0);
+                                setAddSkills(!addSkills);
+                            }}
+                        >
+                            +
+                        </button>
+                    </>
                 ) : (
-                    <div className="mb-2 h-full w-5/6 rounded-xl border border-black bg-white"></div>
+                    <>
+                        <div className="mb-2 h-full w-5/6"></div>
+                        <Link
+                            href="/user/searcher"
+                            className="h-6 w-16 rounded-full bg-accent-500 text-center text-xs font-semibold leading-6 text-white shadow-sm hover:bg-accent-300"
+                        >
+                            Searcher
+                        </Link>
+                    </>
                 )}
-                <Link
-                    href="/user/searcher"
-                    className="h-10 w-24 rounded-full bg-accent-500 px-3.5 py-1.5 text-base font-semibold leading-7 text-white shadow-sm hover:bg-accent-300"
-                >
-                    Searcher
-                </Link>
             </form>
         </div>
     );
