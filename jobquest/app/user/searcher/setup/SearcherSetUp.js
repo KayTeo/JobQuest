@@ -87,15 +87,15 @@ export default function SearcherSetUp() {
     ];
 
     return (
-        <div className="my-8 flex flex-col items-center justify-center gap-2 p-10">
-            <header className="text-2xl font-bold text-accent-500 sm:text-3xl">
+        <div className="my-8 flex flex-col items-center justify-center gap-2 pb-10 md:p-10">
+            <header className="text-3xl font-bold text-accent-500">
                 Setup Job Searcher
             </header>
-            <article className="w-96 text-center text-sm text-black sm:text-base">
+            <article className="w-96 text-center text-base text-black">
                 In order to match you with the best jobs available, we need your
                 help to fill in the details below!
             </article>
-            <form className="flex h-[450px] w-[400px] flex-col items-center rounded-xl border border-black bg-light-200 py-5 text-xs md:h-72 md:w-[800px]">
+            <form className="flex h-[450px] w-[400px] flex-col items-center rounded-xl border border-black bg-light-200 py-5 text-xs md:h-72 md:w-[750px]">
                 <div className="flex flex-col gap-2 md:grid md:grid-cols-3 md:gap-x-10 md:gap-y-5 md:px-10">
                     {selections.map((e) => (
                         <div className="flex flex-col">
