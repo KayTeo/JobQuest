@@ -1,8 +1,13 @@
-import React from "react";
+"use client";
+
+import { useState } from "react";
 import Link from "next/link";
 
 export default function SearcherSetUp() {
     // TODO: react stuff
+    const [skills, setSkills] = useState([]);
+    const [addSkills, setAddSkills] = useState(false);
+
     return (
         <div className="flex h-full flex-col items-center justify-center gap-2 py-8">
             <header className="text-3xl font-bold tracking-tight text-accent-500 sm:text-4xl">
@@ -120,17 +125,26 @@ export default function SearcherSetUp() {
                 <div className="mt-2 flex justify-start">
                     <div className="font-bold">Skills:</div>
                     {/* TODO: crud skills and show */}
-                    <div>+</div>
-                </div>
-                <div className="mb-2 h-full w-5/6 rounded-xl border border-black bg-white"></div>
-                <div className="flex items-end justify-center">
-                    <Link
-                        href="/user/searcher"
-                        className="h-10 w-24 rounded-full bg-accent-500 px-3.5 py-1.5 text-base font-semibold leading-7 text-white shadow-sm hover:bg-accent-300"
+                    <button
+                        className="h-5 w-5 rounded-full bg-accent-500 text-center text-base font-semibold leading-7 text-white shadow-sm hover:bg-accent-300"
+                        onClick={() => {
+                            setAddSkills(!addSkills);
+                        }}
                     >
-                        Searcher
-                    </Link>
+                        +
+                    </button>
                 </div>
+                {addSkills ? (
+                    <div> adding skills</div>
+                ) : (
+                    <div className="mb-2 h-full w-5/6 rounded-xl border border-black bg-white"></div>
+                )}
+                <Link
+                    href="/user/searcher"
+                    className="h-10 w-24 rounded-full bg-accent-500 px-3.5 py-1.5 text-base font-semibold leading-7 text-white shadow-sm hover:bg-accent-300"
+                >
+                    Searcher
+                </Link>
             </form>
         </div>
     );
