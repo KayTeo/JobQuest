@@ -98,8 +98,8 @@ export default function SearcherSetUp() {
             <form className="flex h-[450px] w-[400px] flex-col items-center rounded-xl border border-black bg-light-200 py-5 text-xs md:h-72 md:w-[750px]">
                 <div className="flex flex-col gap-2 md:grid md:grid-cols-3 md:gap-x-10 md:gap-y-5 md:px-10">
                     {selections.map((e) => (
-                        <div className="flex flex-col">
-                            <label for={e.title} className="font-bold">
+                        <div key={e.title} className="flex flex-col">
+                            <label htmlFor={e.title} className="font-bold">
                                 {e.title + ":"}
                             </label>
                             <select
@@ -107,13 +107,15 @@ export default function SearcherSetUp() {
                                 className="rounded-xl border border-black p-1"
                             >
                                 {e.options.map((e) => (
-                                    <option value={e.name}>{e.name}</option>
+                                    <option key={e.name} value={e.name}>
+                                        {e.name}
+                                    </option>
                                 ))}
                             </select>
                         </div>
                     ))}
                     <div className="flex flex-col">
-                        <label for="salary" className="font-bold">
+                        <label htmlFor="salary" className="font-bold">
                             Minimum Salary:
                         </label>
                         <input
