@@ -6,7 +6,6 @@ import Skill from "@/components/Skill";
 
 export default function SearcherSetUp() {
     const [skills, setSkills] = useState([]);
-    const [addingSkills, setAddingSkills] = useState(false);
     const skillsInputRef = useRef();
 
     const school = [
@@ -130,116 +129,57 @@ export default function SearcherSetUp() {
                         ></input>
                     </div>
                 </div>
-                {addingSkills ? (
-                    <div className="flex flex-col items-center justify-center gap-2">
-                        <div className="flex w-[280px] items-center justify-between gap-1 md:w-[750px] md:px-10">
-                            <div className="flex items-center justify-center gap-1">
-                                <label htmlFor="skill" className="font-bold">
-                                    Add Skill:
-                                </label>
-                                <input
-                                    ref={skillsInputRef}
-                                    type="text"
-                                    id="skill"
-                                    name="skill"
-                                    className="w-16 rounded-xl border border-black p-1 md:w-36"
-                                ></input>
-                                <button
-                                    className="my-2 rounded-full bg-accent-500 px-2 text-center font-bold text-white hover:bg-accent-300"
-                                    onClick={(e) => {
-                                        e.preventDefault(0);
-                                        const value =
-                                            skillsInputRef.current.value;
-                                        if (
-                                            value === "" ||
-                                            skills.includes(value)
-                                        ) {
-                                            return;
-                                        }
-                                        setSkills([...skills, value]);
-                                        skillsInputRef.current.value = "";
-                                    }}
-                                >
-                                    +
-                                </button>
-                            </div>
-                            <button
-                                onClick={(e) => {
-                                    e.preventDefault(0);
-                                    setAddingSkills(!addingSkills);
-                                }}
-                                className="h-6 w-16 rounded-full bg-accent-500 text-center text-xs font-semibold leading-6 text-white shadow-sm hover:bg-accent-300"
-                            >
-                                Back
-                            </button>
-                        </div>
-                        <div className="flex w-[280px] flex-wrap items-center justify-start gap-1 md:w-[750px] md:px-10">
-                            {skills.map((e) => (
-                                <button
-                                    key={e}
-                                    onClick={(evt) => {
-                                        evt.preventDefault(0);
-                                        const newSkill = skills.filter(
-                                            (skill) => {
-                                                return skill !== e;
-                                            }
-                                        );
-                                        setSkills(newSkill);
-                                    }}
-                                >
-                                    <Skill
-                                        name={e}
-                                        key={e}
-                                        className="min-w-[30px] p-1 text-[10px] font-bold hover:border-red-500 hover:text-red-500"
-                                    />
-                                </button>
-                            ))}
-                        </div>
-                    </div>
-                ) : (
-                    <>
-                        <div className="m-2 flex w-[400px] justify-start gap-1 px-[60px] md:w-[750px] md:px-10">
-                            <div className="font-bold">Skills:</div>
-                            <button
-                                className="rounded-full bg-accent-500 px-2 text-center font-bold text-white hover:bg-accent-300"
-                                onClick={(e) => {
-                                    e.preventDefault(0);
-                                    setAddingSkills(!addingSkills);
-                                }}
-                            >
-                                +
-                            </button>
-                        </div>
-                        <div className="flex w-[280px] flex-wrap items-center justify-start gap-1 md:w-[750px] md:px-10">
-                            {skills.map((e) => (
-                                <button
-                                    key={e}
-                                    onClick={(evt) => {
-                                        evt.preventDefault(0);
-                                        const newSkill = skills.filter(
-                                            (skill) => {
-                                                return skill !== e;
-                                            }
-                                        );
-                                        setSkills(newSkill);
-                                    }}
-                                >
-                                    <Skill
-                                        name={e}
-                                        className="min-w-[30px] p-1 text-[10px] font-bold hover:border-red-500 hover:text-red-500"
-                                    />
-                                </button>
-                            ))}
-                        </div>
-                        <div className="mb-2 h-full"></div>
-                        <Link
-                            href="/user/searcher"
-                            className="h-6 w-16 rounded-full bg-accent-500 text-center text-xs font-semibold leading-6 text-white shadow-sm hover:bg-accent-300"
+                <div className="m-2 flex w-[400px] justify-center gap-1 px-[60px] md:w-[750px] md:px-10">
+                    <div className="flex items-center justify-center gap-1">
+                        <label htmlFor="skill" className="font-bold">
+                            Skills:
+                        </label>
+                        <input
+                            ref={skillsInputRef}
+                            type="text"
+                            id="skill"
+                            name="skill"
+                            className="w-36 rounded-xl border border-black p-1"
+                        ></input>
+                        <button
+                            className="rounded-full bg-accent-500 px-3 py-[5px] text-center font-bold text-white hover:bg-accent-300"
+                            onClick={(e) => {
+                                e.preventDefault(0);
+                                const value = skillsInputRef.current.value;
+                                if (value === "" || skills.includes(value)) {
+                                    return;
+                                }
+                                setSkills([...skills, value]);
+                                skillsInputRef.current.value = "";
+                            }}
                         >
-                            Submit
-                        </Link>
-                    </>
-                )}
+                            +
+                        </button>
+                    </div>
+                </div>
+                <div className="flex w-[280px] flex-wrap items-center justify-center gap-1 md:w-[750px] md:px-10">
+                    {skills.map((e) => (
+                        <button
+                            key={e}
+                            onClick={(evt) => {
+                                evt.preventDefault(0);
+                                const newSkill = skills.filter((skill) => {
+                                    return skill !== e;
+                                });
+                                setSkills(newSkill);
+                            }}
+                        >
+                            <Skill
+                                name={e}
+                                className="min-w-[40px] p-1 text-[10px] font-bold hover:border-red-500 hover:text-red-500"
+                            />
+                        </button>
+                    ))}
+                </div>
+                <div className="mb-2 h-full"></div>
+                <button className="h-6 w-16 rounded-full bg-accent-500 text-center text-xs font-semibold leading-6 text-white shadow-sm hover:bg-accent-300">
+                    Submit
+                </button>
             </form>
         </div>
     );
