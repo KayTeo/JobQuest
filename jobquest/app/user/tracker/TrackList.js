@@ -18,8 +18,10 @@ export default function TrackList({ viewMode }) {
             <div
                 className={` ${
                     viewMode === "right" && "xl:w-[800px]"
-                } flex h-[60vh] w-[450px] flex-col items-center gap-2 overflow-auto rounded-xl border border-black bg-light-500 p-2`}
-            ></div>
+                }  h-[60vh] w-[450px] overflow-hidden rounded-xl border border-black bg-light-500`}
+            >
+                <div className="flex h-full w-full flex-col items-center overflow-auto p-2"></div>
+            </div>
         </div>
     );
 }

@@ -1,6 +1,11 @@
 "use client";
 
 export default function WishList({ viewMode }) {
+    const arr = [
+        1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+        1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+        1, 1, 1, 1, 1, 1,
+    ];
     return (
         <div
             className={`${
@@ -13,12 +18,17 @@ export default function WishList({ viewMode }) {
                     +
                 </button>
             </div>
+
             <div
                 className={` ${
                     viewMode === "left" && "xl:w-[800px]"
-                } flex h-[60vh] w-[450px] flex-col items-center overflow-auto rounded-xl border border-black bg-light-500 p-2`}
+                }  h-[60vh] w-[450px] overflow-hidden rounded-xl border border-black bg-light-500`}
             >
-                Test
+                <div className="flex h-full w-full flex-col items-center overflow-auto p-2">
+                    {arr.map((e) => (
+                        <div>test</div>
+                    ))}
+                </div>
             </div>
         </div>
     );
