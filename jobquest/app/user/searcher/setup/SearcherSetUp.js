@@ -175,11 +175,24 @@ export default function SearcherSetUp() {
                         </div>
                         <div className="flex w-[280px] flex-wrap items-center justify-start gap-1 md:w-[750px] md:px-10">
                             {skills.map((e) => (
-                                <Skill
-                                    name={e}
+                                <button
                                     key={e}
-                                    className="min-w-[30px] p-1 text-[10px] font-bold"
-                                />
+                                    onClick={(evt) => {
+                                        evt.preventDefault(0);
+                                        const newSkill = skills.filter(
+                                            (skill) => {
+                                                return skill !== e;
+                                            }
+                                        );
+                                        setSkills(newSkill);
+                                    }}
+                                >
+                                    <Skill
+                                        name={e}
+                                        key={e}
+                                        className="min-w-[30px] p-1 text-[10px] font-bold hover:border-red-500 hover:text-red-500"
+                                    />
+                                </button>
                             ))}
                         </div>
                     </div>
@@ -199,11 +212,23 @@ export default function SearcherSetUp() {
                         </div>
                         <div className="flex w-[280px] flex-wrap items-center justify-start gap-1 md:w-[750px] md:px-10">
                             {skills.map((e) => (
-                                <Skill
-                                    name={e}
+                                <button
                                     key={e}
-                                    className="min-w-[30px] p-1 text-[10px] font-bold"
-                                />
+                                    onClick={(evt) => {
+                                        evt.preventDefault(0);
+                                        const newSkill = skills.filter(
+                                            (skill) => {
+                                                return skill !== e;
+                                            }
+                                        );
+                                        setSkills(newSkill);
+                                    }}
+                                >
+                                    <Skill
+                                        name={e}
+                                        className="min-w-[30px] p-1 text-[10px] font-bold hover:border-red-500 hover:text-red-500"
+                                    />
+                                </button>
                             ))}
                         </div>
                         <div className="mb-2 h-full"></div>
