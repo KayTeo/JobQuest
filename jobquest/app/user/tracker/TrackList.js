@@ -1,4 +1,6 @@
-import TrackEntry from "./TrackEntry";
+"use client";
+
+import { TrackWrapper } from "./DataWrappers";
 
 export default function TrackList({ viewMode }) {
     return (
@@ -20,7 +22,7 @@ export default function TrackList({ viewMode }) {
                     viewMode === "right" && "xl:w-[800px]"
                 }  h-[60vh] w-[450px] overflow-hidden rounded-xl border border-black bg-light-500`}
             >
-                <div className="flex h-full w-full flex-col items-center overflow-auto p-2"></div>
+                <TrackWrapper />
             </div>
         </div>
     );
