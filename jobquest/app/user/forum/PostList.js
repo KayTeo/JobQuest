@@ -1,5 +1,5 @@
 import Post from "./Post";
-import { postData } from "./temppostdata";
+import { postData } from "./tempforumdata";
 
 export default function PostList({ searchedTitle }) {
     const posts = postData;
