@@ -1,6 +1,10 @@
 #Run in the command line first time you use code/do not have selenium installed
 #pip install selenium
 #Run to import necessary libraries
+
+#NOTE: Depending on settings, the present working directory of Python will change, affecting where files are written to.
+#In VSCode, present working directory seems to be the root folder, ie one above this one. Hence all files with no file path specified will be written there.
+
 import requests
 import re
 import pprint
@@ -9,6 +13,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By 
 from selenium.webdriver.chrome.service import Service as ChromeService
 from webdriver_manager.chrome import ChromeDriverManager
+import uuid
 
 def formatData(data):
     regex = re.compile(r'<[^>]+>')
@@ -42,7 +47,10 @@ def formatData(data):
     new_data['salaryRange']['currency'] = json_obj['baseSalary']['currency']
     new_data['salaryRange']['maxValue'] = json_obj['baseSalary']['value']['maxValue']
     new_data['salaryRange']['minValue'] = json_obj['baseSalary']['value']['minValue']
-    new_data['salaryRange']['payPeriod'] = json_obj['baseSalary']['value']['unitText']    
+    new_data['salaryRange']['payPeriod'] = json_obj['baseSalary']['value']['unitText']  
+
+    #Adds uuid in field "uuid"
+    new_data['uuid'] = str(uuid.uuid4())
     
     data = json.dumps(new_data, indent = 4, ensure_ascii = False)
     #data = json.dumps(json.loads(data), indent=4, sort_keys=True)

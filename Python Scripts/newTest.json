@@ -1,208 +1,4 @@
 {
-    "dueDate": "2023-04-05",
-    "jobTitle": "Tech Lead",
-    "skills": [
-        "Mentoring",
-        "Application Architecture",
-        "Kubernetes",
-        "Quality Assurance",
-        "User Experience",
-        "Architects",
-        "Agile",
-        "SQL",
-        "Ruby",
-        "JIRA",
-        "Banking",
-        "Team Leader",
-        "Docker",
-        "Java",
-        "API",
-        "Software Development"
-    ],
-    "location": {
-        "country": "SG",
-        "locality": "Singapore",
-        "address": "EON SHENTON, 70 SHENTON WAY"
-    },
-    "company": {
-        "logo": null,
-        "name": "CAG REGIONAL SINGAPORE PTE. LTD."
-    },
-    "jobType": [
-        "FULL_TIME"
-    ],
-    "description": "We are looking for a Technical Lead to lead a cross functional team serving our customer's needs.  THE ROLE    An obsessive automator who only wants to manually test things once.   A concise documenter who takes as much care of their README.md as they do their service interface.   An owner end to end, Frontend, Backend, CI/CD, Operations, understanding what it takes to build a resilient, scalable service and support it in production.   A problem solver focused on user experience.   A team leader, with prior experience mentoring junior engineers and facing off to business stakeholders.   Experienced with React and Ruby or similar frameworks   Familiar with AWS, Kubernetes and write your applications Docker first.  YOUR TASKS    Lead a team of engineers to drive monetisation initiatives within the company.   Build high quality, fault tolerant systems and products, owning all areas of implementation, frontend, backend, CI pipeline, automated test suites and operations.   Work with your product owner and business stakeholders to define the product and tech roadmaps.   Mentor the engineers within your team.   Engage with the wider engineering organization, making sure your tech roadmap aligns with the other teams ",
-    "datePosted": "2023-03-06",
-    "salaryRange": {
-        "currency": "SGD",
-        "maxValue": 14000,
-        "minValue": 12000,
-        "payPeriod": "MONTH"
-    }
-}
-{
-    "dueDate": "2023-04-05",
-    "jobTitle": "Tech Sales Rockstar",
-    "skills": [
-        "Ability to Multitask",
-        "Sales",
-        "Leadership",
-        "Business Acumen",
-        "Relationship Management",
-        "Marketing",
-        "Workflow Management",
-        "Adaptable",
-        "B2B",
-        "Written Skills",
-        "Accountability",
-        "Presentation Skills",
-        "Team Player",
-        "Business Development"
-    ],
-    "location": {
-        "country": "SG",
-        "locality": "Singapore",
-        "address": "CYBERHUB NORTH, 54 SERANGOON NORTH AVENUE 4"
-    },
-    "company": {
-        "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/4a7d80751ba577c2767710c07288319c/terra-systems.jpg",
-        "name": "TERRA SYSTEMS PTE. LTD."
-    },
-    "jobType": [
-        "FULL_TIME"
-    ],
-    "description": "Are you a highly skilled and driven individual looking to take your career to the next level? Look no further than Terra Systems! We are a dynamic company with hundreds of employees across the Asia Pacific region, specializing in innovative communications solutions and services using cutting-edge AI and Cybersecurity technologies.  We are seeking a Tech Sales Rockstar to join our team of talented business professionals. In this role, you will be responsible for conceptualizing, developing, and executing strategic sales and marketing campaigns across multiple channels to drive and optimize key KPIs and growth metrics for our company. You will focus on Enterprise Cybersecurity and IT Solutions, including AI Software (Chatbot, DMS, and Workflow Management), and will be expected to contact potential clients and business partners to establish rapport and collaborate with the Marketing and Business Development Divisions to generate a strong pipeline of leads.  At Terra, we believe in fostering a culture that rewards excellence and encourages accountability. We understand that every decision we make has a direct impact on the success of our company, and we hold ourselves to the highest standards of professionalism and integrity. We are looking for someone who is confident and able to display leadership qualities, is a strong communicator with excellent verbal and written skills, creative with a keen eye for details, and a proactive team player who enjoys working with other highly motivated individuals.  To be considered for this role, you must have at least 5 years of business development and/or relationship management experience in the IT or Cybersecurity industry, with a demonstrated track record of success in B2B sales. You must possess a degree in IT or a relevant field, excellent communication and presentation skills, and the ability to build rapport. The ideal candidate will have a strong business acumen, be dynamic and highly adaptable to the business's needs and priorities and possess the ability to multitask and wear many hats if required.  If you are looking to make an impact and play a part in shaping the AI and Cybersecurity Technology industry globally, we encourage you to send your CV and expected salary to us. Join our team of talented business professionals to plan and execute business initiatives that support Terra's business growth in the Asia Pacific region!",
-    "datePosted": "2023-03-06",
-    "salaryRange": {
-        "currency": "SGD",
-        "maxValue": 10000,
-        "minValue": 6000,
-        "payPeriod": "MONTH"
-    }
-}
-{
-    "dueDate": "2023-04-05",
-    "jobTitle": "Tech Talent - Technology Associate ( Graduate Program)",
-    "skills": [
-        "Microsoft Excel",
-        "Written English",
-        "Oracle",
-        "Big Data",
-        "Customer Experience",
-        "Cloud Computing",
-        "Experimentation",
-        "Software Engineering",
-        "Career Development",
-        "Electrical",
-        "Infrastructure Architecture",
-        "Capital",
-        "Business Analyst",
-        "Applications Support",
-        "Data Analytics"
-    ],
-    "location": {
-        "country": "SG",
-        "locality": "Singapore",
-        "address": null
-    },
-    "company": {
-        "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/f0abe8336d04b9cc2c8da14dbb5f3cd9/pccw-solutions-singapore.jpg",
-        "name": "PCCW SOLUTIONS SINGAPORE PTE. LTD."
-    },
-    "jobType": [
-        "FULL_TIME"
-    ],
-    "description": "Job Responsibilities:    Attach to high-value IT or engineering projects in the areas of  innovative technical solutions, solutions development and delivery, project management, engineering system operations, infrastructure services support and management   Be exposed to the areas of cloud computing, digital solutions, loT, big data, enterprise applications (SAP / Oracle), software systems application, IT infrastructure operations and applications support   Exciting opportunity to gain exposure in the trending areas of Data      Analytics, Business Analyst, IoT, Customer Experience Journey and Block      Chain   Develop a rewarding career in an advanced, fast-paced and  multicultural environment.  Job Requirements:    Bachelor / Master degree in Computer Science, Electronic ; Electrical / Information Engineering, Data Analytics, System Engineering  or related disciplines with less than 2 years of full-time working experience   Good presentation, interpersonal and communication skills   A team player with good analytical and problem-solving skills and who relishes challenges   Good command of spoken and written English ",
-    "datePosted": "2023-03-06",
-    "salaryRange": {
-        "currency": "SGD",
-        "maxValue": 4500,
-        "minValue": 4000,
-        "payPeriod": "MONTH"
-    }
-}
-{
-    "dueDate": "2023-04-06",
-    "jobTitle": "Tech Lead Manager, Fleet Management - Infrastructure Engineeering",
-    "skills": [
-        "Quality Control",
-        "Hardware",
-        "Active Directory",
-        "VMware",
-        "Information Technology",
-        "Project Management",
-        "Python",
-        "Windows",
-        "Writing",
-        "ITIL",
-        "Java",
-        "Technical Leadership",
-        "Electrical Engineering",
-        "Virtualization",
-        "Linux",
-        "C++"
-    ],
-    "location": {
-        "country": "SG",
-        "locality": "Singapore",
-        "address": "1 RAFFLES QUAY"
-    },
-    "company": {
-        "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/18e7f76993944029b526a8b25bb994a0/bytedance.png",
-        "name": "BYTEDANCE PTE. LTD."
-    },
-    "jobType": [
-        "FULL_TIME"
-    ],
-    "description": "About ByteDance Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, Helo, and Resso, as well as platforms specific to the China market, including Toutiao, Douyin, and Xigua, ByteDance has made it easier and more fun for people to connect with, consume, and create content.   Why Join Us At ByteDance, our people are humble, intelligent, compassionate and creative. We create to inspire - for you, for us, and for millions of users across all of our products. We lead with curiosity and aim for the highest, never shying away from taking calculated risks and embracing ambiguity as it comes. Here, the opportunities are limitless for those who dare to pursue bold ideas that exist just beyond the boundary of possibility. Join us and make impact happen with a career at ByteDance.  About the Infrastructure Engineering Team Our infrastructure team supports the company's fast growth by building and operating hyper-scale datacenters, managing the life cycle of server fleet, providing cloud solutions, and developing various infrastructure services and making sure they are scalable and are reliable.  Responsibilities • Grow and lead a team of engineers committed to building and operating platforms and systems that monitor, maintain, upgrade and dispatch workload over our planet-scale server fleet. • Test, evaluate, benchmark, introduce and quality control server hardware in a production environment. • Be both technically hands-on and people manager. Provide technical leadership and guidance to both your team members and your project peers. • Communicate cross-functionally across various teams, organizations and internal and external stakeholders to drive engineering efforts. • Lead the team's innovation efforts, bring in new ideas and technologies.  Qualifications Minimum qualifications: • Master’s degree (or Bachelor's degree with 5+ years of experience) in Computer Engineering, Electrical Engineering, Computer Science or related major • 5+ years experience working with Unix/Linux systems from kernel to shell and beyond • 5+ years experience in one or more programming languages such as Go, Java, C++ and Python. • 3+ years of direct management experience in a technology company or experience as a technical lead and experience in formal project management or business training.  Preferred qualifications: • Building platforms, automation and tools to manage server fleet, their life cycles and systems running on top. • Building tools and systems that test, troubleshoot and measure the performance of server hardware • Successful experience in establishing product visions, managing roadmaps and product delivery. • Excellent analytical, comprehension, communication, writing, and consultative skills • Experience in a production and hyper-scale environment   ByteDance is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At ByteDance, our mission is to inspire creativity and enrich life. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.",
-    "datePosted": "2023-03-07",
-    "salaryRange": {
-        "currency": "SGD",
-        "maxValue": 20000,
-        "minValue": 10000,
-        "payPeriod": "MONTH"
-    }
-}
-{
-    "dueDate": "2023-04-05",
-    "jobTitle": "Product Tech Analyst",
-    "skills": [
-        "Microsoft Excel",
-        "Derivatives",
-        "Product Design",
-        "Analytical Skills",
-        "Investments",
-        "User Experience",
-        "Transparency",
-        "Securities",
-        "Mastering",
-        "Agile Methodology",
-        "Product Management",
-        "PMP",
-        "Team Player"
-    ],
-    "location": {
-        "country": "SG",
-        "locality": "Singapore",
-        "address": "79 Robinson Road"
-    },
-    "company": {
-        "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/ef3cf466d808db4f53ff762f92667ddf/cyberdyne-tech-exchange.jpg",
-        "name": "METAVERSE GREEN EXCHANGE PTE. LTD."
-    },
-    "jobType": [
-        "FULL_TIME"
-    ],
-    "description": "Roles and Responsibilities:    Develop detailed product requirements and conduct market readiness evaluations during testing phases to ensure product quality and performance goals are met.   Participate in cross-functional teams to resolve business issues related to technology projects with significant business impact   Participate in technology projects for small product enhancements and minor customizations   Serve as Subject Matter Expert (SME) on product customization projects and influence decisions through advice, counsel, and/or facilitating services to others in area of specialization   Document new products and/or changes to existing products, ensure smooth business implementation during launch process, and prioritize and validate potentially dynamic material from multiple sources using analytical skills   Appropriately assess risk when business decisions are made, demonstrating consideration for the MVGX's reputation, and safeguarding its clients and assets, by driving compliance with applicable laws, rules, and regulations, adhering to Policy, applying sound ethical judgment regarding personal behavior, conduct and business practices, and escalating, managing, and reporting control issues with transparency.  Requirements:    A bachelor's degree or above with a computer science related major.   Minimum of 3 to 5 years relevant experience of product management and software development programming experience.   Familiar with AGILE methodology   Previous working experience within at least one of the following sectors, Financial Institutions, Environmental, Social, and Governance (ESG), Fintech industry.   Proven track record in project management and as a product analyst or equivalent preferably in a financial institution.   Strong financial product design capability and ability to understand user experience and a mindset of developing scalable and portable solutions.   PMP certification or equivalent will be advantageous.   Strong knowledge of the operational model of an exchange and/or knowledge of trading environments (securities, listed derivatives, and OTC products) would be preferred.   Fluency in both English and Mandarin   Result-oriented, hands-on, and diligent.   A team player that collaborates well with other departments.  If you are looking to be part of an exciting team within the financial technology industry, we would like to hear from you. Remuneration will be commensurate with experience and qualifications. We regret that only shortlisted candidates will be notified",
-    "datePosted": "2023-03-06",
-    "salaryRange": {
-        "currency": "SGD",
-        "maxValue": 5500,
-        "minValue": 4000,
-        "payPeriod": "MONTH"
-    }
-}
-{
     "dueDate": "2023-04-02",
     "jobTitle": "Tech Lead",
     "skills": [
@@ -241,7 +37,8 @@
         "maxValue": 10000,
         "minValue": 8000,
         "payPeriod": "MONTH"
-    }
+    },
+    "uuid": "d0a1ca5e-28bf-4209-8254-879fe320523a"
 }
 {
     "dueDate": "2023-03-13",
@@ -282,7 +79,51 @@
         "maxValue": 9500,
         "minValue": 5500,
         "payPeriod": "MONTH"
-    }
+    },
+    "uuid": "313b48b0-4eb3-485a-9997-c3ecb762740f"
+}
+{
+    "dueDate": "2023-04-05",
+    "jobTitle": "Tech Lead",
+    "skills": [
+        "Mentoring",
+        "Application Architecture",
+        "Kubernetes",
+        "Quality Assurance",
+        "User Experience",
+        "Architects",
+        "Agile",
+        "SQL",
+        "Ruby",
+        "JIRA",
+        "Banking",
+        "Team Leader",
+        "Docker",
+        "Java",
+        "API",
+        "Software Development"
+    ],
+    "location": {
+        "country": "SG",
+        "locality": "Singapore",
+        "address": "EON SHENTON, 70 SHENTON WAY"
+    },
+    "company": {
+        "logo": null,
+        "name": "CAG REGIONAL SINGAPORE PTE. LTD."
+    },
+    "jobType": [
+        "FULL_TIME"
+    ],
+    "description": "We are looking for a Technical Lead to lead a cross functional team serving our customer's needs.  THE ROLE    An obsessive automator who only wants to manually test things once.   A concise documenter who takes as much care of their README.md as they do their service interface.   An owner end to end, Frontend, Backend, CI/CD, Operations, understanding what it takes to build a resilient, scalable service and support it in production.   A problem solver focused on user experience.   A team leader, with prior experience mentoring junior engineers and facing off to business stakeholders.   Experienced with React and Ruby or similar frameworks   Familiar with AWS, Kubernetes and write your applications Docker first.  YOUR TASKS    Lead a team of engineers to drive monetisation initiatives within the company.   Build high quality, fault tolerant systems and products, owning all areas of implementation, frontend, backend, CI pipeline, automated test suites and operations.   Work with your product owner and business stakeholders to define the product and tech roadmaps.   Mentor the engineers within your team.   Engage with the wider engineering organization, making sure your tech roadmap aligns with the other teams ",
+    "datePosted": "2023-03-06",
+    "salaryRange": {
+        "currency": "SGD",
+        "maxValue": 14000,
+        "minValue": 12000,
+        "payPeriod": "MONTH"
+    },
+    "uuid": "c0fe37dc-0f12-4944-99cb-df532de54288"
 }
 {
     "dueDate": "2023-03-22",
@@ -324,7 +165,128 @@
         "maxValue": 10000,
         "minValue": 5000,
         "payPeriod": "MONTH"
-    }
+    },
+    "uuid": "49460f8f-03d9-45e4-9387-4f7a5f680a80"
+}
+{
+    "dueDate": "2023-03-22",
+    "jobTitle": "Tech & Product Recruiter",
+    "skills": [
+        "Negotiation",
+        "Employer Branding",
+        "Talent Acquisition",
+        "Ability To Work Independently",
+        "Pipelines",
+        "Interpersonal Skills",
+        "Recruiting",
+        "Networking",
+        "Consulting",
+        "Human Resources",
+        "Business Development",
+        "Screening",
+        "Stakeholder Management",
+        "Sourcing"
+    ],
+    "location": {
+        "country": "SG",
+        "locality": "Singapore",
+        "address": "20A TANJONG PAGAR ROAD"
+    },
+    "company": {
+        "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/a57829a932f7a212772e12398a584ddf/multiplier-technologies-sg.png",
+        "name": "MULTIPLIER TECHNOLOGIES SG PTE. LTD."
+    },
+    "jobType": [
+        "FULL_TIME"
+    ],
+    "description": "Responsibilities:     Develop, implement and execute hiring strategies for the Tech and Product organisations   Manage the full recruitment process from sourcing, interviewing, coordinating hiring process to offer negotiation for all technical and product roles    Establish innovative strategies for building talent pipelines to support current and future needs of the business   Be a true talent partner to the Tech and Product organizations by not just executing but also innovating, consulting and advising Department Heads    Drive related projects around employer branding, early careers, graduate events, and process improvements and the candidate/hiring manager experience  Requirements:     10+ years of experience in Tech recruitment, ideally, within top-tier tech start-ups/companies or agencies   Skilled with modern tech sourcing and selection techniques   Successful track record of delivering on aggressive hiring goals   Effective stakeholder management, relationship building skills   Ability to challenge the status quo and come up with new ideas   Ability to handle multiple projects and deadlines   Ability to work independently   Excellent written and spoken English ",
+    "datePosted": "2023-03-08",
+    "salaryRange": {
+        "currency": "SGD",
+        "maxValue": 9000,
+        "minValue": 7000,
+        "payPeriod": "MONTH"
+    },
+    "uuid": "5b007876-8118-4d72-8b40-c988e4de9e9d"
+}
+{
+    "dueDate": "2023-03-15",
+    "jobTitle": "Finance Manager (Tech)",
+    "skills": [
+        "Forecasting",
+        "Microsoft Excel",
+        "Financial Management",
+        "Interpersonal Skills",
+        "Tax",
+        "Accounting",
+        "Budgeting",
+        "Cash Flow",
+        "Audit",
+        "Corporate Finance",
+        "Financial Reporting"
+    ],
+    "location": {
+        "country": "SG",
+        "locality": "Singapore",
+        "address": "SINGAPORE LAND TOWER, 50 RAFFLES PLACE"
+    },
+    "company": {
+        "logo": null,
+        "name": "RANDSTAD PTE. LIMITED"
+    },
+    "jobType": [
+        "FULL_TIME"
+    ],
+    "description": "About the company An established information technology system integrator serving the B2B markets is looking for a hands-on Finance Manager to join their finance team.  About the job Report to the CFO, you will be leading a sizeable finance team in managing the full spectrum of financial management and oversee all accounting operations. You will ensure accurate management reporting, budgeting, planning and forecasting activities. You will be the go-to-person and advise on latest developments in financial regulatory standards, while driving continuous improvements to business processes, controls and policies. You will also support their corporate finance activities including fund-raising activities.  Skills and experience required You are professional qualified (such as, CPA/CA) with at least 6 years of hands-on finance/accounting operations experience. You have prior managerial experience, proactive and strong interpersonal skills. Due to urgency of the position, those with immediate basis or less than 1 month notice will be considered. You are also comfortable travelling to the Changi Business Park (office site).  Why is this a good role? A high visibility position as you work directly with the CFO. This is a company which provides internal mobility opportunities and has a cooperative culture.   If you are looking for a fast-paced environment, please click the 'apply' function for a smooth easy process to register your interest and CV for the role. Consultant-in-charge: Stella Tan (EA: 94C3609 \\R1984239).  https://www.linkedin.com/in/sgtanstella   Applicants must be fully vaccinated or have a valid exemption in accordance with MOM’s regulations to allow them to enter the workplace. Applicants may be required to share verifiable COVID-19 vaccination documents or proof of a valid exemption at the point of offer. Randstad Pte. Limited and/or the Client reserves the right to withdraw an offer if the applicant fails to provide verifiable COVID-19 vaccination and/or proof of exemption documents.",
+    "datePosted": "2023-02-13",
+    "salaryRange": {
+        "currency": "SGD",
+        "maxValue": 8000,
+        "minValue": 7000,
+        "payPeriod": "MONTH"
+    },
+    "uuid": "d2d7647d-d9cf-41b6-9bc3-4eb3bba21055"
+}
+{
+    "dueDate": "2023-04-05",
+    "jobTitle": "Tech Sales Rockstar",
+    "skills": [
+        "Ability to Multitask",
+        "Sales",
+        "Leadership",
+        "Business Acumen",
+        "Relationship Management",
+        "Marketing",
+        "Workflow Management",
+        "Adaptable",
+        "B2B",
+        "Written Skills",
+        "Accountability",
+        "Presentation Skills",
+        "Team Player",
+        "Business Development"
+    ],
+    "location": {
+        "country": "SG",
+        "locality": "Singapore",
+        "address": "CYBERHUB NORTH, 54 SERANGOON NORTH AVENUE 4"
+    },
+    "company": {
+        "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/4a7d80751ba577c2767710c07288319c/terra-systems.jpg",
+        "name": "TERRA SYSTEMS PTE. LTD."
+    },
+    "jobType": [
+        "FULL_TIME"
+    ],
+    "description": "Are you a highly skilled and driven individual looking to take your career to the next level? Look no further than Terra Systems! We are a dynamic company with hundreds of employees across the Asia Pacific region, specializing in innovative communications solutions and services using cutting-edge AI and Cybersecurity technologies.  We are seeking a Tech Sales Rockstar to join our team of talented business professionals. In this role, you will be responsible for conceptualizing, developing, and executing strategic sales and marketing campaigns across multiple channels to drive and optimize key KPIs and growth metrics for our company. You will focus on Enterprise Cybersecurity and IT Solutions, including AI Software (Chatbot, DMS, and Workflow Management), and will be expected to contact potential clients and business partners to establish rapport and collaborate with the Marketing and Business Development Divisions to generate a strong pipeline of leads.  At Terra, we believe in fostering a culture that rewards excellence and encourages accountability. We understand that every decision we make has a direct impact on the success of our company, and we hold ourselves to the highest standards of professionalism and integrity. We are looking for someone who is confident and able to display leadership qualities, is a strong communicator with excellent verbal and written skills, creative with a keen eye for details, and a proactive team player who enjoys working with other highly motivated individuals.  To be considered for this role, you must have at least 5 years of business development and/or relationship management experience in the IT or Cybersecurity industry, with a demonstrated track record of success in B2B sales. You must possess a degree in IT or a relevant field, excellent communication and presentation skills, and the ability to build rapport. The ideal candidate will have a strong business acumen, be dynamic and highly adaptable to the business's needs and priorities and possess the ability to multitask and wear many hats if required.  If you are looking to make an impact and play a part in shaping the AI and Cybersecurity Technology industry globally, we encourage you to send your CV and expected salary to us. Join our team of talented business professionals to plan and execute business initiatives that support Terra's business growth in the Asia Pacific region!",
+    "datePosted": "2023-03-06",
+    "salaryRange": {
+        "currency": "SGD",
+        "maxValue": 10000,
+        "minValue": 6000,
+        "payPeriod": "MONTH"
+    },
+    "uuid": "db981b29-6ffc-4840-ab4e-15c1a93d4b1d"
 }
 {
     "dueDate": "2023-04-02",
@@ -365,156 +327,8 @@
         "maxValue": 4200,
         "minValue": 2300,
         "payPeriod": "MONTH"
-    }
-}
-{
-    "dueDate": "2023-03-15",
-    "jobTitle": "Finance Manager (Tech)",
-    "skills": [
-        "Forecasting",
-        "Microsoft Excel",
-        "Financial Management",
-        "Interpersonal Skills",
-        "Tax",
-        "Accounting",
-        "Budgeting",
-        "Cash Flow",
-        "Audit",
-        "Corporate Finance",
-        "Financial Reporting"
-    ],
-    "location": {
-        "country": "SG",
-        "locality": "Singapore",
-        "address": "SINGAPORE LAND TOWER, 50 RAFFLES PLACE"
     },
-    "company": {
-        "logo": null,
-        "name": "RANDSTAD PTE. LIMITED"
-    },
-    "jobType": [
-        "FULL_TIME"
-    ],
-    "description": "About the company An established information technology system integrator serving the B2B markets is looking for a hands-on Finance Manager to join their finance team.  About the job Report to the CFO, you will be leading a sizeable finance team in managing the full spectrum of financial management and oversee all accounting operations. You will ensure accurate management reporting, budgeting, planning and forecasting activities. You will be the go-to-person and advise on latest developments in financial regulatory standards, while driving continuous improvements to business processes, controls and policies. You will also support their corporate finance activities including fund-raising activities.  Skills and experience required You are professional qualified (such as, CPA/CA) with at least 6 years of hands-on finance/accounting operations experience. You have prior managerial experience, proactive and strong interpersonal skills. Due to urgency of the position, those with immediate basis or less than 1 month notice will be considered. You are also comfortable travelling to the Changi Business Park (office site).  Why is this a good role? A high visibility position as you work directly with the CFO. This is a company which provides internal mobility opportunities and has a cooperative culture.   If you are looking for a fast-paced environment, please click the 'apply' function for a smooth easy process to register your interest and CV for the role. Consultant-in-charge: Stella Tan (EA: 94C3609 \\R1984239).  https://www.linkedin.com/in/sgtanstella   Applicants must be fully vaccinated or have a valid exemption in accordance with MOM’s regulations to allow them to enter the workplace. Applicants may be required to share verifiable COVID-19 vaccination documents or proof of a valid exemption at the point of offer. Randstad Pte. Limited and/or the Client reserves the right to withdraw an offer if the applicant fails to provide verifiable COVID-19 vaccination and/or proof of exemption documents.",
-    "datePosted": "2023-02-13",
-    "salaryRange": {
-        "currency": "SGD",
-        "maxValue": 8000,
-        "minValue": 7000,
-        "payPeriod": "MONTH"
-    }
-}
-{
-    "dueDate": "2023-03-17",
-    "jobTitle": "Tech Lead (ETL)(#1986054)",
-    "skills": [
-        "Teradata SQL",
-        "Leadership",
-        "Derivatives",
-        "Modeling",
-        "Data Modeling",
-        "Wholesale Banking",
-        "Loans",
-        "Workflow Analysis",
-        "Interpreting",
-        "Retail Banking",
-        "Good Communication Skills",
-        "Deposits",
-        "Banking",
-        "Data Science"
-    ],
-    "location": {
-        "country": "SG",
-        "locality": "Singapore",
-        "address": "PLAZA 8 @ CBP, 1 CHANGI BUSINESS PARK CRESCENT"
-    },
-    "company": {
-        "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/fb0c580773376abeb9080f6022b73f72/wipro.png",
-        "name": "WIPRO LIMITED (SINGAPORE BRANCH)"
-    },
-    "jobType": [
-        "FULL_TIME"
-    ],
-    "description": "Job Description - Should have good knowledge in Retail Banking concepts.   - Should have in depth knowledge in Cards, Loans, Mortgages, Deposits and   Derivatives.   - Should have experience as a Data Analyst with good hands on experience in   creating statistical data models using Python/R Program.   - Should be capable of interpreting the model output and provide impactful   conclusions and suggestions to improve the business.   - Knowledge in Wholesale banking products will be an added advantage.   - Should possess basic knowledge in Teradata SQL.   - Should have good communication skills and should be able to elicit   requirement's from the Clients and document them.   -Should have In- depth knowledge in Datastage.   -Should have Good understanding of Datawarehousing concepts.   -Should have Requires exceptional expertise in development and detailed   knowledge of industry trends.    -Should have Applied the highest level technical skill and expertise in   project/team leadership to highly complex projects and problems. Job Requirements Key skills required for the job are: - Data Science (Python/R Programing) - Datastage Development  - Banking Domain-L3   As a Technical Lead with the banking domain knowledge, you are responsible for supporting project teams ; team members in terms of research and background information. You are expected to elicit and detail the client requirements via industry standard analysis techniques such as data flow modeling, case analysis, workflow analysis, functional decomposition analysis, data modeling, and object modeling. You are expected to documents the results of analysis activities using appropriate templates or tools. You are responsible across areas like requirement definition, execution and evaluation of functional tests, review, testing and analysis. You are expected to be a subject matter expert in a chosen area/function. You should have in-depth knowledge in Data Science like Python/R Programming and should be able to create data models based upon the financial data and interpret the same to provide business solutions and lead the team in development/Support.",
-    "datePosted": "2023-03-03",
-    "salaryRange": {
-        "currency": "SGD",
-        "maxValue": 10000,
-        "minValue": 7000,
-        "payPeriod": "MONTH"
-    }
-}
-{
-    "dueDate": "2023-03-08",
-    "jobTitle": "Tech, Operations",
-    "skills": [
-        "Team Collaboration",
-        "Troubleshooting",
-        "Microsoft Office",
-        "Operation",
-        "Interpersonal Skills",
-        "Problem Solving",
-        "Manufacturing Operations",
-        "Manufacturing",
-        "Biopharmaceuticals",
-        "Chemical"
-    ],
-    "location": {
-        "country": "SG",
-        "locality": "Singapore",
-        "address": null
-    },
-    "company": {
-        "logo": null,
-        "name": "MSD INTERNATIONAL GMBH (SINGAPORE BRANCH)"
-    },
-    "jobType": [
-        "FULL_TIME"
-    ],
-    "description": "Tech, Operations    Develop strategies that align with business imperatives   Based in Singapore, the regional hub for Asia Pacific (AP) and top-ranked biopharmaceutical company on the Straits Times and Statista’s list of Best Employers in Singapore for two consecutive years (2020, 2021).   Join the premier biopharmaceutical company that has been in Singapore for more than 25 years and in AP for over 60 years.  Our Manufacturing Operations teams are the people that make our products. We work in the manufacturing plants with a “Safety First, Quality Always” mindset striving for continuous improvement. We work in the local plant connected to our global manufacturing network to ensure the highest quality of raw materials, intermediates and finished products.  Working in a 12-hours shift reporting to the Shift Production Manager, you are responsible for supporting and executing the Packaging operations Start-Up. This involves working closely together with cross functional team to ensure Safety, Quality, Compliance and Operational aspects of the packaging lines during start-up of new lines in between commercial production. Post construction/qualificationand as the team prepares for commercial supply, you will support routine Packaging operations activities, operation ; troubleshooting of the equipment to ensure they meet GMP, regulatory and supply requirements.  WHAT YOU WILL DO Responsibilities include, but are not limited to:  Safety ; Compliance    Meet site’s Safety, Health and Environment (SHE) performance objectives and participate in improvement initiatives   Perform Packaging operations as per production operational needs and ensure Safety and cGMP requirements are met.   Actively contribute to resolve problems and seek improvement opportunities within the work module assigned   Implement corrective actions as documented following regulatory inspections and internal audits.   Ensure operations related activity is completed according to established procedures and all associated documentation is completed to a high standard.   Participate in and supports the implementation of actions for Investigations and Audits.   Participate in Emergency Response Team (ERT) as a team member when assigned.  Enhance and uphold Operations Quality    Responsible for completing all assigned operational tasks, whilst ensuring documentation is accurate and completed for the assigned equipment.   Able to provide constructive feedback and solutions to issues identified in the work place.   Responsible to participate in improvement projects and actively generate ideas   Ensure both operational knowledge and technical skills are maintained and compliant based on training requirements.   Use tier meetings and other opportunities to engage positively with others so as to foster team collaboration and co-create a high performance work environment.  Operations Excellence    Meet performance metrics of the assigned operations.   Responsible for maintaining good facility housekeeping and pro-actively carry out minor repair works on packaging equipment   Effectively communicates throughout the shift and during shift handover. Escalate operational issues to appropriate level when required.   Provide detailed information for all operational events to assist in Quality notification investigations.   Perform routine GMP equipment cleaning/minor maintenance and equipment set-up, and support area cleaning as assigned.   Resolve issues in a timely manner and participate in continuous improvement initiatives.   Situationally aware and perceptive while operating the machinery.   Ensure packaged products meet safety and quality specifications  Problem solving    Analyze and recommend solutions for identified issues   Support Production and Maintenance teams on problem solving and troubleshooting.   Able to properly assess the situation and understand when to escalate to a higher level.   Work together with the team to use 5S tool to maintain the working environment and perform Kaizen for improvement activities.  WHAT YOU MUST HAVE To be successful in this role, you will have:    O-level / Diploma in Technical Area   3 to 5 years previous manufacturing experience in the pharmaceutical or similar industry.   Strong background in operation of chemical/pharmaceutical systems including hands-on experience.   Familiarized with cGMP working environment and good understanding of safety practices   Good oral/written communication and interpersonal skills.   Basic knowledge in using Microsoft Office   Able to work in 12-hours rotating shift  WHAT YOU CAN EXPECT    Opportunity to work in a market giant  Our Manufacturing ; Supply Division is committed to be the most trusted supplier of bio-pharmaceuticals worldwide. Our facilities, along with our external contractors, suppliers, and partners, create an interdependent global manufacturing network that’s committed to delivering a high quality, reliable supply to customers and patients on time, every time.  Who we are… We are known as Merck ; Co., Inc., Rahway, New Jersey, USA in the United States and Canada and MSD everywhere else. For more than a century, we have been inventing for life, bringing forward medicines and vaccines for many of the world's most challenging diseases. Today, our company continues to be at the forefront of research to deliver innovative health solutions and advance the prevention and treatment of diseases that threaten people and animals around the world.  What we look for… Imagine getting up in the morning for a job as important as helping to save and improve lives around the world. Here, you have that opportunity. You can put your empathy, creativity, digital mastery, or scientific genius to work in collaboration with a diverse group of colleagues who pursue and bring hope to countless people who are battling some of the most challenging diseases of our time. Our team is constantly evolving, so if you are among the intellectually curious, join us — and start making your impact today.  We are proud to be a company that embraces the value of bringing diverse, talented, and committed people together. The fastest way to breakthrough innovation is when diverse ideas come together in an inclusive environment. We encourage our colleagues to respectfully challenge one another’s thinking and approach problems collectively. We are an equal opportunity employer, committed to fostering an inclusive and diverse workplace.",
-    "datePosted": "2023-02-06",
-    "salaryRange": {
-        "currency": "SGD",
-        "maxValue": 4238,
-        "minValue": 2353,
-        "payPeriod": "MONTH"
-    }
-}
-{
-    "dueDate": "2023-03-08",
-    "jobTitle": "Associate Tech, Operations",
-    "skills": [
-        "Team Collaboration",
-        "Troubleshooting",
-        "Operation",
-        "Interpersonal Skills",
-        "Problem Solving",
-        "Manufacturing Operations",
-        "Pharmaceuticals",
-        "Manufacturing",
-        "Biopharmaceuticals",
-        "Chemical"
-    ],
-    "location": {
-        "country": "SG",
-        "locality": "Singapore",
-        "address": null
-    },
-    "company": {
-        "logo": null,
-        "name": "MSD INTERNATIONAL GMBH (SINGAPORE BRANCH)"
-    },
-    "jobType": [
-        "FULL_TIME"
-    ],
-    "description": "Assoc. Tech, Operations    Develop strategies that align with business imperatives   Based in Singapore, the regional hub for Asia Pacific (AP) and top-ranked biopharmaceutical company on the Straits Times and Statista’s list of Best Employers in Singapore for two consecutive years (2020, 2021).   Join the premier biopharmaceutical company that has been in Singapore for more than 25 years and in AP for over 60 years.  Our Manufacturing Operations teams are the people that make our products. We work in the manufacturing plants with a “Safety First, Quality Always” mindset striving for continuous improvement. We work in the local plant connected to our global manufacturing network to ensure the highest quality of raw materials, intermediates and finished products.  Working in a 12-hours shift reporting to the Packaging Manager, you are responsible for supporting and executing the set up of Packaging operations. This involves working closely together with cross functional team to ensure Safety, Quality, Compliance and Operational aspects of the packaging lines during start-up of new lines in between commercial production. Post set up and as the team ramps up for commercial supply, you will support routine Packaging operations activities, operation ; troubleshooting of the equipment to ensure they meet GMP, regulatory and supply requirements.  WHAT YOU WILL DO Responsibilities include, but are not limited to: Safety ; Compliance    Meet site's safety, health and environmental (SHE) performance objectives and participate in improvement initiatives   Perform Packaging operations as per production operational needs and ensure Safety and cGMP requirements are met.   Actively contribute to resolve problems  and seek improvement opportunities within  the work module assigned   Implement corrective actions as documented following regulatory inspections and internal audits.   Ensure operations related activity is completed according to established procedures and all associated documentation is completed to a high standard.   Participate in and supports the implementation of actions for Investigations and Audits.   Participate in Emergency Response Team (ERT) as a team member when assigned.  Enhance and uphold Operations Quality    Responsible for completing all assigned operational tasks, whilst ensuring documentation is accurate and completed for the assigned equipment.   Able to provide constructive feedback and solutions to issues identified in the work place.   Responsible to participate in improvement projects and actively generate ideas   Ensure both operational knowledge and technical skills are maintained and compliant based on training requirements.   Use tier meetings and other opportunities to engage positively with others so as to foster team collaboration and co-create a high performance work environment  Operations Excellence    Meet performance metrics of the assigned operations.   Responsible for maintaining good facility housekeeping and pro-actively carry out minor repair works on packaging equipment   Effectively communicates throughout the shift and during shift handover. Escalate operational issues to appropriate level when required.   Provide detailed information for all operational events to assist in Quality notification investigations.   Perform routine GMP equipment cleaning/minor maintenance and equipment set-up, and support area cleaning as assigned.   Resolve issues in a timely manner and participate in continuous improvement initiatives.   Situationally aware and perceptive while operating the machinery.   Ensure that  packaged products meet safety and quality specifications  Problem solving    Analyze and recommend solutions for identified issues   Support Production and Maintenance teams on problem solving and troubleshooting.   Able to properly assess the situation and understand when to escalate to a higher level.   Work together with the team to use 5S tool to maintain the working environment and perform Kaizen for improvement activities.  WHAT YOU MUST HAVE To be successful in this role, you will have:    O-level / Diploma in Technical Area   1-3 years previous manufacturing experience in the pharmaceutical (preferred) or similar industry.   Strong background in operation of chemical/pharmaceutical systems including hands on experience.   Familiarized with cGMP working environment and good understanding of safety practices   Good oral/written communication and interpersonal skills.   Basic knowledge in using Microsoft Office   Able to work in 12-hours rotating shift  WHAT YOU CAN EXPECT    Opportunity to work in a market giant  Our Manufacturing ; Supply Division is committed to be the most trusted supplier of bio-pharmaceuticals worldwide. Our facilities, along with our external contractors, suppliers, and partners, create an interdependent global manufacturing network that’s committed to delivering a high quality, reliable supply to customers and patients on time, every time.  Who we are… We are known as Merck ; Co., Inc., Rahway, New Jersey, USA in the United States and Canada and MSD everywhere else. For more than a century, we have been inventing for life, bringing forward medicines and vaccines for many of the world's most challenging diseases. Today, our company continues to be at the forefront of research to deliver innovative health solutions and advance the prevention and treatment of diseases that threaten people and animals around the world.  What we look for… Imagine getting up in the morning for a job as important as helping to save and improve lives around the world. Here, you have that opportunity. You can put your empathy, creativity, digital mastery, or scientific genius to work in collaboration with a diverse group of colleagues who pursue and bring hope to countless people who are battling some of the most challenging diseases of our time. Our team is constantly evolving, so if you are among the intellectually curious, join us — and start making your impact today.  We are proud to be a company that embraces the value of bringing diverse, talented, and committed people together. The fastest way to breakthrough innovation is when diverse ideas come together in an inclusive environment. We encourage our colleagues to respectfully challenge one another’s thinking and approach problems collectively. We are an equal opportunity employer, committed to fostering an inclusive and diverse workplace.",
-    "datePosted": "2023-02-06",
-    "salaryRange": {
-        "currency": "SGD",
-        "maxValue": 3184,
-        "minValue": 1769,
-        "payPeriod": "MONTH"
-    }
+    "uuid": "8ff62a65-85af-477a-bac7-7553f1d7e17c"
 }
 {
     "dueDate": "2023-03-21",
@@ -555,49 +369,174 @@
         "maxValue": 3400,
         "minValue": 2500,
         "payPeriod": "MONTH"
-    }
+    },
+    "uuid": "dd64ad35-07a3-4568-ad8b-19029868c3e3"
 }
 {
-    "dueDate": "2023-03-09",
-    "jobTitle": "Team Manager - Tech",
+    "dueDate": "2023-03-19",
+    "jobTitle": "Tech Lead(Payments)",
     "skills": [
-        "Mentoring",
-        "Referrals",
-        "Leadership",
-        "Clinical Research",
-        "Quality Assurance",
-        "Healthcare",
-        "Recruiting",
-        "Drawing",
-        "Business Networking",
-        "Clinical Operations",
-        "Protocol",
-        "Adaptable",
-        "Pressure",
-        "Regulatory Requirements",
-        "Business Development",
-        "Clinical Monitoring"
+        "Git",
+        "Troubleshooting",
+        "Kubernetes",
+        "Scrum",
+        "TypeScript",
+        "User Experience",
+        "Architects",
+        "Agile Methodologies",
+        "JavaScript",
+        "HTML5",
+        "JUnit",
+        "JIRA",
+        "Technical Architecture",
+        "Usability Design"
     ],
     "location": {
         "country": "SG",
         "locality": "Singapore",
-        "address": "UOB PLAZA, 80 RAFFLES PLACE"
+        "address": "FORTUNE CENTRE, 190 MIDDLE ROAD"
     },
     "company": {
-        "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/533e3a6ce4853b46b93bb2b0b5769645/hays-specialist-recruitment.png",
-        "name": "HAYS SPECIALIST RECRUITMENT PTE. LTD."
+        "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/6e75040574f0e00a8948d6cd7248f3f4/rapsys-technologies.png",
+        "name": "RAPSYS TECHNOLOGIES PTE. LTD."
     },
     "jobType": [
         "FULL_TIME"
     ],
-    "description": "Your new company We are the world's leading recruiting experts in recruiting qualified, professional and skilled people. We power the world of work by truly understanding our clients and candidates, locally and globally. We provide deep expertise across a wide spectrum of industries and sectors.  Hays operates across the private and public sectors, dealing in permanent positions, contract roles and temporary assignments. We believe the right job can transform a person's life and the right person can transform a business. Looking after the careers of professionals and directly influencing lives is something most people never have the chance to do. At Hays, you'll do it every day.  We are looking for ambitious individuals to join our growing family. If you are passionate about people, determined to be the best, thrive under pressure and respond proactively and positively to targets, a career at Hays could be for you.  Your new role As a Manager - Technology, your responsibilities include:    To maximise office fees both through individual and team results.   To oversee performance and lead consultants to meet their personal objectives whilst achieving business unit objectives   Develop and maintain all aspects of a high-performance culture   Consistently exhibit behaviour aligned with Hays values   Monitor and review business plans and KPI’s   Identify local clients with opportunities for business development within the IT Industry   Gather accurate data regarding target clients and companies via sales calls and client visits   Proactively pursue leads to establish long term relationships   Initiate business networking through professional bodies, industry groups, client and candidate referrals to build personal and corporate profile with customers  What you'll need to succeed We welcome professionals from various industries. Key qualities required:    Experience in IT Recruitment/IT Sales industry   Experience leading a team of at least 3 preferred   Exceptional motivation with strong ambition and sales-drive   Passionate about helping people flourish and achieve their career goals   Energised by connecting with new people and seeking out new relationships   Driven towards achieving results in an environment full of healthy competition   Inquisitive and curious, always wanting to know more about people and the world of work   Confident to establish new relationships   Ambitious to achieve results and progress your career   Adaptable and agile, able to constantly seek new opportunities in the market  What you'll get in return At Hays you’ll never stand still because we harness your potential. We believe in promoting our people based on merit. With world-class training and mentoring from senior leaders, the possibilities for your career are endless. As a recruitment consultant, you’ll have the opportunity to determine your career path that is aligned with your skills and interests. Achieve and you’ll be fast-tracked into people or business leadership. We have transparent promotion criteria, so you’ll always have a goal to work towards. We provide attractive base salary plus uncapped commission structure.  What you need to do now If you're interested in this role, click 'apply now' to forward an up-to-date copy of your CV to Jessine Ng at Jessine.ng@hays.com.sg  At Hays, we don’t just accept difference — we celebrate it, we support it, and we thrive on it for the benefit of our employees, our customers, and our community. Hays is proud to be an equal opportunity workplace that embraces diversity and strives to be inclusive environment for our people.  Registration ID: R1989117 EA License number: 07C3924 Company Registration number: 200609504D",
-    "datePosted": "2023-02-07",
+    "description": "Role: Tech Lead(Payments)  JD:    Develop modern micro-frontends, using DevOps practices to develop, test and deploy.   Develop responsive and mobile friendly designs.   Develop robust solutions with focus on security, performance, internationalization, and   browser-compatibility.   Understand the business process requirements and drive the detailed design of the   application and technical architecture components.   Configure, build and test application and technical architecture components of quality   and security.   Work with other developers, designers, and architects to make sure that the   configuration and custom components meet application requirements and performance   goals.   Plan and execute all required process steps as defined in our Agile methodologies.   Anticipate, identify, track, and resolve issues and risks affecting the delivery.   Perform L2 troubleshooting duties.  Requirements    Bachelor's Degree in Computer Science or relevant field.   At least 5 years of relevant experience in full stack development framework.   Understand and develop coherent user experience flows.   Able to collaborate in a Scrum team setting cohesively.   Perform effectively as an individual when needed.   Demonstrate clarity in communicating and presenting complex information to technical and non-technical stakeholders, both verbally and in written form.   Familiar with the following technologies:  Frontend Focus    Script: JavaScript, TypeScript, ES6, jQuery   Design ; Style: HTML5, Responsive/Adaptive Design, Design Thinking, Usability   Design, CSS3, LESS, SASS, Bootstrap   Frameworks: (At least one of the following) ReactJS + NextJS, AngularJS, VueJS   Backend: NodeJS, ExpressJS   Web DevOps ; Test: Jira, BitBucket/Git, Cypress, Jasmine, Selenium, Jest   Familiarity with AWS components such as Lambda, is a plus  Backend Focus    Frameworks: (At least one of the following) Spring Boot, Quarkus   DevOps ; Test: Git, Jenkins, SonarQube, JUnit, JMeter   Proficient in JIT 11 and up.   Familiarity with Kubernetes platform such as Openshift, is a plus ",
+    "datePosted": "2023-02-17",
     "salaryRange": {
         "currency": "SGD",
         "maxValue": 8000,
-        "minValue": 6000,
+        "minValue": 6500,
         "payPeriod": "MONTH"
-    }
+    },
+    "uuid": "27c96fac-8c6a-4f15-983d-0d6d91b00e45"
+}
+{
+    "dueDate": "2023-03-17",
+    "jobTitle": "Tech Lead (ETL)(#1986054)",
+    "skills": [
+        "Teradata SQL",
+        "Leadership",
+        "Derivatives",
+        "Modeling",
+        "Data Modeling",
+        "Wholesale Banking",
+        "Loans",
+        "Workflow Analysis",
+        "Interpreting",
+        "Retail Banking",
+        "Good Communication Skills",
+        "Deposits",
+        "Banking",
+        "Data Science"
+    ],
+    "location": {
+        "country": "SG",
+        "locality": "Singapore",
+        "address": "PLAZA 8 @ CBP, 1 CHANGI BUSINESS PARK CRESCENT"
+    },
+    "company": {
+        "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/fb0c580773376abeb9080f6022b73f72/wipro.png",
+        "name": "WIPRO LIMITED (SINGAPORE BRANCH)"
+    },
+    "jobType": [
+        "FULL_TIME"
+    ],
+    "description": "Job Description - Should have good knowledge in Retail Banking concepts.   - Should have in depth knowledge in Cards, Loans, Mortgages, Deposits and   Derivatives.   - Should have experience as a Data Analyst with good hands on experience in   creating statistical data models using Python/R Program.   - Should be capable of interpreting the model output and provide impactful   conclusions and suggestions to improve the business.   - Knowledge in Wholesale banking products will be an added advantage.   - Should possess basic knowledge in Teradata SQL.   - Should have good communication skills and should be able to elicit   requirement's from the Clients and document them.   -Should have In- depth knowledge in Datastage.   -Should have Good understanding of Datawarehousing concepts.   -Should have Requires exceptional expertise in development and detailed   knowledge of industry trends.    -Should have Applied the highest level technical skill and expertise in   project/team leadership to highly complex projects and problems. Job Requirements Key skills required for the job are: - Data Science (Python/R Programing) - Datastage Development  - Banking Domain-L3   As a Technical Lead with the banking domain knowledge, you are responsible for supporting project teams ; team members in terms of research and background information. You are expected to elicit and detail the client requirements via industry standard analysis techniques such as data flow modeling, case analysis, workflow analysis, functional decomposition analysis, data modeling, and object modeling. You are expected to documents the results of analysis activities using appropriate templates or tools. You are responsible across areas like requirement definition, execution and evaluation of functional tests, review, testing and analysis. You are expected to be a subject matter expert in a chosen area/function. You should have in-depth knowledge in Data Science like Python/R Programming and should be able to create data models based upon the financial data and interpret the same to provide business solutions and lead the team in development/Support.",
+    "datePosted": "2023-03-03",
+    "salaryRange": {
+        "currency": "SGD",
+        "maxValue": 10000,
+        "minValue": 7000,
+        "payPeriod": "MONTH"
+    },
+    "uuid": "a7109d69-fb83-4f1e-b898-ba51657257f9"
+}
+{
+    "dueDate": "2023-03-22",
+    "jobTitle": "Tech Business Planning Analyst",
+    "skills": [
+        "Forecasting",
+        "Microsoft PowerPoint",
+        "Microsoft Excel",
+        "Oracle",
+        "Analytical Skills",
+        "Dynamics",
+        "Business Strategy",
+        "Accruals",
+        "Business Planning",
+        "Adaptability",
+        "Accounting",
+        "Attention to Detail",
+        "Africa",
+        "MIS"
+    ],
+    "location": {
+        "country": "SG",
+        "locality": "Singapore",
+        "address": "SGX CENTRE II, 4 SHENTON WAY"
+    },
+    "company": {
+        "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/49f76e8b98f6dc8204316552204158f9/singapore-life.png",
+        "name": "SINGAPORE LIFE LTD."
+    },
+    "jobType": [
+        "FULL_TIME"
+    ],
+    "description": "Singlife is hiring a Tech Business Planning Analyst with Finance/ Accounting background in the Program Office under the Technology department.  Successful candidate will be managing the following:  •Ensure invoices are accurately keyed into Oracle and are tagged to the correct cost centre •Knowledge of accounting concepts, accruals and prepayment, ensure that tech invoices are correctly captured •Ensure tech department cost are recharge and allocated to respective subsidiaries •Provide support in the Purchase Order / Purchase Requisition process •Work with Finance to ensure that invoice is paid on time •Assist in Day to Day Administrative Tasks  Requirements  •Minimum 1 year of experience in AP/ AR or as a Finance support personnel •Academic: Diploma in finance and/or accounting (preferred). •Professional Certification(s): none required but preference may be given to candidates which are pursuing financial and accounting certifications. •Complete Fit ; Proper assessments successfully on an annual basis at minimum, or when other adjunct appointments are made.  Apply now and we will be in touch!",
+    "datePosted": "2023-03-08",
+    "salaryRange": {
+        "currency": "SGD",
+        "maxValue": 4000,
+        "minValue": 3000,
+        "payPeriod": "MONTH"
+    },
+    "uuid": "7da3f63d-2736-434b-8756-9ab917086f93"
+}
+{
+    "dueDate": "2023-03-11",
+    "jobTitle": "Data Tech Lead",
+    "skills": [
+        "Oracle",
+        "Solutioning",
+        "Segmentation",
+        "Unix shell",
+        "Data Integration",
+        "SDLC",
+        "Information Technology",
+        "Data Quality",
+        "Technology Solutions",
+        "Data Engineering",
+        "Data Mining",
+        "Data Architecture",
+        "GCP",
+        "Databases",
+        "Business Requirements",
+        "Agile Development"
+    ],
+    "location": {
+        "country": "SG",
+        "locality": "Singapore",
+        "address": null
+    },
+    "company": {
+        "logo": null,
+        "name": "FPT ASIA PACIFIC PTE. LTD."
+    },
+    "jobType": [
+        "FULL_TIME"
+    ],
+    "description": "   Development of new data management layers and build data processes.   Solutioning and Tech Designing for Data Systems   Tech Led to drive data engineering activities   Provide support for enhancements and any BAU issues on the new data management layers and existing data lakes.   Support and migration of existing on-premises databases to AWS cloud.   Understanding the existing applications, data architecture, and suggest improvements   Lead business requirements and plan deliveries.   Handle data extractions and data analysis for the requirements.   Job Requirements:    Minimum of 10+ years of experience with Information Technology using RDBMS and Non-RDBMS and Cloud databases.   8+ years of strong hands-on experience on any of the databases like SQL/PLSQL, Oracle, MS-SQL server, Postgres, and Snowflake.   3+ years of strong experience in AWS Cloud.   Good understanding of Data integration, Data Flows, Data Quality, Data Architecture and Data Engineering.   Technical expertise in data models, data mining and segmentation techniques.   Experience in Tech Design and Solution Designing for data systems   Experience with full SDLC lifecycle and Lean or Agile development methodologies.   AWS tools and components knowledge is a plus.   CI/CD and GIT exposure   Experience on UNIX shell scripts.   Ability to work in team in diverse/multiple stakeholder environment   Ability to communicate complex technology solutions to diverse teams namely, technical, business and management teams ",
+    "datePosted": "2023-02-09",
+    "salaryRange": {
+        "currency": "SGD",
+        "maxValue": 10000,
+        "minValue": 7000,
+        "payPeriod": "MONTH"
+    },
+    "uuid": "d9791d5b-e49b-4d8f-8f54-37fd73d82f3d"
 }
 {
     "dueDate": "2023-03-19",
@@ -639,7 +578,8 @@
         "maxValue": 9000,
         "minValue": 7000,
         "payPeriod": "MONTH"
-    }
+    },
+    "uuid": "0a6ac6ef-1149-4522-9179-187eb41ca750"
 }
 {
     "dueDate": "2023-04-05",
@@ -680,6 +620,178 @@
         "maxValue": 8500,
         "minValue": 6000,
         "payPeriod": "MONTH"
-    }
+    },
+    "uuid": "38627970-069f-4f45-bd6a-a47d06e0302d"
+}
+{
+    "dueDate": "2023-03-31",
+    "jobTitle": "SFCC Tech Lead",
+    "skills": [
+        "Application Architecture",
+        "Analytical Skills",
+        "Modeling",
+        "Team Spirit",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Requirements Analysis",
+        "User Acceptance Testing",
+        "Java",
+        "API",
+        "Software Development",
+        "Business Requirements"
+    ],
+    "location": {
+        "country": "SG",
+        "locality": "Singapore",
+        "address": "OXLEY BIZHUB, 73 UBI ROAD 1"
+    },
+    "company": {
+        "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/038b5558fa6cdb2e21e99c3cfa9b48d8/ranosys-technologies.jpg",
+        "name": "RANOSYS TECHNOLOGIES PTE. LTD."
+    },
+    "jobType": [
+        "FULL_TIME"
+    ],
+    "description": " SUMMARY: The Technical Analyst plays a crucial role within a result driven, innovative Ecommerce solution. Besides owns and tracks the business requirements, the ideal candidate needs to be able to organize and execute user acceptance test, organize training and hand over the validated system feature, provide daily support to client team when they have challenge on playing with SFCC platform. Essential Duties and Responsibilities include but are not limited to the following: • Partner with key clients in the Asia Pacific region to analyze E-Commerce process and integration gaps, elicit and capture complete and unambiguous system requirements, and break down complex processes into workable units. • Listen to client’s stakeholders in order to understand the high-level objectives down to the fine details and convert to accurate functional and non-functional requirements. • Own the quality and accuracy of the requirements and communicate changes and decisions to the relevant stakeholders and teammates. • Represent user, system, functional and non-functional requirements using traditional modeling artifacts that are efficient for Ranosys. • Develop test plans and test scenarios in accordance with business requirements. • Execute and document test results including functional and regression scenarios. • Lead training and User Acceptance Testing for regional teammates.  Technical Attributes of Ideal Candidate: include but are not limited to the following:   Proven track record with industry leading companies utilizing strong problem solving and analytical skills to understand business challenges and opportunities in the context of the requirements.  5 years of proven experience in business and technical requirements analysis within the Ecommerce industry, knowledge of the Sales Force Commerce Cloud platform is a plus.  Experience working within teams using waterfall and agile methodologies.  Exceptional verbal and written communication skills including the ability to communicate complex and technical concepts breakdown to appropriate level, and the courage to ask compelling and clarifying questions to ensure accuracy and understanding.  Find creative solutions to complicated and unexpected problems by leveraging teammate experience and expertise.  Proven success facilitating meetings that motivate the team, encourage participation, remain on topic, and generate expected outcomes.  Self-starter with a positive attitude and ability to work under pressure in a challenging fast paced environment with tight deadlines. Balances team and individual responsibilities and contributes to building a positive team spirit.  Excellent time management skills with ability to manage multiple tasks and assignments concurrently and deliver on commitments.  A sincere and contagious passion for building Ranosys, and a fit with Ranosys cultural values.  Fluency in English",
+    "datePosted": "2023-03-01",
+    "salaryRange": {
+        "currency": "SGD",
+        "maxValue": 12000,
+        "minValue": 8000,
+        "payPeriod": "MONTH"
+    },
+    "uuid": "f6c99be5-c6af-414a-a8c4-56d869109a24"
+}
+{
+    "dueDate": "2023-03-18",
+    "jobTitle": "Marketing Executive (Food Tech)",
+    "skills": [
+        "Management Skills",
+        "Web Design",
+        "Advertising",
+        "Analytical Skills",
+        "Administration",
+        "3D",
+        "Business Process Improvement",
+        "Online Marketing",
+        "Writing",
+        "Marketing Management",
+        "Publications",
+        "Social Media Marketing",
+        "Product Development",
+        "Stakeholder Management",
+        "Adobe Photoshop"
+    ],
+    "location": {
+        "country": "SG",
+        "locality": "Singapore",
+        "address": "83  Science Park Drive"
+    },
+    "company": {
+        "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/cb77bfaf7825af3ecb209dd06ac66942/kosmode-health-singapore.png",
+        "name": "KOSMODE HEALTH SINGAPORE PTE. LTD."
+    },
+    "jobType": [
+        "FULL_TIME"
+    ],
+    "description": "   COMPANY BACKGROUND  Kosmode Health Singapore Pte Ltd , https://kosmodehealth.com/, a National University of Singapore start-up, is a Singapore-based Holding company with a wholly owned subsidiary in Suzhou, China. KosmodeHealth’s mission is to expand access to health from nature by valorising food processing waste into functional ingredients for functional food applications, and into functional materials for 3D cell culture applications. Example of functional ingredients are protein ; fibre extracted from Spent Barley Grains. The extracted protein ; fibre has been formulated into the world’s only functional food with zero blood sugar response, branded as W0W®Noodles  https://www.w0wnoodle.com/. Example of functional materials are Plant Protein Composite (PPC™) bioink formulated with protein extracted from food processing waste. The PPC™ bioink is 3D printed into Plant Protein Composite (PPC™) scaffold for culturing of cells. Having laid a strong foundation, KosmodeHealth is poised for business outreach and growth. As we expand our business operations, we seek talents who thrives on solving industry problems, is a resourceful, multi-tasker with the resilience and perseverance to drive success in people-centric culture where integrity is the core value and quality a given.  OVERALL JOB SCOPE ; RESPONSIBILITIES Role ; Responsibilities The Marketing Executive/Manager achieves set business objectives through product portfolio planning ; management, developing ; executing strategic marketing plans ; campaigns to drive both top line and bottom-line growth for the organization and individual product lines. Specific tasks include    Keeping abreast of market trends ; environment   Coordinate with Product Development team on new product launches and campaigns.   Develop product/packaging/ branding design and marketing campaigns for existing and new product launches.   Ensure consistent communication of corporate and product positioning and core messages with regular training of company staff.   Coordinating ; execution of marketing strategies/ activities ; online and offline events.   Branding, advertising, and promotional campaigns.   Analyze data to evaluate the success of their marketing efforts and come up with new ideas to improve brand marketing and exposure   Generating new businesses; planning ; organizing marketing events ; activities for customers’ acquisition, retention ; growth.   Work closely across departments to ensure alignment and development of efficient and effective processes in line with business objectives, coordinating business process improvement with internal stakeholders.   Lead interface for sales with marketing, production, quality, logistics and other internal functions to ensure timely fulfilment of customers’ orders.   DESIRED CANDIDATE PROFILE Academic Qualifications ; Experience    Bachelor’s degree in marketing, finance, business administration and related field, with at least 2 years of experience in product and/or marketing management.   Diploma holder with at least 5 years relevant marketing experience can be considered.   Ability to read and understand scientific publications is a basic requisite.  Preferred Skills and Experience As a lean start-up, KosmodeHealth has a flat organization structure where all staff is personally responsible for achievement of set objectives, in a multi-faceted dynamic, fast paced environment. The successful candidate has the following characteristics:    A resourceful, self-driven individual who thrive in a dynamic fast-paced environment.   Excellent communication ; stakeholder management skills   Good problem-solving skills with demonstratable ability to think creatively and innovatively   Good time/budget management with proven ability to perform in  a resource constraint environment.   Analytical skills to forecast and identify trends and challenges   Familiarity with the latest trends, technologies and methodologies in graphic design, web design, production, etc.   Strong decision-making ability. ",
+    "datePosted": "2023-02-16",
+    "salaryRange": {
+        "currency": "SGD",
+        "maxValue": 4500,
+        "minValue": 3200,
+        "payPeriod": "MONTH"
+    },
+    "uuid": "e681be15-510e-496a-833a-16bb7ecee852"
+}
+{
+    "dueDate": "2023-03-24",
+    "jobTitle": "Project Manager (Health Tech)",
+    "skills": [
+        "Mentoring",
+        "Turnkey Projects",
+        "Forecasting",
+        "Project Risk",
+        "Budgets",
+        "Able To Multitask",
+        "Application Security",
+        "Risk Assessment",
+        "Cyber Security",
+        "System Integration",
+        "Information Technology",
+        "Project Management",
+        "PMP",
+        "Team Management",
+        "Audits",
+        "Accountability",
+        "ITIL",
+        "Network Security",
+        "Performance Management",
+        "Firewalls"
+    ],
+    "location": {
+        "country": "SG",
+        "locality": "Singapore",
+        "address": null
+    },
+    "company": {
+        "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/dd9ae9e912ed5aba63a94f4b77f98b75/morgan-mckinley.jpg",
+        "name": "MORGAN MCKINLEY PTE. LTD."
+    },
+    "jobType": [
+        "CONTRACTOR",
+        "FULL_TIME"
+    ],
+    "description": "The Project Manager plans and oversees one or multiple inter-dependent project spanning multiple years that impact one or more business units or one larger project. He/She will oversee all aspects of assigned project throughout project lifecycles to ensure completion within the defined scope, quality, time and cost constraints. Also, to ensure accurate allocations of resources throughout the project. He/She will lead multi-disciplinary teams, composed of various levels of personnel, vendors, and clients to create and deploy successful projects. You will need to be someone who is confident and decisive in leading projects, overseeing the completion and integration of interdependent projects and parts.  Set project management framework    Provide inputs and support to develop the project management framework, templates, tools and systems to deliver cost, time and quality metrics   Design training to enable effective application of project management framework across the organisation   Support the Snr Project Manager in governance of project management framework through audits   Guide team in adoption of the set framework at the appropriate level  Develop project plan    Develop the integrated project plan including detailed activities, resource planning, cost estimation per project   Work with stakeholders to establish and gain consensus on project goals, objectives and deliverables   Review project plan to determine time frame, funding limitations, procedures for accomplishing projects   Procure project requirements such as workforce, required information, various agreements and material or technology needed   Guide team to deliver plans aligned to overall project objectives   Set expectations for periodic and milestone reviews including status reports, project risk identification and other dashboards  Implement project    Drive project to meet schedules, budget, manpower and technical quality targets   Drive project discipline to document scope changes, issues and risks that affect implementation   Work with users, technical staff and management to determine and resolve issues associated with project implementation   Conduct regular project reviews to recommend schedule changes, cost or resource adjustments  Manage teams    Oversee team management including budgets, forecasting, work allocations and staffing   Develop staff through ongoing coaching, mentoring and career discussions   Define common goals, direction and accountability among staff   Drive effective performance management practices within department in accordance with company policies and procedures   Possess a Bachelor degree in Computer Science, Computer Engineering, Information Technology or any other relevant discipline   Minimum 5 to 10 years in IT project management and familiar with ITIL   Excellent in both written and verbal communications skills and able to effectively influence various internal and external stakeholders   Demonstrated ability to work in a team with service centric mindset   Able to work in ambiguous situation with a can-do attitude   Attention to detail and able to multi-task and manage various project elements simultaneously   Certified in PMP, CITPM or other similar PM certification   Preferably with good experience in turnkey projects and system integration   Fundamental knowledge in IT infrastructure (servers, storage, network, EUC) and IT security   Experience in bio-medical equipment system and IoT system are desirable but not necessary   Keep in tune with latest and advance digital technologies   Sound understanding and hands on experience in all phases of the project lifecycle ",
+    "datePosted": "2023-02-22",
+    "salaryRange": {
+        "currency": "SGD",
+        "maxValue": 8500,
+        "minValue": 7500,
+        "payPeriod": "MONTH"
+    },
+    "uuid": "4fa4b2b7-4544-4e66-a7e0-cda13df266a9"
+}
+{
+    "dueDate": "2023-03-19",
+    "jobTitle": "Tech Lead, Ecommerce Recommendation Infrastructure",
+    "skills": [
+        "Switches",
+        "Commodity",
+        "Big Data",
+        "Pipelines",
+        "Data Center",
+        "VMware",
+        "Wireless",
+        "Cisco Routers",
+        "High Performance Computing",
+        "Windows",
+        "ASA",
+        "ITIL",
+        "WAN",
+        "C++",
+        "Firewalls"
+    ],
+    "location": {
+        "country": "SG",
+        "locality": "Singapore",
+        "address": "1 RAFFLES QUAY"
+    },
+    "company": {
+        "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/0998cece2d3d358f15cf853a2a37dcd3/tiktok.png",
+        "name": "TIKTOK PTE. LTD."
+    },
+    "jobType": [
+        "FULL_TIME"
+    ],
+    "description": "TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London, Paris, Berlin, Dubai, Singapore, Jakarta, Seoul and Tokyo.      Why Join Us  At TikTok, our people are humble, intelligent, compassionate and creative. We create to inspire - for you, for us, and for more than 1 billion users on our platform. We lead with curiosity and aim for the highest, never shying away from taking calculated risks and embracing ambiguity as it comes. Here, the opportunities are limitless for those who dare to pursue bold ideas that exist just beyond the boundary of possibility. Join us and make impact happen with a career at TikTok.    About the Team  E-commerce is a new and fast growing business that aims at connecting all customers to excellent sellers and quality products on TikTok Shop, through E-commerce live-streaming, E-commerce short videos, and commodity recommendation. Our E-ecommerce Recommendation Infra team is responsible for building up and optimizing the infrastructure for such recommendation systems, so as to provide the most stable and best experience for our users. We work closely with applied machine learning engineers and build scalable systems to support all kinds of innovative algorithms and techniques.    Responsibilities   • Build and maintain high performance online services for TikTok recommendation system；  • Build extremely efficient and reliable data pipelines for candidates generation, profile generation, training examples generation, realtime online training, etc;  • Build globalized large-scale recommendation system;  • Design and develop high performance computing frameworks and storage systems.  Qualifications • Bachelor's degree or above, majoring in Computer Science, or related fields, with 3+ years of experience building scalable system;  • Experience programming in at least one of the following programming languages: C, C++, Java or Golang;  • Effective communication skills and a sense of ownership and drive;  • Experienced in at least one area of the following areas: personalized recommendations, search engine, machine learning, distributed storage system, big data frameworks is a plus.    Preferred Qualifications  • Experience in e-commerce related areas     TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.",
+    "datePosted": "2023-02-17",
+    "salaryRange": {
+        "currency": "SGD",
+        "maxValue": 20000,
+        "minValue": 10000,
+        "payPeriod": "MONTH"
+    },
+    "uuid": "82ca6196-aad8-40b6-a819-6f3e1d47cd1f"
 }
 
