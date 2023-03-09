@@ -1,11 +1,8 @@
 "use client";
 
+import { WishWrapper } from "./DataWrappers";
+
 export default function WishList({ viewMode }) {
-    const arr = [
-        1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
-        1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
-        1, 1, 1, 1, 1, 1,
-    ];
     return (
         <div
             className={`${
@@ -24,11 +21,7 @@ export default function WishList({ viewMode }) {
                     viewMode === "left" && "xl:w-[800px]"
                 }  h-[60vh] w-[450px] overflow-hidden rounded-xl border border-black bg-light-500`}
             >
-                <div className="flex h-full w-full flex-col items-center overflow-auto p-2">
-                    {arr.map((e) => (
-                        <div>test</div>
-                    ))}
-                </div>
+                <WishWrapper />
             </div>
         </div>
     );

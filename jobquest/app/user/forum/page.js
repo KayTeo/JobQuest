@@ -19,7 +19,7 @@ export default function ForumPage() {
                         setAddingPost={setAddingPost}
                     />
                 </header>
-                <PostList />
+                <PostList searchedTitle={search} />
             </div>
         </div>
     );
