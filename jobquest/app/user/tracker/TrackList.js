@@ -19,8 +19,8 @@ export default function TrackList({ viewMode }) {
             </div>
             <div
                 className={` ${
-                    viewMode === "right" && "xl:w-[800px]"
-                }  h-[60vh] w-[450px] overflow-hidden rounded-xl border border-black bg-light-500`}
+                    viewMode === "right" && "xl:w-[900px]"
+                }  h-[60vh] w-[600px] overflow-hidden rounded-xl border border-black bg-light-500`}
             >
                 <TrackWrapper />
             </div>

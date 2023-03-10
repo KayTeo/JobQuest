@@ -1,14 +1,15 @@
 import React from "react";
-import { track } from "./tempdata";
+import { track , wish} from "./tempdata";
 import TrackEntry from "./TrackEntry";
 import WishEntry from "./WishEntry";
+import TrackerPage from "./page";
 
 export function TrackWrapper() {
     // replace with fetch from api later
     const trackData = track;
 
     return (
-        <div className="flex h-full w-full flex-col items-center gap-2 overflow-auto p-2">
+        <div className="flex h-full w-full flex-col items-center gap-2 overflow-y-scroll p-2 pr-1">
             {trackData.map((e) => (
                 <TrackEntry key={e.uuid} data={e} />
             ))}
@@ -17,9 +18,10 @@ export function TrackWrapper() {
 }
 
 export function WishWrapper() {
-    const wishData = [];
+    // replace with fetch from api later
+    const wishData = wish;
     return (
-        <div className="flex h-full w-full flex-col items-center gap-2 overflow-auto p-2">
+        <div className="flex h-full w-full flex-col items-center gap-2 overflow-y-scroll p-2 pr-1">
             {wishData.map((e) => (
                 <WishEntry key={e.uuid} data={e} />
             ))}

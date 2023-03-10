@@ -18,8 +18,8 @@ export default function WishList({ viewMode }) {
 
             <div
                 className={` ${
-                    viewMode === "left" && "xl:w-[800px]"
-                }  h-[60vh] w-[450px] overflow-hidden rounded-xl border border-black bg-light-500`}
+                    viewMode === "left" && "xl:w-[900px]"
+                }  h-[60vh] w-[600px] overflow-hidden rounded-xl border border-black bg-light-500`}
             >
                 <WishWrapper />
             </div>

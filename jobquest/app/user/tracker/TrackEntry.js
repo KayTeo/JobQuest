@@ -42,31 +42,33 @@ export default function TrackEntry({ data }) {
                 <button className="inline-flex">
                     <XCircleIcon className="w-7 text-red-500 hover:text-red-300" />
                 </button>
-                <div className="h-5 w-24 overflow-clip">
+                <div className="h-5 w-[30%] overflow-clip">
                     {data.company.name}
                 </div>
-                <div className="h-5 w-24 overflow-clip">{data.jobTitle}</div>
-                <div className="h-5 w-16 overflow-clip">
+                <div className="h-5 w-[25%] overflow-clip">{data.jobTitle}</div>
+                <div className="h-5 w-24 overflow-clip">
                     {data.location.locality}
                 </div>
-                <button
-                    className={`inline-flex h-6 w-20 items-center justify-center rounded-full ${status.color} px-2 py-1 text-white`}
-                    onClick={nextStatus}
-                >
-                    {status.name}
-                </button>
-                <button
-                    className="inline-flex"
-                    onClick={() => {
-                        setExpandCard(!expandCard);
-                    }}
-                >
-                    <ArrowDownCircleIcon
-                        className={`${
-                            expandCard && "rotate-180"
-                        } w-7 text-accent-500 hover:text-accent-300`}
-                    />
-                </button>
+                <div className="flex items-center justify-end gap-1">
+                    <button
+                        className={`inline-flex h-6 w-20 items-center justify-center rounded-full ${status.color} px-2 py-1 text-white`}
+                        onClick={nextStatus}
+                    >
+                        {status.name}
+                    </button>
+                    <button
+                        className="inline-flex"
+                        onClick={() => {
+                            setExpandCard(!expandCard);
+                        }}
+                    >
+                        <ArrowDownCircleIcon
+                            className={`${
+                                expandCard && "rotate-180"
+                            } w-7 text-accent-500 hover:text-accent-300`}
+                        />
+                    </button>
+                </div>
             </div>
             {expandCard && (
                 <div className="flex w-full flex-col items-center justify-start gap-2 p-2">
