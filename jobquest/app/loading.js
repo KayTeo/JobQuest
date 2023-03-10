@@ -18,7 +18,6 @@ export default function Loading() {
                         fill="currentFill"
                     />
                 </svg>
-                <span class="sr-only">Loading...</span>
             </div>
         </div>
     );

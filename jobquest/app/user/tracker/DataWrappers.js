@@ -1,12 +1,16 @@
 import React from "react";
-import { track , wish} from "./tempdata";
+import { track, wish } from "./tempdata";
 import TrackEntry from "./TrackEntry";
 import WishEntry from "./WishEntry";
-import TrackerPage from "./page";
 
-export function TrackWrapper() {
+export function TrackWrapper({ newEntry, setNewEntry }) {
     // replace with fetch from api later
     const trackData = track;
+
+    if (newEntry) {
+        trackData.push(newEntry);
+        setNewEntry(null);
+    }
 
     return (
         <div className="flex h-full w-full flex-col items-center gap-2 overflow-y-scroll p-2 pr-1">
