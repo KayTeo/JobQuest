@@ -1,8 +1,13 @@
 "use client";
 
 import { Dialog } from "@headlessui/react";
+import { useState, useRef } from "react";
+import Skill from "@/components/Skill";
 
 export default function Modal({ setIsOpen, setNewEntry }) {
+    const [skills, setSkills] = useState([]);
+    const skillsInputRef = useRef();
+
     const test = {
         uuid: 11231231232,
         company: {
@@ -45,18 +50,146 @@ export default function Modal({ setIsOpen, setNewEntry }) {
             "Agile Development",
         ],
     };
+
+    let newEntry = {
+        uuid: null,
+        company: {
+            logo: null,
+            name: null,
+        },
+        datePosted: null,
+        description: null,
+        dueDate: null,
+        jobTitle: null,
+        jobType: [null],
+        location: {
+            address: null,
+            country: null,
+            locality: null,
+        },
+        salaryRange: {
+            currency: null,
+            maxValue: null,
+            minValue: null,
+            payPeriod: null,
+        },
+        skills: [],
+    };
     return (
-        <Dialog.Panel className="flex h-[475px] w-[1000px] flex-col items-center justify-center gap-2 rounded-xl bg-white">
-            <h1 className="text-lg font-bold">I AM A MODAL</h1>
-            <button
-                onClick={() => {
-                    setNewEntry(test);
-                    setIsOpen(false);
-                }}
+        <Dialog.Panel className="flex w-[500px] flex-col items-center justify-start gap-5 overflow-auto rounded-xl border border-black bg-light-500 p-5 lg:w-[900px]">
+            <h1 className="text-2xl font-bold text-accent-500">Job Entry</h1>
+            <form
+                action="submit"
+                className="flex h-full w-full flex-col justify-between px-10 font-semibold"
             >
-                Test
-            </button>
-            <button onClick={() => setIsOpen(false)}>Close</button>
+                <div className="flex w-full flex-wrap justify-center gap-y-2 gap-x-5">
+                    <div className="flex flex-col items-start">
+                        <label htmlFor="company">Company </label>
+                        <input
+                            name="company"
+                            className="w-36 rounded-lg border border-black px-2 font-normal"
+                        ></input>
+                    </div>
+                    <div className="flex flex-col items-start">
+                        <label htmlFor="jobTitle">Job Title</label>
+                        <input
+                            name="jobTitle"
+                            className="w-36 rounded-lg border border-black px-2 font-normal"
+                        ></input>
+                    </div>
+                    <div className="flex flex-col items-start">
+                        <label htmlFor="country">Country</label>
+                        <input
+                            name="country"
+                            className="w-36 rounded-lg border border-black px-2 font-normal"
+                        ></input>
+                    </div>
+                    <div className="flex flex-col items-start">
+                        <label htmlFor="address">Address</label>
+                        <input
+                            name="address"
+                            className="w-36 rounded-lg border border-black px-2 font-normal"
+                        ></input>
+                    </div>
+                    <div className="flex flex-col items-start">
+                        <label htmlFor="minPay">Minimum Pay</label>
+                        <input
+                            name="minPay"
+                            type="number"
+                            className="w-36 rounded-lg border border-black px-2 font-normal"
+                        ></input>
+                    </div>
+                    <div className="flex flex-col items-start">
+                        <label htmlFor="maxPay">Maximum Pay</label>
+                        <input
+                            name="maxPay"
+                            type="number"
+                            className="w-36 rounded-lg border border-black px-2 font-normal"
+                        ></input>
+                    </div>
+                    <div className="flex flex-col items-start">
+                        <label htmlFor="currency">Currency</label>
+                        <input
+                            name="currency"
+                            className="w-36 rounded-lg border border-black px-2 font-normal"
+                        ></input>
+                    </div>
+                    <div className="flex w-[85%] flex-col">
+                        <label htmlFor="description">Description</label>
+                        <textarea
+                            name="description"
+                            className="rounded-lg border border-black px-2 font-normal"
+                        ></textarea>
+                    </div>
+                    <div className="flex h-5 w-full flex-col justify-start gap-2 px-[7.5%]">
+                        <div className="flex items-center justify-center gap-2">
+                            <h1>Skills:</h1>
+                            <input
+                                ref={skillsInputRef}
+                                className="w-36 rounded-lg border border-black px-1"
+                            ></input>
+                            <button
+                                className="inline-flex rounded-lg bg-accent-500 px-3 py-px text-center font-bold text-white hover:bg-accent-300"
+                                onClick={(e) => {
+                                    e.preventDefault(0);
+                                    const value = skillsInputRef.current.value;
+                                    if (
+                                        value === "" ||
+                                        skills.includes(value)
+                                    ) {
+                                        return;
+                                    }
+                                    setSkills([...skills, value]);
+                                    skillsInputRef.current.value = "";
+                                }}
+                            >
+                                +
+                            </button>
+                        </div>
+                        <div className="flex w-full flex-wrap justify-center gap-2">
+                            {skills.map((e) => (
+                                <button
+                                    key={e}
+                                    onClick={(evt) => {
+                                        evt.preventDefault(0);
+                                        const newSkill = skills.filter(
+                                            (skill) => {
+                                                return skill !== e;
+                                            }
+                                        );
+                                        setSkills(newSkill);
+                                    }}
+                                >
+                                    <Skill
+                                        name={e}
+                                        className="min-w-[40px] p-1 text-[10px] font-bold hover:border-red-500 hover:text-red-500"
+                                    />
+                                </button>
+                            ))}
+                        </div>
+                    </div>
+                </div>
+            </form>
         </Dialog.Panel>
     );
 }

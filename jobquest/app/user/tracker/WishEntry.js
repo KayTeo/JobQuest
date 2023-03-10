@@ -58,6 +58,32 @@ export default function WishEntry({ data }) {
                         </div>
                     </div>
 
+                    <div className="flex w-full flex-col items-start">
+                        <h1 className="text-base font-bold">Pay:</h1>
+                        <p className="font-normal">
+                            {data.salaryRange.minValue &&
+                                data.salaryRange.minValue}
+                            {data.salaryRange.minValue &&
+                                data.salaryRange.maxValue &&
+                                " - "}
+                            {data.salaryRange.maxValue &&
+                                data.salaryRange.maxValue}{" "}
+                            {data.salaryRange.currency &&
+                                (data.salaryRange.minValue ||
+                                    data.salaryRange.maxValue) &&
+                                data.salaryRange.currency}
+                        </p>
+                    </div>
+
+                    <div className="flex w-full flex-col items-start">
+                        <h1 className="text-base font-bold">Address:</h1>
+                        <p className="font-normal">
+                            {data.location.address
+                                ? data.location.address
+                                : "NIL"}
+                        </p>
+                    </div>
+
                     <div className="mt-3 flex w-full items-center justify-center gap-2">
                         <button className="h-8 w-28 items-center justify-center rounded-full bg-accent-500 px-2 py-1 text-white hover:bg-accent-300">
                             Visit Job Site

@@ -3,17 +3,23 @@ import {
     ArrowDownIcon,
     ChatBubbleBottomCenterIcon,
 } from "@heroicons/react/24/outline";
+import Link from "next/link";
 
 export default function Post({ postData }) {
     return (
         <ul className="flex w-[430px] flex-col items-start justify-center gap-1 rounded-xl bg-accent-100 px-5 md:w-[730px]">
             <div className="flex w-full flex-col items-start justify-center pt-3">
-                <button className="text-xl font-bold md:text-2xl">
+                <Link
+                    href={"/user/forum/" + postData.postID}
+                    className="text-xl font-bold md:text-2xl"
+                >
                     {postData.title}
-                </button>
+                </Link>
                 <div className="flex items-center justify-center gap-2 text-[9px] leading-3 md:text-xs">
-                    <li>{postData.author}</li>
-                    <li>{postData.DatePublished}</li>
+                    <li className="font-bold text-accent-500">
+                        {postData.author}
+                    </li>
+                    <li className="font-light">{postData.datePublished}</li>
                 </div>
             </div>
             <li className="max-w-sm overflow-hidden text-ellipsis whitespace-nowrap md:max-w-2xl">
