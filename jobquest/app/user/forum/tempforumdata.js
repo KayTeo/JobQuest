@@ -62,7 +62,7 @@ export const postData1 = {
 
 export const commentData1 = [
     {
-        author: "Gary Bane",
+        author: "Shu Ting",
         content: "What do you eat?",
         commentID: "1",
         commentDate: "11 Nov",

@@ -15,11 +15,21 @@ export default function Post({ postData }) {
                 >
                     {postData.title}
                 </Link>
-                <div className="flex items-center justify-center gap-2 text-[9px] leading-3 md:text-xs">
-                    <li className="font-bold text-accent-500">
-                        {postData.author}
-                    </li>
-                    <li className="font-light">{postData.datePublished}</li>
+                <div className="flex w-full items-center justify-between text-[9px] md:text-xs">
+                    <div className="flex items-center justify-center gap-2 leading-3">
+                        <li className="font-bold text-accent-500">
+                            {postData.author}
+                        </li>
+                        <li className="font-light">{postData.datePublished}</li>
+                    </div>
+                    <section className="flex items-center justify-center gap-1 md:gap-2">
+                        <button className="font-semibold text-orange-500">
+                            edit
+                        </button>
+                        <button className="font-semibold text-red-500">
+                            delete
+                        </button>
+                    </section>
                 </div>
             </div>
             <li className="max-w-sm overflow-hidden text-ellipsis whitespace-nowrap md:max-w-2xl">

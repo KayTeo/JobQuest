@@ -8,13 +8,18 @@ export default function Comment({ commentData, authorPic }) {
                         {commentData.author}
                     </li>
                 </div>
-                <div className="flex min-h-[100px] w-[374px] flex-col justify-between gap-2 pl-3 pt-2 pb-5 md:min-h-[125px] md:w-[674px]">
+                <div className="flex min-h-[100px] w-[374px] flex-col justify-between gap-2 pl-3 pt-3 pb-5 md:min-h-[125px] md:w-[674px]">
                     <main className="md:text-sm">{commentData.content}</main>
-                    <div className="flex justify-between">
-                        <div></div>
-                        <li className="text-[8px] font-light md:text-[10px]">
-                            {commentData.commentDate}
-                        </li>
+                    <div className="flex justify-between text-[8px] md:text-[10px] font-light">
+                        <section className="flex gap-1 items-center justify-center md:gap-2">
+                            <button className="font-semibold text-orange-500">
+                                edit
+                            </button>
+                            <button className="font-semibold text-red-500">
+                                delete
+                            </button>
+                        </section>
+                        <li>{commentData.commentDate}</li>
                     </div>
                 </div>
             </div>
