@@ -2,6 +2,7 @@ import Post from "./Post";
 import { postData } from "./tempforumdata";
 
 export default function PostList({ searchedTitle }) {
+    //fetch data from api
     const posts = postData;
 
     const filteredPosts = posts.filter((post) =>

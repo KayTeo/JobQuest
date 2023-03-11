@@ -68,13 +68,13 @@ export const commentData1 = [
         commentDate: "11 Nov",
     },
     {
-        author: "Parry Gain",
+        author: "Pillow",
         content: "Do you sleep?",
         commentID: "2",
         commentDate: "11 Nov",
     },
     {
-        author: "Jerry Pain",
+        author: "Frosty",
         content: "What do female aliens look like?",
         commentID: "3",
         commentDate: "11 Nov",
