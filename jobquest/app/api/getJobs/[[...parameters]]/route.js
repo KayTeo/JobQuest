@@ -1,5 +1,5 @@
 import { promises as fs } from 'fs';
-
+import { NextResponse } from 'next/server';
 const {spawnSync} = require( 'child_process' );
 
 //Note: API is called through .../api/getJobs/[keywords]/[minmum salary]/[employment type]
@@ -31,6 +31,6 @@ export async function GET(req, { params }) {
       //res.status(500).json({ stderr });
     }
     var fileContents = await fs.readFile("Python Scripts/jobsData.json", 'utf8');
-    var jsonObj = JSON.parse(fileContents);
-    return new Response(JSON.stringify(jsonObj, " ", 4));
+    //var jsonObj = JSON.parse(fileContents);
+    return new NextResponse(fileContents);
 }

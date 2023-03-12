@@ -1,736 +1,321 @@
 {
     "jobs": [
         {
-            "dueDate": "2023-04-06",
-            "jobTitle": "F&B Service crew/Captain",
+            "dueDate": "2023-04-10",
+            "jobTitle": "Junior Sales Associate (Tech)",
             "skills": [
-                "Always Punctual",
-                "Leadership",
-                "Restaurants",
-                "Inventory",
-                "Sanitation",
-                "Good Communication Skills",
-                "Cashiering",
-                "Team Player",
-                "Customer Service",
-                "Safety Training",
-                "Hospitality"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "1 Nanson Road"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/6b77cf731bfe3b52848db2cb07c47722/1880.jpg",
-                "name": "1880 PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "F;B Service Crew  We are looking for a vibrant personality to join our A Team to deliver great experiences for our guests. Fresh graduates, cabin crew, and applicants with no prior experience are welcome to apply.  Role:  · Ensure the highest level of member experience with your personal finesse and proactiveness. · Highlight specials and provide menu recommendations, take orders, and attend to special requests. · Engage with members, guests, and the team. · Set up tables and side stations and deliver the highest level of service and attentiveness to our guests.  What we are looking for:   · 1 - 3 years of relevant work experience · Passionate about hospitality · Reliable and good team player with an engaging personality · Basic knowledge of wine, spirits, cocktails · Flexible with schedule and shifts  Who we are  1880 is a members' club in Singapore that is interested in inspiring conversations that change the world. Combining a social club, co-working space, and an evolving calendar of events including discussions, parties, DJ nights, wellness sessions, and corporate launches, we create catalytic moments that stimulate both the intellect and the senses.  Your Perks:    5-day work week with diverse and energetic colleagues who work hard and play hard   Employee discount on F;B at the club   Staff meals every day   Late night transportation   $100 Transport allowance every month   Birthday credits   $1,000 Sign-on bonus and a referral bonus   You will receive a bonus every quarter in addition to monthly gratuities ($500 - $1,000 per month)   Flexible benefits, and more!  Can't wait to wait from you!",
-            "datePosted": "2023-03-07",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 3000,
-                "minValue": 2000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/fb-service-crew-captain-1880-c1857fc39d05ed60936ee956fc96947f?source=MCF&event=Search",
-            "uuid": "d208f14c-bfd2-4f71-993f-3af4515e460c"
-        },
-        {
-            "dueDate": "2023-04-07",
-            "jobTitle": "Junior / Senior Cloud Engineers",
-            "skills": [
-                "Windows Azure",
-                "Troubleshooting",
-                "Cloud Applications",
-                "firewall software",
-                "Cisco VPN",
-                "Azure",
-                "Troubleshooting operating system",
-                "AWS",
-                "Cisco Routing & Switching",
-                "Windows Server",
-                "Network Infrastructure",
-                "Virtualization",
-                "VPN",
-                "Linux"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": null
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/8f102815b85be9e9a8f4e27124b80a3a/talentsis.png",
-                "name": "TALENTSIS PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "JOB RESPONSIBILITIES:    Plan, execute, monitor and control the various Technical aspect of the Project.   Manage or participate in new setup or upgrade of system/network infrastructure projects.   Responsible for supporting operational systems satisfying contractual Service Level Agreement   Perform and manage routine preventive maintenance and operational activities promptly and effectively   Provide project documentation and reports   Diagnose and rectify technical issue  JOB REQUIREMENTS:    Minimally with Diploma in IT or with a relevant course. Fresh diploma graduates are welcomed   Knowledge in Windows server OS, Linux OS in a virtual environment would be an advantage   Knowledge and hands-on experience with Virtualization and Hypervisors, Nutanix platform would be an advantage   Knowledge in VPN, firewall appliances would be an advantage   Knowledge in network switches/routers would be an advantage   Excellent written and verbal communication to convey technical ideas to both technical and non-technical audiences and contribute within a team environment   Pro-active, dynamic and with good analytical/conceptual thinking   Able to work independently as well as in a team and good interpersonal skills  Only shortlisted candidates will be notified.  Please email a copy of your detailed resume to vivienne@talentsis.com.sg for immediate processing. (EA Reg No: 20C0312)",
-            "datePosted": "2023-03-08",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 5000,
-                "minValue": 4200,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/junior-senior-cloud-engineers-talentsis-00125e85ca811f2c667cc3c95273289e?source=MCF&event=Search",
-            "uuid": "60be9453-593f-4459-ac64-e5da1fee4d75"
-        },
-        {
-            "dueDate": "2023-04-07",
-            "jobTitle": "IT System Support @ Tuas (LD)",
-            "skills": [
-                "Preventive Maintenance",
-                "Windows 10",
-                "Hardware",
-                "Administration",
-                "CCTV",
-                "Firmware",
-                "Operating Systems",
-                "System Administration",
-                "Audit",
-                "Infrastructure Support"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "259A GEYLANG ROAD"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/526c37fd68bf3d91afc64f779c1bebc4/target-recruitment.jpg",
-                "name": "TARGET RECRUITMENT PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Duties and Responsibilities 1)    Responsible for 1st Level IT Support, and all aspects of desktop PCs, notebooks, printers, and other peripherals which includes implementation, patching, installation and configuration. 2)    Maintain systems documentation, maintenance records, performs upgrades and/or replaces hardware and software regarding infrastructure upgrades. Leading the testing of implemented infrastructure solutions to ensure requirements are met. 3)    Oversee adherence to security requirements for infrastructure operations. 4)    Maintaining and supporting hardware, software and operating systems which in line with the goals and standards of the corporation and IT department policies. This includes installing and upgrading of PC hardware and software. 5)     Maintain accurate documentation on networks and systems. 6)    Periodic update all Desktop PCs and notebooks to latest security patches and firmware. Conduct regular or quarterly end users’ computer audit and preventive maintenance. 7)    Resolve escalated or major issues relating to infrastructure operations. Assist and respond promptly to incident, investigate, and provide temporary or permanent resolution of incidents escalated; provide timely status updates to relevant parties. Ability to diagnose and resolve basic technical issues. 8)    Maintain ticket updates for all reported incidents. 9)     Monitor system logs and activity on all servers and devices. 10) Use diagnostic tools to troubleshoot problems associated with network connectivity, and workstation hardware/software. 11) Responsible in managing the data integrity, maintenance and ensure daily data is successfully backup and restore when and there needed. 12) Manage and update all IT assets records periodically.  Added Advantage Ø Working knowledge of IT infrastructure support: Desktop, monitor LAN, maintain CCTV, O365, Windows 10 and related IT equipment and software. ",
-            "datePosted": "2023-03-08",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 3500,
-                "minValue": 2500,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/system-support-tuas-target-recruitment-020da4bc797ab8a4a05fbcef0dc538fa?source=MCF&event=Search",
-            "uuid": "d828d597-6f6c-4439-939e-23446343e9a8"
-        },
-        {
-            "dueDate": "2023-04-06",
-            "jobTitle": "Locum/FT Physiotherapist",
-            "skills": [
-                "Hospitals",
-                "Work Well Independently",
-                "Quality Improvement",
-                "Treatment",
-                "Healthcare",
-                "Early Intervention",
-                "Nursing",
-                "Articulate",
-                "Group Therapy",
-                "Rehabilitation"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "105 PUNGGOL ROAD"
-            },
-            "company": {
-                "logo": null,
-                "name": "SINGAPORE BUDDHIST WELFARE SERVICES"
-            },
-            "jobType": [
-                "PART_TIME",
-                "FULL_TIME"
-            ],
-            "description": "   Involved in the care team's assessment of clientts in maintenance day care, dementia day care and community rehabilitative programme.   Develop and implement care plans for clients and their caregives with other care team members.   Perform assessment and client's physical mobility and falls risk.   provide appropriate physiotherapy interventiosn based on assessment of clients.   Conduct functional mobility training, including the prescription and use of appropriate mobility and or walking aids.   Plan , implement and evaluate individual and group physical activity and exercise programme.   Conduct and / or supervise group therapy and exercises for the clients.   Conduct education and training for client's caregivers; provides support as required.   Conduct in service training workshops / sessions for care staff and volunteers.   Maintain documentation of clients' progress and outcomes of care provision.   Recommend new strategies to the Manager (FHGCC); and   Any other duties as asigned by Manager (FHGCC) and / or the Management.  ",
-            "datePosted": "2023-03-07",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 4000,
-                "minValue": 2000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/healthcare/locum-ft-physiotherapist-singapore-buddhist-welfare-services-02f608da41c4bb77aa5b9eb0ec0d8216?source=MCF&event=Search",
-            "uuid": "9ef9da8f-e7df-4765-b125-4b4fe5a1562c"
-        },
-        {
-            "dueDate": "2023-04-07",
-            "jobTitle": "Senior Assistant Director, Entrepreneurship Development Programme",
-            "skills": [
-                "Oral Communication Skills",
-                "Windows 10",
-                "DNA",
-                "Medicine",
-                "Entrepreneurship Development",
-                "ERP",
-                "Payroll",
-                "Auditing",
-                "FOCAL",
-                "Social Sciences",
-                "Entrepreneurship",
-                "Good Communication Skills",
-                "Writing",
-                "Strategic Partnerships"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "NANYANG TECHNOLOGICAL UNIVERSITY, 50 NANYANG AVENUE"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/d98636fc895b7f25f5aabb95fe073917/nanyang-technological-university.jpg",
-                "name": "NANYANG TECHNOLOGICAL UNIVERSITY"
-            },
-            "jobType": [
-                "CONTRACTOR",
-                "FULL_TIME"
-            ],
-            "description": "Nanyang Technological University, Singapore (NTU Singapore) has 33,000 undergraduate and postgraduate students in engineering, business, science, humanities, arts, social sciences, education and medicine. Ranked among the world’s top universities. Nanyang Technopreneurship Center (NTC) is the focal point of entrepreneurship education within the University and the region. The Senior Assistant Director, Entrepreneurship Development Programme (EDP), plays a critical role in supporting the national agenda of continual education in NTU. This incumbent will manage, drive business development of EDP, and promote the Continual Education Training (CET) courses of NTC. Responsibilities:    Drive and lead the business development of CET programmes in NTC - Identify training needs of the market, plan and assist in designing courses meeting new demands - Drive sales to increase number of participants. - Oversee and ensure the business performance and profitability of EDP      Oversee and ensure quality of course content and delivery - Identify and engage suitable professors, instructors, mentors and industry partners - Analyse participants feedback, identify areas for improvement, implement and propose effective solutions      Seek strategic partnerships with industry, government/ quasi-government agencies - Seek opportunities and collaborate with strategic partners (corporates and government) to expand and enrich the CET offerings of NTC - Identify, write and submit grant application proposals to government and quasi government agencies such as ESG      Lead effective marketing strategies - Raise the profile and standing of NTC’s entrepreneurship executive programmes. - Overseeing the implementation of effective marketing strategies, production of collaterals (multiple media: digital and large format print) to promote courses to a wide sector of audience, to increase participants numbers.      Strategise and implement sustainable stakeholders engagement programmes      Plan budget and expenditure, and report on performance - Plan annual budget and expenditure, and track business performance to ensure a healthy stream of revenue and profits.  Requirements:    Degree in business or entrepreneurship with at least 10 years of experience in leading CET programme in Institute of Higher Learning or equivalent   Experience in working with the government/ quasi-government agencies and administering grant processes and overseeing auditing processes   Possess a good network consisting of entrepreneurs, intrapreneurs and industry partners   Possess excellent writing and oral communication skills   Possess good presentation skill ",
-            "datePosted": "2023-03-08",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 11400,
-                "minValue": 7000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/admin/senior-assistant-director-entrepreneurship-development-programme-nanyang-technological-university-05c477d2701d108f0eeb535271de9f66?source=MCF&event=Search",
-            "uuid": "a38fed65-6f5d-45ab-8372-5f719605c8c7"
-        },
-        {
-            "dueDate": "2023-04-07",
-            "jobTitle": "Cleaning Operations Assistant",
-            "skills": [
-                "Leadership",
-                "Able To Multitask",
-                "Process Improvement",
-                "Administrative Work",
-                "Inventory",
-                "Approachable",
-                "Driving License",
-                "Pressure",
-                "Customer Service",
-                "Service Delivery"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": null
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/f390f5a85d3da710b9d7e00e35c3daef/building-area-maintenance.jpg",
-                "name": "BUILDING AREA MAINTENANCE PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "We are a cleaning company looking for a suitable candidate to join our expanding team. If you can coordinate manpower, tackle obstacles, conduct site inspections, and possess the drive to learn, this will be a perfect opportunity for you!  Your Daily Duties will Include: 1) Daily deployment of cleaners 2) Standing in for cleaners who are absent 3) Assisting with periodic cleaning works 4) Delivery and dispatch of cleaning resources 5) Reporting to cleaning opertiaons team for any other cleaning ad-hoc duties  You must have a valid Class 3 Singapore Driving License. Opportunities, benifits and career progression await you.",
-            "datePosted": "2023-03-08",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 2300,
-                "minValue": 1900,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/general-work/cleaning-operations-assistant-building-area-maintenance-0cb8383e56753506f61c5aac598ea10c?source=MCF&event=Search",
-            "uuid": "fb5dd3db-e1ed-4647-8a5d-dd42464af317"
-        },
-        {
-            "dueDate": "2023-04-07",
-            "jobTitle": "BUSINESS DEVELOPMENT EXECUTIVE",
-            "skills": [
-                "Negotiation",
+                "Product Knowledge",
                 "CRM",
-                "Market Research",
-                "Account Management",
-                "Footwear",
-                "Microsoft Office",
-                "Microsoft Excel",
-                "Social Media",
-                "Interpersonal Skills",
-                "Cold Calling",
+                "Forecasting",
+                "Sales",
+                "Visual Merchandising",
+                "Housekeeping",
+                "Architects",
+                "Retail Sales",
                 "Selling",
                 "Marketing",
-                "B2B",
+                "Cashiering",
+                "Customer Satisfaction",
+                "Customer Service",
+                "Customer Services"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "INTERNATIONAL PLAZA, 10 ANSON ROAD"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/ab936bacec7a8333839d72a3c19937c4/triton-ai.jpg",
+                "name": "TRITON AI PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "   Permanent Role   Strong command of English   Has 1 -2 years of experience in sales  Job Responsibilities:    Prospecting and research activities in support of designated team.   Researches and reports on general market trends and activity within current and target client accounts   Assists team members in building and maintaining a strong sales pipeline.   Assists team in creating and maintaining forecasting data on a weekly, monthly and quarterly basis.   Supports other members of the team in achieving performance goals associated with quota achievement and sales activity.   Assists team members in meeting client requests, demonstrations, preparation for client meetings, literature requests and general customer facing support. Accompany Account Executives on client meetings   Compile and distribute client proposals   Coordinate with Legal regarding contract proposals, extensions, and amendments creation and processing   Coordinate resolution of credits and billing issues with Finance   May assist in Marketing and local events   Learns relevant product and technical knowledge   Develops a good understanding of SalesForce.com, to become proficient in CRM use.   Undertakes general support and administrative duties as required.  Job Requirements    Bachelors’ degree or equivalent experience required.   Demonstrates personal confidence and resilience.   Passion in desire to build a career in sales.   Familiar with prospecting and research techniques.   Experience in conducting prospecting (cold calls) and research calls.   Good levels of responsiveness and customer awareness.   Good personal organization and discipline.   Quick learner and demonstrates willingness to learn from others.   Able to communicate well.   Basic understanding of Social Selling techniques.   Comfortable with working in a team environment.  Interested candidates please click “Apply Now”. We regret to inform that only shortlisted candidates will be informed.  Triton AI Pte Ltd Registration Number: R23112017 EA: 21C0661",
+            "datePosted": "2023-03-11",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 5500,
+                "minValue": 4500,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/sales/junior-sales-associate-triton-ai-2ed036a488c3ec42981055311f034f28?source=MCF&event=Search",
+            "uuid": "0042c861-1e84-4146-aca3-f8f1173c5f24"
+        },
+        {
+            "dueDate": "2023-04-09",
+            "jobTitle": "Tech Lead",
+            "skills": [
+                "Troubleshooting",
+                "Multithreading",
+                "TypeScript",
+                "User Experience",
+                "Agile",
+                "JavaScript",
+                "Solution Architecture",
                 "Networking",
-                "Business Development",
-                "Japanese"
+                "Python",
+                "Architecture Design",
+                "Continuous Integration",
+                "Linux",
+                "Software Development",
+                "C++"
             ],
             "location": {
                 "country": "SG",
                 "locality": "Singapore",
-                "address": null
+                "address": "PERFORMANCE BUILDING, 158 KALLANG WAY"
             },
             "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/cff3759221701d9a57b1297dae318c95/protemps-employment-services.jpg",
-                "name": "PROTEMPS EMPLOYMENT SERVICES PTE LTD"
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/9fd5e9a48a104522f53410f1c8e7a4b2/republic-power.png",
+                "name": "REPUBLIC POWER PTE. LTD."
             },
             "jobType": [
                 "FULL_TIME"
             ],
-            "description": "Duties    Trading and Wholesale of branded Fashion category (High/Medium End brands Like Burberry / Ferragamo/ Mont Blanc  etc.) in Apparels / Leather goods / accessories/ Footwear + Watches ; Jewellery and other related categories   Servicing current customer base and to develop new customer base / business in Japan   Full handover from the current Business development Executive.   Company established since 2009   Singapore TOP SME500 awarded company in the year 2022  Candidate ·        Position – Business Development Executive ·        Bilingual in Japanese (JLPT N1 / N2) and English as need to do business development in Japan market. ·        Joining date – Immediate ·        Will be required to travel to Japan regularly with the Director – 2-/3 times a year as market open up. ·        Position is based out of Singapore Head Office ·        Prefer candidates with 5-7 years’ experience in similar fields and position.  Package ·        Salary range SGD 3,500 – 4,800 PM + CPF ; AWS- depending on the suitability and experience of the candidates. ·        Qualifies for annual bonus as and when declared by the company ·        Group Medical Insurance including hospitalisation ·        Mobile phone reimbursement ·        14 days Annual leave + Medical ; Hospitalisation as per MOM guidelines  Interested candidates, please send us your updated CV to tristan@protemps.com.sg",
-            "datePosted": "2023-03-08",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 4800,
-                "minValue": 3500,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/sales/business-development-executive-protemps-employment-services-12eb33b8e6270d18ef39f33471a56efb?source=MCF&event=Search",
-            "uuid": "d6dabf8b-770d-4559-ac33-f401ba0c9cb6"
-        },
-        {
-            "dueDate": "2023-04-07",
-            "jobTitle": "CCTV Project Manager",
-            "skills": [
-                "UAT",
-                "Leadership",
-                "security systems",
-                "ICT",
-                "Tender Process",
-                "System Testing",
-                "IP Cameras",
-                "Electrical",
-                "Information Technology",
-                "Wireless",
-                "project plan",
-                "security system",
-                "CCTV",
-                "Project Management",
-                "IT security system",
-                "camera equipment",
-                "Systems Engineering",
-                "Transmission",
-                "Electronics",
-                "Video Surveillance"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": null
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/afd5100a59e44f84281e2677d4cd851f/vikconnect.jpg",
-                "name": "VIKCONNECT PTE. LTD."
-            },
-            "jobType": [
-                "CONTRACTOR",
-                "FULL_TIME"
-            ],
-            "description": "Contract Duration: 7.5 Months (Renewable)  Location: West  Responsibilities: · Work on various multi-million CCTV Projects (implementation/ maintenance or both) island wide · Manage vendors and project officers on the daily deliverables · Involved in the tender process · Manage project plan, milestones, budget and timeline and ensure proper plan for site deployment · Conduct System testing and UAT with vendors and users · Manage maintenance contract, ensure vendors meet SLA and turnaround time  Requirements: · Degree in Electronics/ Electrical Engineering/Computer Studies, or other Engineering · Only Singaporeans may apply · The Candidate shall have preferably 2 years working experiences in managing large scale ICT, or engineering projects preferably with involvement throughout the entire project lifecycle · Fresh graduates may apply · The Candidate shall have relevant experiences in working on large scale systems that are deployed at multiple sites · The Candidate shall have prior experiences in managing and coordinating multiple vendors so as to integrate multiple deliveries/ systems from various vendors into a functioning large scale system · The Candidate shall have good working knowledge and experience in one or more of the following areas: Large-scale Video Surveillance System, Wireless Communication Systems, System and Network Integration, Infrastructure Construction to support ICT equipment (e.g. Structures, Electrical, Network Installation, Wireless Transmission, etc.) · The Candidate shall possess excellent Project Management skill, good Systems Engineering knowledge; and understand the concept of Integrated Logistic Support ; System Life Cycle · Able to be contactable 24 x 7 and support operations after office hours, on weekends and Public Holidays if required · The Candidate shall preferably be a Certified IT Project Manager, Project Management Professional (PMP), Certified Information Technology Project Manager (CITPM) or equivalent practitioner Project Management experiences",
-            "datePosted": "2023-03-08",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 9999,
-                "minValue": 3000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/cctv-project-manager-vikconnect-182c4dcf2494b70840833f41e27509aa?source=MCF&event=Search",
-            "uuid": "6b2e58c1-3176-40fb-8470-0274c86ba89a"
-        },
-        {
-            "dueDate": "2023-03-22",
-            "jobTitle": "Quality Assurance Engineer",
-            "skills": [
-                "TS16949",
-                "Report Writing",
-                "JMP",
-                "Materials Science",
-                "FMEA",
-                "Quality Assurance",
-                "Semiconductor Industry",
-                "ISO",
-                "problem solving skills",
-                "Chemistry",
-                "SPC",
-                "Customer Quality",
-                "Process Optimization",
-                "Team Player",
-                "Benchmarking",
-                "Audit"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "1 SENOKO SOUTH ROAD"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/3ec93948d9a05536ca10533ecfe79be1/sumitomo-bakelite-singapore.PNG",
-                "name": "SUMITOMO BAKELITE SINGAPORE PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "   Responsible for handling customer quality issues and continuous improvement activities of the Company products and processes.   Liaise with process department on quality related issues to follow-up on effective corrective/preventive actions.   Required to carry out activities such as process optimization, benchmarking, etc through various statistical tools and software.   Handle external body audit in accordance to TS ; ISO requirement  Requirements:    Degree in Chemical/Mechanical Engineering, Chemistry, Materials Science or equivalent.   Relevant experience from the semiconductor industry in servicing customer in quality related issues is a plus.   Knowledge of statistical software such as DOE ; JMP and QC tools (FMEA, SPC and 8D format report writing) will be an added advantage.   Statistically inclined with good analytical ; problem solving skills;   Self-motivated, resourceful, action-focused and result-oriented team player.   Familiar with IATF16949 requirement is a plus.   Fresh graduates are welcome to apply.   Willing to travel overseas   Willing to work overtime when needed and travel overseas and on short notice ( on average 2-3 x per month) ",
-            "datePosted": "2023-03-08",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 3500,
-                "minValue": 2400,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/customer-service/quality-assurance-engineer-sumitomo-bakelite-singapore-18690396c62f8b446df143b44b13170d?source=MCF&event=Search",
-            "uuid": "7a1f1a55-1a54-4e37-a839-b46cfeca2f75"
-        },
-        {
-            "dueDate": "2023-03-22",
-            "jobTitle": "Assistant Project Manager",
-            "skills": [
-                "Leadership",
-                "Microsoft Office",
-                "Construction Management",
-                "Microsoft Excel",
-                "Construction",
-                "Quality Control",
-                "Interpersonal Skills",
-                "Drawing",
-                "Project Planning",
-                "Project Management",
-                "Scheduling",
-                "Project Cost"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "MANDAI CONNECTION, 7 MANDAI LINK"
-            },
-            "company": {
-                "logo": null,
-                "name": "KG PLASTERCEIL PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "- Implement and provide directions in project planning , coordinate works - Coordinate with the drafting department with regards to the preparation/ as built drawing - Develop best practices and tools for project execution and management - Responsible for determining the cause of the quality problem ",
-            "datePosted": "2023-03-08",
+            "description": "Responsibilities for Technical Lead    Lead and work closely with an agile build and run team to deliver the application software, using Continuous Integration (CI) and Continuous Deployment (CD) practices and its related toolsets   Develop architecture requirements and maintain oversight with all the Software Developers   Work closely with other internal teams within the organization to ensure that solutions are designed with customer user experience, scale/performance, security and operability in mind.   Ensure that the software releases are aligned, documented and follow the application release and deployment process for the various projects.   Facilitate and support the troubleshooting or root cause analysis of platform issues or incidents.   Lead and coordinate the domain technical and business discussions   Analyse, design and develop road maps and implementation plans based on a current versus future state   Communicate and coordinate architecture implementation and modification activities   Assist in post-implementation and continuous improvement efforts to enhance performance and provide increased functionality   Consults with clients and internal teams on solutions architecture   Design and drive the implementation of the solution architecture   Manage updates and releases of new code, be able to write and understand code in several programming languages such as Python, JavaScript, Ruby, C and Go.   Any other tasks which may be called upon or assigned  Qualifications for Technical Lead    Bachelor Degree in Computer Science or related major   At least 5 years of experience with 1 year of tech leadership experience who aspire to grow this role   Expert with Linux operating system principles, networking, and multi-threading   Expert in software development skills in modern C++   Expert in Digital Ocean, VAPT Testing (Metasploit ; Burp suite), Gitlab   Expert in Programming Language: Typescript, ReactJS, NodeJS, .Net Core, Golang   Contributor/Committer or PMC of the open-source community is a plus   Good team player and able to work independently in fast paced environment   Possess strong leadership and communication skill and creative and innovative in nature to engage and influence key stakeholders. ",
+            "datePosted": "2023-03-10",
             "salaryRange": {
                 "currency": "SGD",
                 "maxValue": 7000,
-                "minValue": 5500,
+                "minValue": 5000,
                 "payPeriod": "MONTH"
             },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/building-construction/assistant-project-manager-kg-plasterceil-1bba263a5cc0bdf9dcd2e2a3cb28559b?source=MCF&event=Search",
-            "uuid": "cf3924a7-a107-4d14-96db-7035f87e9fd8"
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/tech-lead-republic-power-9af65c010235356b1daf22fe02647df2?source=MCF&event=Search",
+            "uuid": "0b0965ab-a3d4-4fa6-9af8-0b6ac368cbf2"
         },
         {
-            "dueDate": "2023-04-07",
-            "jobTitle": "Technical Specialist (Formulations & Quality)",
+            "dueDate": "2023-04-08",
+            "jobTitle": "Food Tech Executive",
             "skills": [
-                "Management Skills",
-                "Ingredients",
-                "Able To Multitask",
-                "Cosmetics",
-                "HPLC",
-                "Purchasing",
-                "Technical Presentation",
+                "Factory",
+                "International Business",
+                "Regulatory Compliance",
+                "Quality Improvement",
                 "Formulation",
-                "Technical Services",
-                "Raw Materials",
-                "Chemistry",
+                "SPSS",
+                "Process Engineering",
+                "Food Technology",
+                "Food Safety Management",
+                "Applications Development",
+                "Planning and Implementation",
+                "Flavors",
                 "Food Science",
-                "Microsoft Word",
-                "Laboratory",
-                "Ability To Learn",
-                "Personal Care"
+                "Product Development"
             ],
             "location": {
                 "country": "SG",
                 "locality": "Singapore",
-                "address": "12 TUAS AVENUE 1"
+                "address": "JTC Food Hub, 15 Senoko Drive"
             },
             "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/49db5b9b6ebffa0bf32876105ea4ddf5/COMPASS%20FOODS%20PTE.%20LTD..jpg",
-                "name": "COMPASS FOODS PTE. LTD."
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/01385f02d3217ea2f9a8ada1774ac7b6/cocoba.png",
+                "name": "COCOBA PTE. LTD."
             },
             "jobType": [
                 "FULL_TIME"
             ],
-            "description": "Primary Function    Manage technical projects to explore, develop new formulations and applications for use in either food, beverages, nutraceuticals, pharmaceutical and nutritional applications.   Involved in formulations and leading towards production. Develop new formulations and testing protocols and improve formulations and outputs excellence.   Build relevant formulation ; application knowledge on the use of sucrose esters in novel product formats (E.g. Formulation mixes in various food applications to cosmetics applications).   Source ; procuring of raw materials and build up applications intelligence with various ingredients and additives.   Hands-on spirit and comfortable in laboratory and actively contribute novel ideas to the R;D efforts.   Starting with a regional to global scope and an excellent opportunity to build and develop with global clients across the business.   Technical services front facing customers, relating to food applications as well as formulations and role is a growing role in the organization.  Knowledge, Skills and Requirements    Minimum a diploma and/or degree in Personal Care / Cosmetics / Pharmaceutical / Food Science / Chemistry. Some insights to pharmaceutical or personal care, cosmetics and perfumery or emulsifiers, will be an advantage.   Highly familiar with food ingredients and experience in formulations of ingredients, additives, premixes and emulsions systems, will be added advantage. At least some experience in application related to flavor / color / bioactive ingredients. Exposure to food ingredients / additives sourcing and purchasing experience, will be a plus.   High entrepreneur spirit, good project management skills, able to multitask, good team player. Have the drive to develop technical projects into new business opportunities.   Strong in IT skills like Microsoft Word, Powerpoint, Excel and at least bilingual in spoken and written in English and Mandarin and/or another language for technical presentation and communication with the customers.   A strong drive and self-motivation and ability to learn in a fast pace working environment in the global market and ability to travel and provide technical service when required. ",
-            "datePosted": "2023-03-08",
+            "description": "Main responsibilities:    Develop detailed project plan for new product launches, collaborate effectively with relevant global, regional and cross-functional stakeholders to efficiently drive project conceptualization, planning and implementation   Source, identify and develop new technology to provide innovative solutions in formulation and process design, shelf life extension, quality improvement, or format transformation in the snacks, sauce, paste and seasoning applications   Subject matter expert pertaining to product technical information, regulatory compliance for countries - ASEAN, USA, Canada etc., and food safety management system   Deliver projects with quality outcomes e.g., new food products with excellent quality within set timelines   Provide quick, thorough analysis of projects while providing thoughtful and ethical judgment, innovative ideas and agile response for tasks and situations   Proactively seek diverse inputs and insights from macro-environment and stakeholders to drive discussion, decision-making and innovative solutions   Work closely with CXOs, manager and cross-functional team members to execute ad hoc projects and other tasks allocated  Desired skills ; experiences:    A diploma or bachelor’s degree in Food Science, Food Technology or any other relevant discipline   5 - 8 years of experience in similar/ related role (e.g., food product development of snacks, sauce, paste or seasonings) is preferred   Good skills in prototypes, applications development and factory scale-up   Good communication and negotiation skills   Ability to show initiative, provide direction, and work with others as part of cross functional team   High degree of flexibility, organized and detail-oriented   Quick learner of new concepts in different areas   Ability to analyse issues and recognize gaps in processes, can combine scientific knowledge with legal aspects   Abilities to work under pressure, handle multiple priorities and meet strict deadlines   Ability to manage complexities and confidential information ",
+            "datePosted": "2023-03-09",
             "salaryRange": {
                 "currency": "SGD",
                 "maxValue": 3500,
-                "minValue": 2200,
+                "minValue": 2800,
                 "payPeriod": "MONTH"
             },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/healthcare/technical-specialist-compass-foods-1e3a97ac7a558110f4a4f10cda8a4de5?source=MCF&event=Search",
-            "uuid": "f2eee197-ba90-432c-8aee-c3c47af37eeb"
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/food-tech-executive-cocoba-554a0986d79294c4b015711d1efdc6dc?source=MCF&event=Search",
+            "uuid": "f7a2f852-cba5-406d-ac66-2945a02bf42e"
+        },
+        {
+            "dueDate": "2023-04-10",
+            "jobTitle": "URGENT!!! Tech Lead (Backend, Ruby on Rails, AWS, Socket IO, Up to $9K)",
+            "skills": [
+                "Game Development",
+                "Performance Testing",
+                "RDS",
+                "Software Engineering",
+                "HTML5",
+                "EC2",
+                "Data Engineering",
+                "SQL",
+                "Ruby",
+                "Authentication",
+                "OOP",
+                "Ruby on Rails",
+                "Web Development"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": null
+            },
+            "company": {
+                "logo": null,
+                "name": "TRUST RECRUIT PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Highlights:    5 days work week   Work life balance   Great remuneration and benefits   Solid experience in Ruby on Rails is a bonus  Responsibilities:    Participate in the entire software development lifecycle, focusing on solution design, coding, deployment and debugging.   To build games backend services that power Html5 and Unity games.   To brainstorm solutions and design robust, highly scalable applications that can withstand high traffic with minimum down time together with engineers from other countries.   To work closely with product owners, key users, artists and the quality assurance team to ensure deliverables are as per expectation.   Develop ideasfor new products, or features by monitoring industry developments and trends.   Participating in continuing education and training to remain current on best practices, learn new programming languages, and better assist other team members.   Troubleshoot applications, conduct performance testing and optimize services to enhance user experience and minimize resource consumption.   To provide off-duty support.  Requirements:    Minimally 5 years of software engineering experience (web development) across the full development lifecycle.   Minimally 3 years of web development experience using Ruby on Rails.   Proficient with both NoSQL ; SQL databases (Mongo, Redis, MySQL)   Good knowledge of Html5 and Javascript.   Thorough understanding of Computer Science fundamentals such as OOP, RESTful architectures, Design Patterns etc.   Good knowledge of containerization framework (Docker, Rancher, Kubernetes).   Good understanding of authentication frameworks and data communication protocols like webSockets, signalR, Socket.IO.   Good working knowledge of CI/CD environments or pipelines. (Gitlab, Jenkins, AWS Codepipeline)   Experience with cloud technologies (AWS preferably). Example: IAM, EC2, Lambda, AWS RDS, Elasticsearch, AWS CodeBuild etc.   Able to fulfil off-hours production support if required (L2).  Bonus:    Experience in designing game backends using Ruby on Rails.   Experience in building games in Cocos or UNITY.   Domain knowledge of the game industry from game development to actual game operation.   Experience in data engineering tools like Jupyter and Python.  HOW TO APPLY: Interested applicants please send your latest resume to ref19(at)trustrecruit.com.sg or click on “Apply Now” and provide the below details in your resume.    Current salary (breakdown)   Expected salary   Notice period   Reason of leaving  We regret only shortlisted candidates will be notified. Important Note: Trust Recruit Pte Ltd is committed to safeguarding your personal data in accordance with the Personal Data Protection Act (PDPA). Please read our privacy statement on our corporate website www.trustrecruit.com.sg. Trust Recruit Pte Ltd EA License No: 19C9950 EA Personnel: Lim Dick Sern (Dick Sern) EA Personnel Reg No: R22106832",
+            "datePosted": "2023-03-11",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 9000,
+                "minValue": 5000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/urgent-tech-lead-trust-recruit-df4e4f228e01ebed04000fb9146ac519?source=MCF&event=Search",
+            "uuid": "1df62793-1c30-4ae6-b81a-02e603f1b654"
+        },
+        {
+            "dueDate": "2023-04-08",
+            "jobTitle": "HR Analyst (Data & Tech)",
+            "skills": [
+                "Tableau",
+                "Workday",
+                "Leadership",
+                "Dashboard",
+                "Data Analysis",
+                "Modeling",
+                "Data Integration",
+                "Power Tools",
+                "HRIS",
+                "Excel",
+                "Presentation Skills",
+                "Human Resources",
+                "Analytical Techniques",
+                "Data Analytics",
+                "Power BI",
+                "Data",
+                "Data Visualization"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "SUNTEC TOWER FIVE, 5 TEMASEK BOULEVARD"
+            },
+            "company": {
+                "logo": null,
+                "name": "F5 NETWORKS SINGAPORE PTE LTD"
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "At F5, we strive to bring a better digital world to life. Our teams empower organizations across the globe to create, secure, and run applications that enhance how we experience our evolving digital world. We are passionate about cybersecurity, from protecting consumers from fraud to enabling companies to focus on innovation. Everything we do centers around people. That means we obsess over how to make the lives of our customers, and their customers, better. And it means we prioritize a diverse F5 community where each individual can thrive.  Role Overview:  The APCJ HR Analyst will be the lead in the journey towards Digital and Data-Driven HR.  This role will produce business-critical people insights to enable the business and HR to move faster and make better decisions by applying analytics and research to our employee data. This role will lead and drive automation projects in HR to improve HR efficiency and enhance employee experience.  What you will do: HR Data ; Analytics Management    Own and drive analyses and modeling of HR data to identify trends and make future predictions; interpret data and communicate key findings to HR and business leaders.   Develop, implement and support employee data related scorecards and dashboards.   Critically evaluate and report on information gathered from multiple sources.   Apply a breadth of tools and analytical techniques to answer a wide range of high-impact people-related business questions.   Manage on-demand and ad hoc HR related reports and requests.   Ensure HR data and systems are complying to employment laws, data privacy regulations.  HR Automation ; Technology Adoption    Integrate key HR systems/databases for analytics, tracking key metrics and automating high volume processes.   Analysing HR data from various sources, e.g. ticketing system, new hire onboarding survey, exit management records, L;D records, etc.   Automate high volume/sensitive admin/HR tasks and processes to improve accuracy and efficiency.   Proactively drives activities that are necessary for the success of internal customers in the adoption and use of HR technology and analytics.   Implement solutions to HR related issues or processes.   Partner with Global HRIS team on the data integration of HRIS systems to other company systems   Key liaison with Global HRIS and Technology Services team.  What you will bring:    5+ years progressive work experience applying analytical methods to business problems, driving improved decision-making and outcomes; HR experience preferred.   Extensive knowledge and skills in visualization tool preferably in Tableau   Extensive knowledge and skills in Excel and Power Platform (Power App, Power Automate)   Skills in designing and developing business dashboards and data visualizations in Tableau and BI platforms.   Experience in Workday and ServiceNow preferred.   Ability to work effectively under pressure with multiple deliverables.   Strong presentation skills including building meaningful materials, presenting effectively to leadership and responding to questions on-the-fly based on in-role business context and acumen.   BA/BS degree in Business, Data, HR or related field  What You’ll Get:    Hybrid working mode   Career growth and development opportunities   Recognitions and Rewards   Employee Assistance Program   Competitive pay, comprehensive benefits, and cool perks   Culture of Giving Back   Dynamic Diversity ; Inclusion interest groups  Apply if you believe your own unique capabilities can contribute to the success of this role and our organization!  #LI-YO  The Job Description is intended to be a general representation of the responsibilities and requirements of the job. However, the description may not be all-inclusive, and responsibilities and requirements are subject to change.  Please note that F5 only contacts candidates through F5 email address (ending with @f5.com) or auto email notification from Yello/Workday (ending with f5.com or @myworkday.com).  Equal Employment Opportunity It is the policy of F5 to provide equal employment opportunities to all employees and employment applicants without regard to unlawful considerations of race, religion, color, national origin, sex, sexual orientation, gender identity or expression, age, sensory, physical, or mental disability, marital status, veteran or military status, genetic information, or any other classification protected by applicable local, state, or federal laws. This policy applies to all aspects of employment, including, but not limited to, hiring, job assignment, compensation, promotion, benefits, training, discipline, and termination.  F5 offers a variety of reasonable accommodations for candidates. Requesting an accommodation is completely voluntary. F5 will assess the need for accommodations in the application process separately from those that may be needed to perform the job. Request by contacting accommodations@f5.com.",
+            "datePosted": "2023-03-09",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 13000,
+                "minValue": 6500,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/human-resources/hr-analyst-f5-networks-singapore-844a6c726efd749c995059db3358c45c?source=MCF&event=Search",
+            "uuid": "96c9216f-8c7a-44a5-8ed6-6733eefbf546"
+        },
+        {
+            "dueDate": "2023-04-05",
+            "jobTitle": "Product Tech Analyst",
+            "skills": [
+                "Microsoft Excel",
+                "Derivatives",
+                "Product Design",
+                "Analytical Skills",
+                "Investments",
+                "User Experience",
+                "Transparency",
+                "Securities",
+                "Mastering",
+                "Agile Methodology",
+                "Product Management",
+                "PMP",
+                "Team Player"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "79 Robinson Road"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/ef3cf466d808db4f53ff762f92667ddf/cyberdyne-tech-exchange.jpg",
+                "name": "METAVERSE GREEN EXCHANGE PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Roles and Responsibilities:    Develop detailed product requirements and conduct market readiness evaluations during testing phases to ensure product quality and performance goals are met.   Participate in cross-functional teams to resolve business issues related to technology projects with significant business impact   Participate in technology projects for small product enhancements and minor customizations   Serve as Subject Matter Expert (SME) on product customization projects and influence decisions through advice, counsel, and/or facilitating services to others in area of specialization   Document new products and/or changes to existing products, ensure smooth business implementation during launch process, and prioritize and validate potentially dynamic material from multiple sources using analytical skills   Appropriately assess risk when business decisions are made, demonstrating consideration for the MVGX's reputation, and safeguarding its clients and assets, by driving compliance with applicable laws, rules, and regulations, adhering to Policy, applying sound ethical judgment regarding personal behavior, conduct and business practices, and escalating, managing, and reporting control issues with transparency.  Requirements:    A bachelor's degree or above with a computer science related major.   Minimum of 3 to 5 years relevant experience of product management and software development programming experience.   Familiar with AGILE methodology   Previous working experience within at least one of the following sectors, Financial Institutions, Environmental, Social, and Governance (ESG), Fintech industry.   Proven track record in project management and as a product analyst or equivalent preferably in a financial institution.   Strong financial product design capability and ability to understand user experience and a mindset of developing scalable and portable solutions.   PMP certification or equivalent will be advantageous.   Strong knowledge of the operational model of an exchange and/or knowledge of trading environments (securities, listed derivatives, and OTC products) would be preferred.   Fluency in both English and Mandarin   Result-oriented, hands-on, and diligent.   A team player that collaborates well with other departments.  If you are looking to be part of an exciting team within the financial technology industry, we would like to hear from you. Remuneration will be commensurate with experience and qualifications. We regret that only shortlisted candidates will be notified",
+            "datePosted": "2023-03-06",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 5500,
+                "minValue": 4000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/banking-finance/product-tech-analyst-metaverse-green-exchange-1082173da3b1d25aa91c1513f64031c6?source=MCF&event=Search",
+            "uuid": "c1e3ead7-54be-43f0-ad1a-dd5dbb5289bb"
         },
         {
             "dueDate": "2023-04-02",
-            "jobTitle": "Admin Assistant",
+            "jobTitle": "Tech Lead",
             "skills": [
-                "Tennis",
-                "Courts",
-                "Microsoft Office",
-                "Microsoft Excel",
-                "Property Management",
-                "Inventory",
-                "Administration",
-                "Information Technology",
-                "Reliability",
-                "Data Entry",
-                "Equipment Maintenance",
-                "Deposits",
-                "Cash Management",
-                "Administrative Support",
-                "Microsoft Word"
+                "Version Control",
+                "MongoDB",
+                "Kubernetes",
+                "Big Data",
+                "MySQL",
+                "Agile",
+                "Planning and Implementation",
+                "SQL Server",
+                "Team Management",
+                "Team Lead",
+                "Docker",
+                "Product Development",
+                "Java",
+                "Orchestration",
+                "Business Requirements"
             ],
             "location": {
                 "country": "SG",
                 "locality": "Singapore",
-                "address": null
+                "address": "67 AYER RAJAH CRESCENT"
             },
             "company": {
-                "logo": null,
-                "name": "SIMPLY SAKAL PTE. LTD."
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/d811692538def9115c1e5b5ee111b14e/xnara-biologics.png",
+                "name": "XNARA BIOLOGICS PTE. LTD."
             },
             "jobType": [
                 "FULL_TIME"
             ],
-            "description": "At Simply, we are the leading property management company that uses information technology tool such as Simply platform, to handle the majority of administrative tasks faced at ground. However, we believe our staff is our Ambassador and will carry out their duties with high level of integrity and reliability.  Job Description:    Assist in handling and maintaining proper records of feedback or complaints received from the residents.   Assist the CM to attend to Section 47(1)(c) notice and update strata roll upon receipt of notice of transfer   Assist the Condominium Manager in petty cash management and collection of payment by residents on daily basis, including daily account closing.   Update trust accounts periodically of all transactions for the contributions, facilities’ charges and deposits for receipts issuance to residents.   Manage the booking of estate facilities such as BBQ pits, tennis courts, function room etc. according to House Rules, By Laws and Standard Operating Procedures.   Establish and maintain proper filing system to ensure smooth documentation and administration of the estate.   Carry out regular update of the content of the notice board(s).   Maintain inventory of office stationery and equipment maintenance record and perform general administrative duties.   Co-ordinate council meetings and annual general meetings as instructed by the Condominium Manager.   Any other duties assigned by supervisor / Manager   Requirements: Minimum 1 - 2 years experience, no experience are welcomed to apply! Position requires work on alternate Saturday  Interested candidate please click to apply with your resume indicating your current and expected salary. We regret that only shortlisted candidates will be notified.",
+            "description": "We, at xNara, are looking for a Team Lead to join the tech team in a time when we are scaling up our business and expanding into Dubai, Singapore and India. You will be involved in building up the team as well as the tech platform to support the business requirements.  As a key team member, you have planning and supervisory responsibilities which will utilise your past work experience to achieve the best outcomes. The team will also look to you for expert advise in helping them to get past development roadblocks. You will be expected to have a hands-on involvement in delivering the tech output. You should exude curiosity and passion in the tech domain and instil those qualities in the team.  What you will be doing? Team Management    Lead by example in demonstrating strong work ethics.   Work effectively in a multi-national team.   Be an excellent communicator.   Promote and maintain a positive work culture amongst team members.   Identify and cultivate competency and work excellence in the team.   Proficient in Agile.  Product Development    Be an innovative problem solver.   Embody a progressive work attitude and be independent in approaching work.   Ensure that work execution by team follows best practices and industry standards.   Able to translate business and operational requirements to tech planning and implementation.   Advocates structure and organization in daily work within the team.   Actively contribute to day-to-day development work for the xNara platform.   Perform and organise code reviews for the team.  What will you bring to the role?    6+ years in a similar role.   Expert in Node and/or Java.   Be proficient in 2 or more server-side languages.   Have expertise in 2 or more database technologies (MySQL, MS Sql Server, MongoDB, Postgres).   Expert in build orchestration (Kubernetes) and containerisation (Docker).   Expert in managing cloud infrastructure (AWS, GCP, Azure).   Expert in version control branch planning and management.   Familiar in DevOps planning and management.   Working experience in managing mobile app projects.   Working experience in working with Big Data services (Data Lake, Data Warehouse) is a plus.   BS in Computer Science, MIS or similar field. ",
             "datePosted": "2023-03-03",
             "salaryRange": {
                 "currency": "SGD",
-                "maxValue": 2800,
-                "minValue": 2200,
+                "maxValue": 10000,
+                "minValue": 8000,
                 "payPeriod": "MONTH"
             },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/admin/admin-assistant-simply-sakal-30eb7819bae51d3cde386ff969424a73?source=MCF&event=Search",
-            "uuid": "a3a1c531-903b-4389-a793-c06d74288522"
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/tech-lead-xnara-biologics-66b33e356f9e75269da9074edc71dc80?source=MCF&event=Search",
+            "uuid": "325710d9-e2ae-4a75-9b79-41e7d6678953"
         },
         {
-            "dueDate": "2023-04-07",
-            "jobTitle": "Revenue Analyst",
+            "dueDate": "2023-03-22",
+            "jobTitle": "Tech Lead",
             "skills": [
-                "Revenue Management",
-                "Property Management Systems",
-                "Rooms Division",
-                "Inventory",
-                "Composition",
-                "Hyperion",
-                "Property",
-                "Journal Entries",
-                "Channel",
-                "Communication Skills",
-                "Hotel Management",
-                "Pricing",
-                "Catering",
-                "Cut",
-                "Writing Skills",
-                "Revenue Recognition"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "80 MIDDLE ROAD"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/e27db398658a9629f9b59f1bce669042/intercontinental-singapore.jpg",
-                "name": "INTERCONTINENTAL SINGAPORE"
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "What's the job?  Supports General Manager in implementing inventory and pricing strategies to maximise overall revenue and profits for the property. Analyses reports, market performance and trends, and tracks inventory for the optimal business mix.  Your day-to-day    Demonstrate an in-depth knowledge and understanding of hotel systems – IHG Concerto and  Holidex in particular, to ensure appropriate capture of data for client   information, events, forecasts and results   Manages   all channels (CRO, GDS, OTAs, Internet direct and indirect) including but not  limited to room types and sell strategy. Upholds and enforces compliance with   the Lowest Internet Rate Guarantee and manging third party distributors in   compliance with IHG standards and rules.   Manages use of revenue systems on a daily basis. This includes the responsibility for any manipulation of the yield hurdle points and daily inventory balancing   where appropriate.   Supports   in tracking and analysing of booking pace, group wash, cut off.   Understands   the composition of hotel profitability, and uses this to support General Manager and respective leaders in evaluating business from local accounts and groups so as to provide input to future rate setting and negotiation.   Maintains   and analyses both overall, by account (and for bookers), system contribution and trends in rooms and non-rooms revenues by channel, segment and account.   Monitors   competitor pricing for Rooms Revenue, understands the dynamic of the local market and the demand generators.   Participates   in weekly rate/sell strategy (yield) meetings with General Manager, DOSM, Reservations Manager, Rooms Division Manager and Catering Sales Manager.   Prepares forecasts of revenue, profit, demand and occupancy for rooms and function space – short and long range and budget.   Monitor and factor non-room revenues (i.e. Events, F;B) into the overall revenue   management strategies and practices.   Supports  revenue meetings twice a month and sharing of strategies and inputs   What we need from you     Diploma  or Vocational Certificate in Hotel Management, Business Administration, or related field   2 years related experience in Revenue Management or Reservations, or an equivalent combination of education and experience   Demonstrated   ability to interact with customers, employees and third parties that reflects   highly on the hotel, the brand and the Company   Problem solving, reasoning, motivating, organizational and training abilities   Good writing skills   Teamwork and communication skills are essential.   Highly detail oriented, exceptional organizational skills and able to handle multi   priorities under pressure   Excellent understanding of reservation systems and how they interact with property management systems ",
-            "datePosted": "2023-03-08",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 3600,
-                "minValue": 3500,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/hospitality/revenue-analyst-intercontinental-singapore-31f2b245283eb19a9db7d508d9dda237?source=MCF&event=Search",
-            "uuid": "25e30bd6-9661-422c-ba85-ccf8efddc14b"
-        },
-        {
-            "dueDate": "2023-04-07",
-            "jobTitle": "6723-Hair Advisor [Gross up to 3k | 6 days]",
-            "skills": [
-                "Product Knowledge",
-                "Sales",
-                "Leadership",
-                "Cosmetics",
-                "Interpersonal Skills",
-                "Treatment",
-                "Retail Sales",
-                "Soft Skills",
-                "Selling",
-                "Strategy",
-                "Attention to Detail",
-                "Cashiering",
-                "Communication Skills",
-                "Beauty Industry",
-                "Team Player",
-                "Customer Service"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "SHENTON HOUSE, 3 SHENTON WAY"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/d162667fbe1365aa541016a407de7ae4/supreme-hr-advisory.jpg",
-                "name": "THE SUPREME HR ADVISORY PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Position title : Hair Advisor Location: Ubi Working location: Wheelock / Plaza Sing/ Ngee Ann City/ Bedok Mall (location TBC upon hired) Working Days: 6 days, Monday – Sunday Working hours : Retail hours ; Able to commit working on Fri – Sun ; PHs) Off 5 day per month (Rostered off) Monday to Friday – 10.30am to 8.30pm Saturday, Sunday ; PH – 10.00am to 7.00pm Salary: $1.5K to $1.8K， Gross 2.8K – 3K  Job Requirement    Experience and competent in sales with minimum 1 year of relevant experience in the beauty industry Personal Attributes  Job Scope    The essential responsibilities of the Hair Advisor include:   Boosting sales revenue and profitability by achieving sales targets   Serving Customer with professionalism service.   Conduct professional scalp analysis; demonstrate features and benefits of PHS treatments, services and products.   Recommend packages according to individual needs and conditions   Constantly educate customers on the necessity and benefits of company’s treatments, services and products   Building rapports with customer and providing good customer service and needs in relation to hair scalp enquiries   Perform basic hands-on treatments when necessary   Updating of customer’s progress in the treatment card and computer system   WhatsApp: +65 9642 0989 (Han) Email: supreme.cc.han@gmail.com Chaw Chiaw Han, Reg No：R22106723 The Supreme HR Advisory Pte Ltd, EA No：14c7279",
-            "datePosted": "2023-03-08",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 1800,
-                "minValue": 1500,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/personal-care/6723-hair-advisor-gross-3k-6-days-supreme-hr-advisory-35bf29379efd2529f1bef4985b531690?source=MCF&event=Search",
-            "uuid": "8cf92616-55c2-4e1d-bda7-5c8687132c62"
-        },
-        {
-            "dueDate": "2023-04-07",
-            "jobTitle": "Sales and Trading Executive (Oleochemicals)",
-            "skills": [
-                "Negotiation",
-                "Market Research",
-                "Customer Retention",
-                "Quality Control",
-                "Ability To Work Independently",
-                "Outsourcing",
-                "Sales Management",
-                "Pricing Strategy",
-                "MS Office",
-                "Business Development",
-                "Petrochemical",
-                "Pricing",
-                "Customer Orientation"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "STAMFORD COURT, 61 STAMFORD ROAD"
-            },
-            "company": {
-                "logo": null,
-                "name": "VANCE GROUP LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Vance Group Ltd  Vance Group is a diversified and financially strong business group headquartered in Singapore. Our companies are involved in the manufacturing and trading of chemicals and oleochemicals in Malaysia and Singapore. In recent years, Vance Group has been growing rapidly and is looking for dynamic, independent, and results-oriented individuals to add to our Sales and Trading team. We want individuals who love to get deals done! Individuals who generate strong results and add value to Vance Group will be recognized and compensated commensurately. Based in Singapore, the Sales and Trading Executive will be trading with companies from many countries worldwide, gaining valuable experience in dealing with traders from different cultures and backgrounds. Team members who perform well will be given more decision-making, business development, and other commercial responsibilities. Given the entrepreneurial environment, there is tremendous scope for growth and opportunities for ambitious and talented team members. Location: City Hall Area (Stamford Court)  Title: Sales and Trading Executive (Oleochemicals)  Responsibilities     Responsible for meeting sales targets for the Company’s products   New business development and driving sales growth   Assist in generating and executing trading ideas   Establish new and enhance existing sales channels in various geographical markets   Maintain regular communications with customers to address customer demands in timely fashion   Attend to product enquiries and all customer needs   Assist in developing pricing strategy, giving price quotations, negotiating trade terms and concluding trade contracts   Follow through on sales contracts including payment collection   Conduct regular market research and analyses to stay ahead of demand, supply, competitive and pricing trends   Obtain regulatory approvals and accreditations for products to boost marketability and access new markets   Work with Production and Logistics departments to coordinate production and delivery/shipment schedule   Work with Production and Quality Control departments on determining required product specifications  Requirements    Bachelor’s Degree in Business, Chemicals or related discipline   Preferably with minimum 3-5 years’ experience in sales and trading role within the palm oil, oleochemical, petrochemical, chemical or pharmaceutical industry   Proficient in MS Office applications especially Excel   Dynamic, self-motivated and persevering   Possess strong analytical and problem-solving skills   Possess excellent communication, interpersonal and negotiation skills   Demonstrates strong sense of initiative with the ability to work independently and as a team player   Meticulous and takes strong pride in the quality of one’s work   Results-oriented and able to abide by tight deadlines with a strong sense of responsibility  Please email your resume, cover letter and academic certificates to HRS@vancegroupltd.com. Please include current and expected salary, notice period and reasons for leaving current or past employment.",
-            "datePosted": "2023-03-08",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 6000,
-                "minValue": 3000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/others/sales-trading-executive-vance-group-3de0ca131de66291b24510671774d1da?source=MCF&event=Search",
-            "uuid": "4dc23e02-1567-456f-bb2d-0af1f7e73047"
-        },
-        {
-            "dueDate": "2023-03-27",
-            "jobTitle": "SENIOR ACCOUNTING EXECUTIVE (PROJECT)",
-            "skills": [
-                "Taxation",
-                "Microsoft Office",
-                "Microsoft Excel",
-                "Construction",
-                "Tax",
-                "ACCA",
-                "Selling",
-                "Accounting System",
-                "Bank Reconciliation",
-                "Accounting",
-                "Financial Statements",
-                "Excel",
-                "Team Player",
-                "Audit",
-                "Able To Work Independently"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "72 LORONG 19 GEYLANG"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/c498d3fdc73feb08e5c1ccc6c33785e0/lk-engineering-co-singapore-branch.jpg",
-                "name": "L&K ENGINEERING (SUZHOU) CO., LTD. SINGAPORE BRANCH"
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Job Responsibilities:    Daily preparation of full set of accounts (AP/AR/GL), including generating supplier invoices in the accounting system   Checking and verifying accounts payables and receivable transactions   Reconcile and update bank statements   Work closely with project teams for cost monitoring and resolve any billing discrepancies   Monitor project spending, identifying variance and initiating corrective actions   Manage petty cash for the project at site   Manage both local ; overseas staff salary, expense claims, and OT calculation   Responsible for month-end closing   Responsible for monthly reports to Head Office   Any other ad-hoc tasks as assigned  Job Requirements :    Min. ‘O’ Level certificate   At least 5 years of general accounting working experience in a construction firm   Good knowledge of accounting concepts and double entries   Proficient in MS Excel applications   Must be bilingugal in English ; Chinese, both written and verbal   Independent, a strong team player in the accounting system   Singaporean or PR only   Preferably able to start work immediately ",
-            "datePosted": "2023-02-25",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 6500,
-                "minValue": 3500,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/accounting/senior-accounting-executive-lk-engineering-co-singapore-branch-3df96ffa8ed7f552f261caa7003601de?source=MCF&event=Search",
-            "uuid": "8c56b81e-ed3c-445a-a139-aa094c2d8bbb"
-        },
-        {
-            "dueDate": "2023-03-29",
-            "jobTitle": "Senior Executive/Executive (PACT), Office for Innovation (Contract)",
-            "skills": [
-                "Microsoft Office",
-                "Interpersonal Skills",
-                "Healthcare",
-                "Artificial Intelligence",
-                "Administration",
-                "PowerPoint",
-                "Project Management",
-                "Networking",
-                "Budgeting",
-                "Excel",
-                "Data Analytics"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "OUTRAM COMMUNITY HOSPITAL, 10 HOSPITAL BOULEVARD"
-            },
-            "company": {
-                "logo": null,
-                "name": "SINGAPORE HEALTH SERVICES PTE LTD"
-            },
-            "jobType": [
-                "CONTRACTOR",
-                "FULL_TIME"
-            ],
-            "description": "You will be responsible for facilitating collaborations between SingHealth institutions and local industry partners for the co-development of solutions and/or test-bedding/validation of proprietary technologies or solutions in our institutions. You will also be responsible for organising outreach platforms and events to promote innovation and foster collaborations. You will provide end-to-end support for projects, with supervision from the Senior Manager. This includes project scoping, budgeting, preparation of applications for funding, preparation of approval papers and project fund administration. You will also support the implementation of processes and policies relating to innovation, project management and adoption of innovative products. Job Requirements    Bachelor’s Degree in Biomedical Sciences, Bio-Engineering, Engineering, Data Analytics or related fields.   At least 4 years of working experience with preferably minimum 1 year of relevant experience in healthcare or innovation-related industries   Knowledge in the medical device product development pathway, ISO13485, healthcare technology or digital innovation in healthcare will be an added advantage   Proficient with Microsoft Office applications (MS Word, Excel and Powerpoint)   Excellent communication and interpersonal skills   Must be fully vaccinated against COVID-19 ",
-            "datePosted": "2023-02-27",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 4800,
-                "minValue": 3200,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/admin/senior-executive-executive-office-innovation-singapore-health-services-47670b074b9c0f183b2a4f2f667c6514?source=MCF&event=Search",
-            "uuid": "294c1ccc-6650-4b7b-b689-b7fe8bf4d792"
-        },
-        {
-            "dueDate": "2023-04-07",
-            "jobTitle": "Client Management (Order Processing / MNC / Supply Chain)",
-            "skills": [
-                "Global Logistics",
-                "Negotiation",
-                "account manage",
-                "Inventory",
-                "Supply Chain",
-                "client accounts",
-                "Demand Planning",
-                "Time Management",
-                "Customer Service",
-                "Manufacturing",
-                "Shipping",
-                "Customer Service Experience"
+                "Mentoring",
+                "Application Architecture",
+                "Web Services",
+                "Kubernetes",
+                "Oracle",
+                "Analytical Skills",
+                "SOAP",
+                "MySQL",
+                "Scripting",
+                "SDLC",
+                "Angular",
+                "Docker",
+                "Java",
+                "Databases",
+                "Software Development",
+                "Agile Development"
             ],
             "location": {
                 "country": "SG",
@@ -738,22 +323,400 @@
                 "address": null
             },
             "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/5ec4c84479b9a0ae3dbe429c4f427f40/corestaff.png",
-                "name": "CORESTAFF PTE. LTD."
+                "logo": null,
+                "name": "TELESOURCE EXECUTIVE SEARCH PTE. LTD."
             },
             "jobType": [
                 "FULL_TIME"
             ],
-            "description": "Summary To solidify business relationships and develop professional rapport with the existing major customers. Act as a main interface between customers and internal cross functional team to optimize the best business practice. To work closely with Business Manager to give periodic review and evaluation of present accounts.  Responsibilities:    Responsible for day-to-day coordination of all aspects of Client’s business requirement ensuring consistent and good service level are delivered to clients.   Provide customer service support by corresponding to attend client’s enquiries and requirement on order information/status, quotation, shipping, with emphasis on accuracy and timeliness.   Advising client on delivery schedule and inventory availability.   Follow up closely to ensure resolution of all problems and issues from Clients.   Work closely with all cross-functional teams to ensure clients’ operational requirements are met and/or manage client expectations.   Initiate continuous processes improvement.   Provide business reports to Management and client on a weekly/monthly basis.   Might need to participate in Demand planning with the client if the situation calls for.  Requirements:    Minimum Diploma in Business or equivalent.   2 years of working experience in order management or customer service.   Experience in supply chain, logistics and manufacturing preferred.   Excellent time management and interpersonal relationships at all levels, cross-functional   Strong analytical and problem-solving skills, Good negotiation.   Good verbal and written communication skills.  How to Apply: Qualified or interested candidates, please submit your updated resume by using the Apply Now Button  **We regret to inform that only shortlisted candidates would be notified. **  Lee Yuh Shiuan Registration Number: R21101101 EA License Number: 18C9027",
-            "datePosted": "2023-03-08",
+            "description": "Job Description: Posting Title: Technical Lead (Java) Job Summary: A Java Technical Lead designs and recommends technical solutions for IT-related issues. The responsibilities of a Java Technical Lead include working with developers to ensure quality deliverables, mentoring junior level staff, and identifying issues that affect product delivery. Job Description: We are looking for an experienced Java Technical (Tech) Lead to be responsible for providing solutions for technical issues which may affect product delivery. He or she will facilitate requirement analysis, conduct code reviews, provide feedback, and enhance frameworks. To be successful as a Java Tech Lead, you should demonstrate sound knowledge of industry best practices, good organizational and leadership skills, and proficiency in JAVA technologies. Ultimately, the Java Tech Lead should possess good analytical skills, the ability to anticipate issues and frame remedial actions, and excellent teamwork skills. Roles and Responsibilities:    To perform requirement analysis and oversee the implementation of architectures of project scope   To provide customized reusable solutions of project, program or operational scope   To develop high-quality and detailed designs   To conduct unit testing using automated unit test frameworks and identify and address possible risk by conducting mitigation action planning   Conducting configuration of your own work or from the team and assess the technical impact of multiple technologies/strategies   Reviewing the work of other developers with feedback for improvement (if applicable)   Using coding standards and best practices to ensure quality deliverables   Contribute as a team member to an operational, integration or application architecture requirements, design, implementation, or on-going operations deliverables  Requirements:    Candidate must possess at least a Diploma/Degree in Computing/Information Technology or equivalent   At least 5 years of development experience in Java   Experience in Spring/Spring Boot framework   Experience in relational databases such as Oracle and MySQL   Experience in implementing web services such as SOAP and RESTful web services   Experience in frontend frameworks such as Angular, Struts, jQuery and Bootstrap   Experience in batch processing implementations   Have implemented some form of custom frameworks such as security and validations   Have some team leading experience   Good verbal and written communication skills   Advanced understanding of modern software development methodologies   Advanced understanding of software testing methodologies, scripting and tools   Minimum experience of three or more full SDLC for web application projects   Ability to work effectively in a team and with client  Good to have:    Experience in Agile development environments   Experience in DevOps toolchains   Experience in container platforms such as Docker and Kubernetes   Experience in messaging platforms such as Kafka and IBM MQ   Experience in Application Servers configurations like WebSphere and WebLogic will be an advantage   Experience in software testing tools such as Selenium, Karate, Microfocus UFT and Katalon ",
+            "datePosted": "2023-02-20",
             "salaryRange": {
                 "currency": "SGD",
-                "maxValue": 3500,
-                "minValue": 3000,
+                "maxValue": 10000,
+                "minValue": 5000,
                 "payPeriod": "MONTH"
             },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/customer-service/client-management-corestaff-4ba24484040f303f8aa0fc0723c13767?source=MCF&event=Search",
-            "uuid": "c322076d-3de8-49df-9769-17eba5017607"
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/tech-lead-telesource-executive-search-e440bc1054f1f1f984a6f4c0001a3019?source=MCF&event=Search",
+            "uuid": "66c9a421-6a59-4a57-b59a-05ec2786db88"
+        },
+        {
+            "dueDate": "2023-04-05",
+            "jobTitle": "Tech Lead",
+            "skills": [
+                "Mentoring",
+                "Application Architecture",
+                "Kubernetes",
+                "Quality Assurance",
+                "User Experience",
+                "Architects",
+                "Agile",
+                "SQL",
+                "Ruby",
+                "JIRA",
+                "Banking",
+                "Team Leader",
+                "Docker",
+                "Java",
+                "API",
+                "Software Development"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "EON SHENTON, 70 SHENTON WAY"
+            },
+            "company": {
+                "logo": null,
+                "name": "CAG REGIONAL SINGAPORE PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "We are looking for a Technical Lead to lead a cross functional team serving our customer's needs.  THE ROLE    An obsessive automator who only wants to manually test things once.   A concise documenter who takes as much care of their README.md as they do their service interface.   An owner end to end, Frontend, Backend, CI/CD, Operations, understanding what it takes to build a resilient, scalable service and support it in production.   A problem solver focused on user experience.   A team leader, with prior experience mentoring junior engineers and facing off to business stakeholders.   Experienced with React and Ruby or similar frameworks   Familiar with AWS, Kubernetes and write your applications Docker first.  YOUR TASKS    Lead a team of engineers to drive monetisation initiatives within the company.   Build high quality, fault tolerant systems and products, owning all areas of implementation, frontend, backend, CI pipeline, automated test suites and operations.   Work with your product owner and business stakeholders to define the product and tech roadmaps.   Mentor the engineers within your team.   Engage with the wider engineering organization, making sure your tech roadmap aligns with the other teams ",
+            "datePosted": "2023-03-06",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 14000,
+                "minValue": 12000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/tech-lead-cag-regional-singapore-67cfb27c0a4d7bbd3865bf7038f1a951?source=MCF&event=Search",
+            "uuid": "04368c07-8edc-4bd3-9dd8-d8a5762762ad"
+        },
+        {
+            "dueDate": "2023-03-15",
+            "jobTitle": "Finance Manager (Tech)",
+            "skills": [
+                "Forecasting",
+                "Microsoft Excel",
+                "Financial Management",
+                "Interpersonal Skills",
+                "Tax",
+                "Accounting",
+                "Budgeting",
+                "Cash Flow",
+                "Audit",
+                "Corporate Finance",
+                "Financial Reporting"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "SINGAPORE LAND TOWER, 50 RAFFLES PLACE"
+            },
+            "company": {
+                "logo": null,
+                "name": "RANDSTAD PTE. LIMITED"
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "About the company An established information technology system integrator serving the B2B markets is looking for a hands-on Finance Manager to join their finance team.  About the job Report to the CFO, you will be leading a sizeable finance team in managing the full spectrum of financial management and oversee all accounting operations. You will ensure accurate management reporting, budgeting, planning and forecasting activities. You will be the go-to-person and advise on latest developments in financial regulatory standards, while driving continuous improvements to business processes, controls and policies. You will also support their corporate finance activities including fund-raising activities.  Skills and experience required You are professional qualified (such as, CPA/CA) with at least 6 years of hands-on finance/accounting operations experience. You have prior managerial experience, proactive and strong interpersonal skills. Due to urgency of the position, those with immediate basis or less than 1 month notice will be considered. You are also comfortable travelling to the Changi Business Park (office site).  Why is this a good role? A high visibility position as you work directly with the CFO. This is a company which provides internal mobility opportunities and has a cooperative culture.   If you are looking for a fast-paced environment, please click the 'apply' function for a smooth easy process to register your interest and CV for the role. Consultant-in-charge: Stella Tan (EA: 94C3609 \\R1984239).  https://www.linkedin.com/in/sgtanstella   Applicants must be fully vaccinated or have a valid exemption in accordance with MOM’s regulations to allow them to enter the workplace. Applicants may be required to share verifiable COVID-19 vaccination documents or proof of a valid exemption at the point of offer. Randstad Pte. Limited and/or the Client reserves the right to withdraw an offer if the applicant fails to provide verifiable COVID-19 vaccination and/or proof of exemption documents.",
+            "datePosted": "2023-02-13",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 8000,
+                "minValue": 7000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/accounting/finance-manager-randstad-10dc98413c32f72e1a1c2852546b2ec6?source=MCF&event=Search",
+            "uuid": "2d4823fc-6fdb-480b-878d-4d3cca319196"
+        },
+        {
+            "dueDate": "2023-03-21",
+            "jobTitle": "IT Tech Support",
+            "skills": [
+                "Troubleshooting",
+                "Microsoft Office",
+                "Analytical Skills",
+                "Hardware",
+                "Information Technology",
+                "Computer Hardware",
+                "IT Operations",
+                "Operating Systems",
+                "Teamoriented",
+                "Product Development",
+                "Databases",
+                "Linux",
+                "Software Development",
+                "Service Delivery",
+                "Firewalls"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "SYNAPSE, 3 BIOPOLIS DRIVE"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/f69d0de4404357caea26a17484c300ba/nitto-denko-asia-technical-centre.jpg",
+                "name": "NITTO DENKO ASIA TECHNICAL CENTRE PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Job Responsibilities:    Install, upgrade, support for IT Resources including areas such as computer hardware, operating systems, applications, and any other Company’s authorized peripheral equipment   Troubleshoot system, network problems, diagnosing and solving hardware or software faults   Support IT infrastructure components such as servers, storage, networks (WAN, LAN, Firewalls, etc.) and workstations etc   Support with the testing and installation of new applications and update patches, follow-up with users to ensure the problem is resolved including maintaining an IT library.   Administer, manage and decommissioning of the IT Resources as per Company’s disposal policy and procedures   Work together with cross border team(s) including external service providers for performance of IT operations   Ensure and follow standard IT service delivery processes in accordance with Company’s IT policies and procedures   Proactively work with internal teams to optimize and improve IT support processes and procedures   Maintain up to date documentation for all IT related matters including areas for IT infrastructure components and IT operation processes   Ensure technical and application incidents within domain are addressed and resolved, record events and problems and their resolution in logs   Perform testing and evaluation of new technologies   Analyze and develop appropriate computing techniques in support for product development   Research and develop forward computing software techniques for software and application   Work with IT and software teams to provide feasible applications including review of codes   Work and support software development teams for product development.   Work with production engineering teams on app functional tests, systems, databases, and networks for NPI needs.   Drafting of documentation relating to software solutions introduced towards product development  Job Requirements:    Minimum Diploma/Degree in Computer Science or Information Technology or any IT-related discipline   Working knowledge and expertise with a variety of software, hardware, and applications.   Prior experience in desktop support / IT support or in a similar role   Proficiency in Windows/Linux/Mac OS   Proficient in Microsoft Office Skills is mandatory   Experience in system/network/software troubleshooting   Certification in Microsoft, Linux, or Cisco is advantageous   Analytical skills to study problems including its records and identify plausible solutions.   Team-oriented attitude to help other colleagues and departments with technical problems   Strong interpersonal communication and relationship-building skills   Ability to manage time and effectively prioritize numerous projects at one time ",
+            "datePosted": "2023-02-28",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 3400,
+                "minValue": 2500,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/tech-support-nitto-denko-asia-technical-centre-6345218083f8440a8ddb98833d91d26a?source=MCF&event=Search",
+            "uuid": "ba3064ae-6e42-43a4-82be-8445d69b2a35"
+        },
+        {
+            "dueDate": "2023-04-05",
+            "jobTitle": "Tech Sales Rockstar",
+            "skills": [
+                "Ability to Multitask",
+                "Sales",
+                "Leadership",
+                "Business Acumen",
+                "Relationship Management",
+                "Marketing",
+                "Workflow Management",
+                "Adaptable",
+                "B2B",
+                "Written Skills",
+                "Accountability",
+                "Presentation Skills",
+                "Team Player",
+                "Business Development"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "CYBERHUB NORTH, 54 SERANGOON NORTH AVENUE 4"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/4a7d80751ba577c2767710c07288319c/terra-systems.jpg",
+                "name": "TERRA SYSTEMS PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Are you a highly skilled and driven individual looking to take your career to the next level? Look no further than Terra Systems! We are a dynamic company with hundreds of employees across the Asia Pacific region, specializing in innovative communications solutions and services using cutting-edge AI and Cybersecurity technologies.  We are seeking a Tech Sales Rockstar to join our team of talented business professionals. In this role, you will be responsible for conceptualizing, developing, and executing strategic sales and marketing campaigns across multiple channels to drive and optimize key KPIs and growth metrics for our company. You will focus on Enterprise Cybersecurity and IT Solutions, including AI Software (Chatbot, DMS, and Workflow Management), and will be expected to contact potential clients and business partners to establish rapport and collaborate with the Marketing and Business Development Divisions to generate a strong pipeline of leads.  At Terra, we believe in fostering a culture that rewards excellence and encourages accountability. We understand that every decision we make has a direct impact on the success of our company, and we hold ourselves to the highest standards of professionalism and integrity. We are looking for someone who is confident and able to display leadership qualities, is a strong communicator with excellent verbal and written skills, creative with a keen eye for details, and a proactive team player who enjoys working with other highly motivated individuals.  To be considered for this role, you must have at least 5 years of business development and/or relationship management experience in the IT or Cybersecurity industry, with a demonstrated track record of success in B2B sales. You must possess a degree in IT or a relevant field, excellent communication and presentation skills, and the ability to build rapport. The ideal candidate will have a strong business acumen, be dynamic and highly adaptable to the business's needs and priorities and possess the ability to multitask and wear many hats if required.  If you are looking to make an impact and play a part in shaping the AI and Cybersecurity Technology industry globally, we encourage you to send your CV and expected salary to us. Join our team of talented business professionals to plan and execute business initiatives that support Terra's business growth in the Asia Pacific region!",
+            "datePosted": "2023-03-06",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 10000,
+                "minValue": 6000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/sales/tech-sales-rockstar-terra-systems-dd12ff89aab70e008581e59af609268f?source=MCF&event=Search",
+            "uuid": "ea7edf47-f044-4b2f-aaae-19c21bba9f0f"
+        },
+        {
+            "dueDate": "2023-04-02",
+            "jobTitle": "Tech, Operations",
+            "skills": [
+                "Team Collaboration",
+                "Troubleshooting",
+                "Microsoft Office",
+                "Housekeeping",
+                "Interpersonal Skills",
+                "5S",
+                "Problem Solving",
+                "Raw Materials",
+                "Manufacturing Operations",
+                "Vaccines",
+                "Compliance",
+                "Audits",
+                "Kaizen",
+                "Manufacturing",
+                "Biopharmaceuticals"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": null
+            },
+            "company": {
+                "logo": null,
+                "name": "MSD INTERNATIONAL GMBH (SINGAPORE BRANCH)"
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Tech, Operations    Develop strategies that align with business imperatives   Based in Singapore, the regional hub for Asia Pacific (AP) and top-ranked biopharmaceutical company on the Straits Times and Statista’s list of Best Employers in Singapore for two consecutive years (2020, 2021).   Join the premier biopharmaceutical company that has been in Singapore for more than 25 years and in AP for over 60 years.  Our Manufacturing Operations teams are the people that make our products. We work in the manufacturing plants with a “Safety First, Quality Always” mindset striving for continuous improvement. We work in the local plant connected to our global manufacturing network to ensure the highest quality of raw materials, intermediates and finished products.  Working in 8 hours day shift from Monday to Friday reporting to Shift Production Manager, you are responsible for supporting and executing the Packaging operations Start-Up. This involves working closely together with cross functional team to ensure Safety, Quality, Compliance and Operational aspects of the packaging lines during start-up of new vial packaging line and subsequently support routine Packaging operations activities, operation ; troubleshooting of the equipment to ensure they meet GMP, regulatory and supply requirements.  WHAT YOU WILL DO Responsibilities include, but are not limited to: Safety ; Compliance    Meet site’s Safety, Health and Environment (SHE) performance objectives and participate in improvement initiatives   Perform Packaging operations as per production operational needs and ensure Safety and cGMP requirements are met.   Actively contribute to resolve problems and seek improvement opportunities within the work module assigned   Implement corrective actions as documented following regulatory inspections and internal audits.   Ensure operations related activity is completed according to established procedures and all associated documentation is completed to a high standard.   Participate in and supports the implementation of actions for Investigations and Audits.   Participate in Emergency Response Team (ERT) as a team member when assigned.  Enhance and uphold Operations Quality    Responsible for completing all assigned operational tasks, whilst ensuring documentation is accurate and completed for the assigned equipment.   Able to provide constructive feedback and solutions to issues identified in the work place.   Responsible to participate in improvement projects and actively generate ideas   Ensure both operational knowledge and technical skills are maintained and compliant based on training requirements.   Use tier meetings and other opportunities to engage positively with others so as to foster team collaboration and co-create a high performance work environment.  Operations Excellence    Meet performance metrics of the assigned operations.   Responsible for maintaining good facility housekeeping and pro-actively carry out minor repair works on packaging equipment   Effectively communicates throughout the shift and during shift handover. Escalate operational issues to appropriate level when required.   Provide detailed information for all operational events to assist in Quality notification investigations.   Perform routine GMP equipment cleaning/minor maintenance and equipment set-up, and support area cleaning as assigned.   Resolve issues in a timely manner and participate in continuous improvement initiatives.   Situationally aware and perceptive while operating the machinery.   Ensure packaged products meet safety and quality specifications  Problem solving    Analyze and recommend solutions for identified issues   Support Production and Maintenance teams on problem solving and troubleshooting.   Able to properly assess the situation and understand when to escalate to a higher level.   Work together with the team to use 5S tool to maintain the working environment and perform Kaizen for improvement activities.  WHAT YOU MUST HAVE To be successful in this role, you will have:    O-level / Diploma in Technical Area   3 to 5 years previous manufacturing experience in the pharmaceutical or similar industry.   Strong background in operation of chemical/pharmaceutical systems including hands-on experience.   Familiarized with cGMP working environment and good understanding of safety practices   Good oral/written communication and interpersonal skills.   Basic knowledge in using Microsoft Office   Normal office working hour (Monday to Friday 8am to 5pm)  WHAT YOU CAN EXPECT    Opportunity to work in a market giant  Our Manufacturing ; Supply Division is committed to be the most trusted supplier of bio-pharmaceuticals worldwide. Our facilities, along with our external contractors, suppliers, and partners, create an interdependent global manufacturing network that’s committed to delivering a high quality, reliable supply to customers and patients on time, every time.  Who we are… We are known as Merck ; Co., Inc., Rahway, New Jersey, USA in the United States and Canada and MSD everywhere else. For more than a century, we have been inventing for life, bringing forward medicines and vaccines for many of the world's most challenging diseases. Today, our company continues to be at the forefront of research to deliver innovative health solutions and advance the prevention and treatment of diseases that threaten people and animals around the world.  What we look for… Imagine getting up in the morning for a job as important as helping to save and improve lives around the world. Here, you have that opportunity. You can put your empathy, creativity, digital mastery, or scientific genius to work in collaboration with a diverse group of colleagues who pursue and bring hope to countless people who are battling some of the most challenging diseases of our time. Our team is constantly evolving, so if you are among the intellectually curious, join us — and start making your impact today.  We are proud to be a company that embraces the value of bringing diverse, talented, and committed people together. The fastest way to breakthrough innovation is when diverse ideas come together in an inclusive environment. We encourage our colleagues to respectfully challenge one another’s thinking and approach problems collectively. We are an equal opportunity employer, committed to fostering an inclusive and diverse workplace.",
+            "datePosted": "2023-03-03",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 4200,
+                "minValue": 2300,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/repair-maintenance/tech-operations-msd-international-gmbh-62b3b7c0c5cdb5911449e934b38acc94?source=MCF&event=Search",
+            "uuid": "63ca8b39-2565-4008-aef2-87b185c539c8"
+        },
+        {
+            "dueDate": "2023-03-19",
+            "jobTitle": "Tech Lead(Payments)",
+            "skills": [
+                "Git",
+                "Troubleshooting",
+                "Kubernetes",
+                "Scrum",
+                "TypeScript",
+                "User Experience",
+                "Architects",
+                "Agile Methodologies",
+                "JavaScript",
+                "HTML5",
+                "JUnit",
+                "JIRA",
+                "Technical Architecture",
+                "Usability Design"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "FORTUNE CENTRE, 190 MIDDLE ROAD"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/6e75040574f0e00a8948d6cd7248f3f4/rapsys-technologies.png",
+                "name": "RAPSYS TECHNOLOGIES PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Role: Tech Lead(Payments)  JD:    Develop modern micro-frontends, using DevOps practices to develop, test and deploy.   Develop responsive and mobile friendly designs.   Develop robust solutions with focus on security, performance, internationalization, and   browser-compatibility.   Understand the business process requirements and drive the detailed design of the   application and technical architecture components.   Configure, build and test application and technical architecture components of quality   and security.   Work with other developers, designers, and architects to make sure that the   configuration and custom components meet application requirements and performance   goals.   Plan and execute all required process steps as defined in our Agile methodologies.   Anticipate, identify, track, and resolve issues and risks affecting the delivery.   Perform L2 troubleshooting duties.  Requirements    Bachelor's Degree in Computer Science or relevant field.   At least 5 years of relevant experience in full stack development framework.   Understand and develop coherent user experience flows.   Able to collaborate in a Scrum team setting cohesively.   Perform effectively as an individual when needed.   Demonstrate clarity in communicating and presenting complex information to technical and non-technical stakeholders, both verbally and in written form.   Familiar with the following technologies:  Frontend Focus    Script: JavaScript, TypeScript, ES6, jQuery   Design ; Style: HTML5, Responsive/Adaptive Design, Design Thinking, Usability   Design, CSS3, LESS, SASS, Bootstrap   Frameworks: (At least one of the following) ReactJS + NextJS, AngularJS, VueJS   Backend: NodeJS, ExpressJS   Web DevOps ; Test: Jira, BitBucket/Git, Cypress, Jasmine, Selenium, Jest   Familiarity with AWS components such as Lambda, is a plus  Backend Focus    Frameworks: (At least one of the following) Spring Boot, Quarkus   DevOps ; Test: Git, Jenkins, SonarQube, JUnit, JMeter   Proficient in JIT 11 and up.   Familiarity with Kubernetes platform such as Openshift, is a plus ",
+            "datePosted": "2023-02-17",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 8000,
+                "minValue": 6500,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/tech-lead-rapsys-technologies-d574f53a14edb066d85f676834278ae9?source=MCF&event=Search",
+            "uuid": "ebaacac6-83dd-4813-bf00-683aee19c0b2"
+        },
+        {
+            "dueDate": "2023-03-17",
+            "jobTitle": "Tech Lead (ETL)(#1986054)",
+            "skills": [
+                "Teradata SQL",
+                "Leadership",
+                "Derivatives",
+                "Modeling",
+                "Data Modeling",
+                "Wholesale Banking",
+                "Loans",
+                "Workflow Analysis",
+                "Interpreting",
+                "Retail Banking",
+                "Good Communication Skills",
+                "Deposits",
+                "Banking",
+                "Data Science"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "PLAZA 8 @ CBP, 1 CHANGI BUSINESS PARK CRESCENT"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/fb0c580773376abeb9080f6022b73f72/wipro.png",
+                "name": "WIPRO LIMITED (SINGAPORE BRANCH)"
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Job Description - Should have good knowledge in Retail Banking concepts.   - Should have in depth knowledge in Cards, Loans, Mortgages, Deposits and   Derivatives.   - Should have experience as a Data Analyst with good hands on experience in   creating statistical data models using Python/R Program.   - Should be capable of interpreting the model output and provide impactful   conclusions and suggestions to improve the business.   - Knowledge in Wholesale banking products will be an added advantage.   - Should possess basic knowledge in Teradata SQL.   - Should have good communication skills and should be able to elicit   requirement's from the Clients and document them.   -Should have In- depth knowledge in Datastage.   -Should have Good understanding of Datawarehousing concepts.   -Should have Requires exceptional expertise in development and detailed   knowledge of industry trends.    -Should have Applied the highest level technical skill and expertise in   project/team leadership to highly complex projects and problems. Job Requirements Key skills required for the job are: - Data Science (Python/R Programing) - Datastage Development  - Banking Domain-L3   As a Technical Lead with the banking domain knowledge, you are responsible for supporting project teams ; team members in terms of research and background information. You are expected to elicit and detail the client requirements via industry standard analysis techniques such as data flow modeling, case analysis, workflow analysis, functional decomposition analysis, data modeling, and object modeling. You are expected to documents the results of analysis activities using appropriate templates or tools. You are responsible across areas like requirement definition, execution and evaluation of functional tests, review, testing and analysis. You are expected to be a subject matter expert in a chosen area/function. You should have in-depth knowledge in Data Science like Python/R Programming and should be able to create data models based upon the financial data and interpret the same to provide business solutions and lead the team in development/Support.",
+            "datePosted": "2023-03-03",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 10000,
+                "minValue": 7000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/banking-finance/tech-lead-wipro-7a9717342913f4a102616c5feac9b26f?source=MCF&event=Search",
+            "uuid": "405c28e8-d366-425b-b31c-e1d80dc30a14"
+        },
+        {
+            "dueDate": "2023-03-31",
+            "jobTitle": "SFCC Tech Lead",
+            "skills": [
+                "Application Architecture",
+                "Analytical Skills",
+                "Modeling",
+                "Team Spirit",
+                "Agile Methodologies",
+                "Problem Solving",
+                "Requirements Analysis",
+                "User Acceptance Testing",
+                "Java",
+                "API",
+                "Software Development",
+                "Business Requirements"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "OXLEY BIZHUB, 73 UBI ROAD 1"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/038b5558fa6cdb2e21e99c3cfa9b48d8/ranosys-technologies.jpg",
+                "name": "RANOSYS TECHNOLOGIES PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": " SUMMARY: The Technical Analyst plays a crucial role within a result driven, innovative Ecommerce solution. Besides owns and tracks the business requirements, the ideal candidate needs to be able to organize and execute user acceptance test, organize training and hand over the validated system feature, provide daily support to client team when they have challenge on playing with SFCC platform. Essential Duties and Responsibilities include but are not limited to the following: • Partner with key clients in the Asia Pacific region to analyze E-Commerce process and integration gaps, elicit and capture complete and unambiguous system requirements, and break down complex processes into workable units. • Listen to client’s stakeholders in order to understand the high-level objectives down to the fine details and convert to accurate functional and non-functional requirements. • Own the quality and accuracy of the requirements and communicate changes and decisions to the relevant stakeholders and teammates. • Represent user, system, functional and non-functional requirements using traditional modeling artifacts that are efficient for Ranosys. • Develop test plans and test scenarios in accordance with business requirements. • Execute and document test results including functional and regression scenarios. • Lead training and User Acceptance Testing for regional teammates.  Technical Attributes of Ideal Candidate: include but are not limited to the following:   Proven track record with industry leading companies utilizing strong problem solving and analytical skills to understand business challenges and opportunities in the context of the requirements.  5 years of proven experience in business and technical requirements analysis within the Ecommerce industry, knowledge of the Sales Force Commerce Cloud platform is a plus.  Experience working within teams using waterfall and agile methodologies.  Exceptional verbal and written communication skills including the ability to communicate complex and technical concepts breakdown to appropriate level, and the courage to ask compelling and clarifying questions to ensure accuracy and understanding.  Find creative solutions to complicated and unexpected problems by leveraging teammate experience and expertise.  Proven success facilitating meetings that motivate the team, encourage participation, remain on topic, and generate expected outcomes.  Self-starter with a positive attitude and ability to work under pressure in a challenging fast paced environment with tight deadlines. Balances team and individual responsibilities and contributes to building a positive team spirit.  Excellent time management skills with ability to manage multiple tasks and assignments concurrently and deliver on commitments.  A sincere and contagious passion for building Ranosys, and a fit with Ranosys cultural values.  Fluency in English",
+            "datePosted": "2023-03-01",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 12000,
+                "minValue": 8000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/sfcc-tech-lead-ranosys-technologies-368656c545cac0d62ba1ea6f1139ff64?source=MCF&event=Search",
+            "uuid": "1c203916-f26e-4348-a387-a1936784b6c2"
+        },
+        {
+            "dueDate": "2023-03-18",
+            "jobTitle": "Marketing Executive (Food Tech)",
+            "skills": [
+                "Management Skills",
+                "Web Design",
+                "Advertising",
+                "Analytical Skills",
+                "Administration",
+                "3D",
+                "Business Process Improvement",
+                "Online Marketing",
+                "Writing",
+                "Marketing Management",
+                "Publications",
+                "Social Media Marketing",
+                "Product Development",
+                "Stakeholder Management",
+                "Adobe Photoshop"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "83  Science Park Drive"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/cb77bfaf7825af3ecb209dd06ac66942/kosmode-health-singapore.png",
+                "name": "KOSMODE HEALTH SINGAPORE PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "   COMPANY BACKGROUND  Kosmode Health Singapore Pte Ltd , https://kosmodehealth.com/, a National University of Singapore start-up, is a Singapore-based Holding company with a wholly owned subsidiary in Suzhou, China. KosmodeHealth’s mission is to expand access to health from nature by valorising food processing waste into functional ingredients for functional food applications, and into functional materials for 3D cell culture applications. Example of functional ingredients are protein ; fibre extracted from Spent Barley Grains. The extracted protein ; fibre has been formulated into the world’s only functional food with zero blood sugar response, branded as W0W®Noodles  https://www.w0wnoodle.com/. Example of functional materials are Plant Protein Composite (PPC™) bioink formulated with protein extracted from food processing waste. The PPC™ bioink is 3D printed into Plant Protein Composite (PPC™) scaffold for culturing of cells. Having laid a strong foundation, KosmodeHealth is poised for business outreach and growth. As we expand our business operations, we seek talents who thrives on solving industry problems, is a resourceful, multi-tasker with the resilience and perseverance to drive success in people-centric culture where integrity is the core value and quality a given.  OVERALL JOB SCOPE ; RESPONSIBILITIES Role ; Responsibilities The Marketing Executive/Manager achieves set business objectives through product portfolio planning ; management, developing ; executing strategic marketing plans ; campaigns to drive both top line and bottom-line growth for the organization and individual product lines. Specific tasks include    Keeping abreast of market trends ; environment   Coordinate with Product Development team on new product launches and campaigns.   Develop product/packaging/ branding design and marketing campaigns for existing and new product launches.   Ensure consistent communication of corporate and product positioning and core messages with regular training of company staff.   Coordinating ; execution of marketing strategies/ activities ; online and offline events.   Branding, advertising, and promotional campaigns.   Analyze data to evaluate the success of their marketing efforts and come up with new ideas to improve brand marketing and exposure   Generating new businesses; planning ; organizing marketing events ; activities for customers’ acquisition, retention ; growth.   Work closely across departments to ensure alignment and development of efficient and effective processes in line with business objectives, coordinating business process improvement with internal stakeholders.   Lead interface for sales with marketing, production, quality, logistics and other internal functions to ensure timely fulfilment of customers’ orders.   DESIRED CANDIDATE PROFILE Academic Qualifications ; Experience    Bachelor’s degree in marketing, finance, business administration and related field, with at least 2 years of experience in product and/or marketing management.   Diploma holder with at least 5 years relevant marketing experience can be considered.   Ability to read and understand scientific publications is a basic requisite.  Preferred Skills and Experience As a lean start-up, KosmodeHealth has a flat organization structure where all staff is personally responsible for achievement of set objectives, in a multi-faceted dynamic, fast paced environment. The successful candidate has the following characteristics:    A resourceful, self-driven individual who thrive in a dynamic fast-paced environment.   Excellent communication ; stakeholder management skills   Good problem-solving skills with demonstratable ability to think creatively and innovatively   Good time/budget management with proven ability to perform in  a resource constraint environment.   Analytical skills to forecast and identify trends and challenges   Familiarity with the latest trends, technologies and methodologies in graphic design, web design, production, etc.   Strong decision-making ability. ",
+            "datePosted": "2023-02-16",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 4500,
+                "minValue": 3200,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/advertising/marketing-executive-kosmode-health-singapore-de8fec2046b2877fc41bf5727fd56dc7?source=MCF&event=Search",
+            "uuid": "1f0eb870-9bf9-44ad-8410-423c6f465564"
         }
     ]
 }
