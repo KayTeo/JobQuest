@@ -14,6 +14,10 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service as ChromeService
 from webdriver_manager.chrome import ChromeDriverManager
 import uuid
+import os
+from selenium.webdriver.support.wait import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+import sys
 
 def formatData(data):
     regex = re.compile(r'<[^>]+>')
@@ -47,7 +51,8 @@ def formatData(data):
     new_data['salaryRange']['currency'] = json_obj['baseSalary']['currency']
     new_data['salaryRange']['maxValue'] = json_obj['baseSalary']['value']['maxValue']
     new_data['salaryRange']['minValue'] = json_obj['baseSalary']['value']['minValue']
-    new_data['salaryRange']['payPeriod'] = json_obj['baseSalary']['value']['unitText']  
+    new_data['salaryRange']['payPeriod'] = json_obj['baseSalary']['value']['unitText'] 
+    new_data['jobLink'] = json_obj['jobLink']
 
     #Adds uuid in field "uuid"
     new_data['uuid'] = str(uuid.uuid4())
@@ -60,7 +65,14 @@ def formatData(data):
 #Takes a valid url of list of searched jobs and driver, a selenium webdriver object
 def getCardLinks(url, driver):
     driver.get(url)
+    try:
+        element = WebDriverWait(driver, 10).until(
+        EC.presence_of_element_located((By.XPATH, "//*[contains(@data-testid, 'job-card-link')]"))
+    )
+    finally:
+        pass
     elements = driver.find_elements(By.XPATH, "//*[contains(@data-testid, 'job-card-link')]")
+
     links = []
 
     #Note: Each search page contains 20 entries
@@ -75,14 +87,17 @@ def getCardJSON(cardURL, driver):
     elements2 = driver.find_elements(By.XPATH, "//*[contains(@type, 'application/ld+json')]")
     for e in elements2:
         if("baseSalary" in e.get_attribute('innerHTML')):
-            return e.get_attribute('innerHTML')
+            str = e.get_attribute('innerHTML')
+            str = str[:len(str) - 1]
+            str = str + ", \"jobLink\" : \"" + cardURL + "\"}"
+            return str
     return "Not found"
 
 #Overall function to return results of a single search
 #filename parameter is the file the data will be appended to in JSON format. If file does not exist, it will be created.
 #keywords is the search terms
 #salary indicates salary range of job contains salary value
-#employment must be one of following values: Permanent, Full Time, Part Time, Contract, Flexi-Work, Temporary, Freelance, Internship/Attachment
+#employmen must be one of following values: Permanent, Full Time, Part Time, Contract, Flexi-Work, Temporary, Freelance, Internship/Attachment
 #page returns the nth page of the search results
 def getJobData(filename, keywords = "", employmentType = "", salary = "", startPage = 0, pages = 5):
     
@@ -93,25 +108,40 @@ def getJobData(filename, keywords = "", employmentType = "", salary = "", startP
     
     #Generate URL
     links = []
-    
+    filename = os.path.dirname(os.path.realpath(__file__)) + filename
+    #Erase previous file
+    f = open(filename, "w+", encoding='utf8')
     for i in range(startPage, startPage + pages):
         targetURL = "https://www.mycareersfuture.gov.sg/search?search=" + keywords + "&salary=" + salary + "&employmentType=" + employmentType + "&sortBy=relevancy&page=" + str(i)
         links += getCardLinks(targetURL, driver)
-    f = open(filename, "a")
+    f = open(filename, "a", encoding='utf8')
     #Note: Each search page contains 20 entries
+    f.write("{\"jobs\" : [\n     ")
     for link in links:
         data = getCardJSON(link, driver)
         if(data == "Not found"):
             pass
         else:
             data = formatData(data)
-            with open(filename, 'a', encoding='utf8') as f:
-                f.write(data)
+            #Set to w mode to delete file before writing
+            f.write("\t" + data + ",")
 
-                #Delimiter for next record for reading purposes
-                f.write('\n\r')
+            #Delimiter for next record for reading purposes
+            f.write('\n\r')
+    f = open(filename, "rb+")
+    f.seek(-4, os.SEEK_END)
+    f.truncate()
+    f = open(filename, "a", encoding='utf8')
+    f.write("\n\t]\n}")
+    f = open(filename, 'r', encoding= 'utf8')
+    formatted = json.dumps(json.loads(f.read()), indent = 4, ensure_ascii = False)
+    f = open(filename, 'w', encoding= 'utf8')
+    f.write(formatted)
     f.close()
     driver.close()
 
-#Test function
-getJobData(filename = "newTest.json", keywords = "tech", pages = 1)
+#NOTE: Python script spawned here has JobQuest/jobquest as root dir. Python script ran in itself has jobquest as root dir. This script CANNOT run here as path is for running from API
+#keywordsInput = input()
+input = sys.argv
+getJobData(filename = "\\jobsData.json", keywords = str(input[1]), salary = input[2], employmentType = input[3], pages = 1)
+print("Job script ran")

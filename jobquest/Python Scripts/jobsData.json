@@ -1,0 +1,759 @@
+{
+    "jobs": [
+        {
+            "dueDate": "2023-04-06",
+            "jobTitle": "F&B Service crew/Captain",
+            "skills": [
+                "Always Punctual",
+                "Leadership",
+                "Restaurants",
+                "Inventory",
+                "Sanitation",
+                "Good Communication Skills",
+                "Cashiering",
+                "Team Player",
+                "Customer Service",
+                "Safety Training",
+                "Hospitality"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "1 Nanson Road"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/6b77cf731bfe3b52848db2cb07c47722/1880.jpg",
+                "name": "1880 PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "F;B Service Crew  We are looking for a vibrant personality to join our A Team to deliver great experiences for our guests. Fresh graduates, cabin crew, and applicants with no prior experience are welcome to apply.  Role:  · Ensure the highest level of member experience with your personal finesse and proactiveness. · Highlight specials and provide menu recommendations, take orders, and attend to special requests. · Engage with members, guests, and the team. · Set up tables and side stations and deliver the highest level of service and attentiveness to our guests.  What we are looking for:   · 1 - 3 years of relevant work experience · Passionate about hospitality · Reliable and good team player with an engaging personality · Basic knowledge of wine, spirits, cocktails · Flexible with schedule and shifts  Who we are  1880 is a members' club in Singapore that is interested in inspiring conversations that change the world. Combining a social club, co-working space, and an evolving calendar of events including discussions, parties, DJ nights, wellness sessions, and corporate launches, we create catalytic moments that stimulate both the intellect and the senses.  Your Perks:    5-day work week with diverse and energetic colleagues who work hard and play hard   Employee discount on F;B at the club   Staff meals every day   Late night transportation   $100 Transport allowance every month   Birthday credits   $1,000 Sign-on bonus and a referral bonus   You will receive a bonus every quarter in addition to monthly gratuities ($500 - $1,000 per month)   Flexible benefits, and more!  Can't wait to wait from you!",
+            "datePosted": "2023-03-07",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 3000,
+                "minValue": 2000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/fb-service-crew-captain-1880-c1857fc39d05ed60936ee956fc96947f?source=MCF&event=Search",
+            "uuid": "d208f14c-bfd2-4f71-993f-3af4515e460c"
+        },
+        {
+            "dueDate": "2023-04-07",
+            "jobTitle": "Junior / Senior Cloud Engineers",
+            "skills": [
+                "Windows Azure",
+                "Troubleshooting",
+                "Cloud Applications",
+                "firewall software",
+                "Cisco VPN",
+                "Azure",
+                "Troubleshooting operating system",
+                "AWS",
+                "Cisco Routing & Switching",
+                "Windows Server",
+                "Network Infrastructure",
+                "Virtualization",
+                "VPN",
+                "Linux"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": null
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/8f102815b85be9e9a8f4e27124b80a3a/talentsis.png",
+                "name": "TALENTSIS PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "JOB RESPONSIBILITIES:    Plan, execute, monitor and control the various Technical aspect of the Project.   Manage or participate in new setup or upgrade of system/network infrastructure projects.   Responsible for supporting operational systems satisfying contractual Service Level Agreement   Perform and manage routine preventive maintenance and operational activities promptly and effectively   Provide project documentation and reports   Diagnose and rectify technical issue  JOB REQUIREMENTS:    Minimally with Diploma in IT or with a relevant course. Fresh diploma graduates are welcomed   Knowledge in Windows server OS, Linux OS in a virtual environment would be an advantage   Knowledge and hands-on experience with Virtualization and Hypervisors, Nutanix platform would be an advantage   Knowledge in VPN, firewall appliances would be an advantage   Knowledge in network switches/routers would be an advantage   Excellent written and verbal communication to convey technical ideas to both technical and non-technical audiences and contribute within a team environment   Pro-active, dynamic and with good analytical/conceptual thinking   Able to work independently as well as in a team and good interpersonal skills  Only shortlisted candidates will be notified.  Please email a copy of your detailed resume to vivienne@talentsis.com.sg for immediate processing. (EA Reg No: 20C0312)",
+            "datePosted": "2023-03-08",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 5000,
+                "minValue": 4200,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/junior-senior-cloud-engineers-talentsis-00125e85ca811f2c667cc3c95273289e?source=MCF&event=Search",
+            "uuid": "60be9453-593f-4459-ac64-e5da1fee4d75"
+        },
+        {
+            "dueDate": "2023-04-07",
+            "jobTitle": "IT System Support @ Tuas (LD)",
+            "skills": [
+                "Preventive Maintenance",
+                "Windows 10",
+                "Hardware",
+                "Administration",
+                "CCTV",
+                "Firmware",
+                "Operating Systems",
+                "System Administration",
+                "Audit",
+                "Infrastructure Support"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "259A GEYLANG ROAD"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/526c37fd68bf3d91afc64f779c1bebc4/target-recruitment.jpg",
+                "name": "TARGET RECRUITMENT PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Duties and Responsibilities 1)    Responsible for 1st Level IT Support, and all aspects of desktop PCs, notebooks, printers, and other peripherals which includes implementation, patching, installation and configuration. 2)    Maintain systems documentation, maintenance records, performs upgrades and/or replaces hardware and software regarding infrastructure upgrades. Leading the testing of implemented infrastructure solutions to ensure requirements are met. 3)    Oversee adherence to security requirements for infrastructure operations. 4)    Maintaining and supporting hardware, software and operating systems which in line with the goals and standards of the corporation and IT department policies. This includes installing and upgrading of PC hardware and software. 5)     Maintain accurate documentation on networks and systems. 6)    Periodic update all Desktop PCs and notebooks to latest security patches and firmware. Conduct regular or quarterly end users’ computer audit and preventive maintenance. 7)    Resolve escalated or major issues relating to infrastructure operations. Assist and respond promptly to incident, investigate, and provide temporary or permanent resolution of incidents escalated; provide timely status updates to relevant parties. Ability to diagnose and resolve basic technical issues. 8)    Maintain ticket updates for all reported incidents. 9)     Monitor system logs and activity on all servers and devices. 10) Use diagnostic tools to troubleshoot problems associated with network connectivity, and workstation hardware/software. 11) Responsible in managing the data integrity, maintenance and ensure daily data is successfully backup and restore when and there needed. 12) Manage and update all IT assets records periodically.  Added Advantage Ø Working knowledge of IT infrastructure support: Desktop, monitor LAN, maintain CCTV, O365, Windows 10 and related IT equipment and software. ",
+            "datePosted": "2023-03-08",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 3500,
+                "minValue": 2500,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/system-support-tuas-target-recruitment-020da4bc797ab8a4a05fbcef0dc538fa?source=MCF&event=Search",
+            "uuid": "d828d597-6f6c-4439-939e-23446343e9a8"
+        },
+        {
+            "dueDate": "2023-04-06",
+            "jobTitle": "Locum/FT Physiotherapist",
+            "skills": [
+                "Hospitals",
+                "Work Well Independently",
+                "Quality Improvement",
+                "Treatment",
+                "Healthcare",
+                "Early Intervention",
+                "Nursing",
+                "Articulate",
+                "Group Therapy",
+                "Rehabilitation"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "105 PUNGGOL ROAD"
+            },
+            "company": {
+                "logo": null,
+                "name": "SINGAPORE BUDDHIST WELFARE SERVICES"
+            },
+            "jobType": [
+                "PART_TIME",
+                "FULL_TIME"
+            ],
+            "description": "   Involved in the care team's assessment of clientts in maintenance day care, dementia day care and community rehabilitative programme.   Develop and implement care plans for clients and their caregives with other care team members.   Perform assessment and client's physical mobility and falls risk.   provide appropriate physiotherapy interventiosn based on assessment of clients.   Conduct functional mobility training, including the prescription and use of appropriate mobility and or walking aids.   Plan , implement and evaluate individual and group physical activity and exercise programme.   Conduct and / or supervise group therapy and exercises for the clients.   Conduct education and training for client's caregivers; provides support as required.   Conduct in service training workshops / sessions for care staff and volunteers.   Maintain documentation of clients' progress and outcomes of care provision.   Recommend new strategies to the Manager (FHGCC); and   Any other duties as asigned by Manager (FHGCC) and / or the Management.  ",
+            "datePosted": "2023-03-07",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 4000,
+                "minValue": 2000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/healthcare/locum-ft-physiotherapist-singapore-buddhist-welfare-services-02f608da41c4bb77aa5b9eb0ec0d8216?source=MCF&event=Search",
+            "uuid": "9ef9da8f-e7df-4765-b125-4b4fe5a1562c"
+        },
+        {
+            "dueDate": "2023-04-07",
+            "jobTitle": "Senior Assistant Director, Entrepreneurship Development Programme",
+            "skills": [
+                "Oral Communication Skills",
+                "Windows 10",
+                "DNA",
+                "Medicine",
+                "Entrepreneurship Development",
+                "ERP",
+                "Payroll",
+                "Auditing",
+                "FOCAL",
+                "Social Sciences",
+                "Entrepreneurship",
+                "Good Communication Skills",
+                "Writing",
+                "Strategic Partnerships"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "NANYANG TECHNOLOGICAL UNIVERSITY, 50 NANYANG AVENUE"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/d98636fc895b7f25f5aabb95fe073917/nanyang-technological-university.jpg",
+                "name": "NANYANG TECHNOLOGICAL UNIVERSITY"
+            },
+            "jobType": [
+                "CONTRACTOR",
+                "FULL_TIME"
+            ],
+            "description": "Nanyang Technological University, Singapore (NTU Singapore) has 33,000 undergraduate and postgraduate students in engineering, business, science, humanities, arts, social sciences, education and medicine. Ranked among the world’s top universities. Nanyang Technopreneurship Center (NTC) is the focal point of entrepreneurship education within the University and the region. The Senior Assistant Director, Entrepreneurship Development Programme (EDP), plays a critical role in supporting the national agenda of continual education in NTU. This incumbent will manage, drive business development of EDP, and promote the Continual Education Training (CET) courses of NTC. Responsibilities:    Drive and lead the business development of CET programmes in NTC - Identify training needs of the market, plan and assist in designing courses meeting new demands - Drive sales to increase number of participants. - Oversee and ensure the business performance and profitability of EDP      Oversee and ensure quality of course content and delivery - Identify and engage suitable professors, instructors, mentors and industry partners - Analyse participants feedback, identify areas for improvement, implement and propose effective solutions      Seek strategic partnerships with industry, government/ quasi-government agencies - Seek opportunities and collaborate with strategic partners (corporates and government) to expand and enrich the CET offerings of NTC - Identify, write and submit grant application proposals to government and quasi government agencies such as ESG      Lead effective marketing strategies - Raise the profile and standing of NTC’s entrepreneurship executive programmes. - Overseeing the implementation of effective marketing strategies, production of collaterals (multiple media: digital and large format print) to promote courses to a wide sector of audience, to increase participants numbers.      Strategise and implement sustainable stakeholders engagement programmes      Plan budget and expenditure, and report on performance - Plan annual budget and expenditure, and track business performance to ensure a healthy stream of revenue and profits.  Requirements:    Degree in business or entrepreneurship with at least 10 years of experience in leading CET programme in Institute of Higher Learning or equivalent   Experience in working with the government/ quasi-government agencies and administering grant processes and overseeing auditing processes   Possess a good network consisting of entrepreneurs, intrapreneurs and industry partners   Possess excellent writing and oral communication skills   Possess good presentation skill ",
+            "datePosted": "2023-03-08",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 11400,
+                "minValue": 7000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/admin/senior-assistant-director-entrepreneurship-development-programme-nanyang-technological-university-05c477d2701d108f0eeb535271de9f66?source=MCF&event=Search",
+            "uuid": "a38fed65-6f5d-45ab-8372-5f719605c8c7"
+        },
+        {
+            "dueDate": "2023-04-07",
+            "jobTitle": "Cleaning Operations Assistant",
+            "skills": [
+                "Leadership",
+                "Able To Multitask",
+                "Process Improvement",
+                "Administrative Work",
+                "Inventory",
+                "Approachable",
+                "Driving License",
+                "Pressure",
+                "Customer Service",
+                "Service Delivery"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": null
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/f390f5a85d3da710b9d7e00e35c3daef/building-area-maintenance.jpg",
+                "name": "BUILDING AREA MAINTENANCE PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "We are a cleaning company looking for a suitable candidate to join our expanding team. If you can coordinate manpower, tackle obstacles, conduct site inspections, and possess the drive to learn, this will be a perfect opportunity for you!  Your Daily Duties will Include: 1) Daily deployment of cleaners 2) Standing in for cleaners who are absent 3) Assisting with periodic cleaning works 4) Delivery and dispatch of cleaning resources 5) Reporting to cleaning opertiaons team for any other cleaning ad-hoc duties  You must have a valid Class 3 Singapore Driving License. Opportunities, benifits and career progression await you.",
+            "datePosted": "2023-03-08",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 2300,
+                "minValue": 1900,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/general-work/cleaning-operations-assistant-building-area-maintenance-0cb8383e56753506f61c5aac598ea10c?source=MCF&event=Search",
+            "uuid": "fb5dd3db-e1ed-4647-8a5d-dd42464af317"
+        },
+        {
+            "dueDate": "2023-04-07",
+            "jobTitle": "BUSINESS DEVELOPMENT EXECUTIVE",
+            "skills": [
+                "Negotiation",
+                "CRM",
+                "Market Research",
+                "Account Management",
+                "Footwear",
+                "Microsoft Office",
+                "Microsoft Excel",
+                "Social Media",
+                "Interpersonal Skills",
+                "Cold Calling",
+                "Selling",
+                "Marketing",
+                "B2B",
+                "Networking",
+                "Business Development",
+                "Japanese"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": null
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/cff3759221701d9a57b1297dae318c95/protemps-employment-services.jpg",
+                "name": "PROTEMPS EMPLOYMENT SERVICES PTE LTD"
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Duties    Trading and Wholesale of branded Fashion category (High/Medium End brands Like Burberry / Ferragamo/ Mont Blanc  etc.) in Apparels / Leather goods / accessories/ Footwear + Watches ; Jewellery and other related categories   Servicing current customer base and to develop new customer base / business in Japan   Full handover from the current Business development Executive.   Company established since 2009   Singapore TOP SME500 awarded company in the year 2022  Candidate ·        Position – Business Development Executive ·        Bilingual in Japanese (JLPT N1 / N2) and English as need to do business development in Japan market. ·        Joining date – Immediate ·        Will be required to travel to Japan regularly with the Director – 2-/3 times a year as market open up. ·        Position is based out of Singapore Head Office ·        Prefer candidates with 5-7 years’ experience in similar fields and position.  Package ·        Salary range SGD 3,500 – 4,800 PM + CPF ; AWS- depending on the suitability and experience of the candidates. ·        Qualifies for annual bonus as and when declared by the company ·        Group Medical Insurance including hospitalisation ·        Mobile phone reimbursement ·        14 days Annual leave + Medical ; Hospitalisation as per MOM guidelines  Interested candidates, please send us your updated CV to tristan@protemps.com.sg",
+            "datePosted": "2023-03-08",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 4800,
+                "minValue": 3500,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/sales/business-development-executive-protemps-employment-services-12eb33b8e6270d18ef39f33471a56efb?source=MCF&event=Search",
+            "uuid": "d6dabf8b-770d-4559-ac33-f401ba0c9cb6"
+        },
+        {
+            "dueDate": "2023-04-07",
+            "jobTitle": "CCTV Project Manager",
+            "skills": [
+                "UAT",
+                "Leadership",
+                "security systems",
+                "ICT",
+                "Tender Process",
+                "System Testing",
+                "IP Cameras",
+                "Electrical",
+                "Information Technology",
+                "Wireless",
+                "project plan",
+                "security system",
+                "CCTV",
+                "Project Management",
+                "IT security system",
+                "camera equipment",
+                "Systems Engineering",
+                "Transmission",
+                "Electronics",
+                "Video Surveillance"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": null
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/afd5100a59e44f84281e2677d4cd851f/vikconnect.jpg",
+                "name": "VIKCONNECT PTE. LTD."
+            },
+            "jobType": [
+                "CONTRACTOR",
+                "FULL_TIME"
+            ],
+            "description": "Contract Duration: 7.5 Months (Renewable)  Location: West  Responsibilities: · Work on various multi-million CCTV Projects (implementation/ maintenance or both) island wide · Manage vendors and project officers on the daily deliverables · Involved in the tender process · Manage project plan, milestones, budget and timeline and ensure proper plan for site deployment · Conduct System testing and UAT with vendors and users · Manage maintenance contract, ensure vendors meet SLA and turnaround time  Requirements: · Degree in Electronics/ Electrical Engineering/Computer Studies, or other Engineering · Only Singaporeans may apply · The Candidate shall have preferably 2 years working experiences in managing large scale ICT, or engineering projects preferably with involvement throughout the entire project lifecycle · Fresh graduates may apply · The Candidate shall have relevant experiences in working on large scale systems that are deployed at multiple sites · The Candidate shall have prior experiences in managing and coordinating multiple vendors so as to integrate multiple deliveries/ systems from various vendors into a functioning large scale system · The Candidate shall have good working knowledge and experience in one or more of the following areas: Large-scale Video Surveillance System, Wireless Communication Systems, System and Network Integration, Infrastructure Construction to support ICT equipment (e.g. Structures, Electrical, Network Installation, Wireless Transmission, etc.) · The Candidate shall possess excellent Project Management skill, good Systems Engineering knowledge; and understand the concept of Integrated Logistic Support ; System Life Cycle · Able to be contactable 24 x 7 and support operations after office hours, on weekends and Public Holidays if required · The Candidate shall preferably be a Certified IT Project Manager, Project Management Professional (PMP), Certified Information Technology Project Manager (CITPM) or equivalent practitioner Project Management experiences",
+            "datePosted": "2023-03-08",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 9999,
+                "minValue": 3000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/cctv-project-manager-vikconnect-182c4dcf2494b70840833f41e27509aa?source=MCF&event=Search",
+            "uuid": "6b2e58c1-3176-40fb-8470-0274c86ba89a"
+        },
+        {
+            "dueDate": "2023-03-22",
+            "jobTitle": "Quality Assurance Engineer",
+            "skills": [
+                "TS16949",
+                "Report Writing",
+                "JMP",
+                "Materials Science",
+                "FMEA",
+                "Quality Assurance",
+                "Semiconductor Industry",
+                "ISO",
+                "problem solving skills",
+                "Chemistry",
+                "SPC",
+                "Customer Quality",
+                "Process Optimization",
+                "Team Player",
+                "Benchmarking",
+                "Audit"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "1 SENOKO SOUTH ROAD"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/3ec93948d9a05536ca10533ecfe79be1/sumitomo-bakelite-singapore.PNG",
+                "name": "SUMITOMO BAKELITE SINGAPORE PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "   Responsible for handling customer quality issues and continuous improvement activities of the Company products and processes.   Liaise with process department on quality related issues to follow-up on effective corrective/preventive actions.   Required to carry out activities such as process optimization, benchmarking, etc through various statistical tools and software.   Handle external body audit in accordance to TS ; ISO requirement  Requirements:    Degree in Chemical/Mechanical Engineering, Chemistry, Materials Science or equivalent.   Relevant experience from the semiconductor industry in servicing customer in quality related issues is a plus.   Knowledge of statistical software such as DOE ; JMP and QC tools (FMEA, SPC and 8D format report writing) will be an added advantage.   Statistically inclined with good analytical ; problem solving skills;   Self-motivated, resourceful, action-focused and result-oriented team player.   Familiar with IATF16949 requirement is a plus.   Fresh graduates are welcome to apply.   Willing to travel overseas   Willing to work overtime when needed and travel overseas and on short notice ( on average 2-3 x per month) ",
+            "datePosted": "2023-03-08",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 3500,
+                "minValue": 2400,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/customer-service/quality-assurance-engineer-sumitomo-bakelite-singapore-18690396c62f8b446df143b44b13170d?source=MCF&event=Search",
+            "uuid": "7a1f1a55-1a54-4e37-a839-b46cfeca2f75"
+        },
+        {
+            "dueDate": "2023-03-22",
+            "jobTitle": "Assistant Project Manager",
+            "skills": [
+                "Leadership",
+                "Microsoft Office",
+                "Construction Management",
+                "Microsoft Excel",
+                "Construction",
+                "Quality Control",
+                "Interpersonal Skills",
+                "Drawing",
+                "Project Planning",
+                "Project Management",
+                "Scheduling",
+                "Project Cost"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "MANDAI CONNECTION, 7 MANDAI LINK"
+            },
+            "company": {
+                "logo": null,
+                "name": "KG PLASTERCEIL PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "- Implement and provide directions in project planning , coordinate works - Coordinate with the drafting department with regards to the preparation/ as built drawing - Develop best practices and tools for project execution and management - Responsible for determining the cause of the quality problem ",
+            "datePosted": "2023-03-08",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 7000,
+                "minValue": 5500,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/building-construction/assistant-project-manager-kg-plasterceil-1bba263a5cc0bdf9dcd2e2a3cb28559b?source=MCF&event=Search",
+            "uuid": "cf3924a7-a107-4d14-96db-7035f87e9fd8"
+        },
+        {
+            "dueDate": "2023-04-07",
+            "jobTitle": "Technical Specialist (Formulations & Quality)",
+            "skills": [
+                "Management Skills",
+                "Ingredients",
+                "Able To Multitask",
+                "Cosmetics",
+                "HPLC",
+                "Purchasing",
+                "Technical Presentation",
+                "Formulation",
+                "Technical Services",
+                "Raw Materials",
+                "Chemistry",
+                "Food Science",
+                "Microsoft Word",
+                "Laboratory",
+                "Ability To Learn",
+                "Personal Care"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "12 TUAS AVENUE 1"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/49db5b9b6ebffa0bf32876105ea4ddf5/COMPASS%20FOODS%20PTE.%20LTD..jpg",
+                "name": "COMPASS FOODS PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Primary Function    Manage technical projects to explore, develop new formulations and applications for use in either food, beverages, nutraceuticals, pharmaceutical and nutritional applications.   Involved in formulations and leading towards production. Develop new formulations and testing protocols and improve formulations and outputs excellence.   Build relevant formulation ; application knowledge on the use of sucrose esters in novel product formats (E.g. Formulation mixes in various food applications to cosmetics applications).   Source ; procuring of raw materials and build up applications intelligence with various ingredients and additives.   Hands-on spirit and comfortable in laboratory and actively contribute novel ideas to the R;D efforts.   Starting with a regional to global scope and an excellent opportunity to build and develop with global clients across the business.   Technical services front facing customers, relating to food applications as well as formulations and role is a growing role in the organization.  Knowledge, Skills and Requirements    Minimum a diploma and/or degree in Personal Care / Cosmetics / Pharmaceutical / Food Science / Chemistry. Some insights to pharmaceutical or personal care, cosmetics and perfumery or emulsifiers, will be an advantage.   Highly familiar with food ingredients and experience in formulations of ingredients, additives, premixes and emulsions systems, will be added advantage. At least some experience in application related to flavor / color / bioactive ingredients. Exposure to food ingredients / additives sourcing and purchasing experience, will be a plus.   High entrepreneur spirit, good project management skills, able to multitask, good team player. Have the drive to develop technical projects into new business opportunities.   Strong in IT skills like Microsoft Word, Powerpoint, Excel and at least bilingual in spoken and written in English and Mandarin and/or another language for technical presentation and communication with the customers.   A strong drive and self-motivation and ability to learn in a fast pace working environment in the global market and ability to travel and provide technical service when required. ",
+            "datePosted": "2023-03-08",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 3500,
+                "minValue": 2200,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/healthcare/technical-specialist-compass-foods-1e3a97ac7a558110f4a4f10cda8a4de5?source=MCF&event=Search",
+            "uuid": "f2eee197-ba90-432c-8aee-c3c47af37eeb"
+        },
+        {
+            "dueDate": "2023-04-02",
+            "jobTitle": "Admin Assistant",
+            "skills": [
+                "Tennis",
+                "Courts",
+                "Microsoft Office",
+                "Microsoft Excel",
+                "Property Management",
+                "Inventory",
+                "Administration",
+                "Information Technology",
+                "Reliability",
+                "Data Entry",
+                "Equipment Maintenance",
+                "Deposits",
+                "Cash Management",
+                "Administrative Support",
+                "Microsoft Word"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": null
+            },
+            "company": {
+                "logo": null,
+                "name": "SIMPLY SAKAL PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "At Simply, we are the leading property management company that uses information technology tool such as Simply platform, to handle the majority of administrative tasks faced at ground. However, we believe our staff is our Ambassador and will carry out their duties with high level of integrity and reliability.  Job Description:    Assist in handling and maintaining proper records of feedback or complaints received from the residents.   Assist the CM to attend to Section 47(1)(c) notice and update strata roll upon receipt of notice of transfer   Assist the Condominium Manager in petty cash management and collection of payment by residents on daily basis, including daily account closing.   Update trust accounts periodically of all transactions for the contributions, facilities’ charges and deposits for receipts issuance to residents.   Manage the booking of estate facilities such as BBQ pits, tennis courts, function room etc. according to House Rules, By Laws and Standard Operating Procedures.   Establish and maintain proper filing system to ensure smooth documentation and administration of the estate.   Carry out regular update of the content of the notice board(s).   Maintain inventory of office stationery and equipment maintenance record and perform general administrative duties.   Co-ordinate council meetings and annual general meetings as instructed by the Condominium Manager.   Any other duties assigned by supervisor / Manager   Requirements: Minimum 1 - 2 years experience, no experience are welcomed to apply! Position requires work on alternate Saturday  Interested candidate please click to apply with your resume indicating your current and expected salary. We regret that only shortlisted candidates will be notified.",
+            "datePosted": "2023-03-03",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 2800,
+                "minValue": 2200,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/admin/admin-assistant-simply-sakal-30eb7819bae51d3cde386ff969424a73?source=MCF&event=Search",
+            "uuid": "a3a1c531-903b-4389-a793-c06d74288522"
+        },
+        {
+            "dueDate": "2023-04-07",
+            "jobTitle": "Revenue Analyst",
+            "skills": [
+                "Revenue Management",
+                "Property Management Systems",
+                "Rooms Division",
+                "Inventory",
+                "Composition",
+                "Hyperion",
+                "Property",
+                "Journal Entries",
+                "Channel",
+                "Communication Skills",
+                "Hotel Management",
+                "Pricing",
+                "Catering",
+                "Cut",
+                "Writing Skills",
+                "Revenue Recognition"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "80 MIDDLE ROAD"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/e27db398658a9629f9b59f1bce669042/intercontinental-singapore.jpg",
+                "name": "INTERCONTINENTAL SINGAPORE"
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "What's the job?  Supports General Manager in implementing inventory and pricing strategies to maximise overall revenue and profits for the property. Analyses reports, market performance and trends, and tracks inventory for the optimal business mix.  Your day-to-day    Demonstrate an in-depth knowledge and understanding of hotel systems – IHG Concerto and  Holidex in particular, to ensure appropriate capture of data for client   information, events, forecasts and results   Manages   all channels (CRO, GDS, OTAs, Internet direct and indirect) including but not  limited to room types and sell strategy. Upholds and enforces compliance with   the Lowest Internet Rate Guarantee and manging third party distributors in   compliance with IHG standards and rules.   Manages use of revenue systems on a daily basis. This includes the responsibility for any manipulation of the yield hurdle points and daily inventory balancing   where appropriate.   Supports   in tracking and analysing of booking pace, group wash, cut off.   Understands   the composition of hotel profitability, and uses this to support General Manager and respective leaders in evaluating business from local accounts and groups so as to provide input to future rate setting and negotiation.   Maintains   and analyses both overall, by account (and for bookers), system contribution and trends in rooms and non-rooms revenues by channel, segment and account.   Monitors   competitor pricing for Rooms Revenue, understands the dynamic of the local market and the demand generators.   Participates   in weekly rate/sell strategy (yield) meetings with General Manager, DOSM, Reservations Manager, Rooms Division Manager and Catering Sales Manager.   Prepares forecasts of revenue, profit, demand and occupancy for rooms and function space – short and long range and budget.   Monitor and factor non-room revenues (i.e. Events, F;B) into the overall revenue   management strategies and practices.   Supports  revenue meetings twice a month and sharing of strategies and inputs   What we need from you     Diploma  or Vocational Certificate in Hotel Management, Business Administration, or related field   2 years related experience in Revenue Management or Reservations, or an equivalent combination of education and experience   Demonstrated   ability to interact with customers, employees and third parties that reflects   highly on the hotel, the brand and the Company   Problem solving, reasoning, motivating, organizational and training abilities   Good writing skills   Teamwork and communication skills are essential.   Highly detail oriented, exceptional organizational skills and able to handle multi   priorities under pressure   Excellent understanding of reservation systems and how they interact with property management systems ",
+            "datePosted": "2023-03-08",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 3600,
+                "minValue": 3500,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/hospitality/revenue-analyst-intercontinental-singapore-31f2b245283eb19a9db7d508d9dda237?source=MCF&event=Search",
+            "uuid": "25e30bd6-9661-422c-ba85-ccf8efddc14b"
+        },
+        {
+            "dueDate": "2023-04-07",
+            "jobTitle": "6723-Hair Advisor [Gross up to 3k | 6 days]",
+            "skills": [
+                "Product Knowledge",
+                "Sales",
+                "Leadership",
+                "Cosmetics",
+                "Interpersonal Skills",
+                "Treatment",
+                "Retail Sales",
+                "Soft Skills",
+                "Selling",
+                "Strategy",
+                "Attention to Detail",
+                "Cashiering",
+                "Communication Skills",
+                "Beauty Industry",
+                "Team Player",
+                "Customer Service"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "SHENTON HOUSE, 3 SHENTON WAY"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/d162667fbe1365aa541016a407de7ae4/supreme-hr-advisory.jpg",
+                "name": "THE SUPREME HR ADVISORY PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Position title : Hair Advisor Location: Ubi Working location: Wheelock / Plaza Sing/ Ngee Ann City/ Bedok Mall (location TBC upon hired) Working Days: 6 days, Monday – Sunday Working hours : Retail hours ; Able to commit working on Fri – Sun ; PHs) Off 5 day per month (Rostered off) Monday to Friday – 10.30am to 8.30pm Saturday, Sunday ; PH – 10.00am to 7.00pm Salary: $1.5K to $1.8K， Gross 2.8K – 3K  Job Requirement    Experience and competent in sales with minimum 1 year of relevant experience in the beauty industry Personal Attributes  Job Scope    The essential responsibilities of the Hair Advisor include:   Boosting sales revenue and profitability by achieving sales targets   Serving Customer with professionalism service.   Conduct professional scalp analysis; demonstrate features and benefits of PHS treatments, services and products.   Recommend packages according to individual needs and conditions   Constantly educate customers on the necessity and benefits of company’s treatments, services and products   Building rapports with customer and providing good customer service and needs in relation to hair scalp enquiries   Perform basic hands-on treatments when necessary   Updating of customer’s progress in the treatment card and computer system   WhatsApp: +65 9642 0989 (Han) Email: supreme.cc.han@gmail.com Chaw Chiaw Han, Reg No：R22106723 The Supreme HR Advisory Pte Ltd, EA No：14c7279",
+            "datePosted": "2023-03-08",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 1800,
+                "minValue": 1500,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/personal-care/6723-hair-advisor-gross-3k-6-days-supreme-hr-advisory-35bf29379efd2529f1bef4985b531690?source=MCF&event=Search",
+            "uuid": "8cf92616-55c2-4e1d-bda7-5c8687132c62"
+        },
+        {
+            "dueDate": "2023-04-07",
+            "jobTitle": "Sales and Trading Executive (Oleochemicals)",
+            "skills": [
+                "Negotiation",
+                "Market Research",
+                "Customer Retention",
+                "Quality Control",
+                "Ability To Work Independently",
+                "Outsourcing",
+                "Sales Management",
+                "Pricing Strategy",
+                "MS Office",
+                "Business Development",
+                "Petrochemical",
+                "Pricing",
+                "Customer Orientation"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "STAMFORD COURT, 61 STAMFORD ROAD"
+            },
+            "company": {
+                "logo": null,
+                "name": "VANCE GROUP LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Vance Group Ltd  Vance Group is a diversified and financially strong business group headquartered in Singapore. Our companies are involved in the manufacturing and trading of chemicals and oleochemicals in Malaysia and Singapore. In recent years, Vance Group has been growing rapidly and is looking for dynamic, independent, and results-oriented individuals to add to our Sales and Trading team. We want individuals who love to get deals done! Individuals who generate strong results and add value to Vance Group will be recognized and compensated commensurately. Based in Singapore, the Sales and Trading Executive will be trading with companies from many countries worldwide, gaining valuable experience in dealing with traders from different cultures and backgrounds. Team members who perform well will be given more decision-making, business development, and other commercial responsibilities. Given the entrepreneurial environment, there is tremendous scope for growth and opportunities for ambitious and talented team members. Location: City Hall Area (Stamford Court)  Title: Sales and Trading Executive (Oleochemicals)  Responsibilities     Responsible for meeting sales targets for the Company’s products   New business development and driving sales growth   Assist in generating and executing trading ideas   Establish new and enhance existing sales channels in various geographical markets   Maintain regular communications with customers to address customer demands in timely fashion   Attend to product enquiries and all customer needs   Assist in developing pricing strategy, giving price quotations, negotiating trade terms and concluding trade contracts   Follow through on sales contracts including payment collection   Conduct regular market research and analyses to stay ahead of demand, supply, competitive and pricing trends   Obtain regulatory approvals and accreditations for products to boost marketability and access new markets   Work with Production and Logistics departments to coordinate production and delivery/shipment schedule   Work with Production and Quality Control departments on determining required product specifications  Requirements    Bachelor’s Degree in Business, Chemicals or related discipline   Preferably with minimum 3-5 years’ experience in sales and trading role within the palm oil, oleochemical, petrochemical, chemical or pharmaceutical industry   Proficient in MS Office applications especially Excel   Dynamic, self-motivated and persevering   Possess strong analytical and problem-solving skills   Possess excellent communication, interpersonal and negotiation skills   Demonstrates strong sense of initiative with the ability to work independently and as a team player   Meticulous and takes strong pride in the quality of one’s work   Results-oriented and able to abide by tight deadlines with a strong sense of responsibility  Please email your resume, cover letter and academic certificates to HRS@vancegroupltd.com. Please include current and expected salary, notice period and reasons for leaving current or past employment.",
+            "datePosted": "2023-03-08",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 6000,
+                "minValue": 3000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/others/sales-trading-executive-vance-group-3de0ca131de66291b24510671774d1da?source=MCF&event=Search",
+            "uuid": "4dc23e02-1567-456f-bb2d-0af1f7e73047"
+        },
+        {
+            "dueDate": "2023-03-27",
+            "jobTitle": "SENIOR ACCOUNTING EXECUTIVE (PROJECT)",
+            "skills": [
+                "Taxation",
+                "Microsoft Office",
+                "Microsoft Excel",
+                "Construction",
+                "Tax",
+                "ACCA",
+                "Selling",
+                "Accounting System",
+                "Bank Reconciliation",
+                "Accounting",
+                "Financial Statements",
+                "Excel",
+                "Team Player",
+                "Audit",
+                "Able To Work Independently"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "72 LORONG 19 GEYLANG"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/c498d3fdc73feb08e5c1ccc6c33785e0/lk-engineering-co-singapore-branch.jpg",
+                "name": "L&K ENGINEERING (SUZHOU) CO., LTD. SINGAPORE BRANCH"
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Job Responsibilities:    Daily preparation of full set of accounts (AP/AR/GL), including generating supplier invoices in the accounting system   Checking and verifying accounts payables and receivable transactions   Reconcile and update bank statements   Work closely with project teams for cost monitoring and resolve any billing discrepancies   Monitor project spending, identifying variance and initiating corrective actions   Manage petty cash for the project at site   Manage both local ; overseas staff salary, expense claims, and OT calculation   Responsible for month-end closing   Responsible for monthly reports to Head Office   Any other ad-hoc tasks as assigned  Job Requirements :    Min. ‘O’ Level certificate   At least 5 years of general accounting working experience in a construction firm   Good knowledge of accounting concepts and double entries   Proficient in MS Excel applications   Must be bilingugal in English ; Chinese, both written and verbal   Independent, a strong team player in the accounting system   Singaporean or PR only   Preferably able to start work immediately ",
+            "datePosted": "2023-02-25",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 6500,
+                "minValue": 3500,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/accounting/senior-accounting-executive-lk-engineering-co-singapore-branch-3df96ffa8ed7f552f261caa7003601de?source=MCF&event=Search",
+            "uuid": "8c56b81e-ed3c-445a-a139-aa094c2d8bbb"
+        },
+        {
+            "dueDate": "2023-03-29",
+            "jobTitle": "Senior Executive/Executive (PACT), Office for Innovation (Contract)",
+            "skills": [
+                "Microsoft Office",
+                "Interpersonal Skills",
+                "Healthcare",
+                "Artificial Intelligence",
+                "Administration",
+                "PowerPoint",
+                "Project Management",
+                "Networking",
+                "Budgeting",
+                "Excel",
+                "Data Analytics"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "OUTRAM COMMUNITY HOSPITAL, 10 HOSPITAL BOULEVARD"
+            },
+            "company": {
+                "logo": null,
+                "name": "SINGAPORE HEALTH SERVICES PTE LTD"
+            },
+            "jobType": [
+                "CONTRACTOR",
+                "FULL_TIME"
+            ],
+            "description": "You will be responsible for facilitating collaborations between SingHealth institutions and local industry partners for the co-development of solutions and/or test-bedding/validation of proprietary technologies or solutions in our institutions. You will also be responsible for organising outreach platforms and events to promote innovation and foster collaborations. You will provide end-to-end support for projects, with supervision from the Senior Manager. This includes project scoping, budgeting, preparation of applications for funding, preparation of approval papers and project fund administration. You will also support the implementation of processes and policies relating to innovation, project management and adoption of innovative products. Job Requirements    Bachelor’s Degree in Biomedical Sciences, Bio-Engineering, Engineering, Data Analytics or related fields.   At least 4 years of working experience with preferably minimum 1 year of relevant experience in healthcare or innovation-related industries   Knowledge in the medical device product development pathway, ISO13485, healthcare technology or digital innovation in healthcare will be an added advantage   Proficient with Microsoft Office applications (MS Word, Excel and Powerpoint)   Excellent communication and interpersonal skills   Must be fully vaccinated against COVID-19 ",
+            "datePosted": "2023-02-27",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 4800,
+                "minValue": 3200,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/admin/senior-executive-executive-office-innovation-singapore-health-services-47670b074b9c0f183b2a4f2f667c6514?source=MCF&event=Search",
+            "uuid": "294c1ccc-6650-4b7b-b689-b7fe8bf4d792"
+        },
+        {
+            "dueDate": "2023-04-07",
+            "jobTitle": "Client Management (Order Processing / MNC / Supply Chain)",
+            "skills": [
+                "Global Logistics",
+                "Negotiation",
+                "account manage",
+                "Inventory",
+                "Supply Chain",
+                "client accounts",
+                "Demand Planning",
+                "Time Management",
+                "Customer Service",
+                "Manufacturing",
+                "Shipping",
+                "Customer Service Experience"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": null
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/5ec4c84479b9a0ae3dbe429c4f427f40/corestaff.png",
+                "name": "CORESTAFF PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Summary To solidify business relationships and develop professional rapport with the existing major customers. Act as a main interface between customers and internal cross functional team to optimize the best business practice. To work closely with Business Manager to give periodic review and evaluation of present accounts.  Responsibilities:    Responsible for day-to-day coordination of all aspects of Client’s business requirement ensuring consistent and good service level are delivered to clients.   Provide customer service support by corresponding to attend client’s enquiries and requirement on order information/status, quotation, shipping, with emphasis on accuracy and timeliness.   Advising client on delivery schedule and inventory availability.   Follow up closely to ensure resolution of all problems and issues from Clients.   Work closely with all cross-functional teams to ensure clients’ operational requirements are met and/or manage client expectations.   Initiate continuous processes improvement.   Provide business reports to Management and client on a weekly/monthly basis.   Might need to participate in Demand planning with the client if the situation calls for.  Requirements:    Minimum Diploma in Business or equivalent.   2 years of working experience in order management or customer service.   Experience in supply chain, logistics and manufacturing preferred.   Excellent time management and interpersonal relationships at all levels, cross-functional   Strong analytical and problem-solving skills, Good negotiation.   Good verbal and written communication skills.  How to Apply: Qualified or interested candidates, please submit your updated resume by using the Apply Now Button  **We regret to inform that only shortlisted candidates would be notified. **  Lee Yuh Shiuan Registration Number: R21101101 EA License Number: 18C9027",
+            "datePosted": "2023-03-08",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 3500,
+                "minValue": 3000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/customer-service/client-management-corestaff-4ba24484040f303f8aa0fc0723c13767?source=MCF&event=Search",
+            "uuid": "c322076d-3de8-49df-9769-17eba5017607"
+        }
+    ]
+}
