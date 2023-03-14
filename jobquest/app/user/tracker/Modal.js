@@ -3,6 +3,7 @@
 import { Dialog } from "@headlessui/react";
 import { useState, useRef } from "react";
 import Skill from "@/components/Skill";
+import { generateUUID } from "@/utils/uuid";
 
 export default function Modal({ setIsOpen, trackData, setTrackData }) {
     const [skills, setSkills] = useState([]);
@@ -76,11 +77,28 @@ export default function Modal({ setIsOpen, trackData, setTrackData }) {
         skills: [],
     };
 
+    function handleSubmit(e) {
+        e.preventDefault();
+        newEntry.uuid = generateUUID();
+        newEntry.company.name = e.target.company.value;
+        newEntry.jobTitle = e.target.jobTitle.value;
+        newEntry.location.country = e.target.country.value;
+        newEntry.location.address = e.target.address.value;
+        newEntry.description = e.target.description.value;
+        newEntry.salaryRange.maxValue = e.target.maxPay.value;
+        newEntry.salaryRange.minValue = e.target.minPay.value;
+        newEntry.salaryRange.currency = e.target.currency.value;
+        newEntry.skills = skills;
+        setTrackData([...trackData, newEntry]);
+        setIsOpen(false);
+    }
+
     return (
-        <Dialog.Panel className="flex h-[500px] w-[500px] flex-col items-center justify-start gap-5 rounded-xl border border-black bg-light-500 p-5 lg:w-[900px]">
+        <Dialog.Panel className="flex w-[500px] flex-col items-center justify-start gap-5 rounded-xl border border-black bg-light-500 p-5 lg:w-[900px]">
             <h1 className="text-2xl font-bold text-accent-500">Job Entry</h1>
             <form
                 id="newEntryForm"
+                onSubmit={handleSubmit}
                 action="submit"
                 className="flex w-full flex-col justify-between px-10 font-semibold"
             >
@@ -136,11 +154,11 @@ export default function Modal({ setIsOpen, trackData, setTrackData }) {
                             className="w-36 rounded-lg border border-black px-2 font-normal"
                         ></input>
                     </div>
-                    <div className="m-h-[200px] flex w-[85%] flex-col">
+                    <div className="flex w-[85%] flex-col">
                         <label htmlFor="description">Description</label>
                         <textarea
                             name="description"
-                            className="rounded-lg border border-black px-2 font-normal"
+                            className="h-[400px] resize-none rounded-lg border border-black px-2 font-normal"
                         ></textarea>
                     </div>
                 </div>
@@ -167,7 +185,7 @@ export default function Modal({ setIsOpen, trackData, setTrackData }) {
                         +
                     </button>
                 </div>
-                <div className="flex w-[85%] flex-wrap justify-center gap-2 bg-red-500">
+                <div className="flex h-[100px] w-full flex-wrap justify-center gap-x-2 gap-y-1 overflow-auto">
                     {skills.map((e) => (
                         <button
                             key={e}
@@ -187,7 +205,13 @@ export default function Modal({ setIsOpen, trackData, setTrackData }) {
                     ))}
                 </div>
             </div>
-            <button>Test</button>
+            <button
+                type="submit"
+                form="newEntryForm"
+                className="h-8 w-28 items-center justify-center rounded-full bg-accent-500 px-2 py-1 font-semibold text-white hover:bg-accent-300"
+            >
+                Save Details
+            </button>
         </Dialog.Panel>
     );
 }
