@@ -2,15 +2,20 @@
 
 import { useState } from "react";
 import SearchPost from "./SearchPost";
-import PostList from "./PostList";
-import { Dialog } from "@headlessui/react";
+import Post from "./Post";
 import PostModal from "./PostModal";
+import { Dialog } from "@headlessui/react";
+//temp data
 import { postData } from "./tempforumdata";
 
 export default function ForumPage() {
     const [search, setSearch] = useState("");
     const [isOpen, setIsOpen] = useState(false);
     const [postsData, setPostsData] = useState(postData);
+
+    const filteredPosts = postsData.filter((post) =>
+        post.title.toLowerCase().includes(search.toLowerCase())
+    );
 
     return (
         <>
@@ -25,7 +30,11 @@ export default function ForumPage() {
                             + Post
                         </button>
                     </header>
-                    <PostList searchedTitle={search} />
+                    <main className="flex flex-col items-center justify-center gap-2">
+                        {filteredPosts.map((e) => (
+                            <Post key={e.postID} postData={e} />
+                        ))}
+                    </main>
                 </div>
             </div>
             <Dialog

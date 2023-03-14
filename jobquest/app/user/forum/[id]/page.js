@@ -1,20 +1,48 @@
 "use client";
 
 import { useState } from "react";
-import CommentList from "./CommentList";
 import { Dialog } from "@headlessui/react";
-import CommentModal from "./CommentModal";
+//temp user picture
+import { UserCircleIcon } from "@heroicons/react/24/outline";
+//temp data
 import { commentData1 } from "./../tempforumdata";
+import { postData1 } from "../tempforumdata";
+import Comment from "./Comment";
+import CommentPost from "./CommentPost";
+import CommentModal from "./CommentModal";
 
 export default function page({ params }) {
     const [isOpen, setIsOpen] = useState(false);
     const [commentData, setCommentData] = useState(commentData1);
+    const post1 = postData1;
 
     return (
         <>
             <div className="h-[calc(100vh-64px)] overflow-auto">
                 <div className="flex flex-col items-center justify-center gap-3 py-5 md:gap-4">
-                    <CommentList postID={params.id} />
+                    <div className="flex flex-col gap-1">
+                        <header className="w-[430px] overflow-hidden text-ellipsis px-3 text-2xl font-bold md:w-[730px] md:text-3xl">
+                            {post1.title}
+                        </header>
+                        <section className="w-[430px] md:w-[730px]">
+                            <CommentPost
+                                postContent={post1.content}
+                                postDate={post1.datePublished}
+                                postAuthor={post1.author}
+                                postScore={post1.upvotesNum}
+                                authorPic={<UserCircleIcon />}
+                            />
+                        </section>
+                    </div>
+                    <main className="flex w-[390px] flex-col gap-2 md:w-[690px]">
+                        {commentData.map((e) => (
+                            <Comment
+                                key={e.commentID}
+                                commentData={e}
+                                authorPic={<UserCircleIcon />}
+                            />
+                        ))}
+                    </main>
                     <button
                         onClick={() => setIsOpen(true)}
                         className="fixed top-20 left-3/4 h-8 w-20 rounded-full bg-accent-500 text-center text-[10px] font-bold leading-6 text-white shadow-sm hover:bg-accent-300 md:h-9 md:w-24 md:text-xs"
