@@ -1,8 +1,10 @@
 "use client";
 
-import { WishWrapper } from "./DataWrappers";
+import { wish } from "./tempdata";
+import WishEntry from "./WishEntry";
 
 export default function WishList({ viewMode }) {
+    const wishData = wish;
     return (
         <div
             className={`${
@@ -21,7 +23,11 @@ export default function WishList({ viewMode }) {
                     viewMode === "left" && "xl:w-[900px]"
                 }  h-[60vh] w-[600px] overflow-hidden rounded-xl border border-black bg-light-500`}
             >
-                <WishWrapper />
+                <div className="flex h-full w-full flex-col items-center gap-2 overflow-y-scroll p-2 pr-1">
+                    {wishData.map((e) => (
+                        <WishEntry key={e.uuid} data={e} />
+                    ))}
+                </div>
             </div>
         </div>
     );

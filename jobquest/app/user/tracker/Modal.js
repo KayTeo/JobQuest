@@ -4,7 +4,7 @@ import { Dialog } from "@headlessui/react";
 import { useState, useRef } from "react";
 import Skill from "@/components/Skill";
 
-export default function Modal({ setIsOpen, setNewEntry }) {
+export default function Modal({ setIsOpen, trackData, setTrackData }) {
     const [skills, setSkills] = useState([]);
     const skillsInputRef = useRef();
 
@@ -79,6 +79,7 @@ export default function Modal({ setIsOpen, setNewEntry }) {
         <Dialog.Panel className="flex w-[500px] flex-col items-center justify-start gap-5 overflow-auto rounded-xl border border-black bg-light-500 p-5 lg:w-[900px]">
             <h1 className="text-2xl font-bold text-accent-500">Job Entry</h1>
             <form
+                id="newEntryForm"
                 action="submit"
                 className="flex h-full w-full flex-col justify-between px-10 font-semibold"
             >
@@ -141,55 +142,50 @@ export default function Modal({ setIsOpen, setNewEntry }) {
                             className="rounded-lg border border-black px-2 font-normal"
                         ></textarea>
                     </div>
-                    <div className="flex h-5 w-full flex-col justify-start gap-2 px-[7.5%]">
-                        <div className="flex items-center justify-center gap-2">
-                            <h1>Skills:</h1>
-                            <input
-                                ref={skillsInputRef}
-                                className="w-36 rounded-lg border border-black px-1"
-                            ></input>
-                            <button
-                                className="inline-flex rounded-lg bg-accent-500 px-3 py-px text-center font-bold text-white hover:bg-accent-300"
-                                onClick={(e) => {
-                                    e.preventDefault(0);
-                                    const value = skillsInputRef.current.value;
-                                    if (
-                                        value === "" ||
-                                        skills.includes(value)
-                                    ) {
-                                        return;
-                                    }
-                                    setSkills([...skills, value]);
-                                    skillsInputRef.current.value = "";
-                                }}
-                            >
-                                +
-                            </button>
-                        </div>
-                        <div className="flex w-full flex-wrap justify-center gap-2">
-                            {skills.map((e) => (
-                                <button
-                                    key={e}
-                                    onClick={(evt) => {
-                                        evt.preventDefault(0);
-                                        const newSkill = skills.filter(
-                                            (skill) => {
-                                                return skill !== e;
-                                            }
-                                        );
-                                        setSkills(newSkill);
-                                    }}
-                                >
-                                    <Skill
-                                        name={e}
-                                        className="min-w-[40px] p-1 text-[10px] font-bold hover:border-red-500 hover:text-red-500"
-                                    />
-                                </button>
-                            ))}
-                        </div>
-                    </div>
                 </div>
             </form>
+            <div className="flex h-5 w-full flex-col justify-start gap-2 px-[7.5%]">
+                <div className="flex items-center justify-center gap-2">
+                    <h1>Skills:</h1>
+                    <input
+                        ref={skillsInputRef}
+                        className="w-36 rounded-lg border border-black px-1"
+                    ></input>
+                    <button
+                        className="inline-flex rounded-lg bg-accent-500 px-3 py-px text-center font-bold text-white hover:bg-accent-300"
+                        onClick={(e) => {
+                            e.preventDefault(0);
+                            const value = skillsInputRef.current.value;
+                            if (value === "" || skills.includes(value)) {
+                                return;
+                            }
+                            setSkills([...skills, value]);
+                            skillsInputRef.current.value = "";
+                        }}
+                    >
+                        +
+                    </button>
+                </div>
+                <div className="flex w-full flex-wrap justify-center gap-2">
+                    {skills.map((e) => (
+                        <button
+                            key={e}
+                            onClick={(evt) => {
+                                evt.preventDefault(0);
+                                const newSkill = skills.filter((skill) => {
+                                    return skill !== e;
+                                });
+                                setSkills(newSkill);
+                            }}
+                        >
+                            <Skill
+                                name={e}
+                                className="min-w-[40px] p-1 text-[10px] font-bold hover:border-red-500 hover:text-red-500"
+                            />
+                        </button>
+                    ))}
+                </div>
+            </div>
         </Dialog.Panel>
     );
 }

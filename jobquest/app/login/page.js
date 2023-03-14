@@ -22,7 +22,7 @@ export default function LogInPage() {
                     <div className="flex flex-col items-center justify-center gap-px">
                         <label
                             className="font-semibold text-white"
-                            for="username"
+                            htmlFor="username"
                         >
                             Username
                         </label>
@@ -34,7 +34,7 @@ export default function LogInPage() {
                         />
                         <label
                             className="font-semibold text-white"
-                            for="password"
+                            htmlFor="password"
                         >
                             Password
                         </label>

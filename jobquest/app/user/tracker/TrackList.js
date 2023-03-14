@@ -1,13 +1,14 @@
 "use client";
 
 import { Dialog } from "@headlessui/react";
-import { TrackWrapper } from "./DataWrappers";
 import Modal from "./Modal";
+import { track } from "./tempdata";
+import TrackEntry from "./TrackEntry";
 import { useState } from "react";
 
 export default function TrackList({ viewMode }) {
     const [isOpen, setIsOpen] = useState(false);
-    const [newEntry, setNewEntry] = useState(null);
+    const [trackData, setTrackData] = useState(track);
 
     return (
         <>
@@ -32,10 +33,11 @@ export default function TrackList({ viewMode }) {
                         viewMode === "right" && "xl:w-[900px]"
                     }  h-[60vh] w-[600px] overflow-hidden rounded-xl border border-black bg-light-500`}
                 >
-                    <TrackWrapper
-                        newEntry={newEntry}
-                        setNewEntry={setNewEntry}
-                    />
+                    <div className="flex h-full w-full flex-col items-center gap-2 overflow-y-scroll p-2 pr-1">
+                        {trackData.map((e) => (
+                            <TrackEntry key={e.uuid} data={e} />
+                        ))}
+                    </div>
                 </div>
             </div>
             <Dialog
@@ -43,7 +45,11 @@ export default function TrackList({ viewMode }) {
                 open={isOpen}
                 onClose={() => setIsOpen(false)}
             >
-                <Modal setIsOpen={setIsOpen} setNewEntry={setNewEntry} />
+                <Modal
+                    setIsOpen={setIsOpen}
+                    trackData={trackData}
+                    setTrackData={setTrackData}
+                />
             </Dialog>
         </>
     );
