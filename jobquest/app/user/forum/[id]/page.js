@@ -4,9 +4,11 @@ import { useState } from "react";
 import CommentList from "./CommentList";
 import { Dialog } from "@headlessui/react";
 import CommentModal from "./CommentModal";
+import { commentData1 } from "./../tempforumdata";
 
 export default function page({ params }) {
     const [isOpen, setIsOpen] = useState(false);
+    const [commentData, setCommentData] = useState(commentData1);
 
     return (
         <>
@@ -26,7 +28,11 @@ export default function page({ params }) {
                 open={isOpen}
                 onClose={() => setIsOpen(false)}
             >
-                <CommentModal />
+                <CommentModal
+                    commentData={commentData}
+                    setCommentData={setCommentData}
+                    setIsOpen={setIsOpen}
+                />
             </Dialog>
         </>
     );
