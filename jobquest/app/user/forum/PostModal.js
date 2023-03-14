@@ -25,7 +25,6 @@ export default function PostModal({ postsData, setPostsData, setIsOpen }) {
             parseInt(postsData[postsData.length - 1].postID) + 1
         ).toString();
         setPostsData([...postsData, newPost]);
-        console.log(postsData);
         setIsOpen(false);
     }
 
