@@ -13,15 +13,12 @@ export default function page({ params }) {
             <div className="h-[calc(100vh-64px)] overflow-auto">
                 <div className="flex flex-col items-center justify-center gap-3 py-5 md:gap-4">
                     <CommentList postID={params.id} />
-                    <div className="flex items-center justify-center">
-                        <div></div>
-                        <button
-                            onClick={() => setIsOpen(true)}
-                            className="h-8 w-20 rounded-full bg-accent-500 text-center text-[10px] font-bold leading-6 text-white shadow-sm hover:bg-accent-300 md:h-9 md:w-24 md:text-xs"
-                        >
-                            + Comment
-                        </button>
-                    </div>
+                    <button
+                        onClick={() => setIsOpen(true)}
+                        className="fixed top-20 left-3/4 h-8 w-20 rounded-full bg-accent-500 text-center text-[10px] font-bold leading-6 text-white shadow-sm hover:bg-accent-300 md:h-9 md:w-24 md:text-xs"
+                    >
+                        + Comment
+                    </button>
                 </div>
             </div>
             <Dialog
