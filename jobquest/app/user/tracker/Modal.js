@@ -75,13 +75,14 @@ export default function Modal({ setIsOpen, trackData, setTrackData }) {
         },
         skills: [],
     };
+
     return (
-        <Dialog.Panel className="flex w-[500px] flex-col items-center justify-start gap-5 overflow-auto rounded-xl border border-black bg-light-500 p-5 lg:w-[900px]">
+        <Dialog.Panel className="flex h-[500px] w-[500px] flex-col items-center justify-start gap-5 rounded-xl border border-black bg-light-500 p-5 lg:w-[900px]">
             <h1 className="text-2xl font-bold text-accent-500">Job Entry</h1>
             <form
                 id="newEntryForm"
                 action="submit"
-                className="flex h-full w-full flex-col justify-between px-10 font-semibold"
+                className="flex w-full flex-col justify-between px-10 font-semibold"
             >
                 <div className="flex w-full flex-wrap justify-center gap-y-2 gap-x-5">
                     <div className="flex flex-col items-start">
@@ -135,7 +136,7 @@ export default function Modal({ setIsOpen, trackData, setTrackData }) {
                             className="w-36 rounded-lg border border-black px-2 font-normal"
                         ></input>
                     </div>
-                    <div className="flex w-[85%] flex-col">
+                    <div className="m-h-[200px] flex w-[85%] flex-col">
                         <label htmlFor="description">Description</label>
                         <textarea
                             name="description"
@@ -144,7 +145,7 @@ export default function Modal({ setIsOpen, trackData, setTrackData }) {
                     </div>
                 </div>
             </form>
-            <div className="flex h-5 w-full flex-col justify-start gap-2 px-[7.5%]">
+            <div className="flex w-full flex-col items-center justify-start gap-2 px-[7.5%]">
                 <div className="flex items-center justify-center gap-2">
                     <h1>Skills:</h1>
                     <input
@@ -166,7 +167,7 @@ export default function Modal({ setIsOpen, trackData, setTrackData }) {
                         +
                     </button>
                 </div>
-                <div className="flex w-full flex-wrap justify-center gap-2">
+                <div className="flex w-[85%] flex-wrap justify-center gap-2 bg-red-500">
                     {skills.map((e) => (
                         <button
                             key={e}
@@ -186,6 +187,7 @@ export default function Modal({ setIsOpen, trackData, setTrackData }) {
                     ))}
                 </div>
             </div>
+            <button>Test</button>
         </Dialog.Panel>
     );
 }

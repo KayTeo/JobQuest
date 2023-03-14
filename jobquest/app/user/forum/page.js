@@ -13,7 +13,7 @@ export default function ForumPage() {
 
     return (
         <>
-            <div className="h-[calc(100vh-64px)]">
+            <div className="h-[calc(100vh-64px)] overflow-auto">
                 <div className="flex flex-col items-center justify-center gap-2 py-5 text-xs text-black">
                     <header className="flex items-center justify-center gap-1">
                         <SearchPost search={search} setSearch={setSearch} />

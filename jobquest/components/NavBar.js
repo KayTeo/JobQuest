@@ -9,8 +9,8 @@ import Cookies from "js-cookie";
 
 const options = [
     { name: "Home", route: "/user/home" },
-    { name: "Tracker", route: "/user/tracker" },
     { name: "Searcher", route: "/user/searcher" },
+    { name: "Tracker", route: "/user/tracker" },
     { name: "Booster", route: "/user/booster" },
     { name: "Forum", route: "/user/forum" },
 ];

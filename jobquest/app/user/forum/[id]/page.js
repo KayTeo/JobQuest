@@ -10,7 +10,7 @@ export default function page({ params }) {
 
     return (
         <>
-            <div className="h-[calc(100vh-64px)]">
+            <div className="h-[calc(100vh-64px)] overflow-auto">
                 <div className="flex flex-col items-center justify-center gap-3 py-5 md:gap-4">
                     <CommentList postID={params.id} />
                     <div className="flex items-center justify-center">
