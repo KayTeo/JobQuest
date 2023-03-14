@@ -5,11 +5,12 @@ import SearchPost from "./SearchPost";
 import PostList from "./PostList";
 import { Dialog } from "@headlessui/react";
 import PostModal from "./PostModal";
+import { postData } from "./tempforumdata";
 
 export default function ForumPage() {
     const [search, setSearch] = useState("");
     const [isOpen, setIsOpen] = useState(false);
-    const [newEntry, setNewEntry] = useState(null);
+    const [postsData, setPostsData] = useState(postData);
 
     return (
         <>
@@ -32,7 +33,11 @@ export default function ForumPage() {
                 open={isOpen}
                 onClose={() => setIsOpen(false)}
             >
-                <PostModal />
+                <PostModal
+                    postsData={postsData}
+                    setPostsData={setPostsData}
+                    setIsOpen={setIsOpen}
+                />
             </Dialog>
         </>
     );

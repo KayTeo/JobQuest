@@ -27,7 +27,7 @@ export default function CommentList({ postID }) {
                     />
                 </section>
             </div>
-            <main className="flex w-[430px] flex-col gap-2 md:w-[730px]">
+            <main className="flex w-[390px] flex-col gap-2 md:w-[690px]">
                 {comments1.map((e) => (
                     <Comment
                         key={e.commentID}
