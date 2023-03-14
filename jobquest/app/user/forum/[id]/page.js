@@ -13,8 +13,15 @@ import CommentModal from "./CommentModal";
 
 export default function page({ params }) {
     const [isOpen, setIsOpen] = useState(false);
-    const [commentData, setCommentData] = useState(commentData1);
+    const [commentsData, setCommentsData] = useState(commentData1);
     const post1 = postData1;
+
+    const handleDelete = (id) => {
+        const comments = commentsData.filter(
+            (comment) => comment.commentID !== id
+        );
+        setCommentsData(comments);
+    };
 
     return (
         <>
@@ -35,11 +42,12 @@ export default function page({ params }) {
                         </section>
                     </div>
                     <main className="flex w-[390px] flex-col gap-2 md:w-[690px]">
-                        {commentData.map((e) => (
+                        {commentsData.map((e) => (
                             <Comment
                                 key={e.commentID}
                                 commentData={e}
                                 authorPic={<UserCircleIcon />}
+                                handleDelete={handleDelete}
                             />
                         ))}
                     </main>
@@ -57,8 +65,8 @@ export default function page({ params }) {
                 onClose={() => setIsOpen(false)}
             >
                 <CommentModal
-                    commentData={commentData}
-                    setCommentData={setCommentData}
+                    commentsData={commentsData}
+                    setCommentsData={setCommentsData}
                     setIsOpen={setIsOpen}
                 />
             </Dialog>

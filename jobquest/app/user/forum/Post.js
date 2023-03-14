@@ -10,7 +10,7 @@ import Link from "next/link";
 import { Dialog } from "@headlessui/react";
 import PostModal from "./PostModal";
 
-export default function Post({ postData }) {
+export default function Post({ postData, handleDelete }) {
     const [isOpen, setIsOpen] = useState(false);
 
     return (
@@ -39,7 +39,10 @@ export default function Post({ postData }) {
                             >
                                 edit
                             </button>
-                            <button className="font-semibold text-red-500">
+                            <button
+                                onClick={() => handleDelete(postData.postID)}
+                                className="font-semibold text-red-500"
+                            >
                                 delete
                             </button>
                         </section>

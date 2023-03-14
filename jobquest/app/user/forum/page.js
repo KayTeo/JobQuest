@@ -17,6 +17,11 @@ export default function ForumPage() {
         post.title.toLowerCase().includes(search.toLowerCase())
     );
 
+    const handleDelete = (id) => {
+        const posts = postsData.filter((post) => post.postID !== id);
+        setPostsData(posts);
+    }
+
     return (
         <>
             <div className="h-[calc(100vh-64px)] overflow-auto">
@@ -32,7 +37,7 @@ export default function ForumPage() {
                     </header>
                     <main className="flex flex-col items-center justify-center gap-2">
                         {filteredPosts.map((e) => (
-                            <Post key={e.postID} postData={e} />
+                            <Post key={e.postID} postData={e} handleDelete={handleDelete}/>
                         ))}
                     </main>
                 </div>
