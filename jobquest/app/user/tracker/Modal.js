@@ -82,7 +82,7 @@ export default function Modal({ setIsOpen, trackData, setTrackData }) {
         newEntry.uuid = generateUUID();
         newEntry.company.name = e.target.company.value;
         newEntry.jobTitle = e.target.jobTitle.value;
-        newEntry.location.country = e.target.country.value;
+        newEntry.location.locality = e.target.country.value;
         newEntry.location.address = e.target.address.value;
         newEntry.description = e.target.description.value;
         newEntry.salaryRange.maxValue = e.target.maxPay.value;
