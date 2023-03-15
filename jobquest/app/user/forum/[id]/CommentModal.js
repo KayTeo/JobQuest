@@ -2,8 +2,8 @@ import { Dialog } from "@headlessui/react";
 import { getCurrentDate } from "@/utils/date";
 
 export default function CommentModal({
-    commentData,
-    setCommentData,
+    commentsData,
+    setCommentsData,
     setIsOpen,
 }) {
     let newComment = {
@@ -19,10 +19,12 @@ export default function CommentModal({
         newComment.content = e.target.content.value;
         newComment.commentDate = getCurrentDate();
         // get last comment id and add 1
-        newComment.commentID = (
-            parseInt(commentData[commentData.length - 1].commentID) + 1
-        ).toString();
-        setCommentData([...commentData, newComment]);
+        let lastID = 0;
+        try {
+            lastID = parseInt(commentsData[commentsData.length - 1].commentID);
+        } catch (e) {}
+        newComment.commentID = (lastID + 1).toString();
+        setCommentsData([...commentsData, newComment]);
         setIsOpen(false);
     }
 

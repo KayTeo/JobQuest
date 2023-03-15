@@ -21,9 +21,11 @@ export default function PostModal({ postsData, setPostsData, setIsOpen }) {
         newPost.title = e.target.title.value;
         newPost.datePublished = getCurrentDate();
         // get last post id and add 1
-        newPost.postID = (
-            parseInt(postsData[postsData.length - 1].postID) + 1
-        ).toString();
+        let lastID = 0;
+        try {
+            lastID = parseInt(postsData[postsData.length - 1].postID);
+        } catch (e) {}
+        newPost.postID = parseInt(lastID + 1).toString();
         setPostsData([...postsData, newPost]);
         setIsOpen(false);
     }
