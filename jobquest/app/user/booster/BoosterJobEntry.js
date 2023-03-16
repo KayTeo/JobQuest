@@ -11,6 +11,7 @@ export default function BoosterJobEntry({ data }) {
     function handleSubmit(e) {
         e.preventDefault();
         let resumeFlag = false;
+        //boost resume/letter here
         try {
             console.log(e.target.resume.value);
             resumeFlag = true;
@@ -18,19 +19,10 @@ export default function BoosterJobEntry({ data }) {
         try {
             console.log(e.target.letter.value);
         } catch (e) {}
-
-        //boost resume/letter here
-
         if (resumeFlag) {
-            setResume(
-                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-            );
-            setLetter(null);
+            setResume(e.target.resume.value);
         } else {
-            setLetter(
-                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-            );
-            setResume(null);
+            setLetter(e.target.letter.value);
         }
     }
 
@@ -47,6 +39,8 @@ export default function BoosterJobEntry({ data }) {
                     onClick={() => {
                         setResumeFlag(!resumeFlag);
                         setLetterFlag(false);
+                        setLetter(null);
+                        setResume(null);
                     }}
                     className="h-6 w-32 rounded-full bg-accent-500 text-center text-xs font-bold leading-6 text-white shadow-sm hover:bg-accent-300"
                 >
@@ -56,6 +50,8 @@ export default function BoosterJobEntry({ data }) {
                     onClick={() => {
                         setLetterFlag(!letterFlag);
                         setResumeFlag(false);
+                        setLetter(null);
+                        setResume(null);
                     }}
                     className="h-6 w-32 rounded-full bg-accent-500 text-center text-xs font-bold leading-6 text-white shadow-sm hover:bg-accent-300"
                 >
@@ -124,24 +120,16 @@ export default function BoosterJobEntry({ data }) {
             )}
             {(resume || letter) && (
                 <div className="flex flex-col gap-5 pb-8 pt-3">
-                    {resume && (
-                        <div className="flex w-64 flex-col gap-1 md:w-80">
-                            <div className="font-bold">Boosted Resume:</div>
-                            <div className="rounded-xl border border-black bg-white p-1 text-xs">
-                                {resume}
-                            </div>
+                    <div className="flex w-64 flex-col gap-1 md:w-80">
+                        <div className="font-bold">
+                            {resume
+                                ? "Boosted Resume:"
+                                : "Boosted Cover Letter:"}
                         </div>
-                    )}
-                    {letter && (
-                        <div className="flex w-64 flex-col gap-1 md:w-80">
-                            <div className="font-bold">
-                                Boosted Cover Letter:
-                            </div>
-                            <div className="rounded-xl border border-black bg-white p-1 text-xs">
-                                {letter}
-                            </div>
+                        <div className="rounded-xl border border-black bg-white p-1 text-xs">
+                            {resume ? resume : letter}
                         </div>
-                    )}
+                    </div>
                 </div>
             )}
         </div>
