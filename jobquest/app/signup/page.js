@@ -31,7 +31,7 @@ export default function SignInPage() {
                         />
                         <label
                             className="font-semibold text-white"
-                            for="username"
+                            htmlFor="username"
                         >
                             Username
                         </label>
@@ -43,7 +43,7 @@ export default function SignInPage() {
                         />
                         <label
                             className="font-semibold text-white"
-                            for="password"
+                            htmlFor="password"
                         >
                             Password
                         </label>
@@ -55,7 +55,7 @@ export default function SignInPage() {
                         />
                         <label
                             className="font-semibold text-white"
-                            for="cfmpassword"
+                            htmlFor="cfmpassword"
                         >
                             Confirm Password
                         </label>

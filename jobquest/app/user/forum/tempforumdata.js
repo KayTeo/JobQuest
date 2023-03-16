@@ -2,7 +2,7 @@ export const postData = [
     {
         title: "I am a Human living on Earth",
         author: "John Row",
-        datePublished: "11 Nov",
+        datePublished: "11/11/2022",
         postID: "1",
         commentNum: 0,
         upvotesNum: -10,
@@ -12,7 +12,7 @@ export const postData = [
     {
         title: "I am an Alien living on Mars",
         author: "Tom Bow",
-        datePublished: "11 Nov",
+        datePublished: "11/11/2022",
         postID: "2",
         commentNum: 3,
         upvotesNum: 5,
@@ -22,7 +22,7 @@ export const postData = [
     {
         title: "I finally found a job!",
         author: "Mary Jane",
-        datePublished: "11 Nov",
+        datePublished: "11/11/2022",
         postID: "3",
         commentNum: 2,
         upvotesNum: 6,
@@ -32,7 +32,7 @@ export const postData = [
     {
         title: "Do not work at XXX",
         author: "Terry Lane",
-        datePublished: "11 Nov",
+        datePublished: "11/11/2022",
         postID: "4",
         commentNum: 5,
         upvotesNum: 8,
@@ -41,7 +41,7 @@ export const postData = [
     {
         title: "I can't find any internship!",
         author: "Larry Vane",
-        datePublished: "11 Nov",
+        datePublished: "11/11/2022",
         postID: "5",
         commentNum: 1,
         upvotesNum: -11,
@@ -52,7 +52,7 @@ export const postData = [
 export const postData1 = {
     title: "I am an Alien living on Mars",
     author: "Tom Bow",
-    datePublished: "11 Nov",
+    datePublished: "11/11/2022",
     postID: "2",
     commentNum: 3,
     upvotesNum: 5,
@@ -65,18 +65,18 @@ export const commentData1 = [
         author: "Shu Ting",
         content: "What do you eat?",
         commentID: "1",
-        commentDate: "11 Nov",
+        commentDate: "11/11/2022",
     },
     {
         author: "Pillow",
         content: "Do you sleep?",
         commentID: "2",
-        commentDate: "11 Nov",
+        commentDate: "11/11/2022",
     },
     {
         author: "Frosty",
         content: "What do female aliens look like?",
         commentID: "3",
-        commentDate: "11 Nov",
+        commentDate: "11/11/2022",
     },
 ];

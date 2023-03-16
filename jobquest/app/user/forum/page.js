@@ -2,18 +2,29 @@
 
 import { useState } from "react";
 import SearchPost from "./SearchPost";
-import PostList from "./PostList";
-import { Dialog } from "@headlessui/react";
+import Post from "./Post";
 import PostModal from "./PostModal";
+import { Dialog } from "@headlessui/react";
+//temp data
+import { postData } from "./tempforumdata";
 
 export default function ForumPage() {
     const [search, setSearch] = useState("");
     const [isOpen, setIsOpen] = useState(false);
-    const [newEntry, setNewEntry] = useState(null);
+    const [postsData, setPostsData] = useState(postData);
+
+    const filteredPosts = postsData.filter((post) =>
+        post.title.toLowerCase().includes(search.toLowerCase())
+    );
+
+    const handleDelete = (id) => {
+        const posts = postsData.filter((post) => post.postID !== id);
+        setPostsData(posts);
+    }
 
     return (
         <>
-            <div className="h-[calc(100vh-64px)]">
+            <div className="h-[calc(100vh-64px)] overflow-auto">
                 <div className="flex flex-col items-center justify-center gap-2 py-5 text-xs text-black">
                     <header className="flex items-center justify-center gap-1">
                         <SearchPost search={search} setSearch={setSearch} />
@@ -24,7 +35,11 @@ export default function ForumPage() {
                             + Post
                         </button>
                     </header>
-                    <PostList searchedTitle={search} />
+                    <main className="flex flex-col items-center justify-center gap-2">
+                        {filteredPosts.map((e) => (
+                            <Post key={e.postID} postData={e} handleDelete={handleDelete}/>
+                        ))}
+                    </main>
                 </div>
             </div>
             <Dialog
@@ -32,7 +47,11 @@ export default function ForumPage() {
                 open={isOpen}
                 onClose={() => setIsOpen(false)}
             >
-                <PostModal />
+                <PostModal
+                    postsData={postsData}
+                    setPostsData={setPostsData}
+                    setIsOpen={setIsOpen}
+                />
             </Dialog>
         </>
     );

@@ -4,7 +4,7 @@ import { useState } from "react";
 import { Dialog } from "@headlessui/react";
 import CommentModal from "./CommentModal";
 
-export default function Comment({ commentData, authorPic }) {
+export default function Comment({ commentData, authorPic, handleDelete }) {
     const [isOpen, setIsOpen] = useState(false);
 
     return (
@@ -31,7 +31,12 @@ export default function Comment({ commentData, authorPic }) {
                                 >
                                     edit
                                 </button>
-                                <button className="font-semibold text-red-500">
+                                <button
+                                    onClick={() =>
+                                        handleDelete(commentData.commentID)
+                                    }
+                                    className="font-semibold text-red-500"
+                                >
                                     delete
                                 </button>
                             </section>
