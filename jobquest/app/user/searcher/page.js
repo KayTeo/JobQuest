@@ -11,15 +11,12 @@ export default function SearcherCollapsedCardPage() {
                 <header className="text-3xl font-bold text-accent-500">
                     Jobs For You
                 </header>
-                <div className="flex h-10 w-full items-center justify-between ">
-                    Testing
-                </div>
 
                 {jobs.map((e) => (
                     <SearcherCollapsedCard key={e.uuid} data={e} />
                 ))}
 
-                <button className="h-5 w-40 rounded-full bg-accent-500 text-center text-xs font-semibold leading-5 text-white shadow-sm hover:bg-accent-300">
+                <button className="flex h-7 w-52 items-center justify-center rounded-full bg-accent-500 text-center text-lg font-semibold leading-6 text-white shadow-sm hover:bg-accent-300">
                     Update Your Details
                 </button>
             </div>
