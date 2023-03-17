@@ -10,20 +10,15 @@ export default function BoosterJobEntry({ data }) {
 
     function handleSubmit(e) {
         e.preventDefault();
-        let resumeFlag = false;
         //boost resume/letter here
         try {
-            console.log(e.target.resume.value);
-            resumeFlag = true;
+            setResumeFlag(false);
+            setResume(e.target.resume.value);
         } catch (e) {}
         try {
-            console.log(e.target.letter.value);
-        } catch (e) {}
-        if (resumeFlag) {
-            setResume(e.target.resume.value);
-        } else {
+            setLetterFlag(false);
             setLetter(e.target.letter.value);
-        }
+        } catch (e) {}
     }
 
     return (
