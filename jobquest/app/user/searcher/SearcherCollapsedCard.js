@@ -9,6 +9,9 @@ import { faAngleLeft } from "@fortawesome/free-solid-svg-icons";
 import Skill from "@/components/Skill";
 
 export default function SearcherCollapsedCard({ data }) {
+    const [expandFlag, setExpandFlag] = useState(false);
+    const [expand, setExpand] = useState(null);
+
     return (
         <div className="flex h-96 w-1/3 flex-col rounded-lg bg-blue-900 p-6 shadow-lg">
             <div className="flex h-16 w-full items-center justify-center">
@@ -97,10 +100,31 @@ export default function SearcherCollapsedCard({ data }) {
             </div>
 
             <div className="flex h-full w-full items-end justify-center">
-                <button className="flex h-6 w-20 items-center justify-center rounded-full bg-accent-500 text-center text-sm font-semibold leading-6 text-white shadow-sm hover:bg-accent-300">
+                <button
+                    onClick={() => {
+                        setExpandFlag(!expandFlag);
+                        setExpand(null);
+                    }}
+                    className="flex h-6 w-20 items-center justify-center rounded-full bg-accent-500 text-center text-sm font-semibold leading-6 text-white shadow-sm hover:bg-accent-300"
+                >
                     View More
                 </button>
             </div>
+            {expandFlag && (
+                <div className="flex h-10 w-full items-center justify-center">
+                    <div className="flex h-10 w-full items-center justify-center">
+                        <div className="flex h-full w-full text-black ">
+                            <p>Job Description:</p>
+                        </div>
+                    </div>
+
+                    <div className="flex h-10 w-full items-center justify-center">
+                        <div className="flex h-full w-full items-start justify-start font-semibold text-black">
+                            {data.description}
+                        </div>
+                    </div>
+                </div>
+            )}
         </div>
     );
 }
