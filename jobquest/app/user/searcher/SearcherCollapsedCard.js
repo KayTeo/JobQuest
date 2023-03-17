@@ -10,10 +10,9 @@ import Skill from "@/components/Skill";
 
 export default function SearcherCollapsedCard({ data }) {
     const [expandFlag, setExpandFlag] = useState(false);
-    const [expand, setExpand] = useState(null);
 
     return (
-        <div className="flex h-96 w-1/3 flex-col rounded-lg bg-blue-900 p-6 shadow-lg">
+        <div className="flex h-96 w-[600px] flex-col rounded-lg bg-blue-900 p-6 shadow-lg">
             <div className="flex h-16 w-full items-center justify-center">
                 <div
                     className="flex h-full w-3/4 overflow-clip text-2xl font-semibold text-white"
@@ -103,7 +102,6 @@ export default function SearcherCollapsedCard({ data }) {
                 <button
                     onClick={() => {
                         setExpandFlag(!expandFlag);
-                        setExpand(null);
                     }}
                     className="flex h-6 w-20 items-center justify-center rounded-full bg-accent-500 text-center text-sm font-semibold leading-6 text-white shadow-sm hover:bg-accent-300"
                 >
