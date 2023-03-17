@@ -3,9 +3,7 @@
 import { useState, useRef } from "react";
 import Link from "next/link";
 //import { useState } from "react";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faAngleRight } from "@fortawesome/free-solid-svg-icons";
-import { faAngleLeft } from "@fortawesome/free-solid-svg-icons";
+import { ChevronLeftIcon, ChevronRightIcon } from "@heroicons/react/20/solid";
 import Skill from "@/components/Skill";
 
 export default function SearcherCollapsedCard({ data }) {
@@ -27,29 +25,29 @@ export default function SearcherCollapsedCard({ data }) {
 
             <hr className="my-2 flex border-white border-opacity-100"></hr>
 
-            <div className="flex h-10 w-full items-center justify-center">
-                <div className="flex h-full w-44 text-white ">
+            <div className="flex h-full w-full items-center justify-center">
+                <div className="flex w-[50px] text-white ">
                     <p>Role:</p>
                 </div>
 
-                <div className="flex h-full w-full items-start justify-start font-semibold text-white">
+                <div className="flex w-[200px] items-start justify-start font-semibold text-white">
                     {data.jobTitle}
                 </div>
 
-                <div className="flex h-full w-44 text-white ">
+                <div className="flex w-[50px] text-white ">
                     <p>Type:</p>
                 </div>
 
-                <div className="flex h-full w-full items-start justify-start font-semibold text-white">
+                <div className="flex w-[250px] items-start justify-start font-semibold text-white">
                     {data.jobType}
                 </div>
             </div>
 
-            <div className="flex h-10 w-full items-center justify-center">
-                <div className="flex h-full w-44 text-white ">
+            <div className="flex h-full w-full items-center justify-center">
+                <div className="flex w-[150px] text-white ">
                     <p>Salary (monthly):</p>
                 </div>
-                <div className="flex h-full w-full items-start justify-start font-semibold text-white">
+                <div className="flex w-[225px] items-start justify-start font-semibold text-white">
                     <p>
                         {data.salaryRange.minValue && data.salaryRange.minValue}
                         {data.salaryRange.minValue &&
@@ -62,18 +60,18 @@ export default function SearcherCollapsedCard({ data }) {
                             data.salaryRange.currency}
                     </p>
                 </div>
-                <div className="flex h-full w-44 text-white ">
+                <div className="flex w-[75px] text-white ">
                     <p>Location:</p>
                 </div>
-                <div className="flex h-full w-full items-start justify-start font-semibold text-white">
+                <div className="flex w-[100px] items-start justify-start font-semibold text-white">
                     {data.location.locality}
                 </div>
             </div>
 
-            <div className="my-10 flex h-20 w-full items-center justify-between">
+            <div className="my-10 flex h-full w-full items-center justify-between">
                 <div className="flex h-full items-start justify-center">
                     <button className="flex h-14 w-14 items-center justify-center rounded-full border bg-blue-900 text-center text-sm font-semibold leading-6 text-white shadow-sm hover:bg-accent-300">
-                        <FontAwesomeIcon icon={faAngleLeft} />
+                        <ChevronLeftIcon />
                     </button>
                 </div>
 
@@ -82,7 +80,7 @@ export default function SearcherCollapsedCard({ data }) {
                 </div>
                 <div className="flex h-full items-end justify-center">
                     <button className="flex h-14 w-14 items-center justify-center rounded-full border bg-blue-900 text-center text-sm font-semibold leading-6 text-white shadow-sm hover:bg-accent-300">
-                        <FontAwesomeIcon icon={faAngleRight} />
+                        <ChevronRightIcon />
                     </button>
                 </div>
             </div>
