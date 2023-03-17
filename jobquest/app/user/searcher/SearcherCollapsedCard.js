@@ -3,9 +3,15 @@
 import { useState, useRef } from "react";
 import Link from "next/link";
 //import { useState } from "react";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faAngleRight } from "@fortawesome/free-solid-svg-icons";
+import { faAngleLeft } from "@fortawesome/free-solid-svg-icons";
 import Skill from "@/components/Skill";
 
 export default function SearcherCollapsedCard({ data }) {
+    const [expandFlag, setExpandFlag] = useState(false);
+    const [expand, setExpand] = useState(null);
+
     return (
         <div className="flex h-96 w-1/3 flex-col rounded-lg bg-blue-900 p-6 shadow-lg">
             <div className="flex h-16 w-full items-center justify-center">
@@ -65,9 +71,20 @@ export default function SearcherCollapsedCard({ data }) {
                 </div>
             </div>
 
-            <div className="my-10 flex h-20 w-full items-center justify-center">
-                <div className="flex h-full w-32 text-lg text-white ">
+            <div className="my-10 flex h-20 w-full items-center justify-between">
+                <div className="flex h-full items-start justify-center">
+                    <button className="flex h-14 w-14 items-center justify-center rounded-full border bg-blue-900 text-center text-sm font-semibold leading-6 text-white shadow-sm hover:bg-accent-300">
+                        <FontAwesomeIcon icon={faAngleLeft} />
+                    </button>
+                </div>
+
+                <div className="flex h-full flex-1 items-center justify-center text-lg text-white ">
                     <p>Skills required:</p>
+                </div>
+                <div className="flex h-full items-end justify-center">
+                    <button className="flex h-14 w-14 items-center justify-center rounded-full border bg-blue-900 text-center text-sm font-semibold leading-6 text-white shadow-sm hover:bg-accent-300">
+                        <FontAwesomeIcon icon={faAngleRight} />
+                    </button>
                 </div>
             </div>
             <div className="my-2 flex h-10 w-full items-center justify-center">
@@ -83,10 +100,31 @@ export default function SearcherCollapsedCard({ data }) {
             </div>
 
             <div className="flex h-full w-full items-end justify-center">
-                <button className="flex h-6 w-20 items-center justify-center rounded-full bg-accent-500 text-center text-sm font-semibold leading-6 text-white shadow-sm hover:bg-accent-300">
+                <button
+                    onClick={() => {
+                        setExpandFlag(!expandFlag);
+                        setExpand(null);
+                    }}
+                    className="flex h-6 w-20 items-center justify-center rounded-full bg-accent-500 text-center text-sm font-semibold leading-6 text-white shadow-sm hover:bg-accent-300"
+                >
                     View More
                 </button>
             </div>
+            {expandFlag && (
+                <div className="flex h-10 w-full items-center justify-center">
+                    <div className="flex h-10 w-full items-center justify-center">
+                        <div className="flex h-full w-full text-black ">
+                            <p>Job Description:</p>
+                        </div>
+                    </div>
+
+                    <div className="flex h-10 w-full items-center justify-center">
+                        <div className="flex h-full w-full items-start justify-start font-semibold text-black">
+                            {data.description}
+                        </div>
+                    </div>
+                </div>
+            )}
         </div>
     );
 }
