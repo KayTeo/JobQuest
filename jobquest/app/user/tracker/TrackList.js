@@ -2,14 +2,30 @@
 
 import { Dialog } from "@headlessui/react";
 import Modal from "./Modal";
-import { track } from "./tempdata";
 import TrackEntry from "./TrackEntry";
 import { useState } from "react";
 
-export default function TrackList({ viewMode }) {
-    const [isOpen, setIsOpen] = useState(false);
-    const [trackData, setTrackData] = useState(track);
+import firebase from "@/firebase/firebase-config";
+const db = firebase.firestore();
 
+function getTrackEntries(userID) {
+    const arr = [];
+    db.collection("users")
+        .doc(userID)
+        .collection("tracker")
+        .onSnapshot((snapshot) => {
+            snapshot.forEach((doc) => {
+                arr.push(doc.data());
+            });
+        });
+    return arr;
+}
+
+export default function TrackList({ viewMode, userID }) {
+    const [isOpen, setIsOpen] = useState(false);
+    const [trackData, setTrackData] = useState(getTrackEntries(userID));
+
+    console.log(trackData);
     return (
         <>
             <div
@@ -49,6 +65,7 @@ export default function TrackList({ viewMode }) {
                     setIsOpen={setIsOpen}
                     trackData={trackData}
                     setTrackData={setTrackData}
+                    userID={userID}
                 />
             </Dialog>
         </>

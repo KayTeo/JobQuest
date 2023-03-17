@@ -5,52 +5,33 @@ import { useState, useRef } from "react";
 import Skill from "@/components/Skill";
 import { generateUUID } from "@/utils/uuid";
 
-export default function Modal({ setIsOpen, trackData, setTrackData }) {
+import firebase from "@/firebase/firebase-config";
+const db = firebase.firestore();
+
+function createTrackEntries(userID, newEntry) {
+    db.collection("users")
+        .doc(userID)
+        .collection("tracker")
+        .doc(newEntry.uuid)
+        .set(newEntry);
+}
+
+function getTrackEntries(userID) {
+    const arr = [];
+    db.collection("users")
+        .doc(userID)
+        .collection("tracker")
+        .onSnapshot((snapshot) => {
+            snapshot.forEach((doc) => {
+                arr.push(doc.data());
+            });
+        });
+    return arr;
+}
+
+export default function Modal({ setIsOpen, trackData, setTrackData, userID }) {
     const [skills, setSkills] = useState([]);
     const skillsInputRef = useRef();
-
-    const test = {
-        uuid: 11231231232,
-        company: {
-            logo: "https://static.mycareersfuture.gov.sg/images/company/logos/6e75040574f0e00a8948d6cd7248f3f4/rapsys-technologies.png",
-            name: "RAPSYS TECHNOLOGIES PTE. LTD.",
-        },
-        datePosted: "2023-02-17",
-        description:
-            "Role:Data Tech Lead  Job Descriptions:    Development of new data management layers and build data processes.   Solutioning and Tech Designing for Data Systems   Tech Led to drive data engineering activities   Provide support for enhancements and any BAU issues on the new data management layers and existing data lakes.   Support and migration of existing on-premises databases to AWS cloud.   Understanding the existing applications, data architecture, and suggest improvements   Lead business requirements and plan deliveries.   Handle data extractions and data analysis for the requirements.  Job Requirements:    Minimum of 10+ years of experience with Information Technology using RDBMS and Non-RDBMS and Cloud databases.   8+ years of strong hands-on experience on any of the databases like SQL/PLSQL, Oracle, MS-SQL server, Postgres, and Snowflake.   3+ years of strong experience in AWS Cloud.   Good understanding of Data integration, Data Flows, Data Quality, Data Architecture and Data Engineering.   Technical expertise in data models, data mining and segmentation techniques.   Experience in Tech Design and Solution Designing for data systems   Experience with full SDLC lifecycle and Lean or Agile development methodologies.   AWS tools and components knowledge is a plus.   CI/CD and GIT exposure   Experience on UNIX shell scripts.   Ability to work in team in diverse/multiple stakeholder environment   Ability to communicate complex technology solutions to diverse teams namely, technical, business and management teams ",
-        dueDate: "2023-03-19",
-        jobTitle: "Data Tech Lead",
-        jobType: ["FULL_TIME"],
-        location: {
-            address: "FORTUNE CENTRE, 190 MIDDLE ROAD",
-            country: "SG",
-            locality: "Singapore",
-        },
-        salaryRange: {
-            currency: "SGD",
-            maxValue: 9000,
-            minValue: 7000,
-            payPeriod: "MONTH",
-        },
-        skills: [
-            "Oracle",
-            "Solutioning",
-            "Segmentation",
-            "Job Descriptions",
-            "Unix shell",
-            "Data Integration",
-            "SDLC",
-            "Information Technology",
-            "Data Quality",
-            "Data Engineering",
-            "Data Mining",
-            "Data Architecture",
-            "GCP",
-            "Databases",
-            "Business Requirements",
-            "Agile Development",
-        ],
-    };
 
     let newEntry = {
         uuid: null,
@@ -89,7 +70,9 @@ export default function Modal({ setIsOpen, trackData, setTrackData }) {
         newEntry.salaryRange.minValue = e.target.minPay.value;
         newEntry.salaryRange.currency = e.target.currency.value;
         newEntry.skills = skills;
-        setTrackData([...trackData, newEntry]);
+
+        createTrackEntries(userID, newEntry);
+        // setTrackData([...trackData, newEntry]);
         setIsOpen(false);
     }
 
