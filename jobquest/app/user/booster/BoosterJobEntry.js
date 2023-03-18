@@ -114,14 +114,14 @@ export default function BoosterJobEntry({ data }) {
                 </form>
             )}
             {(resume || letter) && (
-                <div className="flex flex-col gap-5 pb-8 pt-3">
+                <div className="flex flex-col gap-5 pb-8">
                     <div className="flex w-64 flex-col gap-1 md:w-80">
                         <div className="font-bold">
                             {resume
                                 ? "Boosted Resume:"
                                 : "Boosted Cover Letter:"}
                         </div>
-                        <div className="rounded-xl border border-black bg-white p-1 text-xs">
+                        <div className="min-h-[130px] rounded-xl border border-black bg-white p-1 text-xs">
                             {resume ? resume : letter}
                         </div>
                     </div>
