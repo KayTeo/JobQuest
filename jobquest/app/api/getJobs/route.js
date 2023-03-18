@@ -32,6 +32,7 @@ export async function POST(req, res) {
   var keywords = "";
   var minSal = "";
   var employType = "";
+  var pages = 1;
 
   //Undefined check
   if(searchInput != undefined){
@@ -44,10 +45,13 @@ export async function POST(req, res) {
     if(searchInput['employType'] != undefined && searchInput['employType'] != " "){
       employType = searchInput['employType']
     }
+    if(searchInput['pages'] != undefined && searchInput['pages'] != " "){
+      pages = searchInput['pages']
+    }
   }
   try {
       //NOTE: Python script spawned here has JobQuest/jobquest as root dir. Python script ran in itself has jobquest as root dir
-      let python = await spawnSync('python', ['Python Scripts/Jobs API.py', keywords, minSal, employType]);
+      let python = await spawnSync('python', ['Python Scripts/Jobs API.py', keywords, minSal, employType, pages]);
     } catch (e) {
       console.error(e); 
       //res.status(500).json({ stderr });
