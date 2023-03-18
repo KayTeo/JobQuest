@@ -5,6 +5,7 @@ import TrackList from "./TrackList";
 import ModeToggle from "./ModeToggle";
 import { useState } from "react";
 import { useAuthState } from "react-firebase-hooks/auth";
+import Loading from "@/app/user/loading";
 import firebase from "@/firebase/firebase-config";
 
 const auth = firebase.auth();
@@ -13,7 +14,7 @@ export default function TrackerPage() {
     const [user] = useAuthState(auth);
 
     if (!user) {
-        return <div>loading...</div>;
+        return <Loading />;
     }
 
     return (
