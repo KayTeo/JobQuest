@@ -1,24 +1,28 @@
-import SearcherCollapsedCard from "./SearcherCollapsedCard";
 import { jobData } from "./tempdata";
+import SearcherCard from "./SearcherCard";
+import Link from "next/link";
 
-export default function SearcherCollapsedCardPage() {
+export default function SearcherPage() {
     //fetching from database
     const jobs = jobData;
 
     return (
-        <div className="h-[calc(100vh-64px)]">
-            <div className="my-7 flex flex-col items-center justify-center gap-3 pb-10 md:p-10">
-                <header className="text-3xl font-bold text-accent-500">
+        <div className="h-[calc(100vh-64px)] overflow-auto">
+            <div className="flex flex-col items-center gap-3 p-5">
+                <header className="text-2xl font-bold text-accent-500 md:text-3xl">
                     Jobs For You
                 </header>
-
-                {jobs.map((e) => (
-                    <SearcherCollapsedCard key={e.uuid} data={e} />
-                ))}
-
-                <button className="flex h-7 w-52 items-center justify-center rounded-full bg-accent-500 text-center text-lg font-semibold leading-6 text-white shadow-sm hover:bg-accent-300">
+                <main>
+                    {jobs.map((e) => (
+                        <SearcherCard key={e.uuid} data={e} />
+                    ))}
+                </main>
+                <Link
+                    href="/user/searcher/setup"
+                    className="flex h-9 w-44 items-center justify-center rounded-full bg-accent-500 text-center text-base font-semibold leading-6 text-white shadow-sm hover:bg-accent-300 md:h-10 md:w-52 md:text-lg"
+                >
                     Update Your Details
-                </button>
+                </Link>
             </div>
         </div>
     );

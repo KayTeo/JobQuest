@@ -2,7 +2,7 @@ export const jobData = [
     {
         uuid: 929398,
         company: {
-            logo: null,
+            logo: "https://static.mycareersfuture.gov.sg/images/company/logos/d1505f35fee02dabd4146b80df234925/recruit-expert.jpg",
             name: "CAG REGIONAL SINGAPORE PTE. LTD.",
         },
         datePosted: "2023-03-06",
