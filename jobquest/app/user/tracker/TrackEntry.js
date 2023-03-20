@@ -22,13 +22,13 @@ const statusOptions = [
     { name: "Ghosted", color: "bg-slate-500" },
 ];
 
-async function updateEntry(userID, updatedEntry) {
+async function updateEntry(userID, entry) {
     await db
         .collection("users")
         .doc(userID)
         .collection("tracker")
-        .doc(updatedEntry.uuid)
-        .set(updatedEntry);
+        .doc(entry.uuid)
+        .set(entry);
 }
 
 async function deleteEntry(userID, entry) {

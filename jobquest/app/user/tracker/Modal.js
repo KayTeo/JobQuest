@@ -8,13 +8,13 @@ import { generateUUID } from "@/utils/uuid";
 import firebase from "@/firebase/firebase-config";
 const db = firebase.firestore();
 
-async function createTrackEntries(userID, newEntry) {
+async function createEntry(userID, entry) {
     await db
         .collection("users")
         .doc(userID)
         .collection("tracker")
-        .doc(newEntry.uuid)
-        .set(newEntry);
+        .doc(entry.uuid)
+        .set(entry);
 }
 
 export default function Modal({ setIsOpen, userID, defaultData }) {
@@ -38,7 +38,7 @@ export default function Modal({ setIsOpen, userID, defaultData }) {
         newEntry.salaryRange.currency = e.target.currency.value;
         newEntry.skills = skills;
 
-        createTrackEntries(userID, newEntry);
+        createEntry(userID, newEntry);
         // setTrackData([...trackData, newEntry]);
         setIsOpen(false);
     }
