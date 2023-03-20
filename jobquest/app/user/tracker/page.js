@@ -3,26 +3,58 @@
 import WishList from "./WishList";
 import TrackList from "./TrackList";
 import ModeToggle from "./ModeToggle";
-import { useState } from "react";
+import { useState, use } from "react";
 import { useAuthState } from "react-firebase-hooks/auth";
 import Loading from "@/app/user/loading";
 import firebase from "@/firebase/firebase-config";
 
 const auth = firebase.auth();
+const db = firebase.firestore();
+
+async function getTrackEntries(userID) {
+    const trackArr = [];
+    await db
+        .collection("users")
+        .doc(userID)
+        .collection("tracker")
+        .get()
+        .then((querySnapshot) => {
+            querySnapshot.forEach((doc) => {
+                trackArr.push(doc.data());
+            });
+        });
+
+    const wishArr = [];
+    await db
+        .collection("users")
+        .doc(userID)
+        .collection("wishlist")
+        .get()
+        .then((querySnapshot) => {
+            querySnapshot.forEach((doc) => {
+                wishArr.push(doc.data());
+            });
+        });
+    return [wishArr, trackArr];
+}
+
 export default function TrackerPage() {
     const [viewMode, setViewMode] = useState("both");
-    const [user] = useAuthState(auth);
 
-    if (!user) {
-        return <Loading />;
-    }
+    const [wishData, trackData] = use(
+        getTrackEntries("r6WTVmJXnxVs4xM2TBNCRW7U2Ju2")
+    );
 
     return (
         <div className="flex h-[calc(100vh-64px)] flex-col items-center p-10">
             <ModeToggle viewMode={viewMode} setViewMode={setViewMode} />
             <div className="flex flex-col items-center justify-center gap-10 py-10 xl:flex-row">
-                <WishList viewMode={viewMode} />
-                <TrackList viewMode={viewMode} userID={user.uid} />
+                <WishList viewMode={viewMode} wishData={wishData} />
+                <TrackList
+                    viewMode={viewMode}
+                    userID="r6WTVmJXnxVs4xM2TBNCRW7U2Ju2"
+                    trackData={trackData}
+                />
             </div>
         </div>
     );

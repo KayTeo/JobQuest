@@ -5,25 +5,8 @@ import Modal from "./Modal";
 import TrackEntry from "./TrackEntry";
 import { useState } from "react";
 
-import firebase from "@/firebase/firebase-config";
-const db = firebase.firestore();
-
-function getTrackEntries(userID) {
-    const arr = [];
-    db.collection("users")
-        .doc(userID)
-        .collection("tracker")
-        .onSnapshot((snapshot) => {
-            snapshot.forEach((doc) => {
-                arr.push(doc.data());
-            });
-        });
-    return arr;
-}
-
-export default function TrackList({ viewMode, userID }) {
+export default function TrackList({ viewMode, userID, trackData }) {
     const [isOpen, setIsOpen] = useState(false);
-    const [trackData, setTrackData] = useState(getTrackEntries(userID));
 
     console.log(trackData);
     return (
@@ -64,7 +47,7 @@ export default function TrackList({ viewMode, userID }) {
                 <Modal
                     setIsOpen={setIsOpen}
                     trackData={trackData}
-                    setTrackData={setTrackData}
+                    setTrackData={null}
                     userID={userID}
                 />
             </Dialog>
