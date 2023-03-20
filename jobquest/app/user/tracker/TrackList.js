@@ -6,6 +6,31 @@ import TrackEntry from "./TrackEntry";
 import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
 
+const emptyEntry = {
+    uuid: null,
+    company: {
+        logo: null,
+        name: null,
+    },
+    datePosted: null,
+    description: null,
+    dueDate: null,
+    jobTitle: null,
+    jobType: [null],
+    location: {
+        address: null,
+        country: null,
+        locality: null,
+    },
+    salaryRange: {
+        currency: null,
+        maxValue: null,
+        minValue: null,
+        payPeriod: null,
+    },
+    skills: [],
+};
+
 export default function TrackList({ viewMode, userID, trackData }) {
     const [isOpen, setIsOpen] = useState(false);
     const router = useRouter();
@@ -39,7 +64,7 @@ export default function TrackList({ viewMode, userID, trackData }) {
                 >
                     <div className="flex h-full w-full flex-col items-center gap-2 overflow-y-scroll p-2 pr-1">
                         {trackData.map((e) => (
-                            <TrackEntry key={e.uuid} data={e} />
+                            <TrackEntry key={e.uuid} data={e} userID={userID} />
                         ))}
                     </div>
                 </div>
@@ -50,7 +75,11 @@ export default function TrackList({ viewMode, userID, trackData }) {
                     open={true}
                     onClose={() => setIsOpen(false)}
                 >
-                    <Modal setIsOpen={setIsOpen} userID={userID} />
+                    <Modal
+                        setIsOpen={setIsOpen}
+                        userID={userID}
+                        defaultData={emptyEntry}
+                    />
                 </Dialog>
             )}
         </>

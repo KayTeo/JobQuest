@@ -17,38 +17,17 @@ async function createTrackEntries(userID, newEntry) {
         .set(newEntry);
 }
 
-export default function Modal({ setIsOpen, userID }) {
-    const [skills, setSkills] = useState([]);
+export default function Modal({ setIsOpen, userID, defaultData }) {
+    const [skills, setSkills] = useState(defaultData.skills);
     const skillsInputRef = useRef();
-
-    let newEntry = {
-        uuid: null,
-        company: {
-            logo: null,
-            name: null,
-        },
-        datePosted: null,
-        description: null,
-        dueDate: null,
-        jobTitle: null,
-        jobType: [null],
-        location: {
-            address: null,
-            country: null,
-            locality: null,
-        },
-        salaryRange: {
-            currency: null,
-            maxValue: null,
-            minValue: null,
-            payPeriod: null,
-        },
-        skills: [],
-    };
 
     function handleSubmit(e) {
         e.preventDefault();
-        newEntry.uuid = generateUUID();
+        const newEntry = { ...defaultData };
+        if (!defaultData.uuid) {
+            newEntry.status = { name: "Preparing", color: "bg-fuchsia-500" };
+            newEntry.uuid = generateUUID();
+        }
         newEntry.company.name = e.target.company.value;
         newEntry.jobTitle = e.target.jobTitle.value;
         newEntry.location.locality = e.target.country.value;
@@ -79,6 +58,7 @@ export default function Modal({ setIsOpen, userID }) {
                         <input
                             name="company"
                             className="w-36 rounded-lg border border-black px-2 font-normal"
+                            defaultValue={defaultData.company.name}
                         ></input>
                     </div>
                     <div className="flex flex-col items-start">
@@ -86,6 +66,7 @@ export default function Modal({ setIsOpen, userID }) {
                         <input
                             name="jobTitle"
                             className="w-36 rounded-lg border border-black px-2 font-normal"
+                            defaultValue={defaultData.jobTitle}
                         ></input>
                     </div>
                     <div className="flex flex-col items-start">
@@ -93,6 +74,7 @@ export default function Modal({ setIsOpen, userID }) {
                         <input
                             name="country"
                             className="w-36 rounded-lg border border-black px-2 font-normal"
+                            defaultValue={defaultData.location.locality}
                         ></input>
                     </div>
                     <div className="flex flex-col items-start">
@@ -100,6 +82,7 @@ export default function Modal({ setIsOpen, userID }) {
                         <input
                             name="address"
                             className="w-36 rounded-lg border border-black px-2 font-normal"
+                            defaultValue={defaultData.location.address}
                         ></input>
                     </div>
                     <div className="flex flex-col items-start">
@@ -108,6 +91,7 @@ export default function Modal({ setIsOpen, userID }) {
                             name="minPay"
                             type="number"
                             className="w-36 rounded-lg border border-black px-2 font-normal"
+                            defaultValue={defaultData.salaryRange.minValue}
                         ></input>
                     </div>
                     <div className="flex flex-col items-start">
@@ -116,6 +100,7 @@ export default function Modal({ setIsOpen, userID }) {
                             name="maxPay"
                             type="number"
                             className="w-36 rounded-lg border border-black px-2 font-normal"
+                            defaultValue={defaultData.salaryRange.maxValue}
                         ></input>
                     </div>
                     <div className="flex flex-col items-start">
@@ -123,6 +108,7 @@ export default function Modal({ setIsOpen, userID }) {
                         <input
                             name="currency"
                             className="w-36 rounded-lg border border-black px-2 font-normal"
+                            defaultValue={defaultData.salaryRange.currency}
                         ></input>
                     </div>
                     <div className="flex w-[85%] flex-col">
@@ -130,6 +116,7 @@ export default function Modal({ setIsOpen, userID }) {
                         <textarea
                             name="description"
                             className="h-[400px] resize-none rounded-lg border border-black px-2 font-normal"
+                            defaultValue={defaultData.description}
                         ></textarea>
                     </div>
                 </div>
