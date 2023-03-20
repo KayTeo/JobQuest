@@ -23,11 +23,11 @@ export default function BoosterJobEntry({ data }) {
 
     return (
         <div className="flex w-[350px] flex-col items-center justify-center gap-1 rounded-3xl border border-black bg-light-200 pt-2 pb-5 text-black md:w-[550px]">
-            <section className="flex w-[320px] items-center justify-center overflow-hidden text-ellipsis whitespace-nowrap font-bold md:w-[520px]">
-                {data.jobTitle}
+            <section className="flex w-[320px] items-center justify-center overflow-hidden text-ellipsis whitespace-nowrap text-xl font-bold md:w-[520px]">
+                {data.company.name}
             </section>
             <section className="flex w-[320px] items-center justify-center overflow-hidden text-ellipsis whitespace-nowrap md:w-[520px]">
-                {data.company.name}
+                {data.jobTitle}
             </section>
             <section className="flex gap-2 px-5">
                 <button
