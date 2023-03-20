@@ -32,7 +32,8 @@ export async function POST(request) {
   // console.log(con);
   const contents = JSON.stringify({ "model": "gpt-3.5-turbo-0301", "messages": [{ "role": "user", "content": con }] });
 
-
+//currently it's quite bad as the whole thing will not work if the reply from chatgpt does not match the code
+//if possible, make it somehow flexible on receiving the data
 
   var reply = "Resume:\n\n"
 
