@@ -3,10 +3,16 @@
 import { Dialog } from "@headlessui/react";
 import Modal from "./Modal";
 import TrackEntry from "./TrackEntry";
-import { useState } from "react";
+import { useState, useEffect } from "react";
+import { useRouter } from "next/navigation";
 
 export default function TrackList({ viewMode, userID, trackData }) {
     const [isOpen, setIsOpen] = useState(false);
+    const router = useRouter();
+
+    useEffect(() => {
+        router.refresh();
+    }, [isOpen]);
 
     return (
         <>

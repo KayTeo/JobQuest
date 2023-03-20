@@ -39,9 +39,9 @@ async function getData(userID) {
 }
 
 export default function TrackerPage() {
+    const userID = "r6WTVmJXnxVs4xM2TBNCRW7U2Ju2";
     const [viewMode, setViewMode] = useState("both");
-
-    const [wishData, trackData] = use(getData("r6WTVmJXnxVs4xM2TBNCRW7U2Ju2"));
+    const [wishData, trackData] = use(getData(userID));
 
     return (
         <div className="flex h-[calc(100vh-64px)] flex-col items-center p-10">
@@ -50,7 +50,7 @@ export default function TrackerPage() {
                 <WishList viewMode={viewMode} wishData={wishData} />
                 <TrackList
                     viewMode={viewMode}
-                    userID="r6WTVmJXnxVs4xM2TBNCRW7U2Ju2"
+                    userID={userID}
                     trackData={trackData}
                 />
             </div>

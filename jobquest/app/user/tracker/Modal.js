@@ -4,7 +4,6 @@ import { Dialog } from "@headlessui/react";
 import { useState, useRef } from "react";
 import Skill from "@/components/Skill";
 import { generateUUID } from "@/utils/uuid";
-import { useRouter } from "next/navigation";
 
 import firebase from "@/firebase/firebase-config";
 const db = firebase.firestore();
@@ -21,7 +20,6 @@ async function createTrackEntries(userID, newEntry) {
 export default function Modal({ setIsOpen, userID }) {
     const [skills, setSkills] = useState([]);
     const skillsInputRef = useRef();
-    const router = useRouter();
 
     let newEntry = {
         uuid: null,
@@ -64,7 +62,6 @@ export default function Modal({ setIsOpen, userID }) {
         createTrackEntries(userID, newEntry);
         // setTrackData([...trackData, newEntry]);
         setIsOpen(false);
-        router.refresh();
     }
 
     return (
