@@ -8,7 +8,6 @@ import { useAuthState } from "react-firebase-hooks/auth";
 import Loading from "@/app/user/loading";
 import firebase from "@/firebase/firebase-config";
 
-const auth = firebase.auth();
 const db = firebase.firestore();
 
 async function getData(userID) {
@@ -47,7 +46,11 @@ export default function TrackerPage() {
         <div className="flex h-[calc(100vh-64px)] flex-col items-center p-10">
             <ModeToggle viewMode={viewMode} setViewMode={setViewMode} />
             <div className="flex flex-col items-center justify-center gap-10 py-10 xl:flex-row">
-                <WishList viewMode={viewMode} wishData={wishData} />
+                <WishList
+                    viewMode={viewMode}
+                    userID={userID}
+                    wishData={wishData}
+                />
                 <TrackList
                     viewMode={viewMode}
                     userID={userID}

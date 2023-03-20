@@ -3,8 +3,7 @@
 import { wish } from "./tempdata";
 import WishEntry from "./WishEntry";
 
-export default function WishList({ viewMode }) {
-    const wishData = wish;
+export default function WishList({ viewMode, userID, wishData }) {
     return (
         <div
             className={`${
