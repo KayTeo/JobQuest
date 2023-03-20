@@ -1,7 +1,26 @@
+"use client"
+
 import GoogleLogIn from "@/components/GoogleLogIn";
 import Image from "next/image";
+import { useRouter } from "next/navigation";
+import Cookies from "js-cookie";
+
+import firebase from "@/firebase/firebase-config";
+const auth = firebase.auth();
 
 export default function LogInPage() {
+    const router = useRouter();
+
+    function handleSubmit(e) {
+        e.preventDefault();
+        const email = e.target.username.value;
+        const password = e.target.password.value;
+        auth.signInWithEmailAndPassword(email, password).then(()=> {
+            Cookies.set("loggedin", true);
+            router.push("/");
+        })
+    }
+
     return (
         <div className="flex flex-col items-center justify-center gap-3 pt-10 sm:pt-0">
             <h1 className="text-4xl font-bold tracking-tight text-accent-500 sm:text-5xl">
@@ -16,20 +35,21 @@ export default function LogInPage() {
             ></Image>
             <div className="flex flex-col items-center justify-center gap-4 rounded-xl bg-dark-500 py-4 px-10 sm:px-28">
                 <form
-                    action="submit "
+                    onSubmit={handleSubmit}
+                    action="submit"
                     className="flex flex-col items-center justify-center gap-4"
                 >
                     <div className="flex flex-col items-center justify-center gap-px">
                         <label
                             className="font-semibold text-white"
-                            htmlFor="username"
+                            htmlFor="email"
                         >
-                            Username
+                            Email
                         </label>
                         <input
                             className="rounded-lg px-2 text-xl"
                             type="text"
-                            id="username"
+                            id="email"
                             name="username"
                         />
                         <label

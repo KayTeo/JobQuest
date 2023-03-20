@@ -13,7 +13,7 @@ export default function GoogleLogIn({ text }) {
         const provider = new firebase.auth.GoogleAuthProvider();
         await auth.signInWithPopup(provider);
         Cookies.set("loggedin", true);
-        router.push("/user/home");
+        router.push("/");
     }
 
     return (

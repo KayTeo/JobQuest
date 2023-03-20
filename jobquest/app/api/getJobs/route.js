@@ -8,7 +8,7 @@ function countSkillMatch(jobSkills, searcherSkills){
   let skillsCount = 0;
   for(let i = 0; i < jobSkills.length; i++){
     for(let j = 0; j < searcherSkills.length; j++){
-      if(jobSkills[i] === searcherSkills[j]){
+      if(jobSkills[i].toLowerCase() === searcherSkills[j].toLowerCase()){
         skillsCount++;
       }
     }
@@ -61,12 +61,13 @@ export async function POST(req, res) {
     for(let i = 0; i < jsonObj['jobs'].length; i++){
       jsonObj['jobs'][i]['skillMatches'] = countSkillMatch(jsonObj['jobs'][i]['skills'], searchInput['skills'])
     }
-
+    console.log(jsonObj)
     jsonObj['jobs'] = jsonObj['jobs'].sort((a,b) =>{
       if( a.skillMatches > b.skillMatches){
         return -1;
       }
     });
-  return new NextResponse(jsonObj);
+    console.log(jsonObj)
+  return new NextResponse(JSON.stringify(jsonObj));
 
 }

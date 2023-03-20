@@ -106,13 +106,19 @@ def getJobData(filename, keywords = "", employmentType = "", salary = "", startP
     #driver = webdriver.Chrome(service = ChromeService(ChromeDriverManager().install()))
     driver = webdriver.Chrome()
     
+    if employmentType != "FULL_TIME" and employmentType != "PART_TIME" and employmentType != "INTERNSHIP" and employmentType != "OTHER" and employmentType != "":
+        print("Error, please choose valid employment type")
+
+    if(int(salary) < 0):
+        print("Error, please enter non-negative minimum salary")
+
     #Generate URL
     links = []
     filename = os.path.dirname(os.path.realpath(__file__)) + filename
     #Erase previous file
     f = open(filename, "w+", encoding='utf8')
     for i in range(startPage, startPage + pages):
-        targetURL = "https://www.mycareersfuture.gov.sg/search?search=" + keywords + "&salary=" + salary + "&employmentType=" + employmentType + "&sortBy=relevancy&page=" + str(i)
+        targetURL = "https://www.mycareersfuture.gov.sg/search?search=" + keywords + "&salary=" + str(salary) + "&employmentType=" + employmentType + "&sortBy=relevancy&page=" + str(i)
         links += getCardLinks(targetURL, driver)
     f = open(filename, "a", encoding='utf8')
     #Note: Each search page contains 20 entries
@@ -142,6 +148,7 @@ def getJobData(filename, keywords = "", employmentType = "", salary = "", startP
 
 #NOTE: Python script spawned here has JobQuest/jobquest as root dir. Python script ran in itself has jobquest as root dir. This script CANNOT run here as path is for running from API
 #keywordsInput = input()
-input = sys.argv
+#input = sys.argv
+input = [1, "cook", 500, "", 1]
 getJobData(filename = "\\jobsData.json", keywords = str(input[1]), salary = input[2], employmentType = input[3], pages = input[4])
 print("Job script ran")
