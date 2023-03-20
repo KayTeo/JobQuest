@@ -6,6 +6,7 @@ import { ArrowDownCircleIcon, XCircleIcon } from "@heroicons/react/20/solid";
 import { useState, useEffect } from "react";
 import Skill from "@/components/Skill";
 import { useRouter } from "next/navigation";
+import Link from "next/link";
 
 import firebase from "@/firebase/firebase-config";
 const db = firebase.firestore();
@@ -179,15 +180,23 @@ export default function TrackEntry({ data, userID }) {
                             >
                                 Edit Details
                             </button>
-                            <button className="h-8 w-28 items-center justify-center rounded-full bg-accent-500 px-2 py-1 text-white hover:bg-accent-300">
-                                Visit Job Site
-                            </button>
-                            <button className="h-8 w-28 items-center justify-center rounded-full bg-accent-500 px-2 py-1 text-white hover:bg-accent-300">
+                            <a href={data.jobLink} target="_blank">
+                                <button className="h-8 w-28 items-center justify-center rounded-full bg-accent-500 px-2 py-1 text-white hover:bg-accent-300">
+                                    Visit Job Site
+                                </button>
+                            </a>
+                            <a
+                                href="/user/searcher"
+                                className="inline-flex h-8 w-28 items-center justify-center rounded-full bg-accent-500 px-2 py-1 text-white hover:bg-accent-300"
+                            >
                                 Find Similar
-                            </button>
-                            <button className="h-8 w-28 items-center justify-center rounded-full bg-accent-500 px-2 py-1 text-white hover:bg-accent-300">
+                            </a>
+                            <a
+                                href="/user/booster"
+                                className="inline-flex h-8 w-28 items-center justify-center rounded-full bg-accent-500 px-2 py-1 text-white hover:bg-accent-300"
+                            >
                                 Resume Boost
-                            </button>
+                            </a>
                         </div>
                     </div>
                 )}
