@@ -38,8 +38,12 @@ async function getData(userID) {
 }
 
 export default function TrackerPage() {
-    const userID = "r6WTVmJXnxVs4xM2TBNCRW7U2Ju2";
+    const [user, loading, error] = useAuthState(firebase.auth());
     const [viewMode, setViewMode] = useState("both");
+
+    if (loading) return <Loading />;
+
+    const userID = user.uid;
     const [wishData, trackData] = use(getData(userID));
 
     return (

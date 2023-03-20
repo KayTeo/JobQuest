@@ -31,6 +31,15 @@ async function updateEntry(userID, updatedEntry) {
         .set(updatedEntry);
 }
 
+async function deleteEntry(userID, entry) {
+    await db
+        .collection("users")
+        .doc(userID)
+        .collection("tracker")
+        .doc(entry.uuid)
+        .delete();
+}
+
 export default function TrackEntry({ data, userID }) {
     const [isOpen, setIsOpen] = useState(false);
     const [status, setStatus] = useState(data.status);
@@ -76,7 +85,13 @@ export default function TrackEntry({ data, userID }) {
                 } w-full flex-col items-center justify-start rounded-xl border border-black bg-white text-center text-xs font-bold text-dark-500`}
             >
                 <div className="flex h-10 w-full items-center justify-between">
-                    <button className="inline-flex">
+                    <button
+                        onClick={() => {
+                            deleteEntry(userID, data);
+                            router.refresh();
+                        }}
+                        className="inline-flex"
+                    >
                         <XCircleIcon className="w-7 text-red-500 hover:text-red-300" />
                     </button>
                     <div className="h-5 w-[30%] overflow-clip">
