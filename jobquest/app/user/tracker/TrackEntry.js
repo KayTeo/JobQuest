@@ -56,11 +56,11 @@ export default function TrackEntry({ data, userID }) {
         });
 
         if (index === 8) {
-            setStatus(statusOptions[0]);
             updateEntry(userID, { ...data, status: statusOptions[0] });
+            setStatus(statusOptions[0]);
         } else {
-            setStatus(statusOptions[index + 1]);
             updateEntry(userID, { ...data, status: statusOptions[index + 1] });
+            setStatus(statusOptions[index + 1]);
         }
     }
 
