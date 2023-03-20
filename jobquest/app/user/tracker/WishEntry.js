@@ -3,9 +3,37 @@
 import { ArrowDownCircleIcon, XCircleIcon } from "@heroicons/react/20/solid";
 import { useState } from "react";
 import Skill from "@/components/Skill";
+import { useRouter } from "next/navigation";
 
-export default function WishEntry({ data }) {
+import firebase from "@/firebase/firebase-config";
+const db = firebase.firestore();
+
+async function updateEntry(userID, entry) {
+    await db
+        .collection("users")
+        .doc(userID)
+        .collection("tracker")
+        .doc(entry.uuid)
+        .set(entry);
+
+    await db
+        .collection("users")
+        .doc(userID)
+        .collection("wishlist")
+        .doc(entry.uuid)
+        .delete();
+}
+
+export default function WishEntry({ data, userID }) {
     const [expandCard, setExpandCard] = useState(false);
+    const router = useRouter();
+
+    function movetoTrack() {
+        updateEntry(userID, {
+            ...data,
+            status: { name: "Preparing", color: "bg-fuchsia-500" },
+        });
+    }
     return (
         <div
             className={`flex ${
@@ -91,7 +119,13 @@ export default function WishEntry({ data }) {
                         <button className="h-8 w-28 items-center justify-center rounded-full bg-accent-500 px-2 py-1 text-white hover:bg-accent-300">
                             Find Similar
                         </button>
-                        <button className="h-8 w-28 items-center justify-center rounded-full bg-accent-500 px-2 py-1 text-white hover:bg-accent-300">
+                        <button
+                            onClick={() => {
+                                movetoTrack();
+                                router.refresh();
+                            }}
+                            className="h-8 w-28 items-center justify-center rounded-full bg-accent-500 px-2 py-1 text-white hover:bg-accent-300"
+                        >
                             Add to Tracker
                         </button>
                     </div>

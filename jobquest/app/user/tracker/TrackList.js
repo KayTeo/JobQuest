@@ -28,6 +28,7 @@ const emptyEntry = {
         minValue: null,
         payPeriod: null,
     },
+    jobLink: null,
     skills: [],
 };
 

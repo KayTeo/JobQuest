@@ -36,6 +36,7 @@ export default function Modal({ setIsOpen, userID, defaultData }) {
         newEntry.salaryRange.maxValue = e.target.maxPay.value;
         newEntry.salaryRange.minValue = e.target.minPay.value;
         newEntry.salaryRange.currency = e.target.currency.value;
+        newEntry.jobLink = e.target.url.value;
         newEntry.skills = skills;
 
         createEntry(userID, newEntry);
@@ -119,6 +120,14 @@ export default function Modal({ setIsOpen, userID, defaultData }) {
                             defaultValue={defaultData.description}
                         ></textarea>
                     </div>
+                    <div className="flex w-[85%] flex-col items-start">
+                        <label htmlFor="url">Url</label>
+                        <input
+                            name="url"
+                            className="w-full rounded-lg border border-black px-2 font-normal"
+                            defaultValue={defaultData.jobLink}
+                        ></input>
+                    </div>
                 </div>
             </form>
             <div className="flex w-full flex-col items-center justify-start gap-2 px-[7.5%]">
@@ -143,7 +152,7 @@ export default function Modal({ setIsOpen, userID, defaultData }) {
                         +
                     </button>
                 </div>
-                <div className="flex h-[100px] w-full flex-wrap justify-center gap-x-2 gap-y-1 overflow-auto">
+                <div className="flex max-h-[60px] w-full flex-wrap justify-center gap-x-2 gap-y-1 overflow-auto">
                     {skills.map((e) => (
                         <button
                             key={e}

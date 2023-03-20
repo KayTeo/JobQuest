@@ -1,7 +1,7 @@
 "use client";
 
-import { wish } from "./tempdata";
 import WishEntry from "./WishEntry";
+import Link from "next/link";
 
 export default function WishList({ viewMode, userID, wishData }) {
     return (
@@ -12,9 +12,12 @@ export default function WishList({ viewMode, userID, wishData }) {
         >
             <div className="flex items-center justify-center gap-1">
                 <h1 className="text-2xl font-bold text-accent-500">Wishlist</h1>
-                <button className="rounded-full bg-accent-500 px-2 text-center font-bold text-white hover:bg-accent-300">
+                <Link
+                    href="/user/searcher"
+                    className="rounded-full bg-accent-500 px-2 text-center font-bold text-white hover:bg-accent-300"
+                >
                     +
-                </button>
+                </Link>
             </div>
 
             <div
@@ -24,7 +27,7 @@ export default function WishList({ viewMode, userID, wishData }) {
             >
                 <div className="flex h-full w-full flex-col items-center gap-2 overflow-y-scroll p-2 pr-1">
                     {wishData.map((e) => (
-                        <WishEntry key={e.uuid} data={e} />
+                        <WishEntry key={e.uuid} data={e} userID={userID} />
                     ))}
                 </div>
             </div>

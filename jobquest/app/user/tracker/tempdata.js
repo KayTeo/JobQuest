@@ -166,7 +166,7 @@ export const track = [
 
 export const wish = [
     {
-        uuid: 1111,
+        uuid: "1111",
         company: {
             logo: "https://static.mycareersfuture.gov.sg/images/company/logos/6e75040574f0e00a8948d6cd7248f3f4/rapsys-technologies.png",
             name: "RAPSYS TECHNOLOGIES PTE. LTD.",
@@ -206,7 +206,7 @@ export const wish = [
         ],
     },
     {
-        uuid: 1112,
+        uuid: "1112",
         company: {
             logo: "https://static.mycareersfuture.gov.sg/images/company/logos/038b5558fa6cdb2e21e99c3cfa9b48d8/ranosys-technologies.jpg",
             name: "RANOSYS TECHNOLOGIES PTE. LTD.",
@@ -244,7 +244,7 @@ export const wish = [
         ],
     },
     {
-        uuid: 1113,
+        uuid: "1113",
         company: {
             logo: "https://static.mycareersfuture.gov.sg/images/company/logos/6e75040574f0e00a8948d6cd7248f3f4/rapsys-technologies.png",
             name: "RAPSYS TECHNOLOGIES PTE. LTD.",
