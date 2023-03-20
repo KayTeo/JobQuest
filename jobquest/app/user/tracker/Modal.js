@@ -8,28 +8,16 @@ import { generateUUID } from "@/utils/uuid";
 import firebase from "@/firebase/firebase-config";
 const db = firebase.firestore();
 
-function createTrackEntries(userID, newEntry) {
-    db.collection("users")
+async function createTrackEntries(userID, newEntry) {
+    await db
+        .collection("users")
         .doc(userID)
         .collection("tracker")
         .doc(newEntry.uuid)
         .set(newEntry);
 }
 
-function getTrackEntries(userID) {
-    const arr = [];
-    db.collection("users")
-        .doc(userID)
-        .collection("tracker")
-        .onSnapshot((snapshot) => {
-            snapshot.forEach((doc) => {
-                arr.push(doc.data());
-            });
-        });
-    return arr;
-}
-
-export default function Modal({ setIsOpen, trackData, setTrackData, userID }) {
+export default function Modal({ setIsOpen, userID }) {
     const [skills, setSkills] = useState([]);
     const skillsInputRef = useRef();
 
@@ -188,13 +176,23 @@ export default function Modal({ setIsOpen, trackData, setTrackData, userID }) {
                     ))}
                 </div>
             </div>
-            <button
-                type="submit"
-                form="newEntryForm"
-                className="h-8 w-28 items-center justify-center rounded-full bg-accent-500 px-2 py-1 font-semibold text-white hover:bg-accent-300"
-            >
-                Save Details
-            </button>
+            <div className="flex items-center justify-center gap-2">
+                <button
+                    type="submit"
+                    form="newEntryForm"
+                    className="h-8 w-28 items-center justify-center rounded-full bg-accent-500 px-2 py-1 font-semibold text-white hover:bg-accent-300"
+                >
+                    Save Details
+                </button>
+                <button
+                    onClick={() => {
+                        setIsOpen(false);
+                    }}
+                    className="h-8 w-28 items-center justify-center rounded-full bg-accent-500 px-2 py-1 font-semibold text-white hover:bg-accent-300"
+                >
+                    Close
+                </button>
+            </div>
         </Dialog.Panel>
     );
 }

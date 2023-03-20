@@ -11,7 +11,7 @@ import firebase from "@/firebase/firebase-config";
 const auth = firebase.auth();
 const db = firebase.firestore();
 
-async function getTrackEntries(userID) {
+async function getData(userID) {
     const trackArr = [];
     await db
         .collection("users")
@@ -41,9 +41,7 @@ async function getTrackEntries(userID) {
 export default function TrackerPage() {
     const [viewMode, setViewMode] = useState("both");
 
-    const [wishData, trackData] = use(
-        getTrackEntries("r6WTVmJXnxVs4xM2TBNCRW7U2Ju2")
-    );
+    const [wishData, trackData] = use(getData("r6WTVmJXnxVs4xM2TBNCRW7U2Ju2"));
 
     return (
         <div className="flex h-[calc(100vh-64px)] flex-col items-center p-10">

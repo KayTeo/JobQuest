@@ -8,7 +8,6 @@ import { useState } from "react";
 export default function TrackList({ viewMode, userID, trackData }) {
     const [isOpen, setIsOpen] = useState(false);
 
-    console.log(trackData);
     return (
         <>
             <div
@@ -39,18 +38,15 @@ export default function TrackList({ viewMode, userID, trackData }) {
                     </div>
                 </div>
             </div>
-            <Dialog
-                className="fixed left-0 top-0 z-10 flex h-full w-full items-center justify-center bg-dark-500 bg-opacity-50"
-                open={isOpen}
-                onClose={() => setIsOpen(false)}
-            >
-                <Modal
-                    setIsOpen={setIsOpen}
-                    trackData={trackData}
-                    setTrackData={null}
-                    userID={userID}
-                />
-            </Dialog>
+            {isOpen && (
+                <Dialog
+                    className="fixed left-0 top-0 z-10 flex h-full w-full items-center justify-center bg-dark-500 bg-opacity-50"
+                    open={true}
+                    onClose={() => setIsOpen(false)}
+                >
+                    <Modal setIsOpen={setIsOpen} userID={userID} />
+                </Dialog>
+            )}
         </>
     );
 }
