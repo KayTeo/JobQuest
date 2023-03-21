@@ -24,11 +24,11 @@ export default function SearcherCard({ data }) {
                             <header className="flex w-full items-center justify-between pb-1">
                                 <div
                                     title={data.company.name}
-                                    className="max-w-[400px] overflow-hidden text-ellipsis whitespace-nowrap text-2xl font-bold"
+                                    className="md:max-w-[400px] max-w-[150px] overflow-hidden text-ellipsis whitespace-nowrap text-xl md:text-2xl font-bold"
                                 >
                                     {data.company.name}
                                 </div>
-                                <div className="h-10 w-10">
+                                <div className="h-8 w-8 md:h-10 md:w-10">
                                     {data.company.logo ? (
                                         <img
                                             alt="logo"
@@ -41,12 +41,12 @@ export default function SearcherCard({ data }) {
                             </header>
                             <hr className="w-full bg-white"></hr>
                         </div>
-                        <main className="flex flex-wrap items-center justify-center gap-y-2 gap-x-5">
-                            <div className="flex h-5 gap-1">
+                        <main className="flex flex-wrap items-center justify-center gap-y-1 md:gap-y-2 gap-x-5">
+                            <div className="flex gap-1">
                                 <p className="font-bold">Role:</p>
                                 <p>{data.jobTitle}</p>
                             </div>
-                            <div className="flex h-5 gap-1">
+                            <div className="flex gap-1">
                                 <p className="font-bold">Salary:</p>
                                 <p>
                                     {data.salaryRange.minValue &&
@@ -62,7 +62,7 @@ export default function SearcherCard({ data }) {
                                         data.salaryRange.currency}
                                 </p>
                             </div>
-                            <div className="flex h-5 gap-1">
+                            <div className="flex gap-1">
                                 <p className="font-bold">Location:</p>
                                 <p>{data.location.locality}</p>
                             </div>
