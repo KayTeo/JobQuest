@@ -11,8 +11,98 @@ export default function SearcherCard({ data }) {
     return (
         <>
             {expand ? (
-                <div className="flex h-[200px] w-[300px] items-center justify-center rounded-lg bg-dark-500 p-6 text-white shadow-lg md:w-[600px]">
-                    Test
+                <div className="flex h-[500px] w-[1000px] flex-col items-center justify-between rounded-lg bg-dark-500 p-6 text-white shadow-lg">
+                    <div className="flex w-full flex-col items-center justify-center gap-2">
+                        <header className="flex w-full items-center justify-between">
+                            <div
+                                title={data.company.name}
+                                className="max-w-[800px] overflow-hidden text-ellipsis whitespace-nowrap text-3xl font-bold"
+                            >
+                                {data.company.name}
+                            </div>
+                            <div className="h-14 w-14">
+                                {data.company.logo ? (
+                                    <img
+                                        alt="logo"
+                                        src={data.company.logo}
+                                    ></img>
+                                ) : (
+                                    <BriefcaseIcon />
+                                )}
+                            </div>
+                        </header>
+                        <hr className="w-full bg-white"></hr>
+                    </div>
+                    <div className="flex items-center justify-between">
+                        <main className="flex w-1/2 flex-wrap items-start justify-start gap-y-1 gap-x-5 text-xl">
+                            <div className="flex gap-1">
+                                <p className="font-bold">Role:</p>
+                                <p>{data.jobTitle}</p>
+                            </div>
+                            <div className="flex gap-1">
+                                <p className="font-bold">Salary:</p>
+                                <p>
+                                    {data.salaryRange.minValue &&
+                                        data.salaryRange.minValue}
+                                    {data.salaryRange.minValue &&
+                                        data.salaryRange.maxValue &&
+                                        " - "}
+                                    {data.salaryRange.maxValue &&
+                                        data.salaryRange.maxValue}{" "}
+                                    {data.salaryRange.currency &&
+                                        (data.salaryRange.minValue ||
+                                            data.salaryRange.maxValue) &&
+                                        data.salaryRange.currency}
+                                </p>
+                            </div>
+                            <div className="flex gap-1">
+                                <p className="font-bold">Type:</p>
+                                <p>{data.jobType}</p>
+                            </div>
+                            <div className="flex gap-1">
+                                <p className="font-bold">Location:</p>
+                                <p>{data.location.locality}</p>
+                            </div>
+                        </main>
+                        <section className="flex w-1/2 items-start justify-start gap-2">
+                            <h1 className="text-xl font-bold">Skills:</h1>
+                            <div className="flex max-h-[95px] w-full flex-wrap gap-1 overflow-auto">
+                                {data.skills.map((e) => (
+                                    <Skill
+                                        className="min-w-[95px] px-2 text-xl"
+                                        key={e}
+                                        name={e}
+                                    />
+                                ))}
+                            </div>
+                        </section>
+                    </div>
+                    <div className="flex w-full flex-col items-start justify-start">
+                        <div className="w-full text-xl font-bold">
+                            Job Description:
+                        </div>
+                        <div className="flex w-full items-start justify-between gap-5">
+                            <div className="flex max-h-[170px] w-3/5 flex-wrap overflow-auto">
+                                {data.description}
+                            </div>
+                            <section className="h-[170px] w-2/5">
+                                Google Map
+                            </section>
+                        </div>
+                    </div>
+                    <div className="flex items-center w-full justify-evenly">
+                        <button className="flex h-12 w-32 items-center justify-center rounded-full bg-accent-500 text-center text-lg font-semibold text-white shadow-sm hover:bg-accent-300">
+                            Go To Listing
+                        </button>
+                        <button
+                            onClick={() => {
+                                setExpand(false);
+                            }}
+                            className="flex h-12 w-32 items-center justify-center rounded-full bg-accent-500 text-center text-lg font-semibold text-white shadow-sm hover:bg-accent-300"
+                        >
+                            View Less
+                        </button>
+                    </div>
                 </div>
             ) : (
                 <div className="flex h-[300px] w-[300px] items-center justify-between gap-2 rounded-2xl bg-dark-500 p-3 text-white shadow-lg md:w-[600px]">
@@ -20,11 +110,11 @@ export default function SearcherCard({ data }) {
                         <ChevronLeftIcon />
                     </button>
                     <div className="flex h-full w-full flex-col items-center justify-between gap-5">
-                        <div className="flex w-full flex-col items-center justify-center">
-                            <header className="flex w-full items-center justify-between pb-1">
+                        <div className="flex w-full flex-col items-center justify-center gap-1">
+                            <header className="flex w-full items-center justify-between">
                                 <div
                                     title={data.company.name}
-                                    className="md:max-w-[400px] max-w-[150px] overflow-hidden text-ellipsis whitespace-nowrap text-xl md:text-2xl font-bold"
+                                    className="max-w-[150px] overflow-hidden text-ellipsis whitespace-nowrap text-xl font-bold md:max-w-[400px] md:text-2xl"
                                 >
                                     {data.company.name}
                                 </div>
@@ -41,7 +131,7 @@ export default function SearcherCard({ data }) {
                             </header>
                             <hr className="w-full bg-white"></hr>
                         </div>
-                        <main className="flex flex-wrap items-center justify-center gap-y-1 md:gap-y-2 gap-x-5">
+                        <main className="flex flex-wrap items-center justify-center gap-y-1 gap-x-5 md:gap-y-2">
                             <div className="flex gap-1">
                                 <p className="font-bold">Role:</p>
                                 <p>{data.jobTitle}</p>
@@ -68,7 +158,7 @@ export default function SearcherCard({ data }) {
                             </div>
                         </main>
                         <section className="flex w-full flex-col items-start justify-start">
-                            <h1 className="text-base font-bold">Skills</h1>
+                            <h1 className="text-base font-bold">Skills:</h1>
                             <div className="flex max-h-[50px] w-full flex-wrap gap-2 overflow-auto">
                                 {data.skills.map((e) => (
                                     <Skill
