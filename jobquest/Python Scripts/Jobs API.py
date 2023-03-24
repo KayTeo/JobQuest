@@ -104,7 +104,9 @@ def getJobData(filename, keywords = "", employmentType = "", salary = "", startP
     #Driver initialises the browser
     #Browser required as target site dynamically loads search and job data
     #driver = webdriver.Chrome(service = ChromeService(ChromeDriverManager().install()))
-    driver = webdriver.Chrome()
+    options = webdriver.ChromeOptions()
+    options.add_argument("--headless")
+    driver = webdriver.Chrome(options = options)
     
     if employmentType != "FULL_TIME" and employmentType != "PART_TIME" and employmentType != "INTERNSHIP" and employmentType != "OTHER" and employmentType != "":
         print("Error, please choose valid employment type")

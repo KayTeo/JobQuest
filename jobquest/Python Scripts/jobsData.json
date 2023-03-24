@@ -1,8 +1,8 @@
 {
     "jobs": [
         {
-            "dueDate": "2023-04-19",
-            "jobTitle": "COOK",
+            "dueDate": "2023-04-23",
+            "jobTitle": "Cook",
             "skills": [
                 "Recipes",
                 "Ingredients",
@@ -24,636 +24,172 @@
             "location": {
                 "country": "SG",
                 "locality": "Singapore",
-                "address": "165 BUKIT MERAH CENTRAL"
+                "address": "TOH GUAN CENTRE, 21 TOH GUAN ROAD EAST"
             },
             "company": {
                 "logo": null,
-                "name": "TUCK KEE SON (TPY) PTE. LTD."
+                "name": "SONGKOU FOODSTUFF PTE. LTD."
             },
             "jobType": [
                 "FULL_TIME"
             ],
-            "description": "   Prepare menus in collaboration with colleagues   Ensure adequacy of supplies at the cooking stations   Prepare ingredients that should be frequently available (vegetables, spices etc.)   Cook and complete dishes in timely manner   Friendly and service oriented   Able to perform shift; work on weekends and Public Holidays   Excellent communication and interpersonal skills   Ensure good hygiene practices and quality control of food and presentation   Must be able to work in a fast pace environment ",
-            "datePosted": "2023-03-20",
+            "description": "Job Description ; Requirements    Prepare menus in collaboration with colleagues   Ensure adequacy of supplies at the cooking stations   Prepare ingredients that should be frequently available (vegetables, spices etc.)   Cook and complete dishes in timely manner   Friendly and service oriented   Able to perform shift; work on weekends and Public Holidays   Excellent communication and interpersonal skills   Ensure good hygiene practices and quality control of food and presentation   Must be able to work in a fast pace environment ",
+            "datePosted": "2023-03-24",
             "salaryRange": {
                 "currency": "SGD",
                 "maxValue": 5000,
                 "minValue": 2500,
                 "payPeriod": "MONTH"
             },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/cook-tuck-kee-son-37147db77d0aa3ecbd00ac4aa11d0dfa?source=MCF&event=Search",
-            "uuid": "6df4fb9b-4a4d-4a13-8e89-f6c2921d69cd"
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/cook-songkou-foodstuff-06600b38b7cc27ca05b1312ac4405f26?source=MCF&event=Search",
+            "uuid": "3ed31c4d-4030-44c4-b6e6-2beb8b0ceeb2"
         },
         {
-            "dueDate": "2023-04-03",
+            "dueDate": "2023-04-23",
+            "jobTitle": "cook",
+            "skills": [
+                "Recipes",
+                "Ingredients",
+                "Able To Multitask",
+                "Quality Control",
+                "Food Safety",
+                "Cooking",
+                "Interpersonal Skills",
+                "Food Quality",
+                "Inventory",
+                "Sanitation",
+                "Baking",
+                "Assembling",
+                "HACCP",
+                "Assembly",
+                "Hazard Analysis",
+                "Food Service"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "341 CHOA CHU KANG LOOP"
+            },
+            "company": {
+                "logo": null,
+                "name": "JIN WANG F&B PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Job Description ; Requirements    Prepare menus in collaboration with colleagues   Ensure adequacy of supplies at the cooking stations   Prepare ingredients that should be frequently available (vegetables, spices etc.)   Cook and complete dishes in timely manner   Friendly and service oriented   Able to perform shift; work on weekends and Public Holidays   Excellent communication and interpersonal skills   Ensure good hygiene practices and quality control of food and presentation   Must be able to work in a fast pace environment ",
+            "datePosted": "2023-03-24",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 5000,
+                "minValue": 2500,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/cook-jin-wang-fb-aae4115548c1d4922ff4fecb05008b5e?source=MCF&event=Search",
+            "uuid": "59c1b691-f24d-4f41-ae7a-cd33bc11c873"
+        },
+        {
+            "dueDate": "2023-04-23",
+            "jobTitle": "cook",
+            "skills": [
+                "Recipes",
+                "Ingredients",
+                "Able To Multitask",
+                "Quality Control",
+                "Food Safety",
+                "Cooking",
+                "Interpersonal Skills",
+                "Food Quality",
+                "Inventory",
+                "Sanitation",
+                "Baking",
+                "Assembling",
+                "HACCP",
+                "Assembly",
+                "Hazard Analysis",
+                "Food Service"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "220 PETIR ROAD"
+            },
+            "company": {
+                "logo": null,
+                "name": "LEMONGRASS STORY"
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Job Description ; Requirements    Prepare menus in collaboration with colleagues   Ensure adequacy of supplies at the cooking stations   Prepare ingredients that should be frequently available (vegetables, spices etc.)   Cook and complete dishes in timely manner   Friendly and service oriented   Able to perform shift; work on weekends and Public Holidays   Excellent communication and interpersonal skills   Ensure good hygiene practices and quality control of food and presentation   Must be able to work in a fast pace environment ",
+            "datePosted": "2023-03-24",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 5000,
+                "minValue": 2500,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/cook-lemongrass-story-6ee7f76346b0da54eaa70711151f00de?source=MCF&event=Search",
+            "uuid": "3d9d7f21-8e6b-4a5d-bcc4-eab357d47d21"
+        },
+        {
+            "dueDate": "2023-04-23",
             "jobTitle": "COOK",
             "skills": [
                 "Recipes",
-                "Quality Control",
+                "Ingredients",
+                "Able To Multitask",
                 "Food Safety",
-                "Kitchen",
                 "Cooking",
                 "Food Quality",
-                "Estimates",
+                "Inventory",
+                "Sanitation",
                 "Baking",
-                "Assembly",
-                "Food Service"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "116 ALJUNIED AVENUE 2"
-            },
-            "company": {
-                "logo": null,
-                "name": "CCR ALJUNIED PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Prepares foods to the specifications of the client Prepares food before the arrival of guests Makes adjustments to food items to accommodate guests with allergies or specific diet concerns Manages other employees in the kitchen Acts as liaison to front-of-house employees to ensure proper food service temperature Seasons food according to recipes or company needs Orders ingredients and spices as needed Operates various kitchen appliance such as a blender, oven, grill, or stand mixer Portions, arranges, and garnishes food based on client preference Assists other cooks during the food assembly process Devises new recipes Estimates expected food consumption and organises preparation Keeps records and accounts of food purchases Orders new menu items for specials or cheap dea",
-            "datePosted": "2023-03-20",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 3800,
-                "minValue": 2500,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/cook-ccr-aljunied-cb7b22f8632eaa273edb3136757fcd9d?source=MCF&event=Search",
-            "uuid": "43bb5ddd-899f-40bd-a069-21f96dcc7cb8"
-        },
-        {
-            "dueDate": "2023-04-19",
-            "jobTitle": "Cook Supervisor",
-            "skills": [
-                "Recipes",
-                "Innovative Problem Solver",
-                "Suggest innovative ideas",
-                "Budgets",
-                "Ingredients",
-                "Microsoft Excel",
-                "Cooking",
-                "Food Quality",
-                "Inventory",
-                "Bookkeeping",
-                "Resource Management",
-                "Catering",
-                "Food Service"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": null
-            },
-            "company": {
-                "logo": null,
-                "name": "SG ASIAN DELICACIES PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "To manage and supervise the daily kitchen works and ensure smooth operations. Including purchases of ingredients, food preparation, and cooking, Control of food quality, and presentations. Manage the cost of goods sold, Experience in Local and South East Asia Cuisines. Innovative recipes creation, and menu planning. Liaison with suppliers and interact with customers. Simple daily bookkeeping ",
-            "datePosted": "2023-03-20",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 4200,
-                "minValue": 3800,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/cook-supervisor-sg-asian-delicacies-4e2d7fb22ebd9db4823fa7e4766de5ab?source=MCF&event=Search",
-            "uuid": "373a52b1-2a48-4533-af26-3c24d53fb2ce"
-        },
-        {
-            "dueDate": "2023-04-19",
-            "jobTitle": "Chef / Cook",
-            "skills": [
-                "Recipes",
-                "Forecasting",
-                "Ingredients",
-                "Able To Multitask",
-                "Food Safety",
-                "Cooking",
-                "Housekeeping",
-                "Workplace Safety",
-                "Food Quality",
-                "Inventory",
-                "Sanitation",
                 "Assembling",
-                "Communication Skills",
-                "Hazard Analysis",
-                "Culinary Skills"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": null
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/638e310112bcc228ec015419d0b25b98/broadway-food-centre.png",
-                "name": "BROADWAY FOOD CENTRE (HOLDINGS) PTE LTD"
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Cook (Food Services) Job Description ; Requirements - Understand culinary procedures for local cuisine like; Mixed Rice, Bee Hoon, Roasted Duck Rice, Chicken Rice, Western Food or Fish Ball Noodles, etc - Required to have culinary skills and Basic Food Hygiene Certificate - At least 1-10 years of experience - Have the ability to work under pressure - Excellent organizational skills - Effective communication skills",
-            "datePosted": "2023-03-20",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 3800,
-                "minValue": 2500,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/chef-cook-broadway-food-centre-32ee7dd05f16247d9cc5bffe8c4571df?source=MCF&event=Search",
-            "uuid": "82b0d46e-630e-4757-9040-adbb72477eba"
-        },
-        {
-            "dueDate": "2023-04-03",
-            "jobTitle": "Senior Cook",
-            "skills": [
-                "Recipes",
-                "Leadership",
-                "Ingredients",
-                "Able To Multitask",
-                "Cooking",
-                "Inventory",
-                "5S",
-                "Purchasing",
-                "Sanitation",
-                "Estimates",
-                "Finish",
-                "Time Management",
-                "Fraud",
                 "HACCP",
-                "Disposition",
+                "Assembly",
+                "Hazard Analysis",
                 "Food Service"
             ],
             "location": {
                 "country": "SG",
                 "locality": "Singapore",
-                "address": "WATERWAY SUNDEW, 662C EDGEDALE PLAINS"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/52cc83eaf3cdd724913fb533fb7ca62c/spring-group-consultancy.jpg",
-                "name": "HONG YOU KEE CUISINE PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Roles ; Responsibilities · Ensure the quality of all the dishes adhere to company’s standard · Liaise with other department for the maintenance of kitchen equipment · Supervise kitchen operations and ensure smooth flow of food · Increase profit and reduce expenditure and control cost · Familiarise with the menu · Create new dishes · Conduct checks before operation starts · Manage the department and conduct briefings · Handle dismissal, termination and resignation · Ensure the departments follow the 5S and HACCP requirements · To perform any other duties assigned by superior Requirements · At least 6 years of relevant experience in Chinese cuisine · Experience in managing staff · Specialize in Chinese cuisine and in-depth knowledge in nutritional cooking · Execellent time management and able to multi-task · Good leadership and organizational skills",
-            "datePosted": "2023-03-20",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 5500,
-                "minValue": 3000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/customer-service/senior-cook-hong-kee-cuisine-578e210cec19a3e5d988a25f97c8baec?source=MCF&event=Search",
-            "uuid": "eb6bea06-38ec-4629-a735-728502e950a9"
-        },
-        {
-            "dueDate": "2023-04-19",
-            "jobTitle": "Senior Cook",
-            "skills": [
-                "Recipes",
-                "Ingredients",
-                "Able To Multitask",
-                "Quality Control",
-                "Cooking",
-                "Inventory",
-                "Purchasing",
-                "Sanitation",
-                "Estimates",
-                "Finish",
-                "Fraud",
-                "Prevention",
-                "Customer Service",
-                "Disposition",
-                "Food Service"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "JEAN YIP BUILDING, 50 KAKI BUKIT PLACE"
+                "address": "COMFORT GARDEN, 210A CHOA CHU KANG AVENUE 1"
             },
             "company": {
                 "logo": null,
-                "name": "GOVEGPAL'S PTE. LTD."
+                "name": "SKY BLUEZ FOOD HUB PTE. LTD."
             },
             "jobType": [
                 "FULL_TIME"
             ],
-            "description": " 1. Must have good experience in cooking South and North Indian dishes. 2. Experience in handling Tandoor (clay oven) jobs. 3. Produce costing to maintain that monthly profit margins are met. 4. Should be able to work in hot environment (non-aircon). 5. Should be able to maintain the quality control of the food. 6. In-charge of the kitchen. 7. Able to do teamwork with colleagues. 8. Should be able to communicate effectively with the management to ensure the smooth functioning of the Kitchen. 9. Able to work in fast pace environment. 10. Minimum 5 years experience in North Indian and South Indian cuisine and Tandoor (high heat clay oven) 11. Should be able to communicate in English 12. Able to train new staff",
-            "datePosted": "2023-03-20",
+            "description": "   To cook high quality traditional authentic INDIAN ; Bangladesh food, speciality in Bangladesh dishes.   Should have the knowledge about properties and  sage of herbs and spices in food preparation, and to cook iNDIAN ; Bangladesh dishes in a traditional way.   To ensure that all the dishes are freshly prepared and the food standards are met.   Plan and arrange ingredients for next day preparation and orders.   Need to understand the customer requirements, as per order.   To Introduce new dishes and menus.   Need to monitor stock rotation procedures are followed as per inventory.   Experience in all Bangladesh cuisines.   To maintain quality of food   A deep understanding of  authentic iNDIAN  ; Bangladesh food preparation.   Capacity to work under pressure during the extremely busy period. ",
+            "datePosted": "2023-03-24",
             "salaryRange": {
                 "currency": "SGD",
                 "maxValue": 4500,
-                "minValue": 3500,
+                "minValue": 3200,
                 "payPeriod": "MONTH"
             },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/senior-cook-govegpals-fc4734f29f364add603a07a29b44419e?source=MCF&event=Search",
-            "uuid": "0db6ee90-3756-4640-b31b-432b6ea7e5ef"
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/cook-sky-bluez-food-hub-bea33a004119ba8e53c96ced2ab13bdb?source=MCF&event=Search",
+            "uuid": "72992373-d00a-4912-9bfa-23c7302d780c"
         },
         {
-            "dueDate": "2023-04-19",
-            "jobTitle": "Childcare - Cook",
+            "dueDate": "2023-04-23",
+            "jobTitle": "Cook",
             "skills": [
-                "Excellent Communication Skills",
-                "Teamwork",
-                "Leadership",
-                "Information Technology",
-                "Leadership Development",
-                "Positive Team Player",
-                "Team Building",
-                "self-motivated Team Player",
-                "Team Player",
-                "Team Work"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "707 TAMPINES STREET 71"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/49b28337399acb69a47fc77f9337c683/staffondemand.png",
-                "name": "LITTLE GREENHOUSE @ TAMPINES PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "     COMPANY DESCRIPTION      We care for children as we would tree saplings. Though they may be humble stalks, with nurturing hands we believe that they will blossom.&nbsp; &nbsp; Award-winning Literacy Programme:&nbsp; &nbsp; Best Preschool Awards 2019 Young Parents SG Parents' Choice 2017/18/19 Singapore's Child Preschool Awards 2017      RESPONSIBILITIES      Able to cook&nbsp; Clean up the food consumption area after every meal/tea break Plan the monthly lunch menu and liaise with vendors on the provision Assist the teachers in the supervision of children in their meal/tea break consumption Provide cleaning services for the pantry and utensils  QUALIFICATIONS     No working experience required NEA Healthy Eating Certificate preferred. If not, training will be arranged        Please note that your application will be sent to and reviewed by the direct employer - LITTLE GREENHOUSE @ TAMPINES PTE. LTD. ",
-            "datePosted": "2023-03-20",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 2500,
-                "minValue": 1400,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/general-work/childcare-cook-little-greenhouse-tampines-a460851f3e3fbeebb694934e1f9af573?source=MCF&event=Search",
-            "uuid": "ca4d9ece-28e1-4080-8da6-a6947ba0adb8"
-        },
-        {
-            "dueDate": "2023-04-19",
-            "jobTitle": "Childcare - Cook",
-            "skills": [
-                "Excellent Communication Skills",
-                "Teamwork",
-                "Leadership",
-                "Information Technology",
-                "Leadership Development",
-                "Positive Team Player",
-                "Team Building",
-                "self-motivated Team Player",
-                "Team Player",
-                "Team Work"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "478 JURONG WEST STREET 41"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/49b28337399acb69a47fc77f9337c683/staffondemand.png",
-                "name": "LITTLE GREENHOUSE @ JW PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "     COMPANY DESCRIPTION      We care for children as we would tree saplings. Though they may be humble stalks, with nurturing hands we believe that they will blossom.&nbsp; &nbsp; Award-winning Literacy Programme:&nbsp; &nbsp; Best Preschool Awards 2019 Young Parents SG Parents' Choice 2017/18/19 Singapore's Child Preschool Awards 2017      RESPONSIBILITIES      Able to cook&nbsp; Clean up the food consumption area after every meal/tea break Plan the monthly lunch menu and liaise with vendors on the provision Assist the teachers in the supervision of children in their meal/tea break consumption Provide cleaning services for the pantry and utensils  QUALIFICATIONS     No working experience required NEA Healthy Eating Certificate preferred. If not, training will be arranged        Please note that your application will be sent to and reviewed by the direct employer - LITTLE GREENHOUSE @ JW PTE. LTD. ",
-            "datePosted": "2023-03-20",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 2500,
-                "minValue": 1400,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/general-work/childcare-cook-little-greenhouse-jw-760ee59a994432b88c79afc34183b1a9?source=MCF&event=Search",
-            "uuid": "1703de51-6c99-4151-b106-b840568bc41d"
-        },
-        {
-            "dueDate": "2023-04-19",
-            "jobTitle": "Childcare - Cook",
-            "skills": [
-                "Excellent Communication Skills",
-                "Teamwork",
-                "Leadership",
-                "Information Technology",
-                "Leadership Development",
-                "Positive Team Player",
-                "Team Building",
-                "self-motivated Team Player",
-                "Team Player",
-                "Team Work"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "27 HOUGANG AVENUE 1"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/49b28337399acb69a47fc77f9337c683/staffondemand.png",
-                "name": "LITTLE GREENHOUSE @ HOUGANG PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "     COMPANY DESCRIPTION      We care for children as we would tree saplings. Though they may be humble stalks, with nurturing hands we believe that they will blossom.&nbsp; &nbsp; Award-winning Literacy Programme:&nbsp; &nbsp; Best Preschool Awards 2019 Young Parents SG Parents' Choice 2017/18/19 Singapore's Child Preschool Awards 2017      RESPONSIBILITIES      Able to cook&nbsp; Clean up the food consumption area after every meal/tea break Plan the monthly lunch menu and liaise with vendors on the provision Assist the teachers in the supervision of children in their meal/tea break consumption Provide cleaning services for the pantry and utensils  QUALIFICATIONS     No working experience required NEA Healthy Eating Certificate preferred. If not, training will be arranged        Please note that your application will be sent to and reviewed by the direct employer - LITTLE GREENHOUSE @ HOUGANG PTE. LTD. ",
-            "datePosted": "2023-03-20",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 2500,
-                "minValue": 1400,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/general-work/childcare-cook-little-greenhouse-hougang-52022977451329c7409603005a162ba9?source=MCF&event=Search",
-            "uuid": "aa45897a-43e2-420e-91c0-27a5f67145c1"
-        },
-        {
-            "dueDate": "2023-04-19",
-            "jobTitle": "Childcare - Cook",
-            "skills": [
-                "Excellent Communication Skills",
-                "Teamwork",
-                "Leadership",
-                "Information Technology",
-                "Leadership Development",
-                "Positive Team Player",
-                "Team Building",
-                "self-motivated Team Player",
-                "Team Player",
-                "Team Work"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "31 INTERNATIONAL BUSINESS PARK"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/49b28337399acb69a47fc77f9337c683/staffondemand.png",
-                "name": "MULBERRY LEARNING CENTRE INTERNATIONAL PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "     COMPANY DESCRIPTION      A unique blend of the Reggio Emilia approach, Multiple Intelligences, and the ‘Habits of&nbsp;Mind™’ defines the pedagogy of Mulberry, one of Global EduHub’s premier preschool&nbsp;education brands. With over ten centres scattered around Singapore and Australia, we&nbsp;combine a strong curriculum, beautiful learning environments, and specially tailored lessons to bring engaging, e ective and awe-inspiring lessons to every child. Mulberry is also the first and only preschool chain in the world to be certified in the use of the ‘Habits of Mind™’ by the USA, and we are an award-winning brand, having won the ‘Best of the Best Preschool Award’ for ‘Best in Promoting Positive Learning’ in 2015. We are also SPARK (Singapore Preschool Accreditation Framework) accredited.&nbsp;      RESPONSIBILITIES      Able to cook&nbsp; Clean up the food consumption area after every meal/tea break Plan the monthly lunch menu and liaise with vendors on the provision Assist the teachers in the supervision of children in their meal/tea break consumption Provide cleaning services for the pantry and utensils  QUALIFICATIONS     No working experience required NEA Healthy Eating Certificate preferred. If not, training will be arranged        Please note that your application will be sent to and reviewed by the direct employer - MULBERRY LEARNING CENTRE INTERNATIONAL PTE. LTD. ",
-            "datePosted": "2023-03-20",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 2500,
-                "minValue": 1400,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/general-work/childcare-cook-mulberry-learning-centre-international-3a1816a108f5160beb66572e0e649224?source=MCF&event=Search",
-            "uuid": "7f403467-cb3d-4105-917c-c2e1a00bf0b1"
-        },
-        {
-            "dueDate": "2023-04-19",
-            "jobTitle": "Childcare - Cook",
-            "skills": [
-                "Excellent Communication Skills",
-                "Teamwork",
-                "Leadership",
-                "Information Technology",
-                "Leadership Development",
-                "Positive Team Player",
-                "Team Building",
-                "self-motivated Team Player",
-                "Team Player",
-                "Team Work"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "1 FUSIONOPOLIS WALK"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/49b28337399acb69a47fc77f9337c683/staffondemand.png",
-                "name": "MULBERRY LEARNING CENTRE @ FUSIONOPOLIS PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "     COMPANY DESCRIPTION      A unique blend of the Reggio Emilia approach, Multiple Intelligences, and the ‘Habits of&nbsp;Mind™’ defines the pedagogy of Mulberry, one of Global EduHub’s premier preschool&nbsp;education brands. With over ten centres scattered around Singapore and Australia, we&nbsp;combine a strong curriculum, beautiful learning environments, and specially tailored lessons to bring engaging, e ective and awe-inspiring lessons to every child. Mulberry is also the first and only preschool chain in the world to be certified in the use of the ‘Habits of Mind™’ by the USA, and we are an award-winning brand, having won the ‘Best of the Best Preschool Award’ for ‘Best in Promoting Positive Learning’ in 2015. We are also SPARK (Singapore Preschool Accreditation Framework) accredited.&nbsp;      RESPONSIBILITIES      Able to cook&nbsp; Clean up the food consumption area after every meal/tea break Plan the monthly lunch menu and liaise with vendors on the provision Assist the teachers in the supervision of children in their meal/tea break consumption Provide cleaning services for the pantry and utensils  QUALIFICATIONS     No working experience required NEA Healthy Eating Certificate preferred. If not, training will be arranged        Please note that your application will be sent to and reviewed by the direct employer - MULBERRY LEARNING CENTRE @ FUSIONOPOLIS PTE LTD ",
-            "datePosted": "2023-03-20",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 2500,
-                "minValue": 1400,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/general-work/childcare-cook-mulberry-learning-centre-fusionopolis-0bbc34988b6d3dbc0c1ff65fc9d56072?source=MCF&event=Search",
-            "uuid": "3e436ba5-e0a2-482a-8713-b86451d746a0"
-        },
-        {
-            "dueDate": "2023-04-19",
-            "jobTitle": "Childcare - Cook",
-            "skills": [
-                "Excellent Communication Skills",
-                "Teamwork",
-                "Leadership",
-                "Information Technology",
-                "Leadership Development",
-                "Positive Team Player",
-                "Team Building",
-                "self-motivated Team Player",
-                "Team Player",
-                "Team Work"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "743 LORONG 5 TOA PAYOH"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/49b28337399acb69a47fc77f9337c683/staffondemand.png",
-                "name": "MULBERRY LEARNING CENTRE @ TOA PAYOH PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "     COMPANY DESCRIPTION      A unique blend of the Reggio Emilia approach, Multiple Intelligences, and the ‘Habits of&nbsp;Mind™’ defines the pedagogy of Mulberry, one of Global EduHub’s premier preschool&nbsp;education brands. With over ten centres scattered around Singapore and Australia, we&nbsp;combine a strong curriculum, beautiful learning environments, and specially tailored lessons to bring engaging, e‑ective and awe-inspiring lessons to every child. Mulberry is also the first and only preschool chain in the world to be certified in the use of the ‘Habits of Mind™’ by the USA, and we are an award-winning brand, having won the ‘Best of the Best Preschool Award’ for ‘Best in Promoting Positive Learning’ in 2015. We are also SPARK (Singapore Preschool Accreditation Framework) accredited.&nbsp;      RESPONSIBILITIES      Able to cook&nbsp; Clean up the food consumption area after every meal/tea break Plan the monthly lunch menu and liaise with vendors on the provision Assist the teachers in the supervision of children in their meal/tea break consumption Provide cleaning services for the pantry and utensils  QUALIFICATIONS     No working experience required NEA Healthy Eating Certificate preferred. If not, training will be arranged        Please note that your application will be sent to and reviewed by the direct employer - MULBERRY LEARNING CENTRE @ TOA PAYOH PTE. LTD. ",
-            "datePosted": "2023-03-20",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 2500,
-                "minValue": 1400,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/general-work/childcare-cook-mulberry-learning-centre-toa-payoh-ef7d3935a3491d2de2877e192244e1ec?source=MCF&event=Search",
-            "uuid": "c4018e11-327a-44ff-a915-1787946cb191"
-        },
-        {
-            "dueDate": "2023-04-19",
-            "jobTitle": "Childcare - Cook",
-            "skills": [
-                "Excellent Communication Skills",
-                "Teamwork",
-                "Leadership",
-                "Information Technology",
-                "Leadership Development",
-                "Positive Team Player",
-                "Team Building",
-                "self-motivated Team Player",
-                "Team Player",
-                "Team Work"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "5 TANJONG PAGAR PLAZA"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/49b28337399acb69a47fc77f9337c683/staffondemand.png",
-                "name": "MULBERRY LEARNING CENTRE @ TANJONG PAGAR PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "     COMPANY DESCRIPTION      A unique blend of the Reggio Emilia approach, Multiple Intelligences, and the ‘Habits of&nbsp;Mind™’ defines the pedagogy of Mulberry, one of Global EduHub’s premier preschool&nbsp;education brands. With over ten centres scattered around Singapore and Australia, we&nbsp;combine a strong curriculum, beautiful learning environments, and specially tailored lessons to bring engaging, e ective and awe-inspiring lessons to every child. Mulberry is also the first and only preschool chain in the world to be certified in the use of the ‘Habits of Mind™’ by the USA, and we are an award-winning brand, having won the ‘Best of the Best Preschool Award’ for ‘Best in Promoting Positive Learning’ in 2015. We are also SPARK (Singapore Preschool Accreditation Framework) accredited.&nbsp;      RESPONSIBILITIES      Able to cook&nbsp; Clean up the food consumption area after every meal/tea break Plan the monthly lunch menu and liaise with vendors on the provision Assist the teachers in the supervision of children in their meal/tea break consumption Provide cleaning services for the pantry and utensils  QUALIFICATIONS     No working experience required NEA Healthy Eating Certificate preferred. If not, training will be arranged        Please note that your application will be sent to and reviewed by the direct employer - MULBERRY LEARNING CENTRE @ TANJONG PAGAR PTE. LTD. ",
-            "datePosted": "2023-03-20",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 2500,
-                "minValue": 1400,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/general-work/childcare-cook-mulberry-learning-centre-tanjong-pagar-34efb2a5516c582385730ef86d9572ed?source=MCF&event=Search",
-            "uuid": "137d7c0f-af60-4a5c-ab4c-d2495d448ecf"
-        },
-        {
-            "dueDate": "2023-04-19",
-            "jobTitle": "Childcare - Cook",
-            "skills": [
-                "Excellent Communication Skills",
-                "Teamwork",
-                "Leadership",
-                "Information Technology",
-                "Leadership Development",
-                "Positive Team Player",
-                "Team Building",
-                "self-motivated Team Player",
-                "Team Player",
-                "Team Work"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "12 HOY FATT ROAD"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/49b28337399acb69a47fc77f9337c683/staffondemand.png",
-                "name": "MULBERRY LEARNING CENTRE ALEXANDRA PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "     COMPANY DESCRIPTION      A unique blend of the Reggio Emilia approach, Multiple Intelligences, and the ‘Habits of&nbsp;Mind™’ defines the pedagogy of Mulberry, one of Global EduHub’s premier preschool&nbsp;education brands. With over ten centres scattered around Singapore and Australia, we&nbsp;combine a strong curriculum, beautiful learning environments, and specially tailored lessons to bring engaging, e ective and awe-inspiring lessons to every child. Mulberry is also the first and only preschool chain in the world to be certified in the use of the ‘Habits of Mind™’ by the USA, and we are an award-winning brand, having won the ‘Best of the Best Preschool Award’ for ‘Best in Promoting Positive Learning’ in 2015. We are also SPARK (Singapore Preschool Accreditation Framework) accredited.&nbsp;      RESPONSIBILITIES      Able to cook&nbsp; Clean up the food consumption area after every meal/tea break Plan the monthly lunch menu and liaise with vendors on the provision Assist the teachers in the supervision of children in their meal/tea break consumption Provide cleaning services for the pantry and utensils  QUALIFICATIONS     No working experience required NEA Healthy Eating Certificate preferred. If not, training will be arranged        Please note that your application will be sent to and reviewed by the direct employer - MULBERRY LEARNING CENTRE @ ALEXANDRA PTE LTD ",
-            "datePosted": "2023-03-20",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 2500,
-                "minValue": 1400,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/general-work/childcare-cook-mulberry-learning-centre-alexandra-64edf5fa25ad874721a696d5529654c6?source=MCF&event=Search",
-            "uuid": "d45d3b7e-a5cd-42e7-bdb6-f2a949867f3a"
-        },
-        {
-            "dueDate": "2023-04-19",
-            "jobTitle": "Childcare - Cook",
-            "skills": [
-                "Excellent Communication Skills",
-                "Teamwork",
-                "Leadership",
-                "Information Technology",
-                "Leadership Development",
-                "Positive Team Player",
-                "Team Building",
-                "self-motivated Team Player",
-                "Team Player",
-                "Team Work"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "1 ANTHONY ROAD"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/49b28337399acb69a47fc77f9337c683/staffondemand.png",
-                "name": "MULBERRY LEARNING CENTRE CENTRAL PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "     COMPANY DESCRIPTION      A unique blend of the Reggio Emilia approach, Multiple Intelligences, and the ‘Habits of&nbsp;Mind™’ defines the pedagogy of Mulberry, one of Global EduHub’s premier preschool&nbsp;education brands. With over ten centres scattered around Singapore and Australia, we&nbsp;combine a strong curriculum, beautiful learning environments, and specially tailored lessons to bring engaging, e ective and awe-inspiring lessons to every child. Mulberry is also the first and only preschool chain in the world to be certified in the use of the ‘Habits of Mind™’ by the USA, and we are an award-winning brand, having won the ‘Best of the Best Preschool Award’ for ‘Best in Promoting Positive Learning’ in 2015. We are also SPARK (Singapore Preschool Accreditation Framework) accredited.&nbsp;      RESPONSIBILITIES      Able to cook&nbsp; Clean up the food consumption area after every meal/tea break Plan the monthly lunch menu and liaise with vendors on the provision Assist the teachers in the supervision of children in their meal/tea break consumption Provide cleaning services for the pantry and utensils  QUALIFICATIONS     No working experience required NEA Healthy Eating Certificate preferred. If not, training will be arranged        Please note that your application will be sent to and reviewed by the direct employer - MULBERRY LEARNING CENTRE CENTRAL PTE. LTD. ",
-            "datePosted": "2023-03-20",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 2500,
-                "minValue": 1400,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/general-work/childcare-cook-mulberry-learning-centre-central-d77d5f46ca97ab4e1cfd251f58c74f20?source=MCF&event=Search",
-            "uuid": "f24b2897-a999-40aa-896a-c001286353be"
-        },
-        {
-            "dueDate": "2023-04-19",
-            "jobTitle": "Childcare Cook cum Cleaner [Islandwide / Cook for children] - JH",
-            "skills": [
-                "Childcare",
-                "Decoration",
-                "Classroom",
-                "Lesson Planning",
-                "Teaching",
-                "Work Well Independently",
-                "Classroom Management",
-                "Early Childhood Education",
-                "Written Communication",
-                "Intellectual Property",
-                "First Aid",
-                "Team Player",
-                "Disposition"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "SHENTON HOUSE, 3 SHENTON WAY"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/d162667fbe1365aa541016a407de7ae4/supreme-hr-advisory.jpg",
-                "name": "THE SUPREME HR ADVISORY PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Location: Islandwide Requirements: Relevant cook experience  Responsibilities: Looking for childcare cook for multiple childcare / preschool centres island wide. Applicants are allowed to choose their preferred working location / centre near to their stay.  Interested applicants can apply directly via my Careersfuture or send your resume to:  💼 Whatsapp text 8835 9985 💼Tan Jian Hua R22107946 💼The Supreme HR Advisory Pte Ltd 14C7279 ",
-            "datePosted": "2023-03-20",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 1800,
-                "minValue": 1400,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/others/childcare-cook-cum-cleaner-islandwide-cook-children-jh-supreme-hr-advisory-69f69bf14df26c751cd0a39915f3efa9?source=MCF&event=Search",
-            "uuid": "21ee4eef-6b94-4dd7-bb52-c3a4362ae139"
-        },
-        {
-            "dueDate": "2023-04-18",
-            "jobTitle": "Head Cook",
-            "skills": [
-                "Leadership",
+                "Recipes",
                 "Ingredients",
-                "Customer Experience",
+                "Able To Multitask",
                 "Cooking",
-                "Appraisals",
-                "Quality Assurance",
-                "Interpersonal Skills",
-                "Enforcement",
+                "Inventory",
                 "Sanitation",
-                "Scratch",
-                "Verbal Skills",
-                "Excel",
-                "Microsoft Word",
-                "Turnover",
+                "Good Communication Skills",
+                "Pressure",
+                "Assembling",
+                "Team Player",
+                "Assembly",
+                "Food Service",
                 "Able To Work Independently"
             ],
             "location": {
@@ -662,22 +198,556 @@
                 "address": null
             },
             "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/51978ea07f2c5e1c6ad3525c6a4f0b30/lotus-thai-restaurant.png",
-                "name": "LOTUS THAI RESTAURANT (KPT) PTE. LTD."
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/61f66d58ca0e616d1904a7d76f7dc023/kenzen-central.jpg",
+                "name": "KENZEN CENTRAL PTE. LTD."
             },
             "jobType": [
                 "FULL_TIME"
             ],
-            "description": "   Able to use kwali to cook food   Team Player and Able to Lead the Kitchen if required   Plan how much food will be needed for the week   Order food and supplies.   Able to cook amazing Thai dishes from scratch is a must.   Cleaning and disinfecting items you work with, including grills, fryers and counter surfaces. ",
-            "datePosted": "2023-03-19",
+            "description": "If you love great food and coffee and enjoy working in a cafe setting, this is the place for you!  Job Description:    Prepare and assemble ingredients for menu items   Preparing high-quality meals and food items according to company recipes   Keep work area clean and safe   Makes adjustments on food preparation to accommodate customers specific request such as special diet or allergies   Season food according to recipes or company needs   Assist other cooks during the food assembly process   Estimate expected food consumption and organised preparation   Keep records and accounts of food purchases   Monitor supplies and re-order stock when necessary   Manage and ensure kitchen food cost is on a healthy range   Minimize food wastage   Assist any other duties as requested by Superior or Management  Job Requirement:    Team player   Good communication skills   Interested in Culinary arts   Have a \"willingness to learn\" attitude   Excellent physical condition and stamina   High school diploma or equivalent; Diploma from a culinary school will be an added advantage   Able to work independently   Able to perform flexi timing, and work on weekends ; public holidays   6 days work week  Benefits: Staff meal ; Uniform provided Birthday voucher Staff discount Sales target incentive ",
+            "datePosted": "2023-03-24",
             "salaryRange": {
                 "currency": "SGD",
-                "maxValue": 6000,
+                "maxValue": 2400,
+                "minValue": 1800,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/cook-kenzen-central-2c986527a36e5439b11d99b3b5f2e453?source=MCF&event=Search",
+            "uuid": "0eb4655d-d62d-4b75-9f5d-b52f985dd020"
+        },
+        {
+            "dueDate": "2023-04-23",
+            "jobTitle": "Commis Cook",
+            "skills": [
+                "Recipes",
+                "Outlook",
+                "Always Punctual",
+                "Lifestyle",
+                "Ingredients",
+                "Food Safety",
+                "Cooking",
+                "Inventory",
+                "Sanitation",
+                "Fine Dining",
+                "Procurement",
+                "French",
+                "Wellbeing",
+                "Teamwork Skills",
+                "Safety Training",
+                "Hospitality"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "36C Harding Road"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/568844a4e4afb68cf15a0a12ee15ed93/claudine.png",
+                "name": "CLAUDINE PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "About Us The Lo ; Behold Group is a hospitality company that creates, owns and operates a series of timeless, thought-provoking concepts, each with a unique story and a distinct perspective on the cultural-culinary landscape. While each has a personality of its own, the properties are united by a carefully considered sense of place, purpose, pioneering design and above all, a commitment to creating awesome experiences for all who walk through our doors – employees, partners and customers alike.  Claudine is a neighbourhood French restaurant, presenting an intimate side of French cuisine, inspired by honest home-cooking and convivial meals. A concept by Julien Royer and The Lo ; Behold Group. We are looking for a dynamic ; creative individual to fill the role of a Commis Cook position. Pertaining to high standards of personal hygiene and food preparation within the kitchen, we look forward to fill this position with talented personas with an appetite to learn, along with an immense passion in creating remarkable flavours.  As a Commis Cook, you’ll be able to experience and have the opportunity to lead in -    Setting up and stocking up stations with all necessary supplies   Preparing food for service (mise-en-place)   Cooking menu items   Maintaining cleanliness and hygiene standards in the kitchen   Handling stock inventory appropriately  We are looking for individuals -    Who thrive in fast-paced hospitality environment   Keen to develop their careers in a formal yet modern French Brasserie   With positive learning attitude, humble and willing to learn from the best   With the belief that we have the power to touch lives meaningfully   Who are willing to go above and beyond the call of duty to create awesome experiences that people will remember for years to come ",
+            "datePosted": "2023-03-24",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 2200,
                 "minValue": 2000,
                 "payPeriod": "MONTH"
             },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/head-cook-lotus-thai-restaurant-86c8a63ebc1f36a5db078265e3ee433e?source=MCF&event=Search",
-            "uuid": "905b5f98-fb7b-4bd6-bb63-b64185a13cda"
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/commis-cook-claudine-62ab1f291b1ea376c7bbf8b54106ac2b?source=MCF&event=Search",
+            "uuid": "09f4fbd6-c99b-4625-9334-742b0b858730"
+        },
+        {
+            "dueDate": "2023-04-23",
+            "jobTitle": "Head Cook",
+            "skills": [
+                "Recipes",
+                "Coaching",
+                "Tennis",
+                "Athlete Development",
+                "Ingredients",
+                "Able To Multitask",
+                "Cooking",
+                "Football",
+                "Inventory",
+                "Sanitation",
+                "Soccer",
+                "First Aid",
+                "Assembling",
+                "Physical Education",
+                "HACCP",
+                "Hazard Analysis"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "65 TANJONG PAGAR ROAD"
+            },
+            "company": {
+                "logo": null,
+                "name": "A.LOM PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Head Cook Job Responsibilities:    Interviewing, hiring, and training cooks and other kitchen staff.   Planning and supervising tasks carried out by the food preparation staff.   Taking responsibility for the health and safety of the food team.   Planning food menus and ensuring that the menu is fresh and well presented.   Keeping abreast of culinary trends and incorporating these into the menu.   Developing recipes and determining how best to present dishes.   Ordering food and supplies, such as kitchen equipment, and keeping an updated inventory.   Dealing with suppliers and checking that the correct equipment has been delivered at the quoted prices.   Checking regularly that the equipment and work areas are kept spotless.   Keeping abreast of and complying with the latest health and safety laws and regulations. ",
+            "datePosted": "2023-03-24",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 6000,
+                "minValue": 3000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/others/head-cook-alom-71ee9bca5bd29489c27b412f904a1323?source=MCF&event=Search",
+            "uuid": "0ac00c35-2c30-42f7-a6e0-64e66c54e04f"
+        },
+        {
+            "dueDate": "2023-04-23",
+            "jobTitle": "Commis Cook (Hashida)",
+            "skills": [
+                "Recipes",
+                "Leadership",
+                "Ingredients",
+                "Quality Control",
+                "Food Safety",
+                "Restaurants",
+                "Quality Management",
+                "Cooking",
+                "Ability To Work Independently",
+                "Food Quality",
+                "Inventory",
+                "Sanitation",
+                "Food Industry",
+                "Prevention",
+                "Catering",
+                "Hospitality"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "OUE BAYFRONT, 50 COLLYER QUAY"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/9cfcc38ec17b1671338ac63f918a2f55/oue-restaurants.png",
+                "name": "OUE RESTAURANTS PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Job Highlights    Exciting Work Experiences   Excellent Opportunities to Learn ; Grow   Work Hard ; Play Hard with Passionate Colleagues!  Job Description DUTIES ; RESPONSIBILITIES    To oversee kitchen and kitchen crew.   To ensure adequacy of supplies at the cooking stations.   To prepare ingredients that should be frequently available.   To follow the guidance of the sous chef or head chef and have input in news of presentation or dishes.   To put effort in optimizing the cooking process with attention to speed and quality, and to control food wastage.   To maintain a clean and neat work area.   To maintain the high standard of hygiene and sanitation.   To maintain the personal grooming.To work with fellow worker effectively and harmoniously.   To check and maintain the cleanliness of the work area and kitchen storage.   To write and follow the duty roster for section.   To train cooks and trainees.To taste the food before serving including quality.   To be familiar with kitchen equipment and utensils procedure and usage.   To maintain the rotation of items used in Kitchen Department.   To be familiar with emergency breakdown procedures, safety and accident prevention in the kitchen.   To notify the out of service equipment and submit to Head Chef.   To check and maintain the procedures of closing duties.   May be requested to perform other related or unrelated duties as and when required by the management.  ",
+            "datePosted": "2023-03-24",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 2500,
+                "minValue": 2300,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/commis-cook-oue-restaurants-956663020192141933c9b4a0a4052a6c?source=MCF&event=Search",
+            "uuid": "6c30d93e-3a20-4f90-8788-157acc6a04c0"
+        },
+        {
+            "dueDate": "2023-04-23",
+            "jobTitle": "Preschool Cook",
+            "skills": [
+                "Childcare",
+                "Health Promotion",
+                "Ingredients",
+                "Grocery",
+                "Water",
+                "Classroom",
+                "Food Safety",
+                "Cooking",
+                "Inventory",
+                "Job Descriptions",
+                "Marketing",
+                "Immunization",
+                "First Aid",
+                "Furniture",
+                "Job Search",
+                "Food Service"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": null
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/2622bed953e484a9248d4ee44676c63f/gallons-grapes.jpg",
+                "name": "GALLONS & GRAPES PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Job Position : Preschool Cook Employment Type : Full Time   Job Responsibilities : · Prepare meals (breakfast, fruits, tea break, and lunch) and serve food to children. · Maintains cleanliness and hygiene of kitchen/dining areas at all time. · Responsible for daily purchase of groceries for the centre. · Responsible for the replenishment of pantry snacks, water supply in classrooms, preparation of light refreshments for meeting where applicable. · Able to do simple cleaning task when needed especially working on Saturday · Assist on cleaning duties when cleaner is away.  Job Requirements : · Experience in childcare settings will be advantageous · No minimum education required · Candidate who possess Food Handling certificate is an advantage (Not a must) · Punctual and Responsible · Able to commence work soon is preferred  EA License No.: 17C8537 (Gallons ; Grapes Pte Ltd) Registration No.: Chua Cheng Hua R1441516  Compensations ; Benefits Basic Salary : SGD$1,600 – SGD$1,800 Commission : Not Applicable Allowance : Not Applicable Working Location : Various locations Nearest MRT : Various Working Days : Monday – Saturday  Working Hours  : Monday – Friday, 0700 – 1600 (Timing may vary) : Saturday, 0700 – 1200 (Timing may vary) Annual Leave : 12 Days  Medical Benefit  : SGD$250 per year, claimable for outpatient medical services AWS : Not Applicable Performance Bonus : Depending on Center’s performance, up to 1 month Other Benefits : Not Applicable",
+            "datePosted": "2023-03-24",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 1800,
+                "minValue": 1600,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/preschool-cook-gallons-grapes-2eaf8eeaeac8a822606806bf563c7fee?source=MCF&event=Search",
+            "uuid": "e29e2e73-f97f-4858-8b8f-3ac1e3add2e0"
+        },
+        {
+            "dueDate": "2023-04-06",
+            "jobTitle": "COOK",
+            "skills": [
+                "Recipes",
+                "Ingredients",
+                "Able To Multitask",
+                "Quality Control",
+                "Food Safety",
+                "Cooking",
+                "Food Quality",
+                "Inventory",
+                "Sanitation",
+                "Cutting Tools",
+                "Baking",
+                "Assembling",
+                "HACCP",
+                "Assembly",
+                "Hazard Analysis",
+                "Food Service"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "SHUN LI INDUSTRIAL PARK, 61 KAKI BUKIT AVENUE 1"
+            },
+            "company": {
+                "logo": null,
+                "name": "907 KOPI BREWERIES PTE. LTD."
+            },
+            "jobType": [
+                "CONTRACTOR",
+                "FULL_TIME"
+            ],
+            "description": "Cook Job description The cook will prepare meals and follow establishment recipes. Duties include preparing ingredients, adhering to the restaurant menu, and following food health and safety procedures. Cook, clean, assist other cooks and staff and deliver food in a fast-paced environment. Work may include operating a grill, oven, or fryer. Previous experience in a team environment and various cooking methods preferred. That cook need to play as multitasking role must be ready to washing vessels and cleaning kitchen environment    Cook Duties and Responsibilities · Setting up, cleaning, and organizing work stations · Preparing ingredients for the shift; washing vegetables, chopping, seasoning meat, etc. · Preparing deep fryer, utensils, and grill for shift · Roti prate flour mixing · Ready to cook Goring items (nasi,ikanpils,mee,kwithya,noodles) · preparation of south indian; north indian curies · Taking orders from wait staff or computerized system · Cooking order according to food health and safety standards · Recommending ideas for specials or seasonal dishes · Handling multiple food orders at one time · Monitoring multiple food orders as new orders arrive · Dressing order for presentation · Ensuring each guest order has the correct food and sides · Delivering food order to wait staff in a timely manner · Storing all food properly · Sanitizing and cleaning work stations and utensils · Reordering stock and food supplies · Monitoring other cooks and team members · Assisting other cooks in preparing food or helping other team members when needed Cook Requirements and Qualifications · Ready to work any shift · Able to work in a fast-paced environment · Able to multitask, prioritize, and manage time efficiently · Physical endurance to stand for an entire shift · Self-motivated and self-directed · Works well as part of a team and on individual tasks · Able to quickly memorize complex or multiple orders · High school degree or equivalent · Previous experience as a cook, or relevant work experience · Legally able to work in establishments which serve alcohol · Able to work early mornings, nights, and weekends · Must pass a background check · Able to read and write",
+            "datePosted": "2023-03-23",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 5000,
+                "minValue": 3000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/cook-907-kopi-breweries-824e03b9f6afea04970939e9c30fac4f?source=MCF&event=Search",
+            "uuid": "6d9c1886-b6f4-49f0-884c-1aad5f7bfb67"
+        },
+        {
+            "dueDate": "2023-04-06",
+            "jobTitle": "COOK",
+            "skills": [
+                "Recipes",
+                "Ingredients",
+                "Able To Multitask",
+                "Quality Control",
+                "Food Safety",
+                "Cooking",
+                "Food Quality",
+                "Inventory",
+                "Sanitation",
+                "Cutting Tools",
+                "Baking",
+                "Assembling",
+                "HACCP",
+                "Assembly",
+                "Hazard Analysis",
+                "Food Service"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "SHUN LI INDUSTRIAL PARK, 61 KAKI BUKIT AVENUE 1"
+            },
+            "company": {
+                "logo": null,
+                "name": "Y761 COFFEE STATION PTE. LTD."
+            },
+            "jobType": [
+                "CONTRACTOR",
+                "FULL_TIME"
+            ],
+            "description": "Cook Job description The cook will prepare meals and follow establishment recipes. Duties include preparing ingredients, adhering to the restaurant menu, and following food health and safety procedures. Cook, clean, assist other cooks and staff and deliver food in a fast-paced environment. Work may include operating a grill, oven, or fryer. Previous experience in a team environment and various cooking methods preferred. That cook need to play as multitasking role must be ready to washing vessels and cleaning kitchen environment    Cook Duties and Responsibilities · Setting up, cleaning, and organizing work stations · Preparing ingredients for the shift; washing vegetables, chopping, seasoning meat, etc. · Preparing deep fryer, utensils, and grill for shift · Roti prate flour mixing · Ready to cook Goring items (nasi,ikanpils,mee,kwithya,noodles) · preparation of south indian; north indian curies · Taking orders from wait staff or computerized system · Cooking order according to food health and safety standards · Recommending ideas for specials or seasonal dishes · Handling multiple food orders at one time · Monitoring multiple food orders as new orders arrive · Dressing order for presentation · Ensuring each guest order has the correct food and sides · Delivering food order to wait staff in a timely manner · Storing all food properly · Sanitizing and cleaning work stations and utensils · Reordering stock and food supplies · Monitoring other cooks and team members · Assisting other cooks in preparing food or helping other team members when needed Cook Requirements and Qualifications · Ready to work any shift · Able to work in a fast-paced environment · Able to multitask, prioritize, and manage time efficiently · Physical endurance to stand for an entire shift · Self-motivated and self-directed · Works well as part of a team and on individual tasks · Able to quickly memorize complex or multiple orders · High school degree or equivalent · Previous experience as a cook, or relevant work experience · Legally able to work in establishments which serve alcohol · Able to work early mornings, nights, and weekends · Must pass a background check · Able to read and write",
+            "datePosted": "2023-03-23",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 5000,
+                "minValue": 3000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/cook-y761-coffee-station-f41c40c5a3f3086cf68ea7b4bf7be262?source=MCF&event=Search",
+            "uuid": "abd633e5-628d-4dca-96c8-d7c8091054f8"
+        },
+        {
+            "dueDate": "2023-04-06",
+            "jobTitle": "COOK",
+            "skills": [
+                "Recipes",
+                "Ingredients",
+                "Able To Multitask",
+                "Quality Control",
+                "Food Safety",
+                "Cooking",
+                "Food Quality",
+                "Inventory",
+                "Sanitation",
+                "Cutting Tools",
+                "Baking",
+                "Assembling",
+                "HACCP",
+                "Assembly",
+                "Hazard Analysis",
+                "Food Service"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "SHUN LI INDUSTRIAL PARK, 61 KAKI BUKIT AVENUE 1"
+            },
+            "company": {
+                "logo": null,
+                "name": "61 KOPI BREWERIES PTE. LTD."
+            },
+            "jobType": [
+                "CONTRACTOR",
+                "FULL_TIME"
+            ],
+            "description": "Cook Job description The cook will prepare meals and follow establishment recipes. Duties include preparing ingredients, adhering to the restaurant menu, and following food health and safety procedures. Cook, clean, assist other cooks and staff and deliver food in a fast-paced environment. Work may include operating a grill, oven, or fryer. Previous experience in a team environment and various cooking methods preferred. That cook need to play as multitasking role must be ready to washing vessels and cleaning kitchen environment    Cook Duties and Responsibilities · Setting up, cleaning, and organizing work stations · Preparing ingredients for the shift; washing vegetables, chopping, seasoning meat, etc. · Preparing deep fryer, utensils, and grill for shift · Roti prate flour mixing · Ready to cook Goring items (nasi,ikanpils,mee,kwithya,noodles) · preparation of south indian; north indian curies · Taking orders from wait staff or computerized system · Cooking order according to food health and safety standards · Recommending ideas for specials or seasonal dishes · Handling multiple food orders at one time · Monitoring multiple food orders as new orders arrive · Dressing order for presentation · Ensuring each guest order has the correct food and sides · Delivering food order to wait staff in a timely manner · Storing all food properly · Sanitizing and cleaning work stations and utensils · Reordering stock and food supplies · Monitoring other cooks and team members · Assisting other cooks in preparing food or helping other team members when needed Cook Requirements and Qualifications · Ready to work any shift · Able to work in a fast-paced environment · Able to multitask, prioritize, and manage time efficiently · Physical endurance to stand for an entire shift · Self-motivated and self-directed · Works well as part of a team and on individual tasks · Able to quickly memorize complex or multiple orders · High school degree or equivalent · Previous experience as a cook, or relevant work experience · Legally able to work in establishments which serve alcohol · Able to work early mornings, nights, and weekends · Must pass a background check · Able to read and write",
+            "datePosted": "2023-03-23",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 5000,
+                "minValue": 3000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/cook-61-kopi-breweries-24e29b475908a3d43b20e2e96332acee?source=MCF&event=Search",
+            "uuid": "77c427f8-ab30-465d-be16-4ff4d963f0be"
+        },
+        {
+            "dueDate": "2023-04-06",
+            "jobTitle": "COOK",
+            "skills": [
+                "Recipes",
+                "Ingredients",
+                "Able To Multitask",
+                "Quality Control",
+                "Food Safety",
+                "Cooking",
+                "Food Quality",
+                "Inventory",
+                "Sanitation",
+                "Cutting Tools",
+                "Baking",
+                "Assembling",
+                "HACCP",
+                "Assembly",
+                "Hazard Analysis",
+                "Food Service"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "771 YISHUN AVENUE 3"
+            },
+            "company": {
+                "logo": null,
+                "name": "RSAK PTE. LTD."
+            },
+            "jobType": [
+                "CONTRACTOR",
+                "FULL_TIME"
+            ],
+            "description": "Cook Job description The cook will prepare meals and follow establishment recipes. Duties include preparing ingredients, adhering to the restaurant menu, and following food health and safety procedures. Cook, clean, assist other cooks and staff and deliver food in a fast-paced environment. Work may include operating a grill, oven, or fryer. Previous experience in a team environment and various cooking methods preferred. That cook need to play as multitasking role must be ready to washing vessels and cleaning kitchen environment    Cook Duties and Responsibilities · Setting up, cleaning, and organizing work stations · Preparing ingredients for the shift; washing vegetables, chopping, seasoning meat, etc. · Preparing deep fryer, utensils, and grill for shift · Roti prate flour mixing · Ready to cook Goring items (nasi,ikanpils,mee,kwithya,noodles) · preparation of south indian; north indian curies · Taking orders from wait staff or computerized system · Cooking order according to food health and safety standards · Recommending ideas for specials or seasonal dishes · Handling multiple food orders at one time · Monitoring multiple food orders as new orders arrive · Dressing order for presentation · Ensuring each guest order has the correct food and sides · Delivering food order to wait staff in a timely manner · Storing all food properly · Sanitizing and cleaning work stations and utensils · Reordering stock and food supplies · Monitoring other cooks and team members · Assisting other cooks in preparing food or helping other team members when needed Cook Requirements and Qualifications · Ready to work any shift · Able to work in a fast-paced environment · Able to multitask, prioritize, and manage time efficiently · Physical endurance to stand for an entire shift · Self-motivated and self-directed · Works well as part of a team and on individual tasks · Able to quickly memorize complex or multiple orders · High school degree or equivalent · Previous experience as a cook, or relevant work experience · Legally able to work in establishments which serve alcohol · Able to work early mornings, nights, and weekends · Must pass a background check · Able to read and write",
+            "datePosted": "2023-03-23",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 5000,
+                "minValue": 3000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/cook-rsak-1d1f976cc362f6a59dc6fcba45d83374?source=MCF&event=Search",
+            "uuid": "7c842124-9a2d-4ee9-8aa8-9187513ac30d"
+        },
+        {
+            "dueDate": "2023-04-06",
+            "jobTitle": "COOK",
+            "skills": [
+                "Recipes",
+                "Ingredients",
+                "Able To Multitask",
+                "Quality Control",
+                "Food Safety",
+                "Cooking",
+                "Food Quality",
+                "Inventory",
+                "Sanitation",
+                "Cutting Tools",
+                "Baking",
+                "Assembling",
+                "HACCP",
+                "Assembly",
+                "Hazard Analysis",
+                "Food Service"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "RITZ @ FARRER, 142 RACE COURSE ROAD"
+            },
+            "company": {
+                "logo": null,
+                "name": "OCEANDA PTE. LTD."
+            },
+            "jobType": [
+                "CONTRACTOR",
+                "FULL_TIME"
+            ],
+            "description": "Cook Job description The cook will prepare meals and follow establishment recipes. Duties include preparing ingredients, adhering to the restaurant menu, and following food health and safety procedures. Cook, clean, assist other cooks and staff and deliver food in a fast-paced environment. Work may include operating a grill, oven, or fryer. Previous experience in a team environment and various cooking methods preferred. That cook need to play as multitasking role he must be ready to washing vessels and cleaning kitchen environment    Cook Duties and Responsibilities · Setting up, cleaning, and organizing work stations · Preparing ingredients for the shift; washing vegetables, chopping, seasoning meat, etc. · Preparing deep fryer, utensils, and grill for shift · Roti prate flour mixing · Ready to cook Goring items (nasi,ikanpils,mee,kwithya,noodles) · preparation of south indian; north indian curies · Taking orders from wait staff or computerized system · Cooking order according to food health and safety standards · Recommending ideas for specials or seasonal dishes · Handling multiple food orders at one time · Monitoring multiple food orders as new orders arrive · Dressing order for presentation · Ensuring each guest order has the correct food and sides · Delivering food order to wait staff in a timely manner · Storing all food properly · Sanitizing and cleaning work stations and utensils · Reordering stock and food supplies · Monitoring other cooks and team members · Assisting other cooks in preparing food or helping other team members when needed Cook Requirements and Qualifications · Ready to work any shift · Able to work in a fast-paced environment · Able to multitask, prioritize, and manage time efficiently · Physical endurance to stand for an entire shift · Self-motivated and self-directed · Works well as part of a team and on individual tasks · Able to quickly memorize complex or multiple orders · High school degree or equivalent · Previous experience as a cook, or relevant work experience · Legally able to work in establishments which serve alcohol · Able to work early mornings, nights, and weekends · Must pass a background check · Able to read and write",
+            "datePosted": "2023-03-23",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 5000,
+                "minValue": 3000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/cook-oceanda-7957838ea65f8270d212032091219eba?source=MCF&event=Search",
+            "uuid": "6ac0f32b-a756-4670-bcc5-f2fab40f4fe3"
+        },
+        {
+            "dueDate": "2023-04-06",
+            "jobTitle": "COOK",
+            "skills": [
+                "Recipes",
+                "Ingredients",
+                "Able To Multitask",
+                "Quality Control",
+                "Food Safety",
+                "Cooking",
+                "Food Quality",
+                "Inventory",
+                "Sanitation",
+                "Cutting Tools",
+                "Baking",
+                "Assembling",
+                "HACCP",
+                "Assembly",
+                "Hazard Analysis",
+                "Food Service"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "SHUN LI INDUSTRIAL PARK, 61 KAKI BUKIT AVENUE 1"
+            },
+            "company": {
+                "logo": null,
+                "name": "Y110 COFFEE STATION PTE. LTD."
+            },
+            "jobType": [
+                "CONTRACTOR",
+                "FULL_TIME"
+            ],
+            "description": "Cook Job description The cook will prepare meals and follow establishment recipes. Duties include preparing ingredients, adhering to the restaurant menu, and following food health and safety procedures. Cook, clean, assist other cooks and staff and deliver food in a fast-paced environment. Work may include operating a grill, oven, or fryer. Previous experience in a team environment and various cooking methods preferred. That cook need to play as multitasking role must be ready to washing vessels and cleaning kitchen environment    Cook Duties and Responsibilities · Setting up, cleaning, and organizing work stations · Preparing ingredients for the shift; washing vegetables, chopping, seasoning meat, etc. · Preparing deep fryer, utensils, and grill for shift · Roti prate flour mixing · Ready to cook Goring items (nasi,ikanpils,mee,kwithya,noodles) · preparation of south indian; north indian curies · Taking orders from wait staff or computerized system · Cooking order according to food health and safety standards · Recommending ideas for specials or seasonal dishes · Handling multiple food orders at one time · Monitoring multiple food orders as new orders arrive · Dressing order for presentation · Ensuring each guest order has the correct food and sides · Delivering food order to wait staff in a timely manner · Storing all food properly · Sanitizing and cleaning work stations and utensils · Reordering stock and food supplies · Monitoring other cooks and team members · Assisting other cooks in preparing food or helping other team members when needed Cook Requirements and Qualifications · Ready to work any shift · Able to work in a fast-paced environment · Able to multitask, prioritize, and manage time efficiently · Physical endurance to stand for an entire shift · Self-motivated and self-directed · Works well as part of a team and on individual tasks · Able to quickly memorize complex or multiple orders · High school degree or equivalent · Previous experience as a cook, or relevant work experience · Legally able to work in establishments which serve alcohol · Able to work early mornings, nights, and weekends · Must pass a background check · Able to read and write",
+            "datePosted": "2023-03-23",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 5000,
+                "minValue": 3000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/cook-y110-coffee-station-f185e02c8d54120eac96d9afa89c77cb?source=MCF&event=Search",
+            "uuid": "8bb97160-22cf-4d5f-9258-9264a3b7de11"
+        },
+        {
+            "dueDate": "2023-04-13",
+            "jobTitle": "Cook",
+            "skills": [
+                "Recipes",
+                "Excellent Communication Skills",
+                "Ingredients",
+                "Able To Multitask",
+                "Quality Control",
+                "Food Safety",
+                "Cooking",
+                "Food Quality",
+                "Inventory",
+                "Sanitation",
+                "Baking",
+                "Assembling",
+                "HACCP",
+                "Resource Management",
+                "Assembly",
+                "Hazard Analysis",
+                "Food Service"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "84 CIRCULAR ROAD"
+            },
+            "company": {
+                "logo": null,
+                "name": "SALAD STOP PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Responsibilities • Set up workstations and cooking equipment • Prepare ingredients to use in cooking (chopping and peeling vegetables, cutting meat, etc.) • Conduct quality checks on all ingredients • Cook food in various utensils or grillers • Keep a sanitized and orderly environment in the kitchen area and outlet. • Ensure all food and other items are stored properly • Help to monitor stock and place orders when there are shortages • Ensure all the food Recipe Manuals / Photo menus are in order and well kept at the outlet, and processes are followed carefully. Requirements • Having experience as a cook is an advantage. • Knowledge of various cooking procedures and methods (grilling, baking, boiling, etc.) • Ability to follow all sanitation procedures • Ability to work in a team • Excellent communication skills • Excellent physical condition and stamina.",
+            "datePosted": "2023-03-23",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 2900,
+                "minValue": 1800,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/cook-salad-stop-bc34df7850eb28f1c2ee74b7804ab8c0?source=MCF&event=Search",
+            "uuid": "63bea48f-d89b-43ce-a478-1112a386db11"
+        },
+        {
+            "dueDate": "2023-04-22",
+            "jobTitle": "Cook",
+            "skills": [
+                "Recipes",
+                "Ingredients",
+                "Cooking",
+                "Food and Beverage Safety, Hygiene and Security",
+                "Workplace Safety",
+                "Food Quality",
+                "Inventory",
+                "Sanitation",
+                "English",
+                "Physically Fit",
+                "Team Player",
+                "Cut",
+                "Service Delivery",
+                "Workplace Safety and Health"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": null
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/4c2a36383b78a019bd5776d09dc4099b/cerebral-palsy-alliance-singapore.png",
+                "name": "CEREBRAL PALSY ALLIANCE SINGAPORE"
+            },
+            "jobType": [
+                "CONTRACTOR",
+                "FULL_TIME"
+            ],
+            "description": "Role Maintain a high standard of hygiene in preparation and cooking of meals for students from School.  Responsibilities The responsibilities of the Cook are described below. This job description can be revised periodically, subject to the needs of the organisation.    Manage food stocks including checking quantity and quality of food items.   Prepare, cook and serve meals for student daily snack time.   Ensure cleanliness, hygiene and safety standards are maintained at all times in the kitchen.   Plan, manage and direct activities of trainees to clean the kitchen.   Work as a team and participate positively and actively in the quality service delivery in line with the mission, goals and objectives of the Association.  Requirements    Be able to prepare, cook and present food to the highest standards.   Have a good personal hygiene.   Must be physically fit.    Must be able to converse in simple English.    Have a compassionate and patient personality.   Experience in working with persons with special needs is an added advantage  Working Location: School West - 6A Jurong West Street 52 Singapore 649297  Interested applicants please email detailed resume to: recruit_hr15@cpas.org.sg  Only shortlisted applicants will be notified.",
+            "datePosted": "2023-03-23",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 2000,
+                "minValue": 1530,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/cook-cerebral-palsy-alliance-singapore-42b5dbbc038e3020facba97dfdbab41d?source=MCF&event=Search",
+            "uuid": "28747097-7ec7-4ea5-b588-c8935cb48b7e"
         }
     ]
 }
