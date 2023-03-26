@@ -3,7 +3,7 @@
 import BoosterJobEntry from "./boosterJobEntry";
 import { useAuthState } from "react-firebase-hooks/auth";
 import Loading from "@/app/user/loading";
-import { use } from "react";
+import { use, useState } from "react";
 
 import firebase from "@/firebase/firebase-config";
 const db = firebase.firestore();
@@ -25,7 +25,8 @@ async function getData(userID) {
 
 export default function BoosterPage() {
     const [user, loading, error] = useAuthState(firebase.auth());
-    
+    const [isOpen, setIsOpen] = useState(false);
+
     if (loading) return <Loading />;
 
     const boostData = use(getData(user.uid));
@@ -36,6 +37,14 @@ export default function BoosterPage() {
                 <header className="text-2xl font-bold text-accent-500 md:text-3xl">
                     Choose Job Target
                 </header>
+                <button
+                    className="h-6 w-32 rounded-full bg-accent-500 text-center text-xs font-bold leading-6 text-white shadow-sm hover:bg-accent-300"
+                    onClick={() => {
+                        setIsOpen(!isOpen);
+                    }}
+                >
+                    Set Resume
+                </button>
                 <main className="text-black">
                     <section className="flex flex-col items-center justify-center gap-2">
                         {boostData.map((e) => (
