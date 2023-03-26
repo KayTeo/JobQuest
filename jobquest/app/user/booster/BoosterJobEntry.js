@@ -39,7 +39,7 @@ export default function BoosterJobEntry({ data }) {
                     }}
                     className="h-6 w-32 rounded-full bg-accent-500 text-center text-xs font-bold leading-6 text-white shadow-sm hover:bg-accent-300"
                 >
-                    Boost Resume
+                    View Resume
                 </button>
                 <button
                     onClick={() => {
@@ -50,7 +50,7 @@ export default function BoosterJobEntry({ data }) {
                     }}
                     className="h-6 w-32 rounded-full bg-accent-500 text-center text-xs font-bold leading-6 text-white shadow-sm hover:bg-accent-300"
                 >
-                    Boost Cover Letter
+                    View Cover Letter
                 </button>
             </section>
             {resumeFlag && (

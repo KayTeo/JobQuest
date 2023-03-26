@@ -15,10 +15,13 @@ export default function LogInPage() {
         e.preventDefault();
         const email = e.target.username.value;
         const password = e.target.password.value;
-        auth.signInWithEmailAndPassword(email, password).then(()=> {
+        auth.signInWithEmailAndPassword(email, password)
+        .then(()=> {
             Cookies.set("loggedin", true);
             router.push("/");
-        })
+        }).catch((error) => {
+            alert(error.message);
+        });
     }
 
     return (
