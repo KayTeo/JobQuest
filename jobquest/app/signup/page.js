@@ -17,10 +17,28 @@ export default function SignInPage() {
         const username = e.target.username.value;
         const password = e.target.password.value;
         const cfmpassword = e.target.cfmpassword.value;
-        auth.createUserWithEmailAndPassword(email, password).then(()=> {
+
+        const emailRegex = new RegExp("[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}$");
+        const passwordRegex = new RegExp("^(?=.*[A-Za-z])(?=.*\\d)(?=.*[@$!%*#?&])[A-Za-z\\d@$!%*#?&]{8,}$");
+
+        if(!emailRegex.test(e.target.email.value)){
+            alert("Please enter a valid email.");
+        }
+        else if(e.target.username.value == ""){
+            alert("Username cannot be empty.");
+        }
+        else if(!passwordRegex.test(e.target.password.value)){
+            alert("Password should be minimum 8 characters, containing at least 1 letter, number and special character.");
+        }
+        else if(!(e.target.password.value === e.target.cfmpassword.value)){
+            alert("Two passwords do not match.");
+        }
+        else{
+            auth.createUserWithEmailAndPassword(email, password).then(()=> {
             Cookies.set("loggedin", true);
             router.push("/");
-        })
+            })
+        }
     }
 
     return (
@@ -50,8 +68,8 @@ export default function SignInPage() {
                             type="text"
                             id="email"
                             name="email"
-                            pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$"
-                            required
+                            //pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$"
+                            //required
                         />
                         <label
                             className="font-semibold text-white"
@@ -64,7 +82,7 @@ export default function SignInPage() {
                             type="text"
                             id="username"
                             name="username"
-                            required
+                            //required
                         />
                         <label
                             className="font-semibold text-white"
@@ -77,8 +95,8 @@ export default function SignInPage() {
                             type="text"
                             id="password"
                             name="password"
-                            pattern="^(?=.*[A-Za-z])(?=.*\d)(?=.*[@$!%*#?&])[A-Za-z\d@$!%*#?&]{8,}$"
-                            required
+                            //pattern="^(?=.*[A-Za-z])(?=.*\d)(?=.*[@$!%*#?&])[A-Za-z\d@$!%*#?&]{8,}$"
+                            //required
                         />
                         <label
                             className="font-semibold text-white"
@@ -91,8 +109,8 @@ export default function SignInPage() {
                             type="text"
                             id="cfmpassword"
                             name="cfmpassword"
-                            pattern="^(?=.*[A-Za-z])(?=.*\d)(?=.*[@$!%*#?&])[A-Za-z\d@$!%*#?&]{8,}$"
-                            required
+                            //pattern="^(?=.*[A-Za-z])(?=.*\d)(?=.*[@$!%*#?&])[A-Za-z\d@$!%*#?&]{8,}$"
+                            //required
                         />
                     </div>
                     <button
