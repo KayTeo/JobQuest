@@ -43,13 +43,13 @@ export default function BoosterJobEntry({
         <div className="flex w-[350px] flex-col items-center justify-center gap-1 rounded-3xl border border-black bg-light-200 px-7 pt-2 pb-5 text-black md:w-[550px]">
             <section
                 title={jobData.company.name}
-                className="flex w-full items-center justify-center overflow-hidden text-ellipsis whitespace-nowrap text-xl font-bold"
+                className="flex max-w-full items-center justify-start overflow-hidden text-ellipsis whitespace-nowrap text-xl font-bold"
             >
                 {jobData.company.name}
             </section>
             <section
                 title={jobData.jobTitle}
-                className="flex w-full items-center justify-center overflow-hidden text-ellipsis whitespace-nowrap text-xl font-bold"
+                className="flex max-w-full items-center justify-start overflow-hidden text-ellipsis whitespace-nowrap text-xl font-bold"
             >
                 {jobData.jobTitle}
             </section>
