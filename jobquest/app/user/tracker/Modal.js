@@ -21,7 +21,7 @@ export default function Modal({ setIsOpen, userID, defaultData }) {
     const [skills, setSkills] = useState(defaultData.skills);
     const skillsInputRef = useRef();
 
-    function handleSubmit(e) {
+    async function handleSubmit(e) {
         e.preventDefault();
         const newEntry = { ...defaultData };
         if (!defaultData.uuid) {
@@ -39,7 +39,7 @@ export default function Modal({ setIsOpen, userID, defaultData }) {
         newEntry.jobLink = e.target.url.value;
         newEntry.skills = skills;
 
-        createEntry(userID, newEntry);
+        await createEntry(userID, newEntry);
         // setTrackData([...trackData, newEntry]);
         setIsOpen(false);
     }
