@@ -54,11 +54,11 @@ export default function SearcherPage() {
         router.push("user/searcher/setup");
     }
 
-    const jobsList = getJobData(userID);
+    const jobsList = use(getJobData(userID)).jobs;
 
     return (
         <>
-            {user && userData.searcherBoolean && (
+            {user && userData.searcherBoolean && jobsList && (
                 <div className="h-[calc(100vh-64px)] overflow-auto">
                     <div className="flex flex-col items-center gap-3 p-5">
                         <header className="text-2xl font-bold text-accent-500 md:text-3xl">

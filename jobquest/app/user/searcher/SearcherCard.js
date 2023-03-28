@@ -19,9 +19,10 @@ async function moveToWishList(userID, data) {
 }
 
 export default function SearcherCard({ jobs, userID }) {
+    const [data, setData] = useState(jobs[0]);
     const [expand, setExpand] = useState(false);
     const [jobEnd, setJobEnd] = useState(false);
-
+    //console.log(data);
     const handleClick = () => {
         const index = jobs.findIndex((e) => {
             return e.uuid == data.uuid;
@@ -31,7 +32,6 @@ export default function SearcherCard({ jobs, userID }) {
             return;
         } else setData(jobs[index + 1]);
     };
-    const [data, setData] = useState(jobs[0]);
 
     return (
         <>
