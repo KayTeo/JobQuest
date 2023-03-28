@@ -181,13 +181,18 @@ export default function SearcherCard({ jobs, userID }) {
                 </div>
             ) : (
                 <div className="flex h-[300px] w-[300px] items-center justify-between gap-2 rounded-2xl bg-dark-500 p-3 text-white shadow-lg md:w-[600px]">
-                    <button
-                        onClick={handleClick}
-                        className="flex h-10 w-10 items-center justify-center rounded-full border border-white pr-1 shadow-sm hover:bg-accent-300 md:h-14 md:w-14"
-                    >
-                        <ChevronLeftIcon />
-                    </button>
-                    <div className="flex h-full w-[400px] flex-col items-center justify-between gap-5">
+                    <div className="flex flex-col items-center justify-center">
+                        <button
+                            onClick={handleClick}
+                            className="flex h-10 w-10 items-center justify-center rounded-full border border-white pr-1 shadow-sm hover:bg-accent-300 md:h-14 md:w-14"
+                        >
+                            <ChevronLeftIcon />
+                        </button>
+                        <div className="text-sm font-bold md:text-base">
+                            Next
+                        </div>
+                    </div>
+                    <div className="flex h-full w-[180px] flex-col items-center justify-between gap-5 md:w-[400px]">
                         <div className="flex w-full flex-col items-center justify-center gap-1">
                             <header className="flex w-full items-center justify-between">
                                 <div
@@ -219,9 +224,9 @@ export default function SearcherCard({ jobs, userID }) {
                                     {data.jobTitle}
                                 </p>
                             </div>
-                            <div className="flex gap-1">
+                            <div className="flex max-w-full gap-1">
                                 <p className="font-bold">Salary:</p>
-                                <p>
+                                <p className="overflow-hidden text-ellipsis whitespace-nowrap">
                                     {data.salaryRange.minValue &&
                                         data.salaryRange.minValue}
                                     {data.salaryRange.minValue &&
@@ -235,9 +240,11 @@ export default function SearcherCard({ jobs, userID }) {
                                         data.salaryRange.currency}
                                 </p>
                             </div>
-                            <div className="flex gap-1">
+                            <div className="flex max-w-full gap-1">
                                 <p className="font-bold">Location:</p>
-                                <p>{data.location.locality}</p>
+                                <p className="overflow-hidden text-ellipsis whitespace-nowrap">
+                                    {data.location.locality}
+                                </p>
                             </div>
                         </main>
                         <section className="flex w-full flex-col items-start justify-start">
@@ -261,15 +268,20 @@ export default function SearcherCard({ jobs, userID }) {
                             View More
                         </button>
                     </div>
-                    <button
-                        onClick={() => {
-                            moveToWishList(userID, data);
-                            handleClick();
-                        }}
-                        className="flex h-10 w-10 items-center justify-center rounded-full border border-white pl-1 shadow-sm hover:bg-accent-300 md:h-14 md:w-14"
-                    >
-                        <ChevronRightIcon />
-                    </button>
+                    <div className="flex flex-col items-center justify-center">
+                        <button
+                            onClick={() => {
+                                moveToWishList(userID, data);
+                                handleClick();
+                            }}
+                            className="flex h-10 w-10 items-center justify-center rounded-full border border-white pl-1 shadow-sm hover:bg-accent-300 md:h-14 md:w-14"
+                        >
+                            <ChevronRightIcon />
+                        </button>
+                        <div className="text-sm font-bold md:text-base">
+                            Add
+                        </div>
+                    </div>
                 </div>
             )}
         </>
