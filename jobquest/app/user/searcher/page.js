@@ -31,7 +31,7 @@ async function getJobData(userID) {
         });
 
     const payload = {
-        keywords: "software engineer",
+        keywords: "chef",
         pages: 1,
         searcherData: searcherData,
     };
@@ -54,7 +54,7 @@ export default function SearcherPage() {
         router.push("user/searcher/setup");
     }
 
-    const jobsList = use(getJobData(userID)).jobs;
+    const jobsList = [];
 
     return (
         <>

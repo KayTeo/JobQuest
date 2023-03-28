@@ -1,68 +1,325 @@
 {
     "jobs": [
         {
-            "dueDate": "2023-03-28",
-            "jobTitle": "Software Engineer, Backend",
+            "dueDate": "2023-04-26",
+            "jobTitle": "Executive Sous Chef",
             "skills": [
-                "Information Retrieval",
-                "MASSIVE",
-                "UI Design",
-                "Data Structures",
-                "Natural Language Processing",
-                "User Experience",
-                "System Design",
-                "Distributed Systems",
-                "Demand Planning",
-                "Networking",
-                "Performance Tuning",
-                "Systems Design",
-                "Java",
-                "Software Development",
-                "C++"
+                "Recipes",
+                "Coaching",
+                "Team Worker",
+                "Ingredients",
+                "Cooking",
+                "Quality Improvement",
+                "Food Quality",
+                "Inventory",
+                "Purchasing",
+                "Problem Solving",
+                "Electrical",
+                "Sanitation",
+                "Budgeting",
+                "HACCP",
+                "Human Resources",
+                "Cost Control"
             ],
             "location": {
                 "country": "SG",
                 "locality": "Singapore",
-                "address": "Google Asia Pacific, Singapore, 70 Pasir Panjang Road"
+                "address": "SHANGRI-LA SINGAPORE, 22 ORANGE GROVE ROAD"
             },
             "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/26b00abe7acb9b5449204a64fb45ab5a/google-asia-pacific.png",
-                "name": "GOOGLE ASIA PACIFIC PTE. LTD."
+                "logo": null,
+                "name": "SHANGRI-LA HOTEL LIMITED"
             },
             "jobType": [
                 "FULL_TIME"
             ],
-            "description": "PRODUCT AREA In Google Search, we're reimagining what it means to search for information – any way and anywhere. To do that, we need to solve complex engineering challenges and expand our infrastructure, while maintaining a universally accessible and useful experience that people around the world rely on. In joining the Search team, you'll have an opportunity to make an impact on billions of people globally. JOB DESCRIPTION Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward. JOB RESPONSIBILITIES    Design and build scalable backend services for critical user journeys   Integrate with and optimize storage solutions for scale and performance   Collaborate closely with the frontend/mobile team to ensure a smooth and optimized end-to-end user experience   Collaborate closely with cross-functional team members (product, UX, legal, policy) to enable a positive experience for our users  MINIMUM QUALIFICATIONS    5 years of experience in software development   Experience with coding in data structures, algorithms and software design  PREFERRED QUALIFICATIONS    Experience programming in the following languages: C++, and/or Java   Experience with large scale distributed systems design ",
-            "datePosted": "2023-03-14",
+            "description": "Drives and manage high standards of food preparation, service and profitability in the appointed kitchen (s), according to the standards set by the Management.    Provides personal coaching and guidance to improve.   Encourages ideas and suggestions for problem solving, quality improvement from staff.   Discusses suggestions with team members.   Acquainted and familiar with the use of all electrical and mechanical equipment in the kitchen and observes the safety precautions when handling them and assists to ensure all cooks are of required standard.   Knowing the delegation of Authority at your level   Check all set ups and responsible for all aspects of timing during service and ensure all food served is of the highest standard.   Drives restaurant and outlet quality and profitability.   Constantly checks the quality of food prepared with to taste and temperature.   Takes full responsibility of portion control, usage, wastage according to recipe standards..  Requirements:    Master of specialty cuisine techniques and ingredients   Culinary Apprenticeship   5 years’ work experience in a 5 star hotel environment   Highly advanced knowledge of authentic specialty cuisine   Motivator and self-starter   Team worker / builder   Displays initiative ; creativity   Strong interest to teach ; train   Positive attitude ",
+            "datePosted": "2023-03-27",
             "salaryRange": {
                 "currency": "SGD",
-                "maxValue": 13500,
-                "minValue": 7500,
+                "maxValue": 11000,
+                "minValue": 6000,
                 "payPeriod": "MONTH"
             },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/software-engineer-backend-google-asia-pacific-a0ec5296098f5c2ac655c330cbd7cfad?source=MCF&event=SuggestedJob",
-            "uuid": "dacbc973-5e96-458f-aabb-7f565810d8a8"
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/executive-sous-chef-shangri-la-hotel-4383daefcd110633a07312da7f296bde?source=MCF&event=Search",
+            "uuid": "06d3ea21-1001-48f7-a6d5-fb09a1911352"
         },
         {
-            "dueDate": "2023-04-18",
-            "jobTitle": "Software Engineer (Hybrid / Good Career Progression) JO",
+            "dueDate": "2023-04-26",
+            "jobTitle": "Executive Sous Chef",
             "skills": [
-                "Requirements Gathering",
-                "UAT",
-                ".NET",
-                "Software Engineering",
-                "JavaScript",
-                "SDLC",
-                "SQL",
-                "Application Support",
-                "Python",
-                "User Acceptance Testing",
-                "Presentation Skills",
-                "Web Applications",
-                "System Integration Testing",
-                "Java",
-                "C#",
-                "Software Development"
+                "Recipes",
+                "Coaching",
+                "Menu Development",
+                "Microsoft Office",
+                "Food Safety",
+                "Restaurants",
+                "Cooking",
+                "Food Quality",
+                "Supervisory Skills",
+                "Sanitation",
+                "Tuning",
+                "Budgeting",
+                "HACCP",
+                "Human Resources",
+                "Culinary Skills",
+                "Cost Control"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "RESORTS WORLD SENTOSA, 8 SENTOSA GATEWAY"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/980f023155651742be91f86441fdd62d/resorts-world-sentosa.png",
+                "name": "RESORTS WORLD AT SENTOSA PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Primary Responsibilities    Manage the kitchen operations to ensure compliance with food hygiene standards and operating procedures as well as guarantee highest guest satisfaction   Monitor on daily expenses in terms of purchases, manpower and the food cost are in-line with budget   Create new menu for casual food according to the sales and targeted guests   Apply all food safety practice and procedurals based on the company requirements from day-to-day operations   Maintain complete knowledge of correct maintenance and usage of equipment safety to have high level of safety working environment   Conduct quality check and fine tuning to ensure all products served are in-line with the recipes, portions and method are according to the menu development standard   Requirements    Certificate in Culinary Skills / GCE 'O' level or its equivalent   At least 8 years of experience in quick service restaurants and themed parks environment   Proficient in Microsoft Office applications   Good interpersonal, communication and supervisory skills ",
+            "datePosted": "2023-03-27",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 11800,
+                "minValue": 9500,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/executive-sous-chef-resorts-world-sentosa-a3ba2c7f27e5ddffc84ae28be20a91f3?source=MCF&event=Search",
+            "uuid": "387fc81a-8be2-407d-b015-ab70af1c3d83"
+        },
+        {
+            "dueDate": "2023-04-14",
+            "jobTitle": "SENIOR SOUS CHEF",
+            "skills": [
+                "Recipes",
+                "Leadership",
+                "Ingredients",
+                "Quality Control",
+                "Food Safety",
+                "Cooking",
+                "Food Quality",
+                "Inventory",
+                "Purchasing",
+                "Sanitation",
+                "Fine Dining",
+                "HACCP",
+                "Scheduling",
+                "Food Service"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "GREATWOOD BUILDING, 43 CARPENTER STREET"
+            },
+            "company": {
+                "logo": null,
+                "name": "I'WA INTERNATIONAL PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Responsibilities for Sous Chef    Manage      all activities in the kitchen, including food preparation and production,      and management and training of kitchen staff   Ensure      efficient, cost-effective operation and profitability of food production   Supervise      and inspect all preparation and cooking equipment on a regular basis to      ensure that they are kept clean, sanitary, and in perfect operating order   Ensure      that food products, presentation, and plating are of the highest quality,      and are prepared to serve in a timely manner   Assume      the role as Executive Chef in his or her absence   Assure      adherence to all standards of food quality, preparation, recipes, and      presentation in conjunction with the specifications   Monitor      holding and storage operations, stocking and food rotation, and guarantee      food service sanitation standards are met   Assure      kitchen personnel is trained in best cleanliness and sanitation practices ",
+            "datePosted": "2023-03-15",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 9500,
+                "minValue": 6000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/senior-sous-chef-iwa-international-bba5a5f3c345a06829ed92229ab83e2f?source=MCF&event=SuggestedJob",
+            "uuid": "67cf0163-f39b-473b-86bd-f93792d5eab5"
+        },
+        {
+            "dueDate": "2023-04-07",
+            "jobTitle": "Executive Chef (Japanese Cuisine)",
+            "skills": [
+                "Recipes",
+                "Leadership",
+                "Ingredients",
+                "Food Safety",
+                "Restaurants",
+                "Cooking",
+                "Food Quality",
+                "Japanese Culture",
+                "Japanese",
+                "Japanese Business Culture"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "17 Hongkong Street"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/ec4d9e848584cc722d5996097660272d/stylez.gif",
+                "name": "STYLEZ PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "- To control the consistency of quality and quantity of food served - Control food cost - To ensure Hygiene and Cleanliness of the outlet - Must have various kinds of Japanese cuisine cooking skills such as sashimi, sushi, nimono, yakimono, agemono. - Must have the ability to create his own seasonal course menu. - Must have min 5-6 years of experience working as head chef at a Japanese kaiseki/kappo style restaurant - In-depth knowledge of Japanese kaiseki cuisine - Also, the candidate must have knowledge of Japanese sake",
+            "datePosted": "2023-03-08",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 11000,
+                "minValue": 6500,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/executive-chef-stylez-d76f00610fa2910f1b8cb1fb6f4ca5c7?source=MCF&event=Search",
+            "uuid": "e5aa9f56-035a-4b3f-911c-928dbd226065"
+        },
+        {
+            "dueDate": "2023-04-06",
+            "jobTitle": "EXECUTIVE CHEF",
+            "skills": [
+                "Recipes",
+                "Leadership",
+                "Ingredients",
+                "Quality Control",
+                "Food Safety",
+                "Restaurants",
+                "Cooking",
+                "Food Quality",
+                "Inventory",
+                "Purchasing",
+                "Sanitation",
+                "Compliance",
+                "Finish",
+                "Catering",
+                "Food Service"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "RITZ @ FARRER, 142 RACE COURSE ROAD"
+            },
+            "company": {
+                "logo": null,
+                "name": "OCEANDA PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME",
+                "CONTRACTOR"
+            ],
+            "description": "EXECUTIVE CHEF As a executive chef you will be responsible for everything that goes on in your employer’s kitchen. Not only will you be required to oversee all dishes from start to finish, you are also tasked with hiring and firing employees, meeting health and safety standards and dreaming up new recipes for the restaurant you work in. If you love to cook, enjoy being creative and relish the challenges that come with responsibility, read on to learn more about becoming a head chef.  REQUIREMENTS o Ready to work any shift. o Need to work long term. o Ready to work for public holidays ; Sunday. A candidate who wants to become a head chef must acquire on the job training which is most important for career progress and advancement in the path of becoming a head chef. A executive chef must possess a lot of stamina and will power to be able to stand for long hours and work for extended hours too in order to experiment in creating new dishes. The candidate should also possess good knowledge of food products and their availability in order to plan cuisine accordingly. A executive chef should have good organizing, supervising and time management skills to be able to oversee all the activities that take place in the kitchen in a proper manner.",
+            "datePosted": "2023-03-23",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 10500,
+                "minValue": 6500,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/general-management/executive-chef-oceanda-43f1a498ee65b4dfabc066f4997f30a3?source=MCF&event=Search",
+            "uuid": "49ccc55a-759d-446f-8e64-3fba99f7a0f5"
+        },
+        {
+            "dueDate": "2023-04-06",
+            "jobTitle": "CHIEF CHEF",
+            "skills": [
+                "Mentoring",
+                "Management Skills",
+                "Ingredients",
+                "Cooking",
+                "Arranging",
+                "Purchasing",
+                "MS Office",
+                "Inventory Management",
+                "Restaurant Management",
+                "Climate",
+                "Budgeting",
+                "Hotel Management",
+                "Workplace Safety and Health"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "RITZ @ FARRER, 142 RACE COURSE ROAD"
+            },
+            "company": {
+                "logo": null,
+                "name": "OCEANDA PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME",
+                "CONTRACTOR"
+            ],
+            "description": "Chief chef duties and responsibilities    Responsible for managing the end to end kitchen operations   Overseeing the food preparation and presentation process in line with the laid out guidelines and highest standards   Creating new menus or updating existing dishes with the sous chef and chef de partie ensuring the variety and quality of the servings   Keeping a close eye on presentation and polishing the dishes before they reach the customer.   Budgeting, planning, food purchasing, and inventory management   Maintaining the highest standard of hygiene in the kitchen area   Overseeing Recruitment, training, and mentoring process for junior chefs and commis   Arranging repairs and replacement of broken equipment and appliances   Promote a climate of positive work culture and motivate the workers as and when required.  Requirements    Prior experience in working as a Chef with a reputed restaurant, cruise, or similar organization   Exceptional kitchen management skills   Ability in delegating and monitoring responsibilities   Outstanding communication and leadership skills   Up to date with the culinary trends and professional kitchen operations   Familiar with computer programs like MS Office, restaurant management software, and POS   Trained in health and safety standards   Professional degree in hotel management, culinary science, or similar certification   Ability to work evenings, weekends, and holidays can apply   Willing to provide 24/`7 support when ever Restaurant Operations Support Required is must ",
+            "datePosted": "2023-03-23",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 10500,
+                "minValue": 6500,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/chief-chef-oceanda-8b7fafc2ab4061bb137b6fc97d3658fa?source=MCF&event=Search",
+            "uuid": "a3592fa2-fdbd-413d-914e-6bc9591d450a"
+        },
+        {
+            "dueDate": "2023-04-05",
+            "jobTitle": "Executive Chef",
+            "skills": [
+                "Recipes",
+                "Excellent Communication Skills",
+                "Leadership",
+                "Ingredients",
+                "Quality Control",
+                "Food Safety",
+                "Restaurants",
+                "Cooking",
+                "Food Quality",
+                "Inventory",
+                "Purchasing",
+                "Sanitation",
+                "Compliance",
+                "Human Resources",
+                "Catering",
+                "Food Service"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "CHENG SAN CENTRE, 532 ANG MO KIO AVENUE 10"
+            },
+            "company": {
+                "logo": null,
+                "name": "GOWRI'S GLOBAL MARKETING PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME",
+                "CONTRACTOR"
+            ],
+            "description": "Executive Chef Responsibilities: •\tEnsuring promptness, freshness, and quality of dishes. •\tCoordinating cooks' tasks. •\tImplementing hygiene policies and examining equipment for cleanliness. •\tDesigning new recipes, planning menus, and selecting plate presentations. •\tReviewing staffing levels to meet service, operational, and financial objectives. •\tHiring and training kitchen staff, such as cooks, food preparation workers, and dishwashers. •\tPerforming administrative tasks, taking stock of food and equipment supplies, and doing purchase orders. •\tSetting and monitoring performance standards for staff. •\tObtaining feedback on food and service quality, and handling customer problems and complaints.  Executive Chef Requirements: •\tAdvanced knowledge of food professional principles and practices. •\tProficient knowledge of human resources management. •\tExcellent communication skills. •\tAbility to meet deadlines.",
+            "datePosted": "2023-03-22",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 10500,
+                "minValue": 6500,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/executive-chef-gowris-global-marketing-2bc625e2ed97415fc8382c1f3c8cb303?source=MCF&event=Search",
+            "uuid": "9b5c1202-5016-4528-a2b2-5b54f1993ce9"
+        },
+        {
+            "dueDate": "2023-04-22",
+            "jobTitle": "Executive Chef",
+            "skills": [
+                "Recipes",
+                "Staff Training",
+                "Leadership",
+                "Ingredients",
+                "Food Safety",
+                "Cooking",
+                "Appraisals",
+                "Food Quality",
+                "Inventory",
+                "Cost Management",
+                "Purchasing",
+                "New Hire Training",
+                "Sanitation",
+                "Compliance",
+                "Catering",
+                "Food Service",
+                "Japanese"
             ],
             "location": {
                 "country": "SG",
@@ -70,22 +327,577 @@
                 "address": null
             },
             "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/520ad499e341ed679f2bff9541649f36/search-index.jpg",
-                "name": "SEARCH INDEX PTE. LTD."
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/fe6d94e763f4945c7a8fb5a22969a479/como-lifestyle.jpg",
+                "name": "COMO LIFESTYLE PTE. LTD."
             },
             "jobType": [
                 "FULL_TIME"
             ],
-            "description": "Software Engineer (Hybrid WFH/ Good Career Progression)  • Attractive Bonus + Attractive Benefits • Entry-level welcome to apply. Training will be provided. • 5 Days work week (Hybrid WFH Module) • Permanent Role Responsibility:    Responsible for Software Development Life Cycle (SDLC); Involved in IT Project requirements gathering and analysis for development / implementation of new systems and enhancements to existing systems.   Involvement in the system integration testing (SIT) and user acceptance testing (UAT) prior to production implementation of changes and design ; development/coding of software.   Provide on-going application support and be involved in various stages of the SDLC.  Requirement:    Minimum Diploma / Degree in computer science/IT or related certifications   Entry-level welcome to apply. Training will be provided.   Meticulous and excel under pressure ; deadlines   Candidates with more relevant experience will be considered for the Senior Analyst or even PM position  How to apply Interested candidates who wish to apply for the post, you may send in your updated resume (in MS Word format) to search77@searchindex.com.sg  We regret to inform that only shortlisted candidates will be notified.  Ooi Chuan Yi (Jacky) EA License | 14C7092 EA Registration Number | R1871737",
-            "datePosted": "2023-03-19",
+            "description": "Key Tasks of the Executive Chef  · Enforce performance standards, policies and procedures in Food ; Beverage kitchen department in line with company regulations. · Ensure strict compliance towards food and hygiene policies and procedures. · Introduce and implement new ideas for the customer dining experience. · Fully aware of trends in the industry and make regular suggestions for improvement of the menu. · Efficient food cost management. · Minimize expenditure to increase profitability with the guidelines set by the budget. · Support and work closely with the Restaurant Operations and Marketing team in developing special festive dining menus and/or marketing initiatives to drive traffic to the restaurant and increase per customer spend · Able to interact with customer(s) as and when required to further enhance the dining experience of customers · Implement direction and organize the culinary team to ensure smooth operation of the kitchen. · To hold regular performance appraisals with members of the culinary team, identifying areas for development and training needs, and ensuring that this training is effective. · Set and explain clearly to team members regarding collective targets and standards that should be achieved as a team. · To organize and implement training for the needs of the kitchen team as a whole and the individual staff as needed. Specific duties ; Responsibilities:    Responsible in preparing Highest Quality of tempura for guests   Maintain cleanliness and organization of Tempura Counter   Order and receive raw ingredients and dry goods   Knowledge in food costing and inventory   Ensure fresh quality of ingredients for best tasting Tempura   Ability to instruct and teach other Chef(s) in the preparation and presentation of Tempura   Actively display knowledge of all food and beverage menu items   Perform inventory and ensure all supplies are in stock   Efficient Food cost management   Ensure all food preparation and operating standards including food safety and quality are strictly adhered to   Provide a high level of attention to guest satisfaction and maintain positive relationships with internal and external customers  Requirements    Able to work under pressure on a very small space   At least 8 years’ experience in Tempura Cooking style   At least 2 years as a Executive Chef or Executive Sous Chef   Another Japanese cooking style experience would be a plus, but not mandatory. ",
+            "datePosted": "2023-03-23",
             "salaryRange": {
                 "currency": "SGD",
-                "maxValue": 8500,
-                "minValue": 4500,
+                "maxValue": 12000,
+                "minValue": 7000,
                 "payPeriod": "MONTH"
             },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/software-engineer-jo-search-index-7f921ff0e7a4410a4b2dacc4d67dd126?source=MCF&event=SuggestedJob",
-            "uuid": "ff59914f-712c-4b34-8cfd-f2f52db08ef5"
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/executive-chef-como-lifestyle-52739a9af23035699b8e1a250d8dd5c4?source=MCF&event=Search",
+            "uuid": "90003dc4-b542-477e-bbf2-edf94a18a42d"
+        },
+        {
+            "dueDate": "2023-04-06",
+            "jobTitle": "Sous Chef - Japanese restaurant",
+            "skills": [
+                "Recipes",
+                "Ingredients",
+                "Cooking",
+                "Administrative Work",
+                "Food Quality",
+                "Inventory",
+                "FOH",
+                "Supervisory Skills",
+                "Invoicing",
+                "Sanitation",
+                "Fine Dining",
+                "Estimates",
+                "Attention to Detail",
+                "Pressure",
+                "Food Service",
+                "Japanese"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": null
+            },
+            "company": {
+                "logo": null,
+                "name": "LSS ZENIYA PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "   Responsible for assisting Chef in administrative work   Responsible for procuring ingredients and invoicing   Responsible for preparing ingredients and dishes   Counsels, guides and instructs personnel in the proper performance of their duties   Responsible in assisting the Chef in the development of new dishes  Job description:    Assume the role as Head Chef in his or her absence   Assure adherence to all standards of food quality, preparation, recipes, and presentation in conjunction with the specifications   Monitor holding and storage operations, stocking and food rotation, and guarantee food service sanitation standards are met   Ensure kitchen personnel is trained in best cleanliness and sanitation practices   Manage all activities in the kitchen, including food preparation and production, management and training of kitchen staff   Ensure that all kitchen working documents, forms and reports are forwarded on time.   Ensure accurate maintenance of recipes, conversion recipes, yield tables and product specifications   Service standards, positively making enhancements and corrections where needed to improve service and product delivery.   Improving productivity levels and the need to prudently manage food costs within acceptable guidelines, ensuring optimum efficiency of all equipment.   Establishes a well-organized and hygienic Chef Uniform’s area and Dry Store, maintaining close control on the consumption of food, stores and inventory. Physical inventories of all supplies and operating equipment are to be taken on a monthly and a quarterly basis respectively.   Determines food quality, labour, productivity levels.   Directs food apportionment policy to control costs.   Frequently verifies that only fresh products are used in Food preparation.   Serves fresh food to the guests that is consistent in quality, and which reflects the style of the concept.   Supervises Kitchen personnel coordinating their assignments and rostering appropriately to ensure economical and timely food production.   Observes methods of food preparation and cooking, sizes of portions, and garnishing of foods to ensure food is prepared in prescribed manner.   Frequently tastes products and be demanding and critical when it comes to quality.   Estimates food consumption and purchases or requisitions foodstuffs and kitchen supplies.   Establishes and enforces sanitation standards are in line with NEA standards.   Encourages feedback from FOH team.   Ensure all employees provide a courteous and professional service at all times   Reporting complaints or problems if no immediate solution can be found, whilst feeding back a prompt follow up.   Maintains positive guest and colleague interactions with good working relationships.   Attends training sessions and meetings as and when required.  Job Requirements:    More than 9 years in a Japanese fine dining kitchen   Excellent knowledge of ingredients   Excellent good knowledge of food handling, food preparation and cooking   procedures for a specific station   Acute taste for food   Ability to consistently maintain a high quality of all food items and   standards of presentation for a specific station   Ability to maintain high levels of hygiene and order in work area such   as reach-in and walk-in fridges   Excellent knowledge of food hygiene regulations and company quality   standards   Passion to cook   Able to work at a fast pace and under pressure   Creative in working with ingredients   Positive attitude   Responsible   Good attention to detail   Good organisational and supervisory skills   Able to work in a team   High standard of personal hygiene ",
+            "datePosted": "2023-03-23",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 10500,
+                "minValue": 9000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/sous-chef-japanese-restaurant-lss-zeniya-ded67873a0cde0c9cf3902cc612c2ebf?source=MCF&event=Search",
+            "uuid": "4fbf5717-a099-4715-b37f-14783ae10828"
+        },
+        {
+            "dueDate": "2023-04-21",
+            "jobTitle": "Executive Chef",
+            "skills": [
+                "Menu Development",
+                "Culinary Management",
+                "Restaurants",
+                "Food Hygiene standards",
+                "Cooking",
+                "Food and Beverage Safety and Hygiene",
+                "Composition",
+                "Exceptional Customer Service",
+                "Purchasing",
+                "Sanitation",
+                "Restaurant Management",
+                "Banquets",
+                "Budgeting",
+                "Customer Satisfaction",
+                "Decision Making",
+                "Performance Appraisal",
+                "Culinary Skills",
+                "Catering",
+                "Culinary",
+                "Hospitality"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "The Singapore EDITION, 38 Cuscaden Road"
+            },
+            "company": {
+                "logo": null,
+                "name": "GRANMIL HOLDINGS PTE LTD"
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "The first Singapore EDITION, located on the west end of the Orchard commercial district. In all, the eight-storey hotel will feature 204 rooms, stylishly designed with a sophisticated flair. It will be Edition Hotels’ first ultra-luxe offering. Hotel is projected to open in Q3, 2023.  JOB SUMMARY  Accountable for overall success of the daily kitchen operations. Exhibits culinary talents by personally performing tasks while leading the staff and managing all food related functions. Works to continually improve guest and employee satisfaction while maximizing the financial performance in all areas of responsibility. Supervises all kitchen areas to ensure a consistent, high quality product is produced. Responsible for guiding and developing staff including direct reports. Must ensure sanitation and food standards are achieved. Areas of responsibility comprise overseeing all food preparation areas (e.g., banquets, room service, restaurants, bar/lounge and employee cafeteria) and all support areas (e.g., dish room and purchasing).  CANDIDATE PROFILE  Education and Experience • High school diploma or GED; 6 years experience in the culinary, food and beverage, or related professional area. OR • 2-year degree from an accredited university in Culinary Arts, Hotel and Restaurant Management, or related major; 4 years experience in the culinary, food and beverage, or related professional area.  CORE WORK ACTIVITIES  Leading Kitchen Operations for Property • Leads kitchen management team. • Provides direction for all day-to-day operations. • Understands employee positions well enough to perform duties in employees' absence or determine appropriate replacement to fill gaps. • Provides guidance and direction to subordinates, including setting performance standards and monitoring performance. • Utilizes interpersonal and communication skills to lead, influence, and encourage others; advocates sound financial/business decision making; demonstrates honesty/integrity; leads by example. • Encourages and builds mutual trust, respect, and cooperation among team members. • Serving as a role model to demonstrate appropriate behaviors. • Ensures property policies are administered fairly and consistently. • Reviews staffing levels to ensure that guest service, operational needs and financial objectives are met. • Establishes and maintains open, collaborative relationships with employees and ensures employees do the same within the team. • Solicits employee feedback, utilizes an \"open door\" policy and reviews employee satisfaction results to identify and address employee problems or concerns. • Supervises and coordinates activities of cooks and workers engaged in food preparation. • Demonstrate new cooking techniques and equipment to staff.  Setting and Maintaining Goals for Culinary Function and Activities • Develops and implements guidelines and control procedures for purchasing and receiving areas. • Establishes goals including performance goals, budget goals, team goals, etc. • Communicates the importance of safety procedures, detailing procedure codes, ensuring employee understanding of safety codes, monitoring processes and procedures related to safety. • Manages department controllable expenses including food cost, supplies, uniforms and equipment. • Participates in the budgeting process for areas of responsibility. • Knows and implements the brand's safety standards.  Ensuring Culinary Standards and Responsibilities are Met • Provides direction for menu development. • Monitors the quality of raw and cooked food products to ensure that standards are met. • Determines how food should be presented, and create decorative food displays. • Recognizes superior quality products, presentations and flavor. • Ensures compliance with food handling and sanitation standards. • Follows proper handling and right temperature of all food products. • Ensures employees maintain required food handling and sanitation certifications. • Maintains purchasing, receiving and food storage standards. • Prepares and cooks foods of all types, either on a regular basis or for special guests or functions.  Ensuring Exceptional Customer Service • Provides and supports service behaviors that are above and beyond for customer satisfaction and retention. • Improves service by communicating and assisting individuals to understand guest needs, providing guidance, feedback, and individual coaching when needed. • Manages day-to-day operations, ensuring the quality, standards and meeting the expectations of the customers on a daily basis. • Displays leadership in guest hospitality, exemplifies excellent customer service and creates a positive atmosphere for guest relations. • Interacts with guests to obtain feedback on product quality and service levels. • Responds to and handles guest problems and complaints. • Empowers employees to provide excellent customer service. Establishes guidelines so employees understand expectations and parameters. Ensures employees receive on-going training to understand guest expectations. • Reviews comment cards, guest satisfaction results and other data to identify areas of improvement.  Managing and Conducting Human Resource Activities • Identifies the developmental needs of others and coaching, mentoring, or otherwise helping others to improve their knowledge or skills. • Ensures employees are treated fairly and equitably. • Trains kitchen associates on the fundamentals of good cooking and excellent plate presentations. • Administers the performance appraisal process for direct report managers. • Interacts with the Banquet Chef and Catering department on training regarding food knowledge and menu composition. • Observes service behaviors of employees and provides feedback to individuals and or managers. • Manages employee progressive discipline procedures for areas of responsibility. • Ensures disciplinary procedures and documentation are completed according to Standard and Local Operating Procedures (SOPs and LSOPs) and supports the Peer Review Process.  Additional Responsibilities • Provides information to executive teams, managers and supervisors, co-workers, and subordinates by telephone, in written form, e-mail, or in person. • Analyzes information and evaluating results to choose the best solution and solve problems.  Marriott International is an equal opportunity employer. We believe in hiring a diverse workforce and sustaining an inclusive, people-first culture. We are committed to non-discrimination on any protected basis, such as disability and veteran status, or any other basis covered under applicable law.  EDITION Hotels combine the visionary genius of boutique hotelier Ian Schrager, the service delivery of a world-class luxury hotel, and the global reach of Marriott International to create an entirely new experience in the world of hospitality. Our hotels are stunning microcosms of the world's top cities, featuring the finest in dining, entertainment, nightlife, and service to create an enchanting experience that makes your spirit soar!  But to create this magical experience, we need you.  EDITION is hiring warm, out-going, authentically amazing people who are looking for a place to work that inspires them, challenges them and makes them proud to come to work. A place where service comes from the heart, not from a handbook. A place that delivers a never-ending theatrical performance that continuously delights and enchants each and every one of our guests.  We invite you to join us today -&gt; https://jobs.marriott.com/marriott/jobs/23027607?lang=en-us",
+            "datePosted": "2023-03-22",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 14000,
+                "minValue": 10000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/customer-service/executive-chef-granmil-holdings-557c714fe067843c3e42f20c8e16e3e8?source=MCF&event=Search",
+            "uuid": "e881e69d-63ea-46ff-bcd4-c9a1d04b034d"
+        },
+        {
+            "dueDate": "2023-04-21",
+            "jobTitle": "Executive Chef, F&B",
+            "skills": [
+                "Recipes",
+                "Menu Development",
+                "Ingredients",
+                "Cooking",
+                "Annual Budgets",
+                "Purchasing",
+                "Operations Management",
+                "Sanitation",
+                "Selling",
+                "Raw Materials",
+                "Procurement",
+                "Catering",
+                "Facilities Management"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "Marina Bay Sands Singapore, 10 Bayfront Avenue"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/e58bfebc91a17a2eec5d8937a9532d2f/marina-bay-sands.jpg",
+                "name": "MARINA BAY SANDS PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Job Scope: Culinary Operations Management    Provide quality food products for our guests and support in achieving all goal designated by the Management team   Provide direction for menu development and implementations   Monitor the quality of raw and cooked food products to ensure that standards are met   Develop interesting, exciting and balanced menus on a timely basis that are appropriate and responsive to the market   Assist marketing efforts by creating and being known for an Unique Selling Point   Taste food regularly and express informed and constructive suggestions to Chefs and team regarding food preparation and presentation   Oversee the annual budgets and review sales and food cost on a regular basis to achieve budgetary goals   Estimate food consumption to schedule purchases and requisition of raw materials while developing and implementing guidelines to control procedures for procurement and receiving areas   Maintain a good knowledge of industry trends and changes   Ensure non-standard culinary requests are met, in particular due to special dietary needs of guests   Provide reviews on menus, analyse recipes, determine food, labor, and overhead costs; and assign prices to menu items   Work with Facilities Management to ensure adequate preventative maintenance programs are being executed to keep kitchen equipment in good working order while maximising their life span   Investigate and resolve guest complaints in a prompt, courteous and professional manner with proper documentation and resolutions   Ensure a cooperative and professional rapport is maintained with all external controls   Ensure overall efficiency in food production and general cleaning of kitchens, equipment, and utensils   Work closely with the General Manager as a partner of the business   Work in a kitchen set-up and continuously maneuver in and around all areas of offices  Hygiene and Sanitisation Management    Ensure local regulations particularly in respect to food and refuse transportation around kitchens and service corridors are followed   Ensure that periodic programs such as pest control, grease trap and kitchen hood cleaning are in place   Coordinate equipment needs, cleaning schedule/project status, health/safety and sanitation follow up with the Executive Chief Steward   Comply and ensure hygiene policies are strictly adhered to on a daily basis   Conduct training on hygiene standards and performs regular inspections with outlet chefs and stewarding  Job Requirements:    Degree / Diploma / Certification in Culinary or Management   Minimum 5 years of experience in relevant restaurant concept and 5 years of experience as a leader in large culinary operations   Must have a comprehensive and diverse culinary background that suggests a well-developed set of skills to cope in large, diverse kitchen and restaurant environment   Knowledge of various cuisines and their preparation and services, with dynamic understanding in the latest culinary concepts in a broad range of cuisines   Good knowledge in accounting and calculation of food costs ",
+            "datePosted": "2023-03-22",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 15360,
+                "minValue": 10240,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/executive-chef-fb-marina-bay-sands-deda6ab5aa85696d7ddccc95a4ef609c?source=MCF&event=Search",
+            "uuid": "5122c478-b5bb-4cd3-96b9-d3ef29523c48"
+        },
+        {
+            "dueDate": "2023-03-29",
+            "jobTitle": "Master Chef",
+            "skills": [
+                "Recipes",
+                "Leadership",
+                "Ingredients",
+                "Food Safety",
+                "Cooking",
+                "Housekeeping",
+                "Workplace Safety",
+                "Food Quality",
+                "Inventory",
+                "Job Descriptions",
+                "Sanitation",
+                "Compliance",
+                "Baking",
+                "Culinary Skills",
+                "Pastry",
+                "Japanese"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "28 SMITH STREET"
+            },
+            "company": {
+                "logo": null,
+                "name": "JIA RUI YIPIN RESTAURANT PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Job Descriptions:    Expertise in Chinese Cuisine Master Chef for preparing Chinese dishes such as Dongbei dishes and other etc.   Able to cook Mala Hotpot dishes, have barbeque skills, able to prepare Chinese Salad (eg. Liang Ban Chai)   Able to study each recipe and gathering all necessary ingredients and prepare all kind of Chinese Food Ingredients.   Maintaining the cleanliness of the food preparation area.   Comply with F;B safety ; hygiene and Workplace safety ; health policies and procedures.   Ensure consistency in food quality, presentation and standard.   Preparing ; Cooking Food.  Requirements:    At least 5 years of cooking/ relevant experience.   Passionate for cooking and a positive attitude.  Chef Job Responsibilities:    Lead, mentor and manage the culinary team.   Develop and plan menus and daily specials.   Create prep lists for the kitchen crew.   Manage food costing and inventory.   Maintain standards for food storage, rotation, quality and apperance.   Ensure compliance with applicable health codes and regulations.   Establish maintence and cleaning schedules for equipment, storage and work area. ",
+            "datePosted": "2023-02-27",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 12000,
+                "minValue": 8000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/master-chef-jia-rui-yipin-restaurant-d9b3f07c3f24ed0eb637dcfddda71216?source=MCF&event=Search",
+            "uuid": "3ef78ac7-976d-44cb-ba99-bba36b3c36d8"
+        },
+        {
+            "dueDate": "2023-04-13",
+            "jobTitle": "Head Chef",
+            "skills": [
+                "Recipes",
+                "Leadership",
+                "Ingredients",
+                "Food Safety",
+                "Cooking",
+                "Housekeeping",
+                "Food Quality",
+                "Inventory",
+                "Purchasing",
+                "Sanitation",
+                "Scheduling",
+                "Food Service"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "ION ORCHARD, 2 ORCHARD TURN"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/01d9452a6f18713532134a9fb916512f/bacha-coffee.jpg",
+                "name": "BACHA COFFEE PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "1. To oversee and manage the Central and Outlet Kitchen(s) 2. To create and develop unique offerings of cuisine that provides our customers with a variety of selections 3. To demonstrate creativity and innovation skills in the offerings of cuisine 4. To work closely with other chefs in order to achieve highest possible standard of food items 5. To plan, supervise and organize the preparation and execution of all cuisine 6. Management of a team of chefs 7. Oversee staff scheduling of all kitchen staff 8. To reinforce proper cleaning and housekeeping in the kitchen, and to ensure food handling, hygiene standards and regulations are complied with",
+            "datePosted": "2023-03-14",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 9000,
+                "minValue": 5000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/head-chef-bacha-coffee-c792697d62c17cdb3e53525552faebff?source=MCF&event=SuggestedJob",
+            "uuid": "4a2ede31-9b26-4769-b46e-517b8bc279ea"
+        },
+        {
+            "dueDate": "2023-03-30",
+            "jobTitle": "Head chef (Steak Restaurant)",
+            "skills": [
+                "Recipes",
+                "Menu Development",
+                "Sustainability",
+                "Restaurants",
+                "Appraisals",
+                "Inventory",
+                "Purchasing",
+                "Sanitation",
+                "Restaurant Management",
+                "Nutrition",
+                "Health Insurance",
+                "Cost Control",
+                "Food Service",
+                "People Management"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "222 SYED ALWI ROAD"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/2ebd061f915473e2bd642b25898b8a0e/ssg-hotels.png",
+                "name": "SSG HOTELS PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "An exciting opportunity has arrived at The Garcha Group, Singapore’s boutique hotel group currently with the following hotels: - Maxwell Reserve, Autograph Collection Hotel (Marriott); - Duxton Reserve, Autograph Collection Hotel (Marriott); - The Vagabond Club, a Tribute Portfolio Hotel (Marriott); - The Serangoon Club, a Tribute Portfolio Hotel (Marriott).  Garcha Group Benefits: - As an associate of a Marriott hotel, you, your parents or parents-in-laws, children, spouse/domestic partner and siblings are eligible for discounts on F;B and room rates in 7,000+ hotels world-wide. - As an associate of a Marriott hotel, you have access to the “Global Learning + Development” tool which creates for you personalized learning experiences designed to help you thrive in their Marriott career journey. (see attached for full Marriott benefits) - Comprehensive Health Insurance Plan with Raffles Insurance with the option to upgrade at subsidized corporate rates. - 2 nights yearly staycation including all meals and beverage (incl. alcoholic) in any of the 4 Garcha Group hotels in Singapore. - 2 nights yearly staycation including all meals and beverage (incl. alcoholic) in any of the 4 Garcha Group hotels in Singapore. - 20% off Food ; Beverage at all Marriott ; Garcha Group restaurants and bars. - SIGNING BONUS equal to 1 month salary (as applicable dependent on position)  Operational Ownership    Ensure consistency and highest quality in the taste, presentation and appropriate food temperature for food served in all kitchens.   Ensure the quality and cleanliness of all food displays to the minimum standards of the company.   Ensure maximum creativity in all food displays.   Responsible for ensuring smooth and effective communication among the host.   Ensures that host is fully aware and complies with the resort guidelines set by management.   Comply with local legislation food service standards and temperatures.   Work closely with the chief steward in monitoring and ensuring that all cleanings are properly done and according to schedule.   Conducts regular tour of the front and back of the house to check that all equipment is in working order and standards are adhered to.   Ensures that all kitchen personnel follow the company’s grooming standards.   Recipe development for new items on the menu or Seasonal Menu’s.   Menu development for special occasions and events  Administrative Conducts Monthly Meetings To Discuss The Following    Information update on functions   Maintenance updates   Highlights achievements, identified problems and challenges   Cost control updates   Guest critique feedback   Hygiene and Sanitation issues   Discusses profit ; loss compared to budget / forecast figures   Attends F;B Communication / strategy meeting   Attends Executive Committee meetings forecast figures   Conducts daily briefing which will include: Important hotel / divisional /section information. Emphasizes current priorities, new problem, services and products Daily guest feedback Coordinates details on upcoming Banquet events and food production   Prepares CAPEX budget to review new equipment requirements for following year to ensure maximum quality output and productivity  Financial Performance    Maintains proper and adequate controls over purchase orders and requisitions   Monitor on monthly food inventory turnover and slow-moving items   Ensures that purchasing, receiving and all storage are efficiently handled and that the goods purchased conform to the hotel’s specification   Reviews food cost analysis on a daily basic to maintain in line budget and forecast   Analyses top 20 highest consumable purchased items on a monthly basis   Conduct monthly market survey   To monitor and fully implement the portion control established with the recipe cards and butcher test   To check stores and refrigerator and be responsible for the proper storing and recycling of leftover. To practice “FIFO” system at all times   Reviews and analyses monthly profit and loss statement with Financial controller and GM/Hotel Manager/Resident Manager   Recommends/ institutes measures for control for any deviation of plus or minus 5%  People Management    Delegate duties and responsibilities to other hosts in the department as appropriate.   Maintains hosting level at approved manning guide / productivity level giving due consideration to the volume of business and service standards   Single out potential host for development and prepare succession plan   Ensures progressive training for on-the-job skills and technical job knowledge   Ensures compliance with minimum training level as required by policy is met   Conducts regular weekly training session   Conducts performance appraisals of essential culinary management host   Regularly solicits feedback from supervisors on performance of individual host, and/or personal observes host performance   Conducts yearly appraisals of direct reports   To provide honest and fair feedback to GM/ Hotel Manager/ Executive Chef /Resident Manager  Sustainability    Ensure minimum wastage and sustainability practices are followed in the in the workplace. Be harmonious and sensitive to the environment and cultural surroundings.  General    Strive to perform any additional duties and responsibilities given.   Behave in a professional manner at all times and be an example to all.   Abide by the company’s principles, core values, best practices, guidelines and objectives.   Respect other cultures and nationalities to help build and maintain a strong, loyal team.   Project a proactive and positive approach in all dealings with the team.   Respond to change in the departmental function as dictated by the industry, company or property.   Arrive on time in full uniform in accordance with the company grooming guideline.   Maintain a thorough knowledge of the services and facilities of the hotel/resort.   Complete any other duty assigned by management   Be flexible to be deployed in different business functions in accordance to skills and need of the business   Able to guide associates and junior staff on technical aspects of the job   Flexibility to work in any of The Garcha Group hotels as assigned.  JOB REQUIREMENTS  Education and Experience    High school diploma or GED; 5 years’ experience in the culinary, food and beverage, or related professional area.  OR    Degree from an accredited university in Culinary Arts, Hotel and Restaurant Management, or related major; at least 10 years’ experience in the culinary, food and beverage, or related professional area. ",
+            "datePosted": "2023-02-28",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 12000,
+                "minValue": 6000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/hospitality/head-chef-ssg-hotels-7dc3efee4022f1484ca4628344b503c2?source=MCF&event=Search",
+            "uuid": "c82bfbfc-c82d-4cdc-ae16-dba6df3441a1"
+        },
+        {
+            "dueDate": "2023-04-02",
+            "jobTitle": "Executive Chef (Baker)",
+            "skills": [
+                "Factory",
+                "Leadership",
+                "Ingredients",
+                "Quality Control",
+                "Customer Experience",
+                "Fermentation",
+                "Purchasing",
+                "Sanitation",
+                "Customerfocused",
+                "Compliance",
+                "Attention to Detail",
+                "Baking",
+                "Professional and Business Ethics",
+                "Financial Analysis",
+                "Bakery",
+                "HACCP",
+                "Cost Analysis",
+                "Hazard Analysis",
+                "Team Work"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": null
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/3a8b42c421a013d29709f3c86edc350e/starter-lab.jpg",
+                "name": "STARTER LAB PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Learn more about us at https://www.thestarterlab.com The famous “hole-in-the-wall” bakery from Canggu, Bali opened its contemporary bakery café at Havelock Road, Singapore in August 2019. Starter Lab centers itself around healthy natural products from hand-crafted sourdough bread, pastries, posh toasts, salads, and locally roasted coffee. Our sourdough goes through a process of long fermentation using only wild yeast, wholesome natural ingredients, and the magical element of time! If you are passionate about wholesome food, open to learning, and customer-focused – we would love to have you join our crew. We are now on the lookout for an Executive Chef (Baker) for the production of Singapore's best sourdough bread and pastries based in Tai Seng, using wholesome ingredients and artisanal methods. The Executive Chef (Baker) will support the Group Executive Chef by managing the day-to-day operational and technical requirements of the Bakery Factory in delivering (i) high-quality, healthy, and delicious bakery products, and (ii) strong sales and profit growth.    Grow revenue and EBITDA each year by retaining existing customers and growing new customers (including through the above), managing team productivity carefully, and otherwise implementing efficient processes, costs savings measures, and profit improvements   Lead, inspire, and work collaboratively with the rest of the Bakery team to deliver an excellent customer experience   Manage, deploy, and develop kitchen personnel   Conduct financial analysis of the business unit, control costs, and develop and establish financial budget and plans   Manage central production operations   Cultivate strong, positive relationships with suppliers, vendors, partners, and other team members   Maintain Hazard Analysis ; Critical Control Point (HACCP) standards and checklists; responsible for ensuring team members adhere to HACCP requirements   Ensure the hygiene and safety practices are compliant and upheld as per licensing and legal requirements   Build our team through (i) new product development in our Bakery, (ii) a rigorous and continuous training and development program (for both full-time and part-time team members), and (iii) ensuring a strong commitment to and adherence to the Little Farms Group culture and values, as well as industry best practices (including leading by example)   Own the planning/forecasting of labour costs  Job Requirements    Over 10 years of proven experience as a baker or relevant role   Great attention to detail and creativity   Organizing and leadership skills   Willingness to replenish professional knowledge   In-depth knowledge of sanitation principles, food preparation and baking techniques, and nutrition   Working knowledge of baking with ingredient limitations (pastries that are gluten-free, sugarless, etc.)   Certificate in culinary arts, pastry-making, baking, or relevant field ",
+            "datePosted": "2023-03-03",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 13000,
+                "minValue": 10000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/executive-chef-starter-lab-64b32436a7809094ce4076f67215939c?source=MCF&event=Search",
+            "uuid": "aff6c603-8bd7-445e-8ded-eac62751d293"
+        },
+        {
+            "dueDate": "2023-04-01",
+            "jobTitle": "Master Chef",
+            "skills": [
+                "Recipes",
+                "Ingredients",
+                "Food Safety",
+                "Restaurants",
+                "Cooking",
+                "Appraisals",
+                "Quality Assurance",
+                "Workplace Safety",
+                "Food Quality",
+                "Inventory",
+                "Sanitation",
+                "Compliance",
+                "Team Management",
+                "Concept Development",
+                "Japanese",
+                "People Management"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "RE&S BUILDING, 32 TAI SENG STREET"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/5214946d16cb0df74a4887f71af4008f/r-e-s-enterprises.jpg",
+                "name": "R E & S ENTERPRISES PTE LTD"
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Position Purpose: • Prepare Authentic Japanese Cuisine • Lead the kitchen operation team to prepare and deliver quality menu in accordance to concept offering. • Oversee the implementation of processes and guidelines in Kitchen Operations • Train ; develop kitchen staff in the preparation of all meals to the highest quality standards. • Position kitchen staff according to operation needs to maximize kitchen efficiencies. • Manage quality and level of kitchen inventory as well as products delivered from suppliers. • Understand food cost models and how these impact the profitability of the restaurants. Responsibilities: • Menu Execution and Delivery • Understand food cost models and how these impact profitability of restaurants • Supervise stations to deliver orders in accordance to defined cooking processes, recipe and health ; safety standard • Conduct final check on finished product to ensure that food quality and presentation are in accordance to specifications of the menu • Kitchen Processes and Concept Development • Manage kitchen inventory levels and quality by placing orders for all food and kitchen supplies based on projected store demand endorsed by chef; and upon delivery, check to ensure quality of delivered supplies • To support the projection and ordering of food and kitchen supplies by providing inventory report detailing usage ; stock level, wastage and product shelf life while considering sales pattern and kitchen storage capacity • Oversee the setting up and cleaning of stations by staff • Oversee workflow for stations to ensure that processes adhered to specifications and guide line and to provide recommendations to improve efficiency • Quality Assurance ; Control • Investigate causes and reasons for customer complaints pertaining to food quality • Oversee operations to ensure compliance with all safety procedures and guidelines • Oversee preparation of all food in accordance to SOPs to ensure and maintain consistent food quality • Oversee overall kitchen cleanliness and sanitary conditions and to ensure all kitchen equipment are in good working condition • Take corrective actions to resolve unsafe and/or non-compliant conditions and behaviors regarding personal and food safety • People Management • Lead team by providing guidance, support and motivation • Conduct induction for new hires to provide them with the necessary skills and information to carry out roles and functions • Train and develop kitchen and kaiten staffs in the preparation of all meals to the highest quality standards while adhering to SOPs and workplace safety practices • Carry out team management activities, including and not limited to appraisals, handling disciplinary issues and holding communication sessions in conjunction with immediate supervisor • Carry out team management conversation with team members, including and not limited to doing appraisals and personal improvement plans in conjunction with immediate supervisor Requirement: • Must be able to speak fluent Japanese",
+            "datePosted": "2023-03-02",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 12000,
+                "minValue": 6000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/master-chef-r-e-s-enterprises-9553f6897ae2aeeb58fe075a3543f395?source=MCF&event=Search",
+            "uuid": "8a833987-f166-4f9c-9591-167644b2b44d"
+        },
+        {
+            "dueDate": "2023-04-01",
+            "jobTitle": "SUSHI AND SASHIMI CHEF",
+            "skills": [
+                "Recipes",
+                "Coaching",
+                "Cecil",
+                "Ingredients",
+                "Manpower Planning",
+                "Food Safety",
+                "Cooking",
+                "Interpersonal Skills",
+                "Food Quality",
+                "Inventory",
+                "Fine Dining",
+                "Transportation",
+                "Team Player",
+                "Customer Service",
+                "Scheduling",
+                "Japanese"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "RE&S BUILDING, 32 TAI SENG STREET"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/5214946d16cb0df74a4887f71af4008f/r-e-s-enterprises.jpg",
+                "name": "R E & S ENTERPRISES PTE LTD"
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Oversee the Kaseiki counter Sashimi and Sushi expert Manage Kitchen staff Control Kitchen cost and achieve P;L Manage safety and hygiene Manpower planning and scheduling Able to speak fluent Japanese with customer This person must have strong Japanese fine dining cuisine experience and omakase experience",
+            "datePosted": "2023-03-02",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 12000,
+                "minValue": 6000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/sushi-sashimi-chef-r-e-s-enterprises-be4f403ec518fa6860328c59bc6f13fb?source=MCF&event=Search",
+            "uuid": "01baea3b-ffff-44e1-a809-4fc9f8c3bdef"
+        },
+        {
+            "dueDate": "2023-03-31",
+            "jobTitle": "Chef de Cuisine (SKIRT)",
+            "skills": [
+                "Coaching",
+                "Mentoring",
+                "Ingredients",
+                "Property",
+                "Exceptional Customer Service",
+                "Purchasing",
+                "Sanitation",
+                "Estimates",
+                "Restaurant Management",
+                "Human Resource",
+                "Customer Satisfaction",
+                "Artistic",
+                "Decision Making",
+                "Performance Appraisal"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "W SINGAPORE SENTOSA COVE HOTEL, 21 OCEAN WAY"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/ade429e89714f95bbfc209a1f335273f/w-singapore-sentosa-cove-hotel.jpg",
+                "name": "W SINGAPORE SENTOSA COVE HOTEL"
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "JOB SUMMARY Accountable for the quality, consistency and production of the restaurant kitchen. Exhibits culinary talents by personally performing tasks while leading the staff and managing all food related functions. Coordinates menus, purchasing, staffing and food preparation for the property's restaurant. Works with team to improve guest and employee satisfaction while maintaining the operating budget. Must ensure sanitation and food standards are achieved. Develops and trains team to improve results.  CANDIDATE PROFILE Education and Experience • High school diploma or GED; 4 years experience in the culinary, food and beverage, or related professional area. OR • 2-year degree from an accredited university in Culinary Arts, Hotel and Restaurant Management, or related major; 2 years experience in the culinary, food and beverage, or related professional area.  CORE WORK ACTIVITIES Ensuring Culinary Standards and Responsibilities are Met for Restaurant • Develops, designs, or creates new applications, ideas, relationships, systems, or products, including artistic contributions for restaurant. • Supervises restaurant kitchen shift operations and ensures compliance with all Food ; Beverage policies, standards and procedures. • Maintains food preparation handling and correct storage standards. • Recognizes superior quality products, presentations and flavor. • Plans and manages food quantities and plating requirements for the restaurant. • Communications production needs to key personnel. • Assists in developing daily and seasonal menu items for the restaurant. • Ensures compliance with all applicable laws and regulations regulations. • Follows proper handling and right temperature of all food products. • Estimates daily restaurant production needs. • Prepares and cooks foods of all types, either on a regular basis or for special guests or functions. • Checks the quality of raw and cooked food products to ensure that standards are met. • Determines how food should be presented and creates decorative food displays.  Leading Kitchen Team • Supervises and coordinates activities of cooks and workers engaged in food preparation. • Utilizes interpersonal and communication skills to lead, influence, and encourage others; advocates sound financial/business decision making; demonstrates honesty/integrity; leads by example. • Leads shift teams while personally preparing food items and executing requests based on required specifications. • Supervises and manages restaurant kitchen employees. Managing all day-to-day operations. Understanding employee positions well enough to perform duties in employees' absence. • Encourages and builds mutual trust, respect, and cooperation among team members. • Serving as a role model to demonstrate appropriate behaviors. • Ensuring and maintaining the productivity level of employees. • Ensures employees are cross-trained to support successful daily operations. • Ensures employees understand expectations and parameters. • Establishes and maintains open, collaborative relationships with employees and ensures employees do the same within the team.  Establishing and Maintaining Restaurant Kitchen Goals • Sets and supports achievement of kitchen goals including performance goals, budget goals, team goals, etc. • Developing specific guidance and plans to prioritize, organize, and accomplish daily kitchen operations work. • Understands the impact of kitchen operation on the overall property financial goals and objectives and manages to achieve or exceed budgeted goals. • Effectively investigates, reports and follows-up on employee accidents. • Knows and implements company safety standards.  Ensuring Exceptional Customer Service • Provides services that are above and beyond for customer satisfaction and retention. • Manages day-to-day operations, ensuring the quality, standards and meeting the expectations of the customers on a daily basis. • Improves service by communicating and assisting individuals to understand guest needs, providing guidance, feedback, and individual coaching when needed. • Sets a positive example for guest relations. • Emphasizes guest satisfaction during all departmental meetings and focuses on continuous improvement. • Empowers employees to provide excellent customer service. • Handles guest problems and complaints. • Interacts with guests to obtain feedback on product quality and service levels.  Managing and Conducting Human Resource Activities • Identifies the developmental needs of others and coaching, mentoring, or otherwise helping others to improve their knowledge or skills. • Participates in training restaurant staff on menu items including ingredients, preparation methods and unique tastes. • Manages employee progressive discipline procedures. • Participates in the employee performance appraisal process, providing feedback as needed. • Uses all available on the job training tools for employees. • Assists as needed in the interviewing and hiring of employee team members with appropriate skills.  Additional Responsibilities • Provides information to supervisors, co-workers, and subordinates by telephone, in written form, e-mail, or in person. • Analyzes information and evaluating results to choose the best solution and solve problems. • Attends and participates in all pertinent meetings.  Marriott International is an equal opportunity employer. We believe in hiring a diverse workforce and sustaining an inclusive, people-first culture. We are committed to non-discrimination on any protected basis, such as disability and veteran status, or any other basis covered under applicable law.",
+            "datePosted": "2023-03-01",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 11000,
+                "minValue": 9000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/chef-de-cuisine-w-singapore-sentosa-cove-hotel-c1dd99a2c48e47bfdfeeb12a1e9e13e1?source=MCF&event=Search",
+            "uuid": "cde95977-5638-4683-8ace-e562c25f17ab"
+        },
+        {
+            "dueDate": "2023-04-12",
+            "jobTitle": "Group Chef",
+            "skills": [
+                "Recipes",
+                "Food Quality",
+                "Purchasing",
+                "Sanitation",
+                "Inventory Control",
+                "Restaurant Management",
+                "Compliance",
+                "Menu Engineering",
+                "Decision Making",
+                "Food Service"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "19A KEONG SAIK ROAD"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/bc7b5302d06ed0def05c3782b78efc5d/dandy-partnership.png",
+                "name": "THE DANDY PARTNERSHIP PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "   Oversee daily kitchen operations for all venues under restaurant group.   Work on the line in the venues during service and spend time training the team a minimum of 4 out of 5 working days, frequently reviewing finished products for quality and presentation before the orders are sent to guest.  The majority of company revenue comes from dinner services, so working nights including Friday and Saturday is expected   Ensure venues deliver the highest quality and consistency by working in service in the venues regularly   Understand employee positions well enough to perform duties in employees' absence or determine appropriate replacement to fill gaps   Working with the venue Chef de Cuisines to develop menus that are both creative and in keeping with brand identity   Advocate and influence outcomes for sound financial/business decision making, demonstrating honesty and integrity while leading by example   Lead, train and mentor kitchen leadership and teams   Identify and implement processes to optimise kitchen efficiency and consistency   Implement and maintain the highest standards of kitchen cleanliness and safety   Troubleshoot problems and/or complaints regarding food quality and consistency   Collaborate cross-departmentally to achieve both individual targets alongside overall company objectives and goals   Act as a culinary ambassador for the company any new venues in the community and with media   Build and maintain local and international industry networks with the aim to forge collaborations which amplify brand presence and boost recognition   Deliver on The Dandy Collection noble cause “We all leave better than when we came in\".   As a senior level manager in the company, perform additional duties as requested by the management team as and when required   Knowledge ; Experience Requirements    Minimum 5 years’ experience in an Executive Chef/Head Chef/CDC role   Proven success record overseeing multioutlet kitchen operations   Experience as culinary lead for international restaurant group or luxury hotel brand desirable   A modern approach to food, flavours and menu engineering that could be found in the likes of California or Australia (vs a classic approach)   Culinary style that is both creative and versatile with the ability to adapt to varying kitchens and cuisines   Ability to motivate kitchen teams and mentor leaders   Excellent communication, organisation, and leadership skills   Formal culinary education/training desirable   Progressive thinking and approach to running kitchens and teams ",
+            "datePosted": "2023-03-13",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 17000,
+                "minValue": 10000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/group-chef-dandy-partnership-b59d135359555cbbe5007b19e4771373?source=MCF&event=Search",
+            "uuid": "cad26bc9-a946-43a2-85f9-c7677471db7b"
+        },
+        {
+            "dueDate": "2023-04-03",
+            "jobTitle": "Regional Executive Chef (New Franchise)",
+            "skills": [
+                "Menu Development",
+                "Ingredients",
+                "Food Quality",
+                "Recruiting",
+                "Food Industry",
+                "Marketing",
+                "Food Retail",
+                "Procurement",
+                "Food & Beverage",
+                "People Management"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": null
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/3e2e2c88268632d4ce534c148fffa5cd/michael-page-international.png",
+                "name": "MICHAEL PAGE INTERNATIONAL PTE LTD"
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "   Food Innovation ; Menu Development   Manage The Kitchen Operations  About Our Client Well established firm within the QSR space is recruiting for an experienced Regional Executive Chef to join their operations team in Singapore as they are setting up new franchise operations here. Job Description The Regional Executive Chef will be working closely with the HQ on the global guidelines for menu development, food innovation and manage the customisation for each individual market within SEA region.  This includes overall responsibility for the food quality, partnering with the procurement team for the food ingredients, managing the ingredient cost, hiring ; development of the kitchen staff including chefs.  Other job aspects include:    Supervision of food storage, food handling, and kitchen operations   Training ; development of the kitchen staff   Collaborate with the marketing event to develop seasonal menus for promotional campaigns  The Successful Applicant    Strong experience as an Executive Chef/Master Chef/Head Chef in the QSR industry   Prior background in menu development in SEA   Excellent communication ; leadership skills  What's on Offer The successful candidate can look forward to joining an organisation which is fast paced and has rapid expansion plans for SEA in the next few years.",
+            "datePosted": "2023-03-04",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 13000,
+                "minValue": 10000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/regional-executive-chef-michael-page-international-870663309d74d9655b42af4608800b85?source=MCF&event=Search",
+            "uuid": "9080725c-c47d-44c2-b601-617d5ce05d8e"
+        },
+        {
+            "dueDate": "2023-04-03",
+            "jobTitle": "Chief Chef",
+            "skills": [
+                "Recipes",
+                "Management Skills",
+                "Ingredients",
+                "Cooking",
+                "Work Well Under Pressure",
+                "Workplace Safety",
+                "Inventory",
+                "Purchasing",
+                "Sanitation",
+                "Environmental Health",
+                "Procurement",
+                "Pressure",
+                "Budgeting",
+                "Tamil",
+                "Workplace Safety and Health"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "SEMBAWANG HILLS ESTATE, 136 CASUARINA ROAD"
+            },
+            "company": {
+                "logo": null,
+                "name": "CASUARINA CURRY RESTAURANT PTE LTD"
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "· Must need to work on weekends and public holidays · Must have Proficiency to speak English, tamil, Hindi and Malay · Preparation of menus relevant to a diversity of clients · Ordering and stock control of food and related items · Participating in the development of training and appraisal of kitchen staff · Preparation and cooking of food for clients · Maintain a clean and tidy kitchen · Ensure the maintenance of kitchen equipment and report any breakdown · Ensure kitchen security at all times · Adhere to all policies · Health and Safety at Work · Environmental Health Regulations · Care Home Safety Policy · Able to work weekends and public holidays · Able to work rotating shift · Able to work early morning ; late night whenever required · Willing to work long hours whenever required · Perform other duties as assigned by management · Daily operations of the kitchen including production, preparation ; presentation. · Ensure all items of highest quality at all times. · Efficient management of food costs ; wastage. · Maximizing the overall food ; beverage department profit. · Quality levels of production including cleanliness, sanitation ; hygiene. · Creative menu planning on a timely basis · In-charge of the kitchen · Monitor kitchen flow · Procurement ; purchasing · Staffing ; timetable · Daily operations of the kitchen including production, preparation ; presentation. · Ensure all items of highest quality at all times. · Efficient management of food costs ; wastage. · Maximizing the overall food ; beverage department profit. · Quality levels of production including cleanliness, sanitation ; hygiene · Creative menu planning on a timely basis · Must need to know how to cook the following items · Idli, Dosa, Pongal, Vadai, Poori Masal ; Parotta · Fish Molee. Famous in South India · Kerala Karimeen Fry. · Aila Curry. · Prawns Kuzhambu. · Kheema with Coconut Curry · Chicken Roast. · Payyoli Chicken Fry. · Chettinadu Chicken · Crab (Small and Big Size) · Mutton Biriyani · Chicken Biriyani · Egg Biriyani · Prawn Biriyani · hettinad Dry Pepper Chicken, · Chettinad Kozhi Kuzhambu, · Spicy Chettinad Fish Fry Recipe · Chettinad Mutton Chops Kuzhambu Recipe · Chettinad Nandu Varuval Recipe · Thalapakkati Style Chicken Biryani · Mutton Chukka Varuval · Chicken Ghee Roast · Chettinad Chicken Kuzhambu · Small Variety Fish Fry · Boondhi Raita · Boiled Egg · Fruit Custard · Weigh, measure, mix and prep ingredients according to recipes. · Steam, grill, boil, bake or fry meats, fish, vegetables, and other ingredients. · Check food and ingredients for freshness. · Arrange and garnish dishes. · Work well under pressure and within the time limit. · Ensure that kitchen area, equipment and utensils are cleaned",
+            "datePosted": "2023-03-04",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 11000,
+                "minValue": 7500,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/chief-chef-casuarina-curry-restaurant-cf414cad7773e43cc762d871a0145d55?source=MCF&event=Search",
+            "uuid": "a7b41d9a-6525-4fcd-bdac-aa7c6f61e8ab"
         }
     ]
 }

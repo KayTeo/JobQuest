@@ -28,11 +28,12 @@ export default function WishEntry({ data, userID }) {
     const [expandCard, setExpandCard] = useState(false);
     const router = useRouter();
 
-    async function movetoTrack() {
-        await updateEntry(userID, {
+    function movetoTrack() {
+        updateEntry(userID, {
             ...data,
             status: { name: "Preparing", color: "bg-fuchsia-500" },
         });
+        router.refresh();
     }
     return (
         <div
@@ -120,9 +121,8 @@ export default function WishEntry({ data, userID }) {
                             Find Similar
                         </button>
                         <button
-                            onClick={async () => {
-                                await movetoTrack();
-                                router.refresh();
+                            onClick={() => {
+                                movetoTrack();
                             }}
                             className="h-8 w-28 items-center justify-center rounded-full bg-accent-500 px-2 py-1 text-white hover:bg-accent-300"
                         >

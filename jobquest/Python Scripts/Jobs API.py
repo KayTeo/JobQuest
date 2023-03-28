@@ -152,7 +152,7 @@ def getJobData(filename, keywords = "", employmentType = "", salary = "", startP
 #NOTE: Python script spawned here has JobQuest/jobquest as root dir. Python script ran in itself has jobquest as root dir. This script CANNOT run here as path is for running from API
 #keywordsInput = input()
 input = sys.argv
-#input = [1, "cook", 500, "", 1]
+# input = [1, "cook", 500, "", 1]
 getJobData(filename = "\\jobsData.json", keywords = str(input[1]), salary = int(input[2]), employmentType = str(input[3]), pages = int(input[4]))
 
 print("Job script ran")

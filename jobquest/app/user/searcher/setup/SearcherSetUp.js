@@ -100,7 +100,7 @@ export default function SearcherSetUp({ userID, userData }) {
     );
     const skillsInputRef = useRef();
 
-    async function handleSubmit(e) {
+    function handleSubmit(e) {
         e.preventDefault();
 
         const data = {
@@ -113,7 +113,7 @@ export default function SearcherSetUp({ userID, userData }) {
             skills: skills,
         };
 
-        await addSearcherData(userID, data);
+        addSearcherData(userID, data);
         router.push("/user/searcher");
     }
 
@@ -134,7 +134,9 @@ export default function SearcherSetUp({ userID, userData }) {
             >
                 <div className="flex flex-col gap-2 md:grid md:grid-cols-3 md:gap-x-10 md:gap-y-5 md:px-10">
                     {selections.map((e) => {
-                        const id = e.id;
+                        const filled = `${e.id}`
+                            .split(".")
+                            .reduce((r, k) => r?.[k], userData);
                         return (
                             <div key={e.title} className="flex flex-col">
                                 <label htmlFor={e.id} className="font-bold">
@@ -143,9 +145,7 @@ export default function SearcherSetUp({ userID, userData }) {
                                 <select
                                     id={e.id}
                                     className="rounded-xl border border-black p-1"
-                                    defaultValue={
-                                        userData.id ? userData.id : ""
-                                    }
+                                    defaultValue={filled ? filled : ""}
                                 >
                                     <option
                                         disabled
