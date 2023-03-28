@@ -1,6 +1,6 @@
 export const jobList = [
     {
-        uuid: 929398,
+        uuid: "929398",
         company: {
             logo: null,
             name: "CAG REGIONAL SINGAPORE PTE. LTD.",
@@ -42,7 +42,7 @@ export const jobList = [
         ],
     },
     {
-        uuid: 929397,
+        uuid: "929397",
         company: {
             logo: "https://static.mycareersfuture.gov.sg/images/company/logos/d1505f35fee02dabd4146b80df234925/recruit-expert.jpg",
             name: "RECRUIT EXPERT PTE. LTD.",
@@ -83,7 +83,7 @@ export const jobList = [
         ],
     },
     {
-        uuid: 929377,
+        uuid: "929377",
         company: {
             logo: "https://static.mycareersfuture.gov.sg/images/company/logos/dd9ae9e912ed5aba63a94f4b77f98b75/morgan-mckinley.jpg",
             name: "MORGAN MCKINLEY PTE. LTD.",
@@ -123,7 +123,7 @@ export const jobList = [
         ],
     },
     {
-        uuid: 829377,
+        uuid: "829377",
         company: {
             logo: "https://static.mycareersfuture.gov.sg/images/company/logos/fb0c580773376abeb9080f6022b73f72/wipro.png",
             name: "WIPRO LIMITED (SINGAPORE BRANCH)",

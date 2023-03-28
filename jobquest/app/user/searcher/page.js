@@ -1,8 +1,17 @@
+"use client";
+
 import { jobList } from "./tempdata";
 import SearcherCard from "./SearcherCard";
 import Link from "next/link";
+import firebase from "@/firebase/firebase-config";
+import Loading from "@/app/user/loading";
+import { useAuthState } from "react-firebase-hooks/auth";
 
 export default function SearcherPage() {
+    const [user, loading, error] = useAuthState(firebase.auth());
+    if (loading) return <Loading />;
+
+    const userID = user.uid;
     //fetching from database
     const jobsList = jobList;
 
@@ -13,7 +22,7 @@ export default function SearcherPage() {
                     Jobs For You
                 </header>
                 <main>
-                    <SearcherCard jobs={jobsList} />
+                    <SearcherCard jobs={jobsList} userID={userID} />
                 </main>
                 <Link
                     href="/user/searcher/setup"

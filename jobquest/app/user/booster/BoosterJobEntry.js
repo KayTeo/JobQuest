@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, use } from "react";
-
+import { useRouter } from "next/navigation";
 import firebase from "@/firebase/firebase-config";
 const db = firebase.firestore();
 
@@ -37,19 +37,27 @@ export default function BoosterJobEntry({
     boostData,
 }) {
     const [resumeFlag, setResumeFlag] = useState(false);
+    const router = useRouter();
 
     return (
         <div className="flex w-[350px] flex-col items-center justify-center gap-1 rounded-3xl border border-black bg-light-200 px-7 pt-2 pb-5 text-black md:w-[550px]">
-            <section className="flex w-full items-center justify-center overflow-hidden text-ellipsis whitespace-nowrap text-xl font-bold">
+            <section
+                title={jobData.company.name}
+                className="flex w-full items-center justify-center overflow-hidden text-ellipsis whitespace-nowrap text-xl font-bold"
+            >
                 {jobData.company.name}
             </section>
-            <section className="flex w-full items-center justify-center overflow-hidden text-ellipsis whitespace-nowrap text-xl font-bold">
+            <section
+                title={jobData.jobTitle}
+                className="flex w-full items-center justify-center overflow-hidden text-ellipsis whitespace-nowrap text-xl font-bold"
+            >
                 {jobData.jobTitle}
             </section>
             <div className="flex items-center justify-center gap-4">
                 <button
-                    onClick={() => {
-                        boostResume(userID, resumeData, jobData);
+                    onClick={async () => {
+                        await boostResume(userID, resumeData, jobData);
+                        router.refresh();
                     }}
                     className="h-6 w-32 rounded-full bg-accent-500 text-center text-xs font-bold leading-6 text-white shadow-sm hover:bg-accent-300"
                 >
@@ -87,7 +95,7 @@ export default function BoosterJobEntry({
                                 ? boostData.resumeData.workData
                                 : "No Boosted Data"}
                         </p>
-                        <h1 className="text-xl font-bold">Co Curriculars</h1>
+                        <h1 className="text-xl font-bold">Co-Curriculars</h1>
                         <p className="h-[200px] w-full overflow-auto rounded-lg border border-black bg-white p-2 text-start text-xs">
                             {boostData
                                 ? boostData.resumeData.ccaData

@@ -6,9 +6,22 @@ import Skill from "@/components/Skill";
 import { useState } from "react";
 import GoogleMap from "./GoogleMap";
 
-export default function SearcherCard({ jobs }) {
+import firebase from "@/firebase/firebase-config";
+const db = firebase.firestore();
+
+async function moveToWishList(userID, data) {
+    await db
+        .collection("users")
+        .doc(userID)
+        .collection("wishlist")
+        .doc(data.uuid)
+        .set(data);
+}
+
+export default function SearcherCard({ jobs, userID }) {
     const [expand, setExpand] = useState(false);
     const [jobEnd, setJobEnd] = useState(false);
+
     const handleClick = () => {
         const index = jobs.findIndex((e) => {
             return e.uuid == data.uuid;
@@ -18,34 +31,7 @@ export default function SearcherCard({ jobs }) {
             return;
         } else setData(jobs[index + 1]);
     };
-    const [data, setData] = useState(
-        jobs[0]
-            ? jobs[0]
-            : {
-                  uuid: null,
-                  company: {
-                      logo: null,
-                      name: null,
-                  },
-                  datePosted: null,
-                  description: null,
-                  dueDate: null,
-                  jobTitle: null,
-                  jobType: [null],
-                  location: {
-                      address: "50 Nanyang Ave, 639798",
-                      country: null,
-                      locality: null,
-                  },
-                  salaryRange: {
-                      currency: null,
-                      maxValue: null,
-                      minValue: null,
-                      payPeriod: null,
-                  },
-                  skills: [null],
-              }
-    );
+    const [data, setData] = useState(jobs[0]);
 
     return (
         <>
@@ -276,7 +262,10 @@ export default function SearcherCard({ jobs }) {
                         </button>
                     </div>
                     <button
-                        onClick={handleClick}
+                        onClick={() => {
+                            moveToWishList(userID, data);
+                            handleClick();
+                        }}
                         className="flex h-10 w-10 items-center justify-center rounded-full border border-white pl-1 shadow-sm hover:bg-accent-300 md:h-14 md:w-14"
                     >
                         <ChevronRightIcon />
