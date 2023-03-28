@@ -5,6 +5,7 @@ import { ChevronLeftIcon, ChevronRightIcon } from "@heroicons/react/20/solid";
 import Skill from "@/components/Skill";
 import { useState } from "react";
 import GoogleMap from "./GoogleMap";
+import { useRouter } from "next/navigation";
 
 import firebase from "@/firebase/firebase-config";
 const db = firebase.firestore();
@@ -19,16 +20,19 @@ async function moveToWishList(userID, data) {
 }
 
 export default function SearcherCard({ jobs, userID }) {
+    console.log(jobs);
     const [data, setData] = useState(jobs ? jobs[0] : null);
     const [expand, setExpand] = useState(false);
     const [jobEnd, setJobEnd] = useState(false);
-    //console.log(data);
+    const router = useRouter();
+
     const handleClick = () => {
         const index = jobs.findIndex((e) => {
             return e.uuid == data.uuid;
         });
         if (index + 1 >= jobs.length) {
             setJobEnd(true);
+            router.refresh();
             return;
         } else setData(jobs[index + 1]);
     };

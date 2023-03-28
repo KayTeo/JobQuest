@@ -18,7 +18,7 @@ export default function LogInPage() {
         auth.signInWithEmailAndPassword(email, password)
         .then(()=> {
             Cookies.set("loggedin", true);
-            router.push("/");
+            router.push("/user/tracker");
         }).catch((error) => {
             alert(error.message);
         });

@@ -1,15 +1,14 @@
-"use client"
+"use client";
 
 import Image from "next/image";
 import GoogleLogIn from "@/components/GoogleLogIn";
-import {useRouter} from "next/navigation";
+import { useRouter } from "next/navigation";
 import Cookies from "js-cookie";
 
 import firebase from "@/firebase/firebase-config";
 const auth = firebase.auth();
 
 export default function SignInPage() {
-
     const router = useRouter();
     function handleSubmit(e) {
         e.preventDefault();
@@ -18,26 +17,28 @@ export default function SignInPage() {
         const password = e.target.password.value;
         const cfmpassword = e.target.cfmpassword.value;
 
-        const emailRegex = new RegExp("[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}$");
-        const passwordRegex = new RegExp("^(?=.*[A-Za-z])(?=.*\\d)(?=.*[@$!%*#?&])[A-Za-z\\d@$!%*#?&]{8,}$");
+        const emailRegex = new RegExp(
+            "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}$"
+        );
+        const passwordRegex = new RegExp(
+            "^(?=.*[A-Za-z])(?=.*\\d)(?=.*[@$!%*#?&])[A-Za-z\\d@$!%*#?&]{8,}$"
+        );
 
-        if(!emailRegex.test(e.target.email.value)){
+        if (!emailRegex.test(e.target.email.value)) {
             alert("Please enter a valid email.");
-        }
-        else if(e.target.username.value == ""){
+        } else if (e.target.username.value == "") {
             alert("Username cannot be empty.");
-        }
-        else if(!passwordRegex.test(e.target.password.value)){
-            alert("Password should be minimum 8 characters, containing at least 1 letter, number and special character.");
-        }
-        else if(!(e.target.password.value === e.target.cfmpassword.value)){
+        } else if (!passwordRegex.test(e.target.password.value)) {
+            alert(
+                "Password should be minimum 8 characters, containing at least 1 letter, number and special character."
+            );
+        } else if (!(e.target.password.value === e.target.cfmpassword.value)) {
             alert("Two passwords do not match.");
-        }
-        else{
-            auth.createUserWithEmailAndPassword(email, password).then(()=> {
-            Cookies.set("loggedin", true);
-            router.push("/");
-            })
+        } else {
+            auth.createUserWithEmailAndPassword(email, password).then(() => {
+                Cookies.set("loggedin", true);
+                router.push("/user/tracker");
+            });
         }
     }
 
