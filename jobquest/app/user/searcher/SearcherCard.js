@@ -12,7 +12,7 @@ export default function SearcherCard({ data }) {
     return (
         <>
             {expand ? (
-                <div className="flex h-[500px] w-[1000px] flex-col items-center justify-between rounded-lg bg-dark-500 p-6 text-white shadow-lg">
+                <div className="flex h-[550px] w-[1000px] flex-col items-center justify-between rounded-lg bg-dark-500 p-6 text-white shadow-lg">
                     <div className="flex w-full flex-col items-center justify-center gap-2">
                         <header className="flex w-full items-center justify-between">
                             <div
@@ -32,17 +32,22 @@ export default function SearcherCard({ data }) {
                                 )}
                             </div>
                         </header>
-                        <hr className="w-full bg-white"></hr>
+                        <hr className="mb-3 w-full bg-white"></hr>
                     </div>
-                    <div className="flex items-center justify-between">
+                    <div className="flex max-h-[160px] items-center justify-between gap-2">
                         <main className="flex w-1/2 flex-wrap items-start justify-start gap-y-1 gap-x-5 text-xl">
-                            <div className="flex gap-1">
+                            <div className="flex max-w-full gap-1">
                                 <p className="font-bold">Role:</p>
-                                <p>{data.jobTitle}</p>
+                                <p
+                                    className="overflow-hidden text-ellipsis whitespace-nowrap"
+                                    title={data.jobTitle}
+                                >
+                                    {data.jobTitle}
+                                </p>
                             </div>
-                            <div className="flex gap-1">
+                            <div className="flex max-w-full gap-1">
                                 <p className="font-bold">Salary:</p>
-                                <p>
+                                <p className="overflow-hidden text-ellipsis whitespace-nowrap">
                                     {data.salaryRange.minValue &&
                                         data.salaryRange.minValue}
                                     {data.salaryRange.minValue &&
@@ -56,18 +61,55 @@ export default function SearcherCard({ data }) {
                                         data.salaryRange.currency}
                                 </p>
                             </div>
-                            <div className="flex gap-1">
+                            <div className="flex max-w-full gap-1">
                                 <p className="font-bold">Type:</p>
-                                <p>{data.jobType}</p>
+                                <p
+                                    className="overflow-hidden text-ellipsis whitespace-nowrap"
+                                    title={data.jobType}
+                                >
+                                    {data.jobType}
+                                </p>
                             </div>
-                            <div className="flex gap-1">
+                            <div className="flex max-w-full gap-1">
                                 <p className="font-bold">Location:</p>
-                                <p>{data.location.locality}</p>
+                                <p
+                                    className="overflow-hidden text-ellipsis whitespace-nowrap"
+                                    title={data.location.locality}
+                                >
+                                    {data.location.locality}
+                                </p>
+                            </div>
+                            <div className="flex max-w-full gap-1">
+                                <p className="font-bold">Address:</p>
+                                <p
+                                    className="overflow-hidden text-ellipsis whitespace-nowrap"
+                                    title={data.location.address}
+                                >
+                                    {data.location.address}
+                                </p>
+                            </div>
+                            <div className="flex max-w-full gap-1">
+                                <p className="font-bold">Date Posted:</p>
+                                <p
+                                    className="overflow-hidden text-ellipsis whitespace-nowrap"
+                                    title={data.datePosted}
+                                >
+                                    {data.datePosted}
+                                </p>
+                            </div>
+                            <div className="flex max-w-full gap-1">
+                                <p className="font-bold">Due Date:</p>
+                                <p
+                                    className="overflow-hidden text-ellipsis whitespace-nowrap"
+                                    title={data.dueDate}
+                                >
+                                    {data.dueDate}
+                                </p>
                             </div>
                         </main>
                         <section className="flex w-1/2 items-start justify-start gap-2">
                             <h1 className="text-xl font-bold">Skills:</h1>
-                            <div className="flex max-h-[95px] w-full flex-wrap gap-1 overflow-auto">
+                            <div className="flex max-h-[130px] w-full flex-wrap gap-1 overflow-auto">
                                 {data.skills.map((e) => (
                                     <Skill
                                         className="min-w-[95px] px-2 text-xl"
@@ -78,7 +120,7 @@ export default function SearcherCard({ data }) {
                             </div>
                         </section>
                     </div>
-                    <div className="flex w-full flex-col items-start justify-start">
+                    <div className="flex w-full flex-col items-start justify-start py-3">
                         <div className="w-full text-xl font-bold">
                             Job Description:
                         </div>

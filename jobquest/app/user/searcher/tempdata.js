@@ -3,7 +3,7 @@ export const jobData = [
         uuid: 929398,
         company: {
             logo: "https://static.mycareersfuture.gov.sg/images/company/logos/d1505f35fee02dabd4146b80df234925/recruit-expert.jpg",
-            name: "CAG REGIONAL SINGAPORE PTE. LTD.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+            name: "CAG REGIONAL SINGAPORE PTE. LTD. Test Test Test Test Test",
         },
         datePosted: "2023-03-06",
         description:
@@ -12,7 +12,7 @@ export const jobData = [
         jobTitle: "Tech Lead",
         jobType: ["FULL_TIME", "FULL_TIME"],
         location: {
-            address: "EON SHENTON, 70 SHENTON WAY",
+            address: "PLAZA 8 @ CBP, 1 CHANGI BUSINESS PARK CRESCENT",
             country: "SG",
             locality: "Singapore",
         },

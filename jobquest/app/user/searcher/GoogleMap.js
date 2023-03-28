@@ -1,6 +1,5 @@
 "use client";
 import { use } from "react";
-import { MapPinIcon } from "@heroicons/react/20/solid";
 import GoogleMapReact from "google-map-react";
 import Geocode from "react-geocode";
 
@@ -16,7 +15,7 @@ export default function GoogleMap({ address }) {
     let marker = new maps.Marker({
         position: { lat: centerLat, lng: centerLng },
         map,
-        title: 'Job Location'
+        title: 'Job Address'
         });
         return marker;
     };
@@ -30,7 +29,7 @@ export default function GoogleMap({ address }) {
                 lat: centerLat,
                 lng: centerLng,
             }}
-            defaultZoom={20}
+            defaultZoom={15}
             yesIWantToUseGoogleMapApiInternals
             onGoogleApiLoaded={({ map, maps }) => renderMarkers(map, maps)}
         >
