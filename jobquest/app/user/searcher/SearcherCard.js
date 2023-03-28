@@ -6,12 +6,54 @@ import Skill from "@/components/Skill";
 import { useState } from "react";
 import GoogleMap from "./GoogleMap";
 
-export default function SearcherCard({ data }) {
+export default function SearcherCard({ jobs }) {
     const [expand, setExpand] = useState(false);
+    const [jobEnd, setJobEnd] = useState(false);
+    const handleClick = () => {
+        const index = jobs.findIndex((e) => {
+            return e.uuid == data.uuid;
+        });
+        if (index + 1 >= jobs.length) {
+            setJobEnd(true);
+            return;
+        } else setData(jobs[index + 1]);
+    };
+    const [data, setData] = useState(
+        jobs[0]
+            ? jobs[0]
+            : {
+                  uuid: null,
+                  company: {
+                      logo: null,
+                      name: null,
+                  },
+                  datePosted: null,
+                  description: null,
+                  dueDate: null,
+                  jobTitle: null,
+                  jobType: [null],
+                  location: {
+                      address: "50 Nanyang Ave, 639798",
+                      country: null,
+                      locality: null,
+                  },
+                  salaryRange: {
+                      currency: null,
+                      maxValue: null,
+                      minValue: null,
+                      payPeriod: null,
+                  },
+                  skills: [null],
+              }
+    );
 
     return (
         <>
-            {expand ? (
+            {jobEnd ? (
+                <div className="p-5 text-2xl font-bold text-accent-500 md:text-3xl">
+                    Please Reload to Fetch New Set of Job Entries...
+                </div>
+            ) : expand ? (
                 <div className="flex h-[550px] w-[1000px] flex-col items-center justify-between rounded-lg bg-dark-500 p-6 text-white shadow-lg">
                     <div className="flex w-full flex-col items-center justify-center gap-2">
                         <header className="flex w-full items-center justify-between">
@@ -79,7 +121,7 @@ export default function SearcherCard({ data }) {
                                     {data.location.locality}
                                 </p>
                             </div>
-                            <div className="flex max-w-full gap-1">
+                            <div className="flex w-full gap-1">
                                 <p className="font-bold">Address:</p>
                                 <p
                                     className="overflow-hidden text-ellipsis whitespace-nowrap"
@@ -153,10 +195,13 @@ export default function SearcherCard({ data }) {
                 </div>
             ) : (
                 <div className="flex h-[300px] w-[300px] items-center justify-between gap-2 rounded-2xl bg-dark-500 p-3 text-white shadow-lg md:w-[600px]">
-                    <button className="flex h-10 w-10 items-center justify-center rounded-full border border-white pr-1 shadow-sm hover:bg-accent-300 md:h-14 md:w-14">
+                    <button
+                        onClick={handleClick}
+                        className="flex h-10 w-10 items-center justify-center rounded-full border border-white pr-1 shadow-sm hover:bg-accent-300 md:h-14 md:w-14"
+                    >
                         <ChevronLeftIcon />
                     </button>
-                    <div className="flex h-full w-full flex-col items-center justify-between gap-5">
+                    <div className="flex h-full w-[400px] flex-col items-center justify-between gap-5">
                         <div className="flex w-full flex-col items-center justify-center gap-1">
                             <header className="flex w-full items-center justify-between">
                                 <div
@@ -178,10 +223,15 @@ export default function SearcherCard({ data }) {
                             </header>
                             <hr className="w-full bg-white"></hr>
                         </div>
-                        <main className="flex flex-wrap items-center justify-center gap-y-1 gap-x-5 md:gap-y-2">
-                            <div className="flex gap-1">
+                        <main className="flex w-full flex-wrap items-center justify-center gap-y-1 gap-x-5 md:gap-y-2">
+                            <div className="flex max-w-full gap-1">
                                 <p className="font-bold">Role:</p>
-                                <p>{data.jobTitle}</p>
+                                <p
+                                    className="overflow-hidden text-ellipsis whitespace-nowrap"
+                                    title={data.jobTitle}
+                                >
+                                    {data.jobTitle}
+                                </p>
                             </div>
                             <div className="flex gap-1">
                                 <p className="font-bold">Salary:</p>
@@ -225,7 +275,10 @@ export default function SearcherCard({ data }) {
                             View More
                         </button>
                     </div>
-                    <button className="flex h-10 w-10 items-center justify-center rounded-full border border-white pl-1 shadow-sm hover:bg-accent-300 md:h-14 md:w-14">
+                    <button
+                        onClick={handleClick}
+                        className="flex h-10 w-10 items-center justify-center rounded-full border border-white pl-1 shadow-sm hover:bg-accent-300 md:h-14 md:w-14"
+                    >
                         <ChevronRightIcon />
                     </button>
                 </div>

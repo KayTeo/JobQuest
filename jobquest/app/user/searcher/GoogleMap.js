@@ -8,14 +8,16 @@ export default function GoogleMap({ address }) {
     Geocode.setApiKey(API_KEY);
     Geocode.setLanguage("en");
     Geocode.setRegion("sg");
-    const addressData = use(Geocode.fromAddress(address));
+    const addressData = use(
+        Geocode.fromAddress(address ? address : "50 Nanyang Ave, 639798")
+    );
     const centerLat = addressData.results[0].geometry.location.lat;
     const centerLng = addressData.results[0].geometry.location.lng;
     const renderMarkers = (map, maps) => {
-    let marker = new maps.Marker({
-        position: { lat: centerLat, lng: centerLng },
-        map,
-        title: 'Job Address'
+        let marker = new maps.Marker({
+            position: { lat: centerLat, lng: centerLng },
+            map,
+            title: "Job Address",
         });
         return marker;
     };
@@ -32,7 +34,6 @@ export default function GoogleMap({ address }) {
             defaultZoom={15}
             yesIWantToUseGoogleMapApiInternals
             onGoogleApiLoaded={({ map, maps }) => renderMarkers(map, maps)}
-        >
-        </GoogleMapReact>
+        ></GoogleMapReact>
     );
 }

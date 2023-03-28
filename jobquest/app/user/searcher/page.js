@@ -1,10 +1,10 @@
-import { jobData } from "./tempdata";
+import { jobList } from "./tempdata";
 import SearcherCard from "./SearcherCard";
 import Link from "next/link";
 
 export default function SearcherPage() {
     //fetching from database
-    const jobs = jobData;
+    const jobsList = jobList;
 
     return (
         <div className="h-[calc(100vh-64px)] overflow-auto">
@@ -13,9 +13,7 @@ export default function SearcherPage() {
                     Jobs For You
                 </header>
                 <main>
-                    {jobs.map((e) => (
-                        <SearcherCard key={e.uuid} data={e} />
-                    ))}
+                    <SearcherCard jobs={jobsList} />
                 </main>
                 <Link
                     href="/user/searcher/setup"
