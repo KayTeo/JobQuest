@@ -4,6 +4,7 @@ import { BriefcaseIcon } from "@heroicons/react/24/outline";
 import { ChevronLeftIcon, ChevronRightIcon } from "@heroicons/react/20/solid";
 import Skill from "@/components/Skill";
 import { useState } from "react";
+import GoogleMap from "./GoogleMap";
 
 export default function SearcherCard({ data }) {
     const [expand, setExpand] = useState(false);
@@ -86,11 +87,15 @@ export default function SearcherCard({ data }) {
                                 {data.description}
                             </div>
                             <section className="h-[170px] w-2/5">
-                                Google Map
+                                <>
+                                    <GoogleMap
+                                        address={data.location.address}
+                                    />
+                                </>
                             </section>
                         </div>
                     </div>
-                    <div className="flex items-center w-full justify-evenly">
+                    <div className="flex w-full items-center justify-evenly">
                         <button className="flex h-12 w-32 items-center justify-center rounded-full bg-accent-500 text-center text-lg font-semibold text-white shadow-sm hover:bg-accent-300">
                             Go To Listing
                         </button>
