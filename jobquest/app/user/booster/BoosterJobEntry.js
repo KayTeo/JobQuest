@@ -1,129 +1,109 @@
 "use client";
 
-import { useState } from "react";
+import { useState, use } from "react";
 
-export default function BoosterJobEntry({ data }) {
-    const [letterFlag, setLetterFlag] = useState(false);
+import firebase from "@/firebase/firebase-config";
+const db = firebase.firestore();
+
+async function boostResume(userID, resumeData, jobData) {
+    const payload = {
+        resumeData: resumeData,
+        jobData: jobData,
+    };
+    console.log(payload);
+    const boostedData = await fetch("http://localhost:3000/api/resumeboost", {
+        method: "POST",
+        headers: {
+            "Content-Type": "application/json",
+        },
+        body: JSON.stringify(payload),
+    }).then((res) => res.json);
+
+    const storedData = { ...boostedData, uuid: jobData.uuid };
+    console.log(storedData);
+    await db
+        .collection("users")
+        .doc(userID)
+        .collection("booster")
+        .doc(storedData.uuid)
+        .set(storedData);
+}
+
+export default function BoosterJobEntry({
+    jobData,
+    resumeData,
+    userID,
+    boostData,
+}) {
     const [resumeFlag, setResumeFlag] = useState(false);
-    const [resume, setResume] = useState(null);
-    const [letter, setLetter] = useState(null);
-
-    function handleSubmit(e) {
-        e.preventDefault();
-        //boost resume/letter here
-        try {
-            setResumeFlag(false);
-            setResume(e.target.resume.value);
-        } catch (e) {}
-        try {
-            setLetterFlag(false);
-            setLetter(e.target.letter.value);
-        } catch (e) {}
-    }
 
     return (
-        <div className="flex w-[350px] flex-col items-center justify-center gap-1 rounded-3xl border border-black bg-light-200 pt-2 pb-5 text-black md:w-[550px]">
-            <section className="flex w-[320px] items-center justify-center overflow-hidden text-ellipsis whitespace-nowrap text-xl font-bold md:w-[520px]">
-                {data.company.name}
+        <div className="flex w-[350px] flex-col items-center justify-center gap-1 rounded-3xl border border-black bg-light-200 px-7 pt-2 pb-5 text-black md:w-[550px]">
+            <section className="flex w-full items-center justify-center overflow-hidden text-ellipsis whitespace-nowrap text-xl font-bold">
+                {jobData.company.name}
             </section>
-            <section className="flex w-[320px] items-center justify-center overflow-hidden text-ellipsis whitespace-nowrap md:w-[520px]">
-                {data.jobTitle}
+            <section className="flex w-full items-center justify-center overflow-hidden text-ellipsis whitespace-nowrap text-xl font-bold">
+                {jobData.jobTitle}
             </section>
-            <section className="flex gap-2 px-5">
+            <div className="flex items-center justify-center gap-4">
+                <button
+                    onClick={() => {
+                        boostResume(userID, resumeData, jobData);
+                    }}
+                    className="h-6 w-32 rounded-full bg-accent-500 text-center text-xs font-bold leading-6 text-white shadow-sm hover:bg-accent-300"
+                >
+                    Boost Resume
+                </button>
                 <button
                     onClick={() => {
                         setResumeFlag(!resumeFlag);
-                        setLetterFlag(false);
-                        setLetter(null);
-                        setResume(null);
                     }}
                     className="h-6 w-32 rounded-full bg-accent-500 text-center text-xs font-bold leading-6 text-white shadow-sm hover:bg-accent-300"
                 >
-                    View Resume
+                    View Boost
                 </button>
-                <button
-                    onClick={() => {
-                        setLetterFlag(!letterFlag);
-                        setResumeFlag(false);
-                        setLetter(null);
-                        setResume(null);
-                    }}
-                    className="h-6 w-32 rounded-full bg-accent-500 text-center text-xs font-bold leading-6 text-white shadow-sm hover:bg-accent-300"
-                >
-                    View Cover Letter
-                </button>
-            </section>
+            </div>
             {resumeFlag && (
-                <form
-                    id="resumeForm"
-                    onSubmit={handleSubmit}
-                    action="submit"
-                    className="flex flex-col gap-2"
-                >
-                    <div className="flex w-64 flex-col gap-1 md:w-80">
-                        <label htmlFor="resume" className="font-bold">
-                            Resume:
-                        </label>
-                        <textarea
-                            id="resume"
-                            rows="8"
-                            placeholder="Insert Your Resume..."
-                            className="rounded-xl border border-black p-1 text-xs"
-                        ></textarea>
-                    </div>
-                    <div className="flex w-full justify-between">
-                        <div></div>
-                        <button
-                            type="submit"
-                            form="resumeForm"
-                            className="h-7 w-16 rounded-full bg-accent-500 text-center text-xs font-bold leading-6 text-white shadow-sm hover:bg-accent-300 md:h-8 md:w-20 md:text-sm"
-                        >
-                            Boost
-                        </button>
-                    </div>
-                </form>
-            )}
-            {letterFlag && (
-                <form
-                    id="letterForm"
-                    onSubmit={handleSubmit}
-                    action="submit"
-                    className="flex flex-col gap-2"
-                >
-                    <div className="flex w-64 flex-col gap-1 md:w-80">
-                        <label htmlFor="letter" className="font-bold">
-                            Cover Letter:
-                        </label>
-                        <textarea
-                            id="letter"
-                            rows="8"
-                            placeholder="Insert Your Cover Letter..."
-                            className="rounded-xl border border-black p-1 text-xs"
-                        ></textarea>
-                    </div>
-                    <div className="flex w-full justify-between">
-                        <div></div>
-                        <button
-                            type="submit"
-                            form="letterForm"
-                            className="h-7 w-16 rounded-full bg-accent-500 text-center text-xs font-bold leading-6 text-white shadow-sm hover:bg-accent-300 md:h-8 md:w-20 md:text-sm"
-                        >
-                            Boost
-                        </button>
-                    </div>
-                </form>
-            )}
-            {(resume || letter) && (
-                <div className="flex flex-col gap-5 pb-8">
-                    <div className="flex w-64 flex-col gap-1 md:w-80">
-                        <div className="font-bold">
-                            {resume
-                                ? "Boosted Resume:"
-                                : "Boosted Cover Letter:"}
-                        </div>
-                        <div className="min-h-[130px] rounded-xl border border-black bg-white p-1 text-xs">
-                            {resume ? resume : letter}
-                        </div>
+                <div className="mt-2 flex w-full flex-col items-center justify-center gap-3">
+                    <div className="flex w-full flex-col items-center justify-center">
+                        <h1 className="text-xl font-bold">Cover Letter</h1>
+                        <p className="h-[100px] w-full overflow-auto rounded-lg border border-black bg-white p-2 text-start text-xs">
+                            {boostData
+                                ? boostData.coverLetter
+                                : "No Boosted Data"}
+                        </p>
+                        <h1 className="text-xl font-bold">
+                            Project Experience
+                        </h1>
+                        <p className="h-[100px] w-full overflow-auto rounded-lg border border-black bg-white p-2 text-start text-xs">
+                            {boostData
+                                ? boostData.resumeData.projectData
+                                : "No Boosted Data"}
+                        </p>
+                        <h1 className="text-xl font-bold">Work Experience</h1>
+                        <p className="h-[100px] w-full overflow-auto rounded-lg border border-black bg-white p-2 text-start text-xs">
+                            {boostData
+                                ? boostData.resumeData.workData
+                                : "No Boosted Data"}
+                        </p>
+                        <h1 className="text-xl font-bold">Co Curriculars</h1>
+                        <p className="h-[100px] w-full overflow-auto rounded-lg border border-black bg-white p-2 text-start text-xs">
+                            {boostData
+                                ? boostData.resumeData.ccaData
+                                : "No Boosted Data"}
+                        </p>
+                        <h1 className="text-xl font-bold">Achievements</h1>
+                        <p className="h-[100px] w-full overflow-auto rounded-lg border border-black bg-white p-2 text-start text-xs">
+                            {boostData
+                                ? boostData.resumeData.achievementsData
+                                : "No Boosted Data"}
+                        </p>
+                        <h1 className="text-xl font-bold">Skills</h1>
+                        <p className="h-[100px] w-full overflow-auto rounded-lg border border-black bg-white p-2 text-start text-xs">
+                            {boostData
+                                ? boostData.resumeData.skillsData
+                                : "No Boosted Data"}
+                        </p>
                     </div>
                 </div>
             )}

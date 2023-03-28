@@ -43,50 +43,62 @@ export default function Modal({ setIsOpen, userID, defaultData }) {
                     <label htmlFor="project">Project Experience</label>
                     <textarea
                         name="project"
-                        defaultValue={defaultData && defaultData.project}
-                        className="h-32 w-72 resize-none rounded-lg border border-black px-2 font-normal"
+                        defaultValue={defaultData && defaultData.projectData}
+                        className="h-32 w-72 resize-none rounded-lg border border-black px-2 text-xs font-normal"
                     />
                 </div>
                 <div className="flex flex-col items-start">
                     <label htmlFor="work">Work Experience</label>
                     <textarea
                         name="work"
-                        defaultValue={defaultData && defaultData.work}
-                        className="h-32 w-72 resize-none rounded-lg border border-black px-2 font-normal"
+                        defaultValue={defaultData && defaultData.workData}
+                        className="h-32 w-72 resize-none rounded-lg border border-black px-2 text-xs font-normal"
                     />
                 </div>
                 <div className="flex flex-col items-start">
                     <label htmlFor="cca">Co Curriculars</label>
                     <textarea
                         name="cca"
-                        defaultValue={defaultData && defaultData.cca}
-                        className="h-32 w-72 resize-none rounded-lg border border-black px-2 font-normal"
+                        defaultValue={defaultData && defaultData.ccaData}
+                        className="h-32 w-72 resize-none rounded-lg border border-black px-2 text-xs font-normal"
                     />
                 </div>
                 <div className="flex flex-col items-start">
                     <label htmlFor="achievement">Achievements</label>
                     <textarea
                         name="achievement"
-                        defaultValue={defaultData && defaultData.achievement}
-                        className="h-32 w-72 resize-none rounded-lg border border-black px-2 font-normal"
+                        defaultValue={
+                            defaultData && defaultData.achievementsData
+                        }
+                        className="h-32 w-72 resize-none rounded-lg border border-black px-2 text-xs font-normal"
                     />
                 </div>
                 <div className="flex flex-col items-start">
                     <label htmlFor="skills">Skills</label>
                     <textarea
                         name="skills"
-                        defaultValue={defaultData && defaultData.skills}
-                        className="h-32 w-72 resize-none rounded-lg border border-black px-2 font-normal"
+                        defaultValue={defaultData && defaultData.skillsData}
+                        className="h-32 w-72 resize-none rounded-lg border border-black px-2 text-xs font-normal"
                     />
                 </div>
             </form>
-            <button
-                type="submit"
-                form="resumeForm"
-                className="inline-flex rounded-lg bg-accent-500 px-3 py-px text-center font-bold text-white hover:bg-accent-300"
-            >
-                Submit
-            </button>
+            <div className="flex items-center justify-center gap-2">
+                <button
+                    type="submit"
+                    form="resumeForm"
+                    className="h-8 w-28 items-center justify-center rounded-full bg-accent-500 px-2 py-1 font-semibold text-white hover:bg-accent-300"
+                >
+                    Submit
+                </button>
+                <button
+                    onClick={() => {
+                        setIsOpen(false);
+                    }}
+                    className="h-8 w-28 items-center justify-center rounded-full bg-accent-500 px-2 py-1 font-semibold text-white hover:bg-accent-300"
+                >
+                    Close
+                </button>
+            </div>
         </Dialog.Panel>
     );
 }
