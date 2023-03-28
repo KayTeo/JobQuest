@@ -1,6 +1,6 @@
 const { Configuration, OpenAIApi } = require("openai");
 const configuration = new Configuration({
-    apiKey: "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",
+    apiKey: "",
 });
 
 export async function GET(request) {
@@ -51,14 +51,14 @@ export async function POST(request) {
         reply.indexOf("Work Data")
     );
     var aArr = a.split("\n");
-    for (var i = 0; i < aArr.length - 1; i++)
+    for (var i = 1; i < aArr.length - 1; i++)
         if (aArr[i] != "")
             resumeBoostData.resumeData.projectData =
                 resumeBoostData.resumeData.projectData + aArr[i] + "\n";
 
     var b = reply.slice(reply.indexOf("Work Data"), reply.indexOf("CCA Data"));
     var bArr = b.split("\n");
-    for (var i = 0; i < bArr.length - 1; i++)
+    for (var i = 1; i < bArr.length - 1; i++)
         if (bArr[i] != "")
             resumeBoostData.resumeData.workData =
                 resumeBoostData.resumeData.workData + bArr[i] + "\n";
@@ -68,7 +68,7 @@ export async function POST(request) {
         reply.indexOf("Achievements Data")
     );
     var cArr = c.split("\n");
-    for (var i = 0; i < cArr.length - 1; i++)
+    for (var i = 1; i < cArr.length - 1; i++)
         if (cArr[i] != "")
             resumeBoostData.resumeData.ccaData =
                 resumeBoostData.resumeData.ccaData + cArr[i] + "\n";
@@ -78,7 +78,7 @@ export async function POST(request) {
         reply.indexOf("Skills")
     );
     var dArr = d.split("\n");
-    for (var i = 0; i < dArr.length - 1; i++)
+    for (var i = 1; i < dArr.length - 1; i++)
         if (dArr[i] != "")
             resumeBoostData.resumeData.achievementsData =
                 resumeBoostData.resumeData.achievementsData + dArr[i] + "\n";
@@ -88,7 +88,7 @@ export async function POST(request) {
         reply.indexOf("Cover Letter:")
     );
     var eArr = e.split("\n");
-    for (var i = 0; i < eArr.length - 1; i++)
+    for (var i = 1; i < eArr.length - 1; i++)
         if (eArr[i] != "")
             resumeBoostData.resumeData.skillsData =
                 resumeBoostData.resumeData.skillsData + eArr[i] + "\n";
