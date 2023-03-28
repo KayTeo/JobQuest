@@ -1,9 +1,8 @@
 "use client";
 
 import SearcherSetUp from "@/app/user/searcher/setup/SearcherSetUp";
-import { use } from "react";
-import Loading from "@/app/user/loading";
-import { useAuthState } from "react-firebase-hooks/auth";
+import { use, useContext } from "react";
+import { UserContext } from "@/utils/UserContext";
 
 import firebase from "@/firebase/firebase-config";
 const db = firebase.firestore();
@@ -18,9 +17,7 @@ async function getSearcherData(userID) {
 }
 
 export default function SearcherSetUpPage() {
-    const [user, loading, error] = useAuthState(firebase.auth());
-    if (loading) return <Loading />;
-    const userID = user.uid;
+    const userID = useContext(UserContext);
 
     const userData = use(getSearcherData(userID));
     return (

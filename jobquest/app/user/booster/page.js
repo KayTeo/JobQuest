@@ -1,10 +1,9 @@
 "use client";
 
 import BoosterJobEntry from "./boosterJobEntry";
-import { useAuthState } from "react-firebase-hooks/auth";
-import Loading from "@/app/user/loading";
-import { use } from "react";
+import { use, useContext } from "react";
 import DataWrapper from "./DataWrapper";
+import { UserContext } from "@/utils/UserContext";
 
 import firebase from "@/firebase/firebase-config";
 const db = firebase.firestore();
@@ -45,10 +44,7 @@ async function getResumeAndTrackData(userID) {
 }
 
 export default function BoosterPage() {
-    const [user, loading, error] = useAuthState(firebase.auth());
-
-    if (loading) return <Loading />;
-    const userID = user.uid;
+    const userID = useContext(UserContext);
     const [resumeData, jobData, boostData] = use(getResumeAndTrackData(userID));
 
     function findBoostData(jobID, boostData) {

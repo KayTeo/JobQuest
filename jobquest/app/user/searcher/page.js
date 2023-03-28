@@ -2,10 +2,9 @@
 
 import SearcherCard from "./SearcherCard";
 import Link from "next/link";
-import Loading from "@/app/user/loading";
-import { useAuthState } from "react-firebase-hooks/auth";
+import { UserContext } from "@/utils/UserContext";
 import { useRouter } from "next/navigation";
-import { use } from "react";
+import { use, useContext } from "react";
 
 import firebase from "@/firebase/firebase-config";
 const db = firebase.firestore();
@@ -43,12 +42,9 @@ async function getJobData(userID) {
     }).then((res) => res.json());
 }
 export default function SearcherPage() {
-    const [user, loading, error] = useAuthState(firebase.auth());
+    const userID = useContext(UserContext);
     const router = useRouter();
 
-    if (loading) return <Loading />;
-
-    const userID = user.uid;
     const userData = use(getUserData(userID));
     if (!userData.searcherBoolean) {
         router.push("user/searcher/setup");
@@ -58,7 +54,7 @@ export default function SearcherPage() {
 
     return (
         <>
-            {user && userData.searcherBoolean && jobsList && (
+            {userData.searcherBoolean && jobsList && (
                 <div className="h-[calc(100vh-64px)] overflow-auto">
                     <div className="flex flex-col items-center gap-3 p-5">
                         <header className="text-2xl font-bold text-accent-500 md:text-3xl">

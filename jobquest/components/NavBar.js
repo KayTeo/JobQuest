@@ -6,9 +6,8 @@ import Link from "next/link";
 import Image from "next/image";
 import { usePathname, useRouter } from "next/navigation";
 import Cookies from "js-cookie";
-import { useAuthState } from "react-firebase-hooks/auth";
-import Loading from "@/app/loading";
-import { use } from "react";
+import { UserContext } from "@/utils/UserContext";
+import { use, useContext } from "react";
 
 const db = firebase.firestore();
 
@@ -31,12 +30,9 @@ async function getUserData(userID) {
 }
 
 export default function NavBar() {
-    const [user, loading, error] = useAuthState(firebase.auth());
+    const userID = useContext(UserContext);
     const router = useRouter();
     const pathname = usePathname();
-    if (loading) return <Loading />;
-
-    const userID = user.uid;
     const userData = use(getUserData(userID));
 
     return (
