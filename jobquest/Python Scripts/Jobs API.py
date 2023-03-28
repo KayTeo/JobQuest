@@ -1,5 +1,5 @@
 #Run in the command line first time you use code/do not have selenium installed
-#pip install selenium
+#pip install selenium requests webdriver 
 #Run to import necessary libraries
 
 #NOTE: Depending on settings, the present working directory of Python will change, affecting where files are written to.
