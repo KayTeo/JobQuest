@@ -32,15 +32,20 @@ export default function SearcherCard({ data }) {
                                 )}
                             </div>
                         </header>
-                        <hr className="w-full bg-white mb-3"></hr>
+                        <hr className="mb-3 w-full bg-white"></hr>
                     </div>
-                    <div className="flex items-center justify-between gap-2 max-h-[160px]">
+                    <div className="flex max-h-[160px] items-center justify-between gap-2">
                         <main className="flex w-1/2 flex-wrap items-start justify-start gap-y-1 gap-x-5 text-xl">
-                            <div className="flex gap-1 max-w-full">
+                            <div className="flex max-w-full gap-1">
                                 <p className="font-bold">Role:</p>
-                                <p className="overflow-hidden text-ellipsis whitespace-nowrap" title={data.jobTitle}>{data.jobTitle}</p>
+                                <p
+                                    className="overflow-hidden text-ellipsis whitespace-nowrap"
+                                    title={data.jobTitle}
+                                >
+                                    {data.jobTitle}
+                                </p>
                             </div>
-                            <div className="flex gap-1 max-w-full">
+                            <div className="flex max-w-full gap-1">
                                 <p className="font-bold">Salary:</p>
                                 <p className="overflow-hidden text-ellipsis whitespace-nowrap">
                                     {data.salaryRange.minValue &&
@@ -56,25 +61,50 @@ export default function SearcherCard({ data }) {
                                         data.salaryRange.currency}
                                 </p>
                             </div>
-                            <div className="flex gap-1 max-w-full">
+                            <div className="flex max-w-full gap-1">
                                 <p className="font-bold">Type:</p>
-                                <p className="overflow-hidden text-ellipsis whitespace-nowrap" title={data.jobType}>{data.jobType}</p>
+                                <p
+                                    className="overflow-hidden text-ellipsis whitespace-nowrap"
+                                    title={data.jobType}
+                                >
+                                    {data.jobType}
+                                </p>
                             </div>
-                            <div className="flex gap-1 max-w-full">
+                            <div className="flex max-w-full gap-1">
                                 <p className="font-bold">Location:</p>
-                                <p className="overflow-hidden text-ellipsis whitespace-nowrap" title={data.location.locality}>{data.location.locality}</p>
+                                <p
+                                    className="overflow-hidden text-ellipsis whitespace-nowrap"
+                                    title={data.location.locality}
+                                >
+                                    {data.location.locality}
+                                </p>
                             </div>
-                            <div className="flex gap-1 max-w-full">
+                            <div className="flex max-w-full gap-1">
                                 <p className="font-bold">Address:</p>
-                                <p className="overflow-hidden text-ellipsis whitespace-nowrap" title={data.location.address}>{data.location.address}</p>
+                                <p
+                                    className="overflow-hidden text-ellipsis whitespace-nowrap"
+                                    title={data.location.address}
+                                >
+                                    {data.location.address}
+                                </p>
                             </div>
-                            <div className="flex gap-1 max-w-full">
+                            <div className="flex max-w-full gap-1">
                                 <p className="font-bold">Date Posted:</p>
-                                <p className="overflow-hidden text-ellipsis whitespace-nowrap" title={data.datePosted}>{data.datePosted}</p>
+                                <p
+                                    className="overflow-hidden text-ellipsis whitespace-nowrap"
+                                    title={data.datePosted}
+                                >
+                                    {data.datePosted}
+                                </p>
                             </div>
-                            <div className="flex gap-1 max-w-full">
+                            <div className="flex max-w-full gap-1">
                                 <p className="font-bold">Due Date:</p>
-                                <p className="overflow-hidden text-ellipsis whitespace-nowrap" title={data.dueDate}>{data.dueDate}</p>
+                                <p
+                                    className="overflow-hidden text-ellipsis whitespace-nowrap"
+                                    title={data.dueDate}
+                                >
+                                    {data.dueDate}
+                                </p>
                             </div>
                         </main>
                         <section className="flex w-1/2 items-start justify-start gap-2">
