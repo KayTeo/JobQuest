@@ -10,7 +10,7 @@ export default function middleware(req) {
     const protectedRoutes = pathname.includes("/user");
 
     if (verify && openRoutes) {
-        return NextResponse.redirect(`${origin}/user/home`);
+        return NextResponse.redirect(`${origin}/user/tracker`);
     }
 
     if (!verify && protectedRoutes) {

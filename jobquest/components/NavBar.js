@@ -6,18 +6,38 @@ import Link from "next/link";
 import Image from "next/image";
 import { usePathname, useRouter } from "next/navigation";
 import Cookies from "js-cookie";
+import { useAuthState } from "react-firebase-hooks/auth";
+import Loading from "@/app/loading";
+import { use } from "react";
+
+const db = firebase.firestore();
 
 const options = [
-    { name: "Home", route: "/user/home" },
-    { name: "Searcher", route: "/user/searcher" },
     { name: "Tracker", route: "/user/tracker" },
+    { name: "Searcher", route: "/user/searcher" },
     { name: "Booster", route: "/user/booster" },
     { name: "Forum", route: "/user/forum" },
 ];
 
+async function getUserData(userID) {
+    const data = await db
+        .collection("users")
+        .doc(userID)
+        .get()
+        .then((doc) => {
+            return doc.data();
+        });
+    return data;
+}
+
 export default function NavBar() {
+    const [user, loading, error] = useAuthState(firebase.auth());
     const router = useRouter();
     const pathname = usePathname();
+    if (loading) return <Loading />;
+
+    const userID = user.uid;
+    const userData = use(getUserData(userID));
 
     return (
         <div className="flex h-16 flex-row items-center justify-center bg-light-500 py-2 px-4 shadow-md">
@@ -67,7 +87,12 @@ export default function NavBar() {
                     >
                         Log Out
                     </button>
-                    <div className="h-10 w-10 rounded-full bg-black"></div>
+                    <img
+                        alt="logo"
+                        className="h-10 w-10 rounded-full bg-black"
+                        src={userData.photoURL}
+                        referrerPolicy="no-referrer"
+                    ></img>
                 </div>
             </div>
         </div>

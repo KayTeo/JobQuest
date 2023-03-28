@@ -1,6 +1,5 @@
 "use client";
 
-import { jobList } from "./tempdata";
 import SearcherCard from "./SearcherCard";
 import Link from "next/link";
 import Loading from "@/app/user/loading";
@@ -21,20 +20,42 @@ async function getUserData(userID) {
         });
     return data;
 }
+
+async function getJobData(userID) {
+    const searcherData = await db
+        .collection("users")
+        .doc(userID)
+        .get()
+        .then((doc) => {
+            return doc.data().searcherData;
+        });
+
+    const payload = {
+        keywords: "software engineer",
+        pages: 1,
+        searcherData: searcherData,
+    };
+
+    return await fetch("/api/getJobs", {
+        cache: "no-store",
+        method: "POST",
+        body: JSON.stringify(payload),
+    }).then((res) => res.json());
+}
 export default function SearcherPage() {
     const [user, loading, error] = useAuthState(firebase.auth());
     const router = useRouter();
-    
+
     if (loading) return <Loading />;
-    
+
     const userID = user.uid;
     const userData = use(getUserData(userID));
     if (!userData.searcherBoolean) {
         router.push("user/searcher/setup");
     }
-    
-    //fetching from database
-    const jobsList = jobList;
+
+    const jobsList = getJobData(userID);
+
     return (
         <>
             {user && userData.searcherBoolean && (

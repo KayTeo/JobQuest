@@ -6,21 +6,21 @@ import {
 
 const features = [
     {
-        name: "Track Your Applications",
+        name: "Job Searcher",
         description:
-            "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
-        icon: ClipboardIcon,
-    },
-    {
-        name: "Search For Jobs",
-        description:
-            "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+            "Find your dream job with just a few clicks! Match yourself with the perfect job based on your skills and preferences.",
         icon: MagnifyingGlassCircleIcon,
     },
     {
-        name: "Boost Your Resume",
+        name: "Job Tracker",
         description:
-            "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+            "Keep your applications in one place and never miss an opportunity! Stay organized and on top of your job search.",
+        icon: ClipboardIcon,
+    },
+    {
+        name: "Resume Booster",
+        description:
+            "Get noticed by potential employers! Create a professional-looking resume that highlights your skills and experience.",
         icon: DocumentTextIcon,
     },
 ];
