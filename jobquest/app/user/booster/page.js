@@ -1,17 +1,24 @@
 "use client";
 
-import { Dialog } from "@headlessui/react";
-import Modal from "./Modal";
 import BoosterJobEntry from "./boosterJobEntry";
 import { useAuthState } from "react-firebase-hooks/auth";
 import Loading from "@/app/user/loading";
-import { use, useState } from "react";
+import { use } from "react";
+import DataWrapper from "./DataWrapper";
 
 import firebase from "@/firebase/firebase-config";
 const db = firebase.firestore();
 
 async function getResumeAndTrackData(userID) {
-    const arr = [];
+    const resumeData = await db
+        .collection("users")
+        .doc(userID)
+        .get()
+        .then((doc) => {
+            return doc.data().resumeData;
+        });
+
+    const jobArr = [];
     await db
         .collection("users")
         .doc(userID)
@@ -19,60 +26,55 @@ async function getResumeAndTrackData(userID) {
         .get()
         .then((querySnapshot) => {
             querySnapshot.forEach((doc) => {
-                arr.push(doc.data());
+                jobArr.push(doc.data());
             });
         });
 
-    const resumeData = await db
+    const boostArr = [];
+    await db
         .collection("users")
         .doc(userID)
+        .collection("booster")
         .get()
-        .then((doc) => {
-            doc.data().resumeData;
+        .then((querySnapshot) => {
+            querySnapshot.forEach((doc) => {
+                boostArr.push(doc.data());
+            });
         });
-    return [resumeData, arr];
+    return [resumeData, jobArr, boostArr];
 }
 
 export default function BoosterPage() {
     const [user, loading, error] = useAuthState(firebase.auth());
-    const [isOpen, setIsOpen] = useState(false);
 
     if (loading) return <Loading />;
     const userID = user.uid;
-    const [resumeData, boostData] = use(getResumeAndTrackData(userID));
+    const [resumeData, jobData, boostData] = use(getResumeAndTrackData(userID));
+
+    function findBoostData(jobID, boostData) {
+        const boost = boostData.find((e) => e.uuid === jobID);
+        if (boost === undefined) return null;
+        return boost;
+    }
 
     return (
         <>
-            {isOpen && (
-                <Dialog
-                    className="fixed left-0 top-0 z-10 flex h-full w-full items-center justify-center bg-dark-500 bg-opacity-50"
-                    open={true}
-                    onClose={() => setIsOpen(false)}
-                >
-                    <Modal
-                        setIsOpen={setIsOpen}
-                        userID={userID}
-                        defaultData={resumeData}
-                    />
-                </Dialog>
-            )}
             <div className="h-[calc(100vh-64px)] overflow-auto">
                 <div className="flex flex-col items-center justify-center gap-2 py-10">
                     <header className="text-2xl font-bold text-accent-500 md:text-3xl">
                         Choose Job Target
                     </header>
-                    <button
-                        className="h-6 w-32 rounded-full bg-accent-500 text-center text-xs font-bold leading-6 text-white shadow-sm hover:bg-accent-300"
-                        onClick={() => {
-                            setIsOpen(!isOpen);
-                        }}
-                    >
-                        Set Resume
-                    </button>
+                    <DataWrapper resumeData={resumeData} userID={userID} />
                     <main className="text-black">
                         <section className="flex flex-col items-center justify-center gap-2">
-                            {boostData.map((e) => (
-                                <BoosterJobEntry key={e.uuid} data={e} />
+                            {jobData.map((e) => (
+                                <BoosterJobEntry
+                                    key={e.uuid}
+                                    jobData={e}
+                                    userID={userID}
+                                    resumeData={resumeData}
+                                    boostData={findBoostData(e.uuid, boostData)}
+                                />
                             ))}
                         </section>
                     </main>
