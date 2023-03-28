@@ -56,7 +56,7 @@ export default function Modal({ setIsOpen, userID, defaultData }) {
                     />
                 </div>
                 <div className="flex flex-col items-start">
-                    <label htmlFor="cca">Co Curriculars</label>
+                    <label htmlFor="cca">Co-Curriculars</label>
                     <textarea
                         name="cca"
                         defaultValue={defaultData && defaultData.ccaData}
