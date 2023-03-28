@@ -5,22 +5,23 @@ import { useState, use } from "react";
 import firebase from "@/firebase/firebase-config";
 const db = firebase.firestore();
 
+async function sendRequest(url, data) {
+    return await fetch(url, {
+        cache: "no-store",
+        method: "POST",
+        body: JSON.stringify(data),
+    }).then((res) => res.json());
+}
+
 async function boostResume(userID, resumeData, jobData) {
     const payload = {
         resumeData: resumeData,
         jobData: jobData,
     };
     console.log(payload);
-    const boostedData = await fetch("http://localhost:3000/api/resumeboost", {
-        method: "POST",
-        headers: {
-            "Content-Type": "application/json",
-        },
-        body: JSON.stringify(payload),
-    }).then((res) => res.json);
+    const boostedData = await sendRequest("/api/resumeboost", payload);
 
     const storedData = { ...boostedData, uuid: jobData.uuid };
-    console.log(storedData);
     await db
         .collection("users")
         .doc(userID)
@@ -67,7 +68,7 @@ export default function BoosterJobEntry({
                 <div className="mt-2 flex w-full flex-col items-center justify-center gap-3">
                     <div className="flex w-full flex-col items-center justify-center">
                         <h1 className="text-xl font-bold">Cover Letter</h1>
-                        <p className="h-[100px] w-full overflow-auto rounded-lg border border-black bg-white p-2 text-start text-xs">
+                        <p className="h-[200px] w-full overflow-auto rounded-lg border border-black bg-white p-2 text-start text-xs">
                             {boostData
                                 ? boostData.coverLetter
                                 : "No Boosted Data"}
@@ -75,31 +76,31 @@ export default function BoosterJobEntry({
                         <h1 className="text-xl font-bold">
                             Project Experience
                         </h1>
-                        <p className="h-[100px] w-full overflow-auto rounded-lg border border-black bg-white p-2 text-start text-xs">
+                        <p className="h-[200px] w-full overflow-auto rounded-lg border border-black bg-white p-2 text-start text-xs">
                             {boostData
                                 ? boostData.resumeData.projectData
                                 : "No Boosted Data"}
                         </p>
                         <h1 className="text-xl font-bold">Work Experience</h1>
-                        <p className="h-[100px] w-full overflow-auto rounded-lg border border-black bg-white p-2 text-start text-xs">
+                        <p className="h-[200px] w-full overflow-auto rounded-lg border border-black bg-white p-2 text-start text-xs">
                             {boostData
                                 ? boostData.resumeData.workData
                                 : "No Boosted Data"}
                         </p>
                         <h1 className="text-xl font-bold">Co Curriculars</h1>
-                        <p className="h-[100px] w-full overflow-auto rounded-lg border border-black bg-white p-2 text-start text-xs">
+                        <p className="h-[200px] w-full overflow-auto rounded-lg border border-black bg-white p-2 text-start text-xs">
                             {boostData
                                 ? boostData.resumeData.ccaData
                                 : "No Boosted Data"}
                         </p>
                         <h1 className="text-xl font-bold">Achievements</h1>
-                        <p className="h-[100px] w-full overflow-auto rounded-lg border border-black bg-white p-2 text-start text-xs">
+                        <p className="h-[200px] w-full overflow-auto rounded-lg border border-black bg-white p-2 text-start text-xs">
                             {boostData
                                 ? boostData.resumeData.achievementsData
                                 : "No Boosted Data"}
                         </p>
                         <h1 className="text-xl font-bold">Skills</h1>
-                        <p className="h-[100px] w-full overflow-auto rounded-lg border border-black bg-white p-2 text-start text-xs">
+                        <p className="h-[200px] w-full overflow-auto rounded-lg border border-black bg-white p-2 text-start text-xs">
                             {boostData
                                 ? boostData.resumeData.skillsData
                                 : "No Boosted Data"}
