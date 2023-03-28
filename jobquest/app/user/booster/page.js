@@ -1,5 +1,7 @@
 "use client";
 
+import { Dialog } from "@headlessui/react";
+import Modal from "./Modal";
 import BoosterJobEntry from "./boosterJobEntry";
 import { useAuthState } from "react-firebase-hooks/auth";
 import Loading from "@/app/user/loading";
@@ -8,7 +10,7 @@ import { use, useState } from "react";
 import firebase from "@/firebase/firebase-config";
 const db = firebase.firestore();
 
-async function getData(userID) {
+async function getResumeAndTrackData(userID) {
     const arr = [];
     await db
         .collection("users")
@@ -20,7 +22,15 @@ async function getData(userID) {
                 arr.push(doc.data());
             });
         });
-    return arr;
+
+    const resumeData = await db
+        .collection("users")
+        .doc(userID)
+        .get()
+        .then((doc) => {
+            doc.data().resumeData;
+        });
+    return [resumeData, arr];
 }
 
 export default function BoosterPage() {
@@ -28,31 +38,46 @@ export default function BoosterPage() {
     const [isOpen, setIsOpen] = useState(false);
 
     if (loading) return <Loading />;
-
-    const boostData = use(getData(user.uid));
+    const userID = user.uid;
+    const [resumeData, boostData] = use(getResumeAndTrackData(userID));
 
     return (
-        <div className="h-[calc(100vh-64px)] overflow-auto">
-            <div className="flex flex-col items-center justify-center gap-2 py-10">
-                <header className="text-2xl font-bold text-accent-500 md:text-3xl">
-                    Choose Job Target
-                </header>
-                <button
-                    className="h-6 w-32 rounded-full bg-accent-500 text-center text-xs font-bold leading-6 text-white shadow-sm hover:bg-accent-300"
-                    onClick={() => {
-                        setIsOpen(!isOpen);
-                    }}
+        <>
+            {isOpen && (
+                <Dialog
+                    className="fixed left-0 top-0 z-10 flex h-full w-full items-center justify-center bg-dark-500 bg-opacity-50"
+                    open={true}
+                    onClose={() => setIsOpen(false)}
                 >
-                    Set Resume
-                </button>
-                <main className="text-black">
-                    <section className="flex flex-col items-center justify-center gap-2">
-                        {boostData.map((e) => (
-                            <BoosterJobEntry key={e.uuid} data={e} />
-                        ))}
-                    </section>
-                </main>
+                    <Modal
+                        setIsOpen={setIsOpen}
+                        userID={userID}
+                        defaultData={resumeData}
+                    />
+                </Dialog>
+            )}
+            <div className="h-[calc(100vh-64px)] overflow-auto">
+                <div className="flex flex-col items-center justify-center gap-2 py-10">
+                    <header className="text-2xl font-bold text-accent-500 md:text-3xl">
+                        Choose Job Target
+                    </header>
+                    <button
+                        className="h-6 w-32 rounded-full bg-accent-500 text-center text-xs font-bold leading-6 text-white shadow-sm hover:bg-accent-300"
+                        onClick={() => {
+                            setIsOpen(!isOpen);
+                        }}
+                    >
+                        Set Resume
+                    </button>
+                    <main className="text-black">
+                        <section className="flex flex-col items-center justify-center gap-2">
+                            {boostData.map((e) => (
+                                <BoosterJobEntry key={e.uuid} data={e} />
+                            ))}
+                        </section>
+                    </main>
+                </div>
             </div>
-        </div>
+        </>
     );
 }
