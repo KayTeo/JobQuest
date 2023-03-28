@@ -18,6 +18,7 @@ import os
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import sys
+from time import sleep
 
 def formatData(data):
     regex = re.compile(r'<[^>]+>')
@@ -65,16 +66,10 @@ def formatData(data):
 #Takes a valid url of list of searched jobs and driver, a selenium webdriver object
 def getCardLinks(url, driver):
     driver.get(url)
-    try:
-        element = WebDriverWait(driver, 10).until(
-        EC.presence_of_element_located((By.XPATH, "//*[contains(@data-testid, 'job-card-link')]"))
-    )
-    finally:
-        pass
+    sleep(2)
+
     elements = driver.find_elements(By.XPATH, "//*[contains(@data-testid, 'job-card-link')]")
-
     links = []
-
     #Note: Each search page contains 20 entries
     for title in elements: 
         links.append(title.get_attribute('href'))
@@ -100,28 +95,34 @@ def getCardJSON(cardURL, driver):
 #employmen must be one of following values: Permanent, Full Time, Part Time, Contract, Flexi-Work, Temporary, Freelance, Internship/Attachment
 #page returns the nth page of the search results
 def getJobData(filename, keywords = "", employmentType = "", salary = "", startPage = 0, pages = 5):
-    
+    pages = int(pages)
+    employmentType = employmentType.upper()
     #Driver initialises the browser
     #Browser required as target site dynamically loads search and job data
     #driver = webdriver.Chrome(service = ChromeService(ChromeDriverManager().install()))
     options = webdriver.ChromeOptions()
+    options.add_experimental_option('excludeSwitches', ['enable-logging'])
+
     options.add_argument("--headless")
     driver = webdriver.Chrome(options = options)
     
-    if employmentType != "FULL_TIME" and employmentType != "PART_TIME" and employmentType != "INTERNSHIP" and employmentType != "OTHER" and employmentType != "":
+    if employmentType != "FULL_TIME" and employmentType != "PART_TIME" and employmentType != "INTERNSHIP/ATTACHMENT" and employmentType != "OTHER" and employmentType != "":
+        employmentType = ""
         print("Error, please choose valid employment type")
 
     if(int(salary) < 0):
         print("Error, please enter non-negative minimum salary")
-
     #Generate URL
     links = []
     filename = os.path.dirname(os.path.realpath(__file__)) + filename
     #Erase previous file
     f = open(filename, "w+", encoding='utf8')
+
     for i in range(startPage, startPage + pages):
         targetURL = "https://www.mycareersfuture.gov.sg/search?search=" + keywords + "&salary=" + str(salary) + "&employmentType=" + employmentType + "&sortBy=relevancy&page=" + str(i)
         links += getCardLinks(targetURL, driver)
+    print("Test")
+    print(links)
     f = open(filename, "a", encoding='utf8')
     #Note: Each search page contains 20 entries
     f.write("{\"jobs\" : [\n     ")
@@ -150,7 +151,8 @@ def getJobData(filename, keywords = "", employmentType = "", salary = "", startP
 
 #NOTE: Python script spawned here has JobQuest/jobquest as root dir. Python script ran in itself has jobquest as root dir. This script CANNOT run here as path is for running from API
 #keywordsInput = input()
-#input = sys.argv
-input = [1, "cook", 500, "", 1]
-getJobData(filename = "\\jobsData.json", keywords = str(input[1]), salary = input[2], employmentType = input[3], pages = input[4])
+input = sys.argv
+#input = [1, "cook", 500, "", 1]
+getJobData(filename = "\\jobsData.json", keywords = str(input[1]), salary = int(input[2]), employmentType = str(input[3]), pages = int(input[4]))
+
 print("Job script ran")

@@ -33,22 +33,27 @@ export async function POST(req, res) {
   var minSal = "";
   var employType = "";
   var pages = 1;
-
+  var skills = [];
   //Undefined check
+  //All fields but pages and keywords are nested in searcherData
   if(searchInput != undefined){
     if(searchInput['keywords'] != undefined && searchInput['keywords'] != " "){
       var keywords =  searchInput['keywords'];
     }
-    if(searchInput['minSal'] != undefined && searchInput['minSal'] != " "){
-      var minSal = searchInput['minSal'];
+    if(searchInput['searcherData']['minSalary'] != undefined && searchInput['searcherData']['minSalary'] != " "){
+      var minSal = searchInput['searcherData']['minSalary'];
     }
-    if(searchInput['employType'] != undefined && searchInput['employType'] != " "){
-      employType = searchInput['employType']
+    if(searchInput['searcherData']['jobType'] != undefined && searchInput['searcherData']['jobType'] != " "){
+      employType = searchInput['searcherData']['jobType']
     }
     if(searchInput['pages'] != undefined && searchInput['pages'] != " "){
       pages = searchInput['pages']
     }
+    if(searchInput['searcherData']['skills'] != undefined && searchInput['searcherData']['skills'] != " "){
+      skills = searchInput['searcherData']['skills']
+    }
   }
+
   try {
       //NOTE: Python script spawned here has JobQuest/jobquest as root dir. Python script ran in itself has jobquest as root dir
       let python = await spawnSync('python', ['Python Scripts/Jobs API.py', keywords, minSal, employType, pages]);
@@ -59,7 +64,7 @@ export async function POST(req, res) {
     var fileContents = await fs.readFile("Python Scripts/jobsData.json", 'utf8');
     var jsonObj = JSON.parse(fileContents);
     for(let i = 0; i < jsonObj['jobs'].length; i++){
-      jsonObj['jobs'][i]['skillMatches'] = countSkillMatch(jsonObj['jobs'][i]['skills'], searchInput['skills'])
+      jsonObj['jobs'][i]['skillMatches'] = countSkillMatch(jsonObj['jobs'][i]['skills'], skills)
     }
     console.log(jsonObj)
     jsonObj['jobs'] = jsonObj['jobs'].sort((a,b) =>{
@@ -67,7 +72,6 @@ export async function POST(req, res) {
         return -1;
       }
     });
-    console.log(jsonObj)
+    //console.log(jsonObj)
   return new NextResponse(JSON.stringify(jsonObj));
-
 }
