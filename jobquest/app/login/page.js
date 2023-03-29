@@ -10,6 +10,9 @@ const auth = firebase.auth();
 
 export default function LogInPage() {
     const router = useRouter();
+    if (Cookies.get("loggedin")) {
+        router.push("/user/tracker");
+    }
 
     function handleSubmit(e) {
         e.preventDefault();

@@ -1,8 +1,5 @@
 import SearcherCard from "./SearcherCard";
 
-import firebase from "@/firebase/firebase-config";
-const db = firebase.firestore();
-
 export default function Search({ jobsData, userID }) {
     return (
         <div className="flex flex-col items-center gap-3 p-5">

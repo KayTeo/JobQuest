@@ -4,7 +4,9 @@ import { UserContext } from "@/utils/UserContext";
 import { useRouter } from "next/navigation";
 import { use, useContext, useState } from "react";
 import Search from "./Search";
+import Loading from "../loading";
 import Link from "next/link";
+import { MagnifyingGlassIcon } from "@heroicons/react/20/solid";
 
 import firebase from "@/firebase/firebase-config";
 const db = firebase.firestore();
@@ -45,6 +47,7 @@ async function getJobData(userID, keywords) {
 export default function SearcherPage() {
     const userID = useContext(UserContext);
     const [jobsData, setJobsData] = useState(null);
+    const [loadingJobs, setLoadingJobs] = useState(false);
     const router = useRouter();
     const userData = use(getUserData(userID));
     if (!userData.searcherBoolean) {
@@ -54,40 +57,53 @@ export default function SearcherPage() {
     async function handleSubmit(e) {
         e.preventDefault();
         const keywords = e.target.keywords.value;
+        setLoadingJobs(true);
         const data = await getJobData(userID, keywords);
         setJobsData(data.jobs);
+        setLoadingJobs(false);
     }
 
     return (
         <>
-            <div className="flex h-[calc(100vh-64px)] flex-col items-center justify-center overflow-auto">
-                <Link
-                    href="/user/searcher/setup"
-                    className="flex h-9 w-44 items-center justify-center rounded-full bg-accent-500 text-center text-base font-semibold leading-6 text-white shadow-sm hover:bg-accent-300 md:h-10 md:w-52 md:text-lg"
-                >
-                    Update Your Details
-                </Link>
-                <form
-                    id="keywords"
-                    action="submit"
-                    onSubmit={handleSubmit}
-                    className="flex items-center justify-center gap-3"
-                >
-                    <input
-                        name="keywords"
-                        type="text"
-                        className="w-[300px] rounded-xl border border-black px-2"
-                    />
-                    <button
-                        type="submit"
-                        form="keywords"
-                        className="h-[28px] rounded-full bg-accent-500 px-2 font-semibold text-white hover:bg-accent-300"
+            {loadingJobs ? (
+                <Loading />
+            ) : (
+                <div className="flex h-[calc(100vh-64px)] flex-col items-center justify-start gap-5 overflow-auto py-10">
+                    <Link
+                        href="/user/searcher/setup"
+                        className="flex items-center justify-center rounded-full bg-accent-500 px-2 py-1 text-center text-base font-semibold text-white  hover:bg-accent-300"
                     >
-                        Search
-                    </button>
-                </form>
-                {jobsData && <Search userID={userID} jobsData={jobsData} />}
-            </div>
+                        Update Your Details
+                    </Link>
+                    <form
+                        id="keywords"
+                        action="submit"
+                        onSubmit={handleSubmit}
+                        className="flex items-center justify-center gap-2"
+                    >
+                        <div className="block h-[28px] w-[28px]"></div>
+                        <input
+                            name="keywords"
+                            type="text"
+                            className="h-[28px] w-[300px] rounded-xl border border-black px-2"
+                        />
+                        <button
+                            type="submit"
+                            form="keywords"
+                            className="flex h-[28px] w-[28px] items-center justify-center rounded-full bg-accent-500 font-semibold text-white hover:bg-accent-300"
+                        >
+                            <MagnifyingGlassIcon className="w-4 font-bold" />
+                        </button>
+                    </form>
+                    {jobsData && (
+                        <Search
+                            key={jobsData}
+                            userID={userID}
+                            jobsData={jobsData}
+                        />
+                    )}
+                </div>
+            )}
         </>
     );
 }

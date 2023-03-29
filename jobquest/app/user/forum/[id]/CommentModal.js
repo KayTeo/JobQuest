@@ -1,30 +1,58 @@
 import { Dialog } from "@headlessui/react";
 import { getCurrentDate } from "@/utils/date";
+import { generateUUID } from "@/utils/uuid";
 
-export default function CommentModal({
-    commentsData,
-    setCommentsData,
-    setIsOpen,
-}) {
-    let newComment = {
-        author: null,
-        content: null,
-        commentID: null,
-        commentDate: null,
-    };
+import firebase from "@/firebase/firebase-config";
+import { commentData1 } from "./../tempforumdata";
+const db = firebase.firestore();
 
+async function addComment(userID, newComment, postID) {
+    const user = await db
+        .collection("users")
+        .doc(userID)
+        .get()
+        .then((doc) => {
+            return {
+                displayName: doc.data().displayName,
+                photoURL: doc.data().photoURL,
+            };
+        });
+
+    await db
+        .collection("posts")
+        .doc(postID)
+        .collection("comments")
+        .doc(newComment.commentID)
+        .set({
+            content: newComment.content,
+            commentDate: newComment.datePublished,
+            commentID: newComment.commentID,
+            author: user.displayName,
+            photoURL: user.photoURL,
+        });
+
+    const currentCommentNum = await db
+        .collection("posts")
+        .doc(postID)
+        .get()
+        .then((doc) => {
+            return doc.data().commentNum;
+        });
+    await db
+        .collection("posts")
+        .doc(postID)
+        .update({ commentNum: currentCommentNum + 1 });
+}
+
+export default function CommentModal({ setIsOpen, userID, postID }) {
     function handleSubmit(e) {
         e.preventDefault();
-        newComment.author = "test";
-        newComment.content = e.target.content.value;
-        newComment.commentDate = getCurrentDate();
-        // get last comment id and add 1
-        let lastID = 0;
-        try {
-            lastID = parseInt(commentsData[commentsData.length - 1].commentID);
-        } catch (e) {}
-        newComment.commentID = (lastID + 1).toString();
-        setCommentsData([...commentsData, newComment]);
+        const newComment = {
+            content: e.target.content.value,
+            datePublished: getCurrentDate(),
+            commentID: generateUUID(),
+        };
+        addComment(userID, newComment, postID);
         setIsOpen(false);
     }
 

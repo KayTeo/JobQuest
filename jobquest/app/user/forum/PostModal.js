@@ -1,32 +1,46 @@
+"use client";
+
 import { Dialog } from "@headlessui/react";
 import { getCurrentDate } from "@/utils/date";
+import { generateUUID } from "@/utils/uuid";
 
-export default function PostModal({ postsData, setPostsData, setIsOpen }) {
-    let newPost = {
-        title: null,
-        author: null,
-        datePublished: null,
-        postID: null,
-        commentNum: null,
-        upvotesNum: null,
-        content: null,
-    };
+import firebase from "@/firebase/firebase-config";
+const db = firebase.firestore();
 
+async function addPost(userID, newPost) {
+    const user = await db
+        .collection("users")
+        .doc(userID)
+        .get()
+        .then((doc) => {
+            return {
+                displayName: doc.data().displayName,
+                photoURL: doc.data().photoURL,
+            };
+        });
+
+    await db.collection("posts").doc(newPost.postID).set({
+        title: newPost.title,
+        content: newPost.content,
+        datePublished: newPost.datePublished,
+        postID: newPost.postID,
+        commentNum: 0,
+        author: user.displayName,
+        photoURL: user.photoURL,
+    });
+}
+
+export default function PostModal({ userID, setIsOpen }) {
     function handleSubmit(e) {
         e.preventDefault();
-        newPost.author = "test";
-        newPost.commentNum = 0;
-        newPost.upvotesNum = 0;
-        newPost.content = e.target.content.value;
-        newPost.title = e.target.title.value;
-        newPost.datePublished = getCurrentDate();
-        // get last post id and add 1
-        let lastID = 0;
-        try {
-            lastID = parseInt(postsData[postsData.length - 1].postID);
-        } catch (e) {}
-        newPost.postID = parseInt(lastID + 1).toString();
-        setPostsData([...postsData, newPost]);
+
+        const newPost = {
+            title: e.target.title.value,
+            content: e.target.content.value,
+            datePublished: getCurrentDate(),
+            postID: generateUUID(),
+        };
+        addPost(userID, newPost);
         setIsOpen(false);
     }
 

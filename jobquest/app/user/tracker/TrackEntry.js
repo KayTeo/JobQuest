@@ -174,29 +174,17 @@ export default function TrackEntry({ data, userID }) {
                         </div>
 
                         <div className="mt-3 flex w-full items-center justify-center gap-2">
+                            <a href={data.jobLink} target="_blank">
+                                <button className="h-8 w-28 items-center justify-center rounded-full bg-accent-500 px-2 py-1 text-white hover:bg-accent-300">
+                                    Visit Job Site
+                                </button>
+                            </a>
                             <button
                                 onClick={() => setIsOpen(true)}
                                 className="h-8 w-28 items-center justify-center rounded-full bg-accent-500 px-2 py-1 text-white hover:bg-accent-300"
                             >
                                 Edit Details
                             </button>
-                            <a href={data.jobLink} target="_blank">
-                                <button className="h-8 w-28 items-center justify-center rounded-full bg-accent-500 px-2 py-1 text-white hover:bg-accent-300">
-                                    Visit Job Site
-                                </button>
-                            </a>
-                            <a
-                                href="/user/searcher"
-                                className="inline-flex h-8 w-28 items-center justify-center rounded-full bg-accent-500 px-2 py-1 text-white hover:bg-accent-300"
-                            >
-                                Find Similar
-                            </a>
-                            <a
-                                href="/user/booster"
-                                className="inline-flex h-8 w-28 items-center justify-center rounded-full bg-accent-500 px-2 py-1 text-white hover:bg-accent-300"
-                            >
-                                Resume Boost
-                            </a>
                         </div>
                     </div>
                 )}

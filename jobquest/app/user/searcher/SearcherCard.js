@@ -20,7 +20,6 @@ async function moveToWishList(userID, data) {
 }
 
 export default function SearcherCard({ jobs, userID }) {
-    console.log(jobs);
     const [data, setData] = useState(jobs ? jobs[0] : null);
     const [expand, setExpand] = useState(false);
     const [jobEnd, setJobEnd] = useState(false);
@@ -40,8 +39,8 @@ export default function SearcherCard({ jobs, userID }) {
     return (
         <>
             {jobEnd ? (
-                <div className="p-5 text-2xl font-bold text-accent-500 md:text-3xl">
-                    Please Reload to Fetch New Set of Job Entries...
+                <div className="p-5 text-xl font-semibold text-accent-500">
+                    End of search results. Try searching again.
                 </div>
             ) : (
                 data &&
@@ -55,7 +54,7 @@ export default function SearcherCard({ jobs, userID }) {
                                 >
                                     {data.company.name}
                                 </div>
-                                <div className="h-14 w-14">
+                                <div className="flex h-14 w-14 items-center justify-center">
                                     {data.company.logo ? (
                                         <img
                                             alt="logo"
@@ -207,7 +206,7 @@ export default function SearcherCard({ jobs, userID }) {
                                     >
                                         {data.company.name}
                                     </div>
-                                    <div className="h-8 w-8 md:h-10 md:w-10">
+                                    <div className="flex h-8 w-8 items-center justify-center md:h-10 md:w-10">
                                         {data.company.logo ? (
                                             <img
                                                 alt="logo"

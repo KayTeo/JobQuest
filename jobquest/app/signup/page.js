@@ -7,9 +7,14 @@ import Cookies from "js-cookie";
 
 import firebase from "@/firebase/firebase-config";
 const auth = firebase.auth();
+const db = firebase.firestore();
 
 export default function SignInPage() {
     const router = useRouter();
+    if (Cookies.get("loggedin")) {
+        router.push("/user/tracker");
+    }
+
     function handleSubmit(e) {
         e.preventDefault();
         const email = e.target.email.value;
@@ -35,10 +40,18 @@ export default function SignInPage() {
         } else if (!(e.target.password.value === e.target.cfmpassword.value)) {
             alert("Two passwords do not match.");
         } else {
-            auth.createUserWithEmailAndPassword(email, password).then(() => {
-                Cookies.set("loggedin", true);
-                router.push("/user/tracker");
-            });
+            auth.createUserWithEmailAndPassword(email, password).then(
+                async (userCredential) => {
+                    const user = userCredential.user;
+                    await db.collection("users").doc(user.uid).update({
+                        displayName: username,
+                        photoURL:
+                            "https://icon-library.com/images/default-user-icon/default-user-icon-13.jpg",
+                    });
+                    Cookies.set("loggedin", true);
+                    router.push("/user/tracker");
+                }
+            );
         }
     }
 
@@ -61,7 +74,10 @@ export default function SignInPage() {
                     className="flex flex-col items-center justify-center gap-4"
                 >
                     <div className="flex flex-col items-center justify-center gap-px">
-                        <label className="font-semibold text-white" for="email">
+                        <label
+                            className="font-semibold text-white"
+                            htmlFor="email"
+                        >
                             Email
                         </label>
                         <input
