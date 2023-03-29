@@ -54,7 +54,7 @@ export default function SearcherCard({ jobs, userID }) {
                                 >
                                     {data.company.name}
                                 </div>
-                                <div className="h-14 w-14">
+                                <div className="flex h-14 w-14 items-center justify-center">
                                     {data.company.logo ? (
                                         <img
                                             alt="logo"
@@ -206,7 +206,7 @@ export default function SearcherCard({ jobs, userID }) {
                                     >
                                         {data.company.name}
                                     </div>
-                                    <div className="h-8 w-8 md:h-10 md:w-10">
+                                    <div className="flex h-8 w-8 items-center justify-center md:h-10 md:w-10">
                                         {data.company.logo ? (
                                             <img
                                                 alt="logo"

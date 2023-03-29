@@ -20,9 +20,7 @@ export default function Post({ postData }) {
                             <li className="font-bold text-accent-500">
                                 {postData.author}
                             </li>
-                            <li className="font-light">
-                                {postData.datePublished}
-                            </li>
+                            
                         </div>
                     </div>
                 </div>
@@ -37,6 +35,9 @@ export default function Post({ postData }) {
                         <div className="text-[9px] md:text-xs">
                             {postData.commentNum}
                         </div>
+                    </div>
+                    <div className="font-light">
+                            {postData.datePublished}
                     </div>
                 </li>
             </ul>
