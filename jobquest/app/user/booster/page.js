@@ -1,6 +1,6 @@
 "use client";
 
-import BoosterJobEntry from "./boosterJobEntry";
+import BoosterJobEntry from "./BoosterJobEntry";
 import { use, useContext } from "react";
 import DataWrapper from "./DataWrapper";
 import { UserContext } from "@/utils/UserContext";
