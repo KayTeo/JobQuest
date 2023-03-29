@@ -135,7 +135,7 @@ export default function BoosterJobEntry({
                                     }}
                                     className="text:sm h-[24px] rounded-full bg-accent-500 px-2 font-bold text-white hover:bg-accent-300 md:h-[28px] md:text-base"
                                 >
-                                    View
+                                    {viewFlag ? "Back" : "View"}
                                 </button>
                             )}
                             <button
