@@ -24,6 +24,15 @@ async function updateEntry(userID, entry) {
         .delete();
 }
 
+async function deleteEntry(userID, entry) {
+    await db
+        .collection("users")
+        .doc(userID)
+        .collection("wishlist")
+        .doc(entry.uuid)
+        .delete();
+}
+
 export default function WishEntry({ data, userID }) {
     const [expandCard, setExpandCard] = useState(false);
     const router = useRouter();
@@ -42,7 +51,13 @@ export default function WishEntry({ data, userID }) {
             } w-full flex-col items-center justify-start rounded-xl border border-black bg-white text-center text-xs font-bold text-dark-500`}
         >
             <div className="flex h-10 w-full items-center justify-between">
-                <button className="inline-flex">
+                <button
+                    onClick={() => {
+                        deleteEntry(userID, data);
+                        router.refresh();
+                    }}
+                    className="inline-flex"
+                >
                     <XCircleIcon className="w-7 text-red-500 hover:text-red-300" />
                 </button>
                 <div className="h-5 w-[30%] overflow-clip">
@@ -114,17 +129,16 @@ export default function WishEntry({ data, userID }) {
                     </div>
 
                     <div className="mt-3 flex w-full items-center justify-center gap-2">
-                        <button className="h-8 w-28 items-center justify-center rounded-full bg-accent-500 px-2 py-1 text-white hover:bg-accent-300">
-                            Visit Job Site
-                        </button>
-                        <button className="h-8 w-28 items-center justify-center rounded-full bg-accent-500 px-2 py-1 text-white hover:bg-accent-300">
-                            Find Similar
-                        </button>
+                        <a href={data.jobLink} target="_blank">
+                            <button className="h-8 w-28 items-center justify-center rounded-full bg-accent-500 px-2 py-1 text-white hover:bg-accent-300">
+                                Visit Job Site
+                            </button>
+                        </a>
                         <button
                             onClick={movetoTrack}
                             className="h-8 w-28 items-center justify-center rounded-full bg-accent-500 px-2 py-1 text-white hover:bg-accent-300"
                         >
-                            Add to Tracker
+                            Move to Tracker
                         </button>
                     </div>
                 </div>

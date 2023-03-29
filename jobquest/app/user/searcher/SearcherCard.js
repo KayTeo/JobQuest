@@ -20,7 +20,6 @@ async function moveToWishList(userID, data) {
 }
 
 export default function SearcherCard({ jobs, userID }) {
-    console.log(jobs);
     const [data, setData] = useState(jobs ? jobs[0] : null);
     const [expand, setExpand] = useState(false);
     const [jobEnd, setJobEnd] = useState(false);
@@ -40,8 +39,8 @@ export default function SearcherCard({ jobs, userID }) {
     return (
         <>
             {jobEnd ? (
-                <div className="p-5 text-2xl font-bold text-accent-500 md:text-3xl">
-                    Please Reload to Fetch New Set of Job Entries...
+                <div className="p-5 text-xl font-semibold text-accent-500">
+                    End of search results. Try searching again.
                 </div>
             ) : (
                 data &&
