@@ -10,6 +10,10 @@ const auth = firebase.auth();
 
 export default function SignInPage() {
     const router = useRouter();
+    if (Cookies.get("loggedin")) {
+        router.push("/user/tracker");
+    }
+
     function handleSubmit(e) {
         e.preventDefault();
         const email = e.target.email.value;
@@ -61,7 +65,10 @@ export default function SignInPage() {
                     className="flex flex-col items-center justify-center gap-4"
                 >
                     <div className="flex flex-col items-center justify-center gap-px">
-                        <label className="font-semibold text-white" for="email">
+                        <label
+                            className="font-semibold text-white"
+                            htmlFor="email"
+                        >
                             Email
                         </label>
                         <input

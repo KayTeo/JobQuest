@@ -1,406 +1,199 @@
 {
     "jobs": [
         {
-            "dueDate": "2023-04-10",
-            "jobTitle": "Test Program Manager",
-            "skills": [
-                "Internal Communications",
-                "Application Security",
-                "Quality Center",
-                "Test Engineering",
-                "Agile",
-                "QTP",
-                "Program Management",
-                "JIRA",
-                "Virtual Teams",
-                "PMP",
-                "Audits",
-                "Uft",
-                "ALM",
-                "Selenium",
-                "Test Strategy",
-                "Appium"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": null
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/d45f6badb60b024b68df4d70d722cac6/encora-technologies.jpg",
-                "name": "ENCORA TECHNOLOGIES PTE. LTD."
-            },
-            "jobType": [
-                "CONTRACTOR"
-            ],
-            "description": "Job Responsibilities    Overall accountable and responsible for delivery of testing services across the Digital Program   Manage and oversee the day-to-day delivery of test services by Bank appointed vendors in the conduct of testing   Works with the testing service providers and other stakeholders to review, provide feedback and sign off on the test strategy, test plans and other test service providers’ artefacts for the testing service delivery   Coordinates with the Test Governance team to ensure adoption of testing methods, standards and tools, and to coordinate any health checks or audits   Ensures that any changes to the scope of services are communicated to the respective test service      providers and the impact is factored in to the plan   Engages with various stakeholders (including but not limited to, application, security, infrastructure, business), testing service providers to ensure testing services meet the banks’ objectives and demand   Act as the first point of escalation for any issues raised by stakeholders, testing service providers   Quantify, manage, track and report test related statuses, SLA and KPIs, and ensure that defined testing transformation SLA and KPI targets are met for the portfolio accountable   Drive and collaborate with all stakeholders and test service providers to plan all testing related deliveries for the portfolio accountable   Participate and contribute in forums, as required, to drive testing transformation and innovation   Works closely with the Test Engineering Lead to provide inputs around domain specific test engineering      requirements and ensure that they are met   Establishes and maintains effective working relationships with the Vendor Test Managers/Test Leads      for the respective domains   Engages stakeholder communities to get their feedback on testing service delivery and identify      improvement opportunities to be fed back to the Test CoE team  Job Requirements    Bachelor’s Degree or Master’s degree in computer engineering or related field   Proven working experience in test delivery or equivalent role with at least 10 years’ relevant experience in large and complex organisations preferably in the area of Banking and Finance and at least 5 years’ senior manager experience in testing   Extensive experience in managing end to end delivery of testing services from multiple vendor test service providers   Proven experience in testing standards, tools, processes ; methodologies, frameworks, and various delivery      methodologies e.g. Agile, Hybrid Agile and Waterfall, DevOps   Proven, successful track record of managing shared IT service development and/ or IT Testing Services   Demonstrated success in developing highly effective working relationships with internal and external stakeholders to deliver collaboration, partnerships and services   Strong domain knowledge on Digital Program. Experience in managing testing on Digital platforms (Mobile and Internet Banking – Retail/ Corporate) will be an advantage   Strong attention to details, excellent analytical and problem solving skills   Experience in managing multiple external testing service providers   Experience in managing multi-cultural, diverse, direct and virtual teams   Experience in various testing tool suites like HP UFT/QTP, Loadrunner/Performance Center/Sitescope, HP ALM / Quality Center, Tosca, Appium, Java, Selenium, JIRA etc   Must display a high level of professional judgment, commitment, integrity, and teamwork   Excellent client facing, internal communications, written and verbal communication skills   Testing or quality certifications, PMP certifications, and Test Maturity Model integration (TMMi) Framework awareness will be preferred ",
-            "datePosted": "2023-03-27",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 12000,
-                "minValue": 9000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/banking-finance/test-program-manager-encora-technologies-5d56d40d7e2e428c390bece8b44d482e?source=MCF&event=Search",
-            "uuid": "7d7656dd-d77c-40f3-8323-d597d47b80f5"
-        },
-        {
             "dueDate": "2023-04-26",
-            "jobTitle": "Test Program Manager (Digital) - Ref: YC",
+            "jobTitle": "Executive Sous Chef",
             "skills": [
-                "Internal Communications",
-                "Software QA",
-                "Application Security",
-                "Quality Center",
-                "Quality Assurance",
-                "Test Engineering",
-                "JIRA",
-                "PMP",
-                "Audits",
-                "Banking",
-                "ALM",
-                "Selenium",
-                "Integration Testing",
-                "Test Strategy",
-                "Stakeholder Management",
-                "Appium",
-                "Service Delivery",
-                "Test Management",
-                "Test Planning"
+                "Recipes",
+                "Coaching",
+                "Team Worker",
+                "Ingredients",
+                "Cooking",
+                "Quality Improvement",
+                "Food Quality",
+                "Inventory",
+                "Purchasing",
+                "Problem Solving",
+                "Electrical",
+                "Sanitation",
+                "Budgeting",
+                "HACCP",
+                "Human Resources",
+                "Cost Control"
             ],
             "location": {
                 "country": "SG",
                 "locality": "Singapore",
-                "address": "INTERNATIONAL PLAZA, 10 ANSON ROAD"
+                "address": "SHANGRI-LA SINGAPORE, 22 ORANGE GROVE ROAD"
             },
             "company": {
                 "logo": null,
-                "name": "A-IT SOFTWARE SERVICES PTE LTD"
+                "name": "SHANGRI-LA HOTEL LIMITED"
             },
             "jobType": [
-                "CONTRACTOR"
+                "FULL_TIME"
             ],
-            "description": "Responsibilities •\tOverall accountable and responsible for delivery of testing services across the Digital Program •\tManage and oversee the day-to-day delivery of test services by Bank appointed vendors in the conduct of testing •\tWorks with the testing service providers and the Bank’s stakeholders to review, provide feedback and sign off on the test strategy, test plans and other test service providers’ artefacts for the testing service delivery •\tCoordinates with the Test Governance team to ensure adoption of testing methods, standards and tools, and to coordinate any health checks or audits •\tEnsures that any changes to the scope of services are communicated to the respective test service providers and the impact is factored in to the plan •\tEngages with the Bank’s various stakeholders (including but not limited to, application, security, infrastructure, business), testing service providers to ensure testing services meet the banks’ objectives and demand •\tAct as the first point of escalation for any issues raised by the Bank’s stakeholders, testing service providers •\tQuantify, manage, track and report test related statuses, SLA and KPIs, and ensure that defined testing transformation SLA and KPI targets are met for the portfolio accountable •\tDrive and collaborate with all the Bank’s stakeholders and test service providers to plan all testing related deliveries for the portfolio accountable •\tParticipate and contribute in forums, as required, to drive testing transformation and innovation •\tWorks closely with the Test Engineering Lead to provide inputs around domain specific test engineering requirements and ensure that they are met •\tEstablishes and maintains effective working relationships with the Vendor Test Managers/Test Leads for the respective domains •\tEngages stakeholder communities to get their feedback on testing service delivery and identify improvement opportunities to be fed back to the Test CoE team  Requirements •\tBachelor’s Degree or Master’s degree in computer engineering or related field •\tProven working experience in test delivery or equivalent role with at least 10 years’ relevant experience in large and complex organisations preferably in the area of Banking and Finance and at least 5 years’ senior manager experience in testing •\tExtensive experience in managing end to end delivery of testing services from multiple vendor test service providers •\tProven experience in testing standards, tools, processes ; methodologies, frameworks, and various delivery methodologies e.g. Agile, Hybrid Agile and Waterfall, DevOps •\tProven, successful track record of managing shared IT service development and/ or IT Testing Services •\tDemonstrated success in developing highly effective working relationships with internal and external stakeholders to deliver collaboration, partnerships and services •\tStrong domain knowledge on Digital Program. Experience in managing testing on Digital platforms (Mobile and Internet Banking – Retail/ Corporate) will be an advantage •\tStrong attention to details, excellent analytical and problem solving skills •\tExperience in managing multiple external testing service providers •\tExperience in managing multi-cultural, diverse, direct and virtual teams •\tExperience in various testing tool suites like HP UFT/QTP, Loadrunner/Performance Center/Sitescope, HP ALM / Quality Center, Tosca, Appium, Java, Selenium, JIRA etc •\tMust display a high level of professional judgment, commitment, integrity, and teamwork •\tExcellent client facing, internal communications, written and verbal communication skills •\tTesting or quality certifications, PMP certifications, and Test Maturity Model integration (TMMi) Framework awareness will be preferred ",
+            "description": "Drives and manage high standards of food preparation, service and profitability in the appointed kitchen (s), according to the standards set by the Management.    Provides personal coaching and guidance to improve.   Encourages ideas and suggestions for problem solving, quality improvement from staff.   Discusses suggestions with team members.   Acquainted and familiar with the use of all electrical and mechanical equipment in the kitchen and observes the safety precautions when handling them and assists to ensure all cooks are of required standard.   Knowing the delegation of Authority at your level   Check all set ups and responsible for all aspects of timing during service and ensure all food served is of the highest standard.   Drives restaurant and outlet quality and profitability.   Constantly checks the quality of food prepared with to taste and temperature.   Takes full responsibility of portion control, usage, wastage according to recipe standards..  Requirements:    Master of specialty cuisine techniques and ingredients   Culinary Apprenticeship   5 years’ work experience in a 5 star hotel environment   Highly advanced knowledge of authentic specialty cuisine   Motivator and self-starter   Team worker / builder   Displays initiative ; creativity   Strong interest to teach ; train   Positive attitude ",
             "datePosted": "2023-03-27",
             "salaryRange": {
                 "currency": "SGD",
-                "maxValue": 15000,
-                "minValue": 8000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/test-program-manager-ref-yc-a-it-software-services-22cc9cb356042b6545474d80c4026405?source=MCF&event=Search",
-            "uuid": "568c9250-622c-479a-aa9a-bb59d0e0466c"
-        },
-        {
-            "dueDate": "2023-04-20",
-            "jobTitle": "Loan IQ QA Test Lead - Banking",
-            "skills": [
-                "Excellent Communication Skills",
-                "Leadership",
-                "Automation Testing",
-                "LISA",
-                "Transparency",
-                "Data Quality",
-                "TestComplete",
-                "Uft",
-                "Selenium",
-                "Diplomacy",
-                "Java",
-                "API"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "TONG ENG BUILDING, 101 CECIL STREET"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/0599829c9e8fadb0bb0dcc1278f040da/atyeti.jpg",
-                "name": "ATYETI PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Key Responsibilities:  • Directs key initiatives within the business through the collection, analysis, review, reporting, documentation and communication of business needs and  requirements.  • Manages resource allocation of work on key projects/initiatives.  • Deals with complex and highly variable issues with substantial potential  business impact.  • Applies ingenuity and creativity to problem analysis and resolution in  complicated and/or novel situations.  • Advises or coach to new or lower-level personnel in the business processes and procedures of the business  • Provides in depth and sophisticated analysis with interpretive thinking to define problems and develop innovative solutions.  • Influences strategic functional decisions through advice, counsel or provided services that have direct impact on the business.  • Designs/analyzes complex reports to satisfy management requirements.  • Uses broad discretion in developing solutions for broad based business  reporting issues.  • Leads reengineering efforts in business's methodology, strategy, and  organizational goals.  • Applies/demonstrates advanced understanding of processes, procedures,  and policies for the aligned business  • Possesses a comprehensive understanding of how own area and others collectively integrate to contribute towards achieving business objectives.  • Persuades and influences others through developed communication and diplomacy skills with colleagues in other areas and occasional external customers.  • Utilizes excellent communication skills required to influence and negotiate with senior leaders (across functions); may communicate with external parties.  • Other duties and functions as assigned.  • Appropriately assess risk when business decisions are made, demonstrating particular consideration for the firm's reputation and safeguarding clients and assets, by driving compliance with applicable laws, rules and regulations, adhering to Policy, applying sound ethical judgment regarding personal behavior, conduct and business practices, and escalating, managing and  reporting control issues with transparency.  Desired Skills and Qualifications:  1. 10+ years experience with defining and implementing data quality programs;  2. Problem solving skills  3. Hands on knowledge of UFT tool, Java ; Microservices.  4. Loan IQ Application experience preferred.  5. Hands on experience in API Automation testing, Selenium Testing, Unit Test  Coverage (UTC) testing  6. Experience in application testing frameworks (preferably Desktop  application) such as- LISA, TestComplete, TestStack White etc  7. Excellent communication ; leadership to drive forums to resolve  ongoing/chronic client concerns  8. Bachelor’s/University degree or equivalent experience / Masters degree",
-            "datePosted": "2023-03-21",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 17000,
-                "minValue": 9000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/banking-finance/loan-iq-qa-test-lead-banking-atyeti-a1bdfbdfda2c1844ca4bcb0b07108f07?source=MCF&event=Search",
-            "uuid": "7061fd7d-13e8-4296-bb07-c0a6beee22e2"
-        },
-        {
-            "dueDate": "2023-04-04",
-            "jobTitle": "Software Testing Engineer for Proof of Concept (PoC)",
-            "skills": [
-                "Strategic Planning",
-                "Trend",
-                "Big Data",
-                "Cloud Computing",
-                "Customer Insight",
-                "Artificial Intelligence",
-                "Customer Success",
-                "Adaptable",
-                "Product Management",
-                "Communication Skills",
-                "Customer Service",
-                "Network Security",
-                "Business Requirements"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "THE SIGNATURE, 51 CHANGI BUSINESS PARK CENTRAL 2"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/4a663fed1ca6badeafbd191395681e47/persolkelly-singapore.jpg",
-                "name": "HUAWEI INTERNATIONAL PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Job Description:    Responsible for Huawei enterprise IT products PoC test in DC Lab.   Report to Singapore Enterprise IT solution director.   Require to provide PoC test proposal to local office/channel partner/key account customers together with corresponding IT solution manager.   Require to work as a team (majority will be supporting presales) with either regional/HQ or local team.   Require to work under minimum supervision to complete tasks assigned.   Require to be able to present PoC test proposal professionally and have technical training for local channel partners and customers  Job Requirement:    Tertiary qualification, Bachelor Degree in Computer Science/ Engineering/ Telecommunication with distinction.   Redhat RHCE or Huawei HCIA/HCIP or other relevant IT certification   Minimum 7 or more years of working experience for enterprise storage, familiar with storage products in the industry, such as DellEMC, Huawei ; etc.   IT production designing and implementation (Proficient in x86 server, SAN/NAS Storage, Virtualization(VMWare), Cloud Computing, windows series operation system, linux/unix system, etc.   Skills required: Understanding of IT technology such as x86, ARM server architecture, SAN/NAS storage architecture, data protection, DC disaster recovery, date migration.   Knowledge of OpenStack architecture, Oracle or DB database would be an added advantage.   Self-initiative to take the responsibility of task and learn new products/technologies.   Proficiency in Chinese language is required to liaise with native Chinese-speaking stakeholders  Interested candidate who wish to apply for this position, please click on APPLY NOW  EA License No.: 01C4394 | PERSOLKELLY Singapore Pte Ltd EA Registration No.: R1324138 | Kim Shi Ling Serene  By sending us your personal data and curriculum vitae (CV), you are deemed to consent to PERSOLKELLY Singapore Pte Ltd and its local and overseas subsidiaries and affiliates collecting, using and disclosing your personal data to prospective employers/companies based in any country for purposes of evaluating suitability for employment, conducting reference checks, administering employment related services, complying with Government’s COVID-19 health advisories and such other purposes stated in our privacy policy. Our full privacy policy is available at www.persolkelly.com.sg. If you wish to withdraw your consent, please drop us an email to let us know. Please feel free to contact us if you have any queries.",
-            "datePosted": "2023-03-21",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 12000,
+                "maxValue": 11000,
                 "minValue": 6000,
                 "payPeriod": "MONTH"
             },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/software-testing-engineer-proof-concept-huawei-international-98eed4a0b3f287ff3ac49e828c30b4f6?source=MCF&event=Search",
-            "uuid": "31e4a1aa-ebfb-4b88-aa5c-32a9615cf1d3"
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/executive-sous-chef-shangri-la-hotel-4383daefcd110633a07312da7f296bde?source=MCF&event=Search",
+            "uuid": "3bbaddcb-824c-4d71-bd94-d85afffd1d5e"
         },
         {
-            "dueDate": "2023-03-31",
-            "jobTitle": "Software Engineer (Senior) on Testing",
+            "dueDate": "2023-04-14",
+            "jobTitle": "SOUS CHEF",
             "skills": [
-                "Performance Testing",
-                "Kubernetes",
-                "Customer Experience",
-                "Test Cases",
-                "Test Automation",
-                "Software Testing",
-                "SaaS",
-                "Test Methodologies",
-                "Selenium",
-                "Docker",
-                "Java",
-                "Test Development",
-                "Software Development",
-                "Able To Work Independently"
+                "Recipes",
+                "Leadership",
+                "Ingredients",
+                "Quality Control",
+                "Food Safety",
+                "Cooking",
+                "Food Quality",
+                "Inventory",
+                "Purchasing",
+                "Sanitation",
+                "Fine Dining",
+                "HACCP",
+                "Scheduling",
+                "Food Service"
             ],
             "location": {
                 "country": "SG",
                 "locality": "Singapore",
-                "address": "71 AYER RAJAH CRESCENT"
+                "address": "GREATWOOD BUILDING, 43 CARPENTER STREET"
             },
             "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/9a37db45fcac1cb0739107a5c68f9ef4/telepathy-labs.JPG",
-                "name": "TELEPATHY LABS PTE. LTD."
+                "logo": null,
+                "name": "I'WA INTERNATIONAL PTE. LTD."
             },
             "jobType": [
                 "FULL_TIME"
             ],
-            "description": "Telepathy Labs  Was founded in 2016 as an AI company with the ambition of integrating AI into legacy businesses to help enterprises better manage their complex workflows and business structures. With our headquarters in the US, we now have 3 offices globally (Zurich and Singapore). Our technology revolves around these core philosophies - Innovation, Creativity and a Passion for improving performance to drive our company and our people forward. In Telepathy, we value our employees and provide them with the right resources and tools they need to help them achieve their goals and grow with us. Are you looking to make a difference in a fast-growing company? Come join us!  Job Description:  We’re looking for an exceptional, motivated Software Test Engineer to join us in building and supporting our state-of-the-art voice based conversational AI platform for the enterprise. You will be responsible to maintain our Java based test engine. Working with our international team, you will be required to develop test plans and test cases to help the development team to deliver high quality SaaS product to our internal team and customers. The role is a critical position and delivers huge impact both on the customer experience and on bottom-line performance within the organization.  Job Requirements:    Degree in Computer Science or related field with extensive experience and aptitude in software testing and support.   5 or more years of software test development experience.   Hands-on JAVA programming experience is a MUST.   Experience in developing automated tests and building code coverage   Experience in automated, load balancing, and performance testing   Proficiency with software test methodologies, tools, and processes   Experience with cloud based platforms (AWS/Azure) and UNIX/LINUX environment.   Strong analytical and problem solving skills   Self-directed, able to work independently and as a team.   An eagerness to learn new ways to perform your tasks in a more efficient way, and to improve yourself day after day   Excellent verbal and written communication skills.  Desirable:    Experience with voice-based testing.   Experience with containerized environments in a production setting (Docker Swarm, Kubernetes). ",
-            "datePosted": "2023-03-01",
+            "description": "Responsibilities for Sous Chef    Manage      all activities in the kitchen, including food preparation and production,      and management and training of kitchen staff   Ensure      efficient, cost-effective operation and profitability of food production   Supervise      and inspect all preparation and cooking equipment on a regular basis to      ensure that they are kept clean, sanitary, and in perfect operating order   Ensure      that food products, presentation, and plating are of the highest quality,      and are prepared to serve in a timely manner   Assume      the role as Executive Chef in his or her absence   Assure      adherence to all standards of food quality, preparation, recipes, and      presentation in conjunction with the specifications   Monitor      holding and storage operations, stocking and food rotation, and guarantee      food service sanitation standards are met   Assure      kitchen personnel is trained in best cleanliness and sanitation practices ",
+            "datePosted": "2023-03-15",
             "salaryRange": {
                 "currency": "SGD",
-                "maxValue": 11000,
-                "minValue": 7000,
+                "maxValue": 9000,
+                "minValue": 5500,
                 "payPeriod": "MONTH"
             },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/software-engineer-testing-telepathy-labs-9da20c9863b309b466ee34964502412d?source=MCF&event=Search",
-            "uuid": "a36d7c5a-96b0-4345-b2a7-5864abdb4021"
-        },
-        {
-            "dueDate": "2023-04-22",
-            "jobTitle": "Test Engineer",
-            "skills": [
-                "Performance Testing",
-                "JSON",
-                "XML",
-                "UI",
-                "Test Cases",
-                "Test Automation",
-                "SQL",
-                "Python",
-                "Continuous Integration",
-                "Docker",
-                "Java",
-                "Software Development",
-                "LoadRunner"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": null
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/a4486fd731c589506086600550939bf6/aurumjin-consulting.png",
-                "name": "AURUMJIN CONSULTING PTE. LTD."
-            },
-            "jobType": [
-                "CONTRACTOR"
-            ],
-            "description": "Responsible for developing and maintaining robust testing tools and platforms.    Develop a testing framework which supports extensive automation of tests cases, including data setup, mocking and stubs for functional and end-to-end testing.   Solve for the customer -understand the WHY and enrich the specification to create a solution which delights customers Develop test plans, automate and execute tests for UI, APIs, microservices and data platform.   Create, own, manage test data for end to end testing Execute and certify performance tests in a non-production environment.   Drive the end to end testing of features and certifies features for sprints and releases.   Setup and automate the bring-up of test environments Engage and communicate test results and highlights any potential quality, performance, SLA and security risks to stakeholders Reviews and provides input to developers on functional test cases  Skills ; Expertise reqd    BS in computer science or equivalent with 4+ years hands on professional software development or test automation experience with Automated Testing   Hands-on skillset with automating tests for RESTful APIs, microservices and data platform   Knowledge of SQL, Java or Python, JSON, XML   Performance testing experience using tools like JMeter, Gatling, Loadrunner   Experience using continuous integration and delivery tools such as Jenkins, Bamboo, TeamCity and container technologies such as Docker is required   Experience with SQL is a must and NoSQL databases is a plus ",
-            "datePosted": "2023-03-23",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 11000,
-                "minValue": 7000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/test-engineer-aurumjin-consulting-4d5677144ec455e00eb74709c25ace69?source=MCF&event=Search",
-            "uuid": "d62be0fb-d8a7-4482-8776-7bae290b4403"
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/sous-chef-iwa-international-fe18d8169a18c850faa83ea052354307?source=MCF&event=SuggestedJob",
+            "uuid": "caaaaa83-2f09-49c8-bad9-3e83da802e88"
         },
         {
             "dueDate": "2023-04-06",
-            "jobTitle": "Test Engineer",
+            "jobTitle": "CHIEF CHEF",
             "skills": [
-                "Performance Testing",
-                "Web Services",
-                "Oracle",
-                "Agile Methodologies",
-                "SDLC",
-                "Test Cases",
-                "Test Automation",
-                "Written Skills",
-                "Writing",
-                "Banking",
-                "Java",
-                "Virtualization",
-                "Able To Work Independently"
+                "Mentoring",
+                "Management Skills",
+                "Ingredients",
+                "Cooking",
+                "Arranging",
+                "Purchasing",
+                "MS Office",
+                "Inventory Management",
+                "Restaurant Management",
+                "Climate",
+                "Budgeting",
+                "Hotel Management",
+                "Workplace Safety and Health"
             ],
             "location": {
                 "country": "SG",
                 "locality": "Singapore",
-                "address": "63 CHULIA STREET"
+                "address": "RITZ @ FARRER, 142 RACE COURSE ROAD"
             },
             "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/93b3bdb0240fe3bf1d062b40ab1c429d/oversea-chinese-banking-corporation.jpg",
-                "name": "OVERSEA-CHINESE BANKING CORPORATION LIMITED"
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Job Description ; Requirements Description - External    Involved in collecting performance test requirements across different application technologies   Involved in writing performance test plans by incorporating performance testing objectives, testing environment, user profiles, risks, test scenarios, explanation about the tools used, schedules and analysis, monitors and presentation of results.   Responsible for developing and modifying performance test scripts using Microfocus (MF) Performance Centre (PC) or tools like JMeter. Should be able to customize and enhance test scripts as per workload requirements   Responsible to develop and execute test scripts using protocols such as Web (http/html), web services, SAP, Java user using MF Performance Centre   Responsible to create ; execute test scenarios as per agreed workload model using MF PC or any other performance testing tool such as JMeter.   Responsible for application performance monitoring either using industry wide APM tools such as Nimsoft, Appdynamics or OS commands such as perfmon, Nmon etc.   Responsible to perform thorough analysis of performance test results to report the server response times, throughput, Hits/sec, Trans/sec Transaction Response under load, Web Server Monitors, App server monitors, system monitors such as java processes, Oracle DB connections monitoring and other Performance metrics.   Worked with App-Dev, Production, Technical and Business Managers in planning, scheduling, developing, and executing performance tests.   Responsible to work on both waterfall and Agile methodologies   Responsible to integrate performance testing into CI/CD Pipeline for applications following Agile methodologies  Qualifications - External    At least 3-8 years of experience in Performance Testing in banking domain.   Must have hands-on experience on end-to-end performance testing lifecycle   Must have hands-on experience working with Agile/DevOps model and integrate ;automate performance testing in CI/CD model   Must have hands-on experience on performance testing tools such as MF Performance Centre and JMeter. Certification on these tools is a plus.   Must have hands-on experience on APM tools such as Nimsoft, AppDynamics, Splunk or Operating system commands such as perfmon and Nmon   Must have hands-on experience on formulating and executing Mobile on-device performance testing ; engineering   Knowledge in service virtualization using any SV tools is a plus.   Good knowledge of SDLC processes, performance testing methodology and different types of testing.   ISTQB/ISEB certifications is an advantage   Excellent communication (spoken and written) skills and able to work independently. ",
-            "datePosted": "2023-03-23",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 12000,
-                "minValue": 8000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/banking-finance/test-engineer-oversea-chinese-banking-corporation-215c6197d56c73069a8fc96375877afe?source=MCF&event=Search",
-            "uuid": "5473ad51-7d85-4127-a9d7-cf7d172cf956"
-        },
-        {
-            "dueDate": "2023-04-07",
-            "jobTitle": "Test Manager",
-            "skills": [
-                "Document Management",
-                "UAT",
-                "Quality Assurance",
-                "Interpersonal Skills",
-                "Loan Origination",
-                "Agile",
-                "Test Cases",
-                "Test Automation",
-                "JIRA",
-                "Software Testing",
-                "Selenium",
-                "Test Strategy",
-                "Test Execution",
-                "OCR",
-                "Test Management",
-                "Test Planning"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": null
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/3a7786ca1526b833aef69b8722a1fc56/matrix-process-automation.png",
-                "name": "MATRIX PROCESS AUTOMATION PTE. LTD."
-            },
-            "jobType": [
-                "CONTRACTOR"
-            ],
-            "description": "   Should have good understanding  on the Document Management system with OCR capabilities and multiple integrations.   Must played the test manager role earlier in banks   Must  drafted test strategy/test plan/reporting in previous role   Strong domain knowledge on the treasury/payments systems like G3/SWIFT   Should have good logical thinking   Able to handle at least 5 resources efficiently   Should have proven records on agile delivery approaches   Must have great communication and interpersonal skills and should be a good  team player   Should able to align the plans and execution with the overall program execution plan   Should be flexible while employing the shared resources (multiple system will be shared across various projects).   Experience with Loan Origination system will be added advantage  ",
-            "datePosted": "2023-03-24",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 10350,
-                "minValue": 6900,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/test-manager-matrix-process-automation-bbdaacbda5e6e95339ee60054e12b92c?source=MCF&event=Search",
-            "uuid": "8a0a6647-29e6-4442-9d3f-b6ab36ee1e04"
-        },
-        {
-            "dueDate": "2023-04-23",
-            "jobTitle": "Test Program Manager JR 10666",
-            "skills": [
-                "Internal Communications",
-                "Application Security",
-                "Quality Center",
-                "Test Engineering",
-                "MS Word",
-                "JIRA",
-                "Virtual Teams",
-                "PMP",
-                "Attention to Details",
-                "ALM",
-                "Selenium",
-                "Test Strategy",
-                "Appium",
-                "Service Delivery"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "BYLANDS BUILDING, 135 MIDDLE ROAD"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/8243d2b181505ccc23d510596ea214a5/infogain-solutions.png",
-                "name": "INFOGAIN SOLUTIONS PTE. LIMITED"
+                "logo": null,
+                "name": "OCEANDA PTE. LTD."
             },
             "jobType": [
                 "CONTRACTOR",
                 "FULL_TIME"
             ],
-            "description": "Infogain (Singapore) invite candidates to apply for the following positions to join our team. Role: Test Program Manager Job Requisition No: JR10666 Job level: Minimum 5 years of related experience (L2) or 6-9 years of relevant experience (L3)  Test Program Manager (Digital), Group Infrastructure ; Platform Services Job Responsibilities    Overall      accountable and responsible for delivery of testing services across the      Digital Program   Manage and      oversee the day-to-day delivery of test services by Bank appointed vendors      in the conduct of testing   Works with      the testing service providers and other clients stakeholders to review, provide      feedback and sign off on the test strategy, test plans and other test      service providers’ artefacts for the testing service delivery   Coordinates      with the Test Governance team to ensure adoption of testing methods,      standards and tools, and to coordinate any health checks or audits   Ensures that      any changes to the scope of services are communicated to the respective      test service providers and the impact is factored in to the plan   Engages with      various clients stakeholders      (including but not limited to, application, security, infrastructure,      business), testing service providers to ensure testing services meet the      banks’ objectives and demand   Act as the      first point of escalation for any issues raised by clients     stakeholders, testing service providers   Quantify,      manage, track and report test related statuses, SLA and KPIs, and ensure      that defined testing transformation SLA and KPI targets are met for the      portfolio accountable   Drive and      collaborate with all clients stakeholders and test service      providers to plan all testing related deliveries for the portfolio      accountable   Participate      and contribute in forums, as required, to drive testing transformation and      innovation   Works closely      with the Test Engineering Lead to provide inputs around domain specific      test engineering requirements and ensure that they are met   Establishes      and maintains effective working relationships with the Vendor Test      Managers/Test Leads for the respective domains   Engages      stakeholder communities to get their feedback on testing service delivery      and identify improvement opportunities to be fed back to the Test CoE team  Job Requirements    Bachelor’s      Degree or Master’s degree in computer engineering or related field   Proven      working experience in test delivery or equivalent role with at least 10      years’ relevant experience in large and complex organizations preferably in the area of Banking      and Finance and at least 5 years’ senior manager experience in testing   Extensive      experience in managing end to end delivery of testing services from      multiple vendor test service providers   Proven      experience in testing standards, tools, processes ; methodologies, frameworks,      and various delivery methodologies e.g. Agile, Hybrid Agile and Waterfall,      DevOps   Proven,      successful track record of managing shared IT service development and/ or      IT Testing Services   Demonstrated      success in developing highly effective working relationships with internal      and external stakeholders to deliver collaboration, partnerships and      services   Strong domain      knowledge on Digital Program. Experience in managing testing on Digital      platforms (Mobile and Internet Banking – Retail/ Corporate) will be an      advantage   Strong      attention to details, excellent analytical and problem solving skills   Experience in      managing multiple external testing service providers   Experience in      managing multi-cultural, diverse, direct and virtual teams   Experience in      various testing tool suites like HP UFT/QTP, Loadrunner/Performance      Center/Sitescope, HP ALM / Quality Center, Tosca, Appium, Java, Selenium,      JIRA etc   Must display      a high level of professional judgment, commitment, integrity, and teamwork   Excellent      client facing, internal communications, written and verbal communication      skills   Testing or      quality certifications, PMP certifications, and Test Maturity Model      integration (TMMi) Framework awareness will be preferred  Please forward your resume in MS word format to Suganthi@infogainglobal.com and Careers@infogainglobal.com Please refer your friends for any IT openings as we have various positions. Please do not send PDF Format Resume . Send the following details 1. Notice period 2. Current Salary 3. Expected Salary 4. Visa Status in Singapore",
-            "datePosted": "2023-03-24",
+            "description": "Chief chef duties and responsibilities    Responsible for managing the end to end kitchen operations   Overseeing the food preparation and presentation process in line with the laid out guidelines and highest standards   Creating new menus or updating existing dishes with the sous chef and chef de partie ensuring the variety and quality of the servings   Keeping a close eye on presentation and polishing the dishes before they reach the customer.   Budgeting, planning, food purchasing, and inventory management   Maintaining the highest standard of hygiene in the kitchen area   Overseeing Recruitment, training, and mentoring process for junior chefs and commis   Arranging repairs and replacement of broken equipment and appliances   Promote a climate of positive work culture and motivate the workers as and when required.  Requirements    Prior experience in working as a Chef with a reputed restaurant, cruise, or similar organization   Exceptional kitchen management skills   Ability in delegating and monitoring responsibilities   Outstanding communication and leadership skills   Up to date with the culinary trends and professional kitchen operations   Familiar with computer programs like MS Office, restaurant management software, and POS   Trained in health and safety standards   Professional degree in hotel management, culinary science, or similar certification   Ability to work evenings, weekends, and holidays can apply   Willing to provide 24/`7 support when ever Restaurant Operations Support Required is must ",
+            "datePosted": "2023-03-23",
             "salaryRange": {
                 "currency": "SGD",
                 "maxValue": 10500,
-                "minValue": 8500,
+                "minValue": 6500,
                 "payPeriod": "MONTH"
             },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/banking-finance/test-program-manager-jr-10666-infogain-solutions-e958f88fc3632162f2a23eefdf691057?source=MCF&event=Search",
-            "uuid": "cbdba275-59d5-4c3b-804d-b9bd81bbd829"
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/chief-chef-oceanda-8b7fafc2ab4061bb137b6fc97d3658fa?source=MCF&event=Search",
+            "uuid": "d4caebf5-f4dd-44c1-ba9b-c69927c49c5f"
         },
         {
-            "dueDate": "2023-04-07",
-            "jobTitle": "Technical Specialist – Application Security Testing",
+            "dueDate": "2023-04-05",
+            "jobTitle": "Executive Chef",
             "skills": [
-                "Troubleshooting",
-                "Application Security",
-                "Customerfacing",
-                "Administration",
-                "Soft Skills",
-                "Microsoft SQL Server",
-                "Defect Tracking",
-                "Security Management",
-                "SQL",
-                "Technology Implementation",
-                "Application Security Architecture",
-                "Windows",
-                "Web Applications",
-                "Linux"
+                "Recipes",
+                "Excellent Communication Skills",
+                "Leadership",
+                "Ingredients",
+                "Quality Control",
+                "Food Safety",
+                "Restaurants",
+                "Cooking",
+                "Food Quality",
+                "Inventory",
+                "Purchasing",
+                "Sanitation",
+                "Compliance",
+                "Human Resources",
+                "Catering",
+                "Food Service"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "CHENG SAN CENTRE, 532 ANG MO KIO AVENUE 10"
+            },
+            "company": {
+                "logo": null,
+                "name": "GOWRI'S GLOBAL MARKETING PTE. LTD."
+            },
+            "jobType": [
+                "CONTRACTOR",
+                "FULL_TIME"
+            ],
+            "description": "Executive Chef Responsibilities: •\tEnsuring promptness, freshness, and quality of dishes. •\tCoordinating cooks' tasks. •\tImplementing hygiene policies and examining equipment for cleanliness. •\tDesigning new recipes, planning menus, and selecting plate presentations. •\tReviewing staffing levels to meet service, operational, and financial objectives. •\tHiring and training kitchen staff, such as cooks, food preparation workers, and dishwashers. •\tPerforming administrative tasks, taking stock of food and equipment supplies, and doing purchase orders. •\tSetting and monitoring performance standards for staff. •\tObtaining feedback on food and service quality, and handling customer problems and complaints.  Executive Chef Requirements: •\tAdvanced knowledge of food professional principles and practices. •\tProficient knowledge of human resources management. •\tExcellent communication skills. •\tAbility to meet deadlines.",
+            "datePosted": "2023-03-22",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 10500,
+                "minValue": 6500,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/executive-chef-gowris-global-marketing-2bc625e2ed97415fc8382c1f3c8cb303?source=MCF&event=Search",
+            "uuid": "ddc049ba-2e2b-4612-8a1d-2699146e6802"
+        },
+        {
+            "dueDate": "2023-04-22",
+            "jobTitle": "Executive Chef",
+            "skills": [
+                "Recipes",
+                "Staff Training",
+                "Leadership",
+                "Ingredients",
+                "Food Safety",
+                "Cooking",
+                "Appraisals",
+                "Food Quality",
+                "Inventory",
+                "Cost Management",
+                "Purchasing",
+                "New Hire Training",
+                "Sanitation",
+                "Compliance",
+                "Catering",
+                "Food Service",
+                "Japanese"
             ],
             "location": {
                 "country": "SG",
@@ -408,444 +201,416 @@
                 "address": null
             },
             "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/4feda64bd6e19fb5725a3b47c6d14fc9/hcl-singapore.jpg",
-                "name": "HCL SINGAPORE PTE. LTD."
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/fe6d94e763f4945c7a8fb5a22969a479/como-lifestyle.jpg",
+                "name": "COMO LIFESTYLE PTE. LTD."
             },
             "jobType": [
                 "FULL_TIME"
             ],
-            "description": "The AppScan Technical Specialist is an exciting role within HCL’s fast-growing $1B+ software business. The AppScan Technical Specialist will capitalize on the ever-increasing demand for AppScan, the leading Application Security management platform which HCL recently acquired. In this role, the candidate will collaborate routinely with Clients, Resellers, HCL Account Managers, HCL Client Success teams, and other HCL Channels teams.  Responsibilities    The primary focus of this role is helping AppScan customers succeed in their Application Security program goals.   Assist clients in the implementation and usage of HCL AppScan DAST products including AppScan Enterprise, AppScan Standard, and related tools.   Troubleshooting AppScan Enterprise configuration issues.   Configuring and running vulnerability scans using AppScan Enterprise and AppScan Standard.   Troubleshooting common scan issues including logins, session issues, false positives, and false negatives.   Analyzing/interpreting scan results and providing detailed explanations to customers.   Provide training sessions on AppScan products.   Assisting with integrations between AppScan and common DevOps tools such as Jenkins and Jira.  Essential Requirements (Skills Requirements)    Bachelor's degree or equivalent in BE/BTech/BSc or MSc in IT.   Years of experience: 10+ years.   Experience in best Application Security Testing practices and troubleshooting skills in current versions of AppScan Enterprise and AppScan Standard is required.   Should additionally have broad knowledge and demonstrated experience in core Application Security concepts (e.g. OWASP Top 10) and testing methodologies (DAST, SAST, IAST, SCA, etc.), as well as demonstrated strong general troubleshooting skills.   Experience in automating Application Security.   Experience in any automation server tools like Jenkins.   Experience in using defect tracking tools like Jira.   Experience in both Windows and Linux usage and basic administration required, as well as basic familiarity with Microsoft SQL server.   Strong written and verbal communications skills are critical as this person will be interfacing with diverse technical and business audiences.  GOOD TO HAVE    Experience in developing web applications using Node JS technology.  Technical / Professional Skills    Application Security Tools (Veracode, CheckMarx, Coverity, Synopsis, MF Fortify, BugFix, Netsparker, Black Duck, etc.).  Non-Technical / Soft Skills    Candidate should be a proactive problem solver with customer-facing experience, strong written and spoken communication skills, and be comfortable speaking in an public forum. Must be able to understand and translate customer requirements and challenges into successful Application Security Testing Processes. ",
-            "datePosted": "2023-03-24",
+            "description": "Key Tasks of the Executive Chef  · Enforce performance standards, policies and procedures in Food ; Beverage kitchen department in line with company regulations. · Ensure strict compliance towards food and hygiene policies and procedures. · Introduce and implement new ideas for the customer dining experience. · Fully aware of trends in the industry and make regular suggestions for improvement of the menu. · Efficient food cost management. · Minimize expenditure to increase profitability with the guidelines set by the budget. · Support and work closely with the Restaurant Operations and Marketing team in developing special festive dining menus and/or marketing initiatives to drive traffic to the restaurant and increase per customer spend · Able to interact with customer(s) as and when required to further enhance the dining experience of customers · Implement direction and organize the culinary team to ensure smooth operation of the kitchen. · To hold regular performance appraisals with members of the culinary team, identifying areas for development and training needs, and ensuring that this training is effective. · Set and explain clearly to team members regarding collective targets and standards that should be achieved as a team. · To organize and implement training for the needs of the kitchen team as a whole and the individual staff as needed. Specific duties ; Responsibilities:    Responsible in preparing Highest Quality of tempura for guests   Maintain cleanliness and organization of Tempura Counter   Order and receive raw ingredients and dry goods   Knowledge in food costing and inventory   Ensure fresh quality of ingredients for best tasting Tempura   Ability to instruct and teach other Chef(s) in the preparation and presentation of Tempura   Actively display knowledge of all food and beverage menu items   Perform inventory and ensure all supplies are in stock   Efficient Food cost management   Ensure all food preparation and operating standards including food safety and quality are strictly adhered to   Provide a high level of attention to guest satisfaction and maintain positive relationships with internal and external customers  Requirements    Able to work under pressure on a very small space   At least 8 years’ experience in Tempura Cooking style   At least 2 years as a Executive Chef or Executive Sous Chef   Another Japanese cooking style experience would be a plus, but not mandatory. ",
+            "datePosted": "2023-03-23",
             "salaryRange": {
                 "currency": "SGD",
                 "maxValue": 12000,
-                "minValue": 9000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/technical-specialist-%E2%80%93-application-security-testing-hcl-singapore-5f50152bd1cbcfcc151424a473c42fce?source=MCF&event=Search",
-            "uuid": "d3ef30cf-5193-4c1d-b8ec-b5693b37c511"
-        },
-        {
-            "dueDate": "2023-04-07",
-            "jobTitle": "Senior Technical Specialist – Application Security Testing",
-            "skills": [
-                "Troubleshooting",
-                "Application Security",
-                "Emerging Technology",
-                "Customerfacing",
-                "Administration",
-                "Soft Skills",
-                "Microsoft SQL Server",
-                "Defect Tracking",
-                "Security Management",
-                "SQL",
-                "Technology Implementation",
-                "Application Security Architecture",
-                "Windows",
-                "Web Applications",
-                "Linux"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": null
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/4feda64bd6e19fb5725a3b47c6d14fc9/hcl-singapore.jpg",
-                "name": "HCL SINGAPORE PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "The AppScan Senior Technical Specialist is an exciting role within HCL’s fast-growing $1B+ software business. The AppScan Senior Technical Specialist will capitalize on the ever-increasing demand for AppScan, the leading Application Security management platform which HCL recently acquired. In this role, the candidate will collaborate routinely with Clients, Resellers, HCL Account Managers, HCL Client Success teams, and other HCL Channels teams.  Responsibilities    The primary focus of this role is helping AppScan customers succeed in their Application Security program goals.   Assist clients in the implementation and usage of HCL AppScan DAST products including AppScan Enterprise, AppScan Standard, and related tools.   Troubleshooting AppScan Enterprise configuration issues.   Configuring and running vulnerability scans using AppScan Enterprise and AppScan Standard.   Troubleshooting common scan issues including logins, session issues, false positives, and false negatives.   Analyzing/interpreting scan results and providing detailed explanations to customers.   Provide training sessions on AppScan products.   Assisting with integrations between AppScan and common DevOps tools such as Jenkins and Jira.  Essential Requirements (Skills Requirements)    Bachelor's degree or equivalent in BE/BTech/BSc or MSc in IT.   Years of experience: 10+ years.   Experience in best Application Security Testing practices and troubleshooting skills in current versions of AppScan Enterprise and AppScan Standard is required.   Should additionally have broad knowledge and demonstrated experience in core Application Security concepts (e.g. OWASP Top 10) and testing methodologies (DAST, SAST, IAST, SCA, etc.), as well as demonstrated strong general troubleshooting skills.   Experience in automating Application Security.   Experience in any automation server tools like Jenkins.   Experience in using defect tracking tools like Jira.   Experience in both Windows and Linux usage and basic administration required, as well as basic familiarity with Microsoft SQL server.   Strong written and verbal communications skills are critical as this person will be interfacing with diverse technical and business audiences.  GOOD TO HAVE    Experience in developing web applications using Node JS technology.  Technical / Professional Skills    Application Security Tools (Veracode, CheckMarx, Coverity, Synopsis, MF Fortify, BugFix, Netsparker, Black Duck, etc.).  Non-Technical / Soft Skills    Candidate should be a proactive problem solver with customer-facing experience, strong written and spoken communication skills, and be comfortable speaking in an public forum. Must be able to understand and translate customer requirements and challenges into successful Application Security Testing Processes. ",
-            "datePosted": "2023-03-24",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 12000,
-                "minValue": 9000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-technical-specialist-%E2%80%93-application-security-testing-hcl-singapore-c9f8c04a1516601b524180c408e3af24?source=MCF&event=Search",
-            "uuid": "caad2a79-74fd-4a67-9d6b-19258451dbc9"
-        },
-        {
-            "dueDate": "2023-03-29",
-            "jobTitle": "22578674 Application Security Testing Manager (SVP/Hybrid)",
-            "skills": [
-                "Application Security",
-                "Kubernetes",
-                "Cloud Computing",
-                "Third Party Management",
-                "Artifactory",
-                "Maven",
-                "Enterprise Architecture",
-                "CISA",
-                "CISSP",
-                "Threat Modeling"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "5 CHANGI BUSINESS PARK CRESCENT"
-            },
-            "company": {
-                "logo": null,
-                "name": "CITIBANK N.A."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Description:  The position is a cross-functional role that will be responsible for various Application Security program initiatives. The position reports directly to the Application Security Program Director.  The successful candidate must be an individual who understands modern software development trends, understands engineering-led software security practices, and keeps up with the ever evolving cyber security threat landscape. The successful candidate will liaise with internal groups and our regional partners to ensure that program deliverables are met. Success in the role requires an innovative mind, a proven track record of delivering solutions that meet security needs, integrate application security into our DevOps pipeline, automate security as code and enable successful detection and response to any and all threats in our environment. The individual will work closely with SSDLC program to contribute to defining application security testing standards and policies.  Responsibilities include defining testing services and methodologies (be they tool-based and/or manual) in the early SSDLC lifecycle.  The primary focus will address testing needs within development organizations striving for continuous deployment and using automated security tooling including SAST, DAST and SCA. Within his/her leadership role, this individual is expected to mentor team members, set direction and lead execution of services as a hand-on participant.   Key Responsibilities: The candidate will be responsible for the aspects of the Application Security Program initiatives including but not limited to the following:    Establish/manage multiple security programs that support the security testing requirements at the bank   Forging and maintaining strong working relationships with development functions/teams, product delivery teams, project management, third party management, enterprise architecture, audit teams, etc.   Participate in security and technology strategic planning to ensure identified risk governance is incorporated into the CISO enterprise strategy.   In partnership with business sectors,  run delegate action groups to provide recommendations to strengthen  development processes and security testing   Appropriately assess risk and provide software security advice when business decisions are made   Interface with Application Security Program Team  to oversee Program Projects and Initiatives and make strategic recommendations to senior manager on standards and policy changes  Qualifications    Manage APAC Early Application Vulnerability Detection (EAVD) operations and collaborate with NAM stakeholders to drive security initiatives across the region   Experience in key activities within software security group such Threat Modeling / Application Risk Assessment, Vulnerability Assessments, Training.   Pre-requisites for this position are a Bachelor's Degree with 4 - 6 years' experience in application development or application secure code review   Experience must include experience as a technical lead or manager   Knowledge of cloud computing concepts and DevOps tools (OpenShift, Kubernetes, Docker, Chef, etc)   Experience using or testing cloud platforms (AWS, Google, Azure, etc)  and security in/of the cloud is a plus   Understanding of security, web-based and infrastructure vulnerabilities is required   Experience in source code management, build and deployment technologies such as RLM, Udeploy, Jenkins, Artifactory, Maven, GitHub, etc   Experience conducting vulnerability assessments and articulating security issues to technical and non-technical audience.   Understanding of Checkmarx, AppScan Source, Fortify, Veracode, SonarQube, Snyk, Sonatype or Black Duck platform is a plus.   Knowledge of tools and processes used to expose common vulnerabilities and implement countermeasures is expected.   Excellent communication skills (written and verbal) and the ability to communicate with all levels of staff and management are also essential.   Demonstrated knowledge of recognized security industry standards and leading practices (e.g., FFIEC, NIST, C2M2, ISO)   Relevant professional certifications: GIAC, CISA, CISM, CRISC, CISSP or equivalent desired   Effective strategic planning and execution abilities with exceptional planning   Demonstrate advanced functional understanding of Security industry operations, technologies.  Education:    Bachelor’s degree/University degree or equivalent experience   Master’s degree preferred ",
-            "datePosted": "2023-02-27",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 20000,
-                "minValue": 15000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/22578674-application-security-testing-manager-citibank-na-9dd1325ba6f5c35007d061421f70b1f8?source=MCF&event=Search",
-            "uuid": "7e877d2b-4f6e-46a8-8e43-591e454818d8"
-        },
-        {
-            "dueDate": "2023-03-29",
-            "jobTitle": "22553172 Compliance Testing Senior Officer - Senior Vice President",
-            "skills": [
-                "Negotiation",
-                "Adaptive",
-                "Remediation",
-                "Strong Attention To Detail",
-                "Assessing",
-                "Transparency",
-                "Risk Management",
-                "Auditing",
-                "Presentation Skills",
-                "Internal Audit",
-                "Articulate",
-                "Regulatory Requirements",
-                "Audit",
-                "Financial Services"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "5 CHANGI BUSINESS PARK CRESCENT"
-            },
-            "company": {
-                "logo": null,
-                "name": "CITIBANK N.A."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Serves as a senior compliance risk officer for Independent Compliance Risk Management (ICRM)’s Testing team responsible for assessing compliance risks and controls implemented by the first and second line of defense. Also responsible for performing risk assessments of Citi's compliance risks; performing independent testing activities (testing and on-going monitoring) to assess the design and effectiveness of key controls designed to address compliance risk; reporting and escalating control issues and any violations of laws or breaches of policy; and validating adequacy of remediation taken to address reported issues. Key Activities include:    Developing, implementing, and executing compliance testing, continuous testing, and reporting programs within an assigned region in accordance with the Compliance Testing (CT) Plan.   Participating in the planning, executing, and reporting of compliance testing reviews and compliance and regulatory issue validation activities for a component of a product line, function, or legal entity within an assigned region in accordance with CT Plan.   Serving as a lead reviewer for complex reviews, analysing report findings, and communicating findings to corresponding control/process owners.   Ensuring the timely delivery of high quality, value added testing and audit reports for a portfolio of business activities, which meet the requirements of the Boards of Citigroup and Citibank, their affiliates, and of Citi’s respective regulators, globally.   Analysing and documenting report findings, and having preliminary discussions with corresponding control/process owners.   Assisting with development of Compliance Testing Risk Assessments, Monitoring Monthly, and Quarterly Summaries and the development and enhancement of the Compliance Testing Methodologies and Standards for auditing, testing, monitoring, and reporting.   Utilizing innovative compliance testing solutions including Data Analytics to increase value and reduce costs of compliance-related activities.   Developing effective relationships within CT function and with other stakeholders including Business process owners and Internal Audit function.   Identifying industry best practices and share insight with the CT teams on a regular basis.   Informing CT management of significant compliance matters that require their attention or action.   Additional duties as assigned.   Appropriately assess risk when business decisions are made, demonstrating particular consideration for the firm's reputation and safeguarding Citigroup, its clients and assets, by driving compliance with applicable laws, rules and regulations, adhering to Policy, applying sound ethical judgment regarding personal behavior, conduct and business practices, and escalating, managing and reporting control issues with transparency.  Qualifications:    10+ years of experience   Expertise of Compliance laws, rules, regulations, risks and typologies   Experience in planning, executing, and reporting on compliance testing reviews and regulatory issue validation activities   Knowledge and extensive experience with auditing principles including audit planning, risk assessments, development of risks and controls matrices, processes and controls design assessments, controls operating effectiveness testing, transactional access segregation of duties, transactional testing, surveillance systems, and reporting activities   Demonstrated career progression within highly respected diversified institutions with complex and diverse products and customers   Understanding of rules, laws, and regulations, and specific regulatory requirements impacting financial services and [insert product, function, legal entity or regional nature of role as required]   Strong interpersonal skills for building strong relationships with stakeholders and engaging teams   Effectiveness in working within a large scale and complex matrix organization is essential   Effective negotiation skills, a proactive and “no surprises” approach in communicating issues, and strength in sustaining independent views   Excellent oral communication and writing skills in interacting with non-executives and executive management and across a number of business lines and control functions   Willingness to travel   Must be a self-starter, flexible, innovative and adaptive   Highly motivated, strong attention to detail, team oriented, organized   Strong presentation skills with the ability to articulate complex problems and solutions through concise and clear messaging   Ability to work collaboratively with regional and global partners in other functional units; ability to navigate a complex organization; to influence and lead people across cultures at a senior level   Experience in managing regulatory exams and relationships with examiners, auditors, etc   Awareness of regulatory requirements including local and US laws, international and industry standards   Advanced knowledge in area of focus  Education:    Bachelor's/University degree, Master's degree preferred   Bachelor’s degree; experience in compliance, legal or other control-related function in the financial services firm, regulatory organization, or legal/consulting firm, or a combination thereof; experience in area of focus; Advanced degree a plus ",
-            "datePosted": "2023-02-27",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 20000,
-                "minValue": 15000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/banking-finance/22553172-compliance-testing-senior-officer-senior-vice-president-citibank-na-15761c2540ef15afd85c233164a23926?source=MCF&event=Search",
-            "uuid": "207c8d13-cce6-4911-ae1a-91a7cfbabc43"
-        },
-        {
-            "dueDate": "2023-04-19",
-            "jobTitle": "Test Manager",
-            "skills": [
-                "Service Management",
-                "Contract Management",
-                "Test Engineering",
-                "Soft Skills",
-                "Project Management",
-                "Software Testing",
-                "French",
-                "Test Methodologies",
-                "Selenium",
-                "ITIL",
-                "Test Strategy",
-                "Test Execution",
-                "Delivery Management",
-                "Financial Services",
-                "Test Management",
-                "Test Planning"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "ONE RAFFLES PLACE, 1 RAFFLES PLACE"
-            },
-            "company": {
-                "logo": null,
-                "name": "D2X EXPERTISE PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "d²X Expertise is a global IT Services company dedicated to Project Management, Service Management and Contract Management operations. We provide to our customers, CxOs (CIO, CTO, COO, CEO) of multinational, or large international companies, a full range of services to secure their commitments. Based in Singapore, Switzerland, France and Belgium, our consultants have both a strong experience and the right soft skills to steer and manage multi-level projects and complex IT projects. - Project Management: PM in infrastructure, solution, application, IT Project Office set-up, Business Analyst… - Service Management: implement ITIL process, Service Catalog, SLA, KPI, Change Management, Service Delivery Management, Outsourcing Contract Management) - Contract management: Transition Manager, Relationship Manager, Contract manager.. We are serving key accounts across Asia ; Europe in multiple industries including Services, Manufacturing, Financial Services, Transportation ; Logistics, Telecom... KEY ACTIVITIES Ensure that projects meet their delivery quality objectives within time, cost and risks constraints by following Client’s Test methodologies and processes. Contribute to internal streams and projects: Project and test methodologies evolution, Client support on Test management practices Our Test manager are in charge of:    Deploys the      test methodology on projects            Coordinate       test related activities within client’s project team (covering       definition, design, execution and control).       Lead the       test management stream and resources. Monitor scope, schedule, and budget       of the stream. Monitor and mitigate risks and issues of the stream.       Analyzes       the project requirements and planning to design client’s test strategy       and plan.       Contribute       to the quality risk identification and analysis throughout the project to       ensure sufficient and accurate test coverage.       Assesses       opportunities and tools for automation; and defines a deployment plan on       the project.       Coordinates       and drives project test campaigns and report on progress and results.       Performs       handover on the project test deliverables to Client and Murex internal       teams           Supports and      advises the definition of Client global test strategy and plan   Plan and      contribute to the client’s test training and knowledge transfer to client’s      project team and customers.   Capitalizes      and provides project KPI to enhance the client’s test methodology.   Contribute      to test product evolution, support best practices elaboration and      deployment, proposes and follows on CBRs.   Contribute      to presale for Test Engineering domain  PROFILE · Minimum 7Y of professional experience in a similar environment, Client or Vendor side. · Cooperation and cross functional leadership · Strong communication and presentation skills · Experience in managing contributors and team members · Experience with DevOps, SaaS, CI/CD is a plus · Curiosity and mindset for change management · French is a plus",
-            "datePosted": "2023-03-20",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 14000,
                 "minValue": 7000,
                 "payPeriod": "MONTH"
             },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/consulting/test-manager-d2x-expertise-f471d2964c0cda346ca649ec27478488?source=MCF&event=Search",
-            "uuid": "4a9834ff-349c-4943-94ad-2de667f4d50a"
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/executive-chef-como-lifestyle-52739a9af23035699b8e1a250d8dd5c4?source=MCF&event=Search",
+            "uuid": "a7764152-b8bd-42d8-9041-0a7aa8e38488"
         },
         {
-            "dueDate": "2023-04-19",
-            "jobTitle": "Test Program Manager",
+            "dueDate": "2023-04-06",
+            "jobTitle": "Sous Chef - Japanese restaurant",
             "skills": [
-                "ISTQB",
-                "Automation Testing",
-                "Application Security",
-                "Test Engineering",
-                "Agile",
-                "Test Cases",
-                "Test Automation",
-                "QTP",
-                "Program Management",
-                "ISTQB Certified",
-                "JIRA",
-                "PMP",
-                "Audits",
-                "Banking",
-                "ALM",
-                "Test Strategy",
-                "Test Automation Tools",
-                "Testing",
-                "Test Management",
-                "LoadRunner"
+                "Recipes",
+                "Ingredients",
+                "Cooking",
+                "Administrative Work",
+                "Food Quality",
+                "Inventory",
+                "FOH",
+                "Supervisory Skills",
+                "Invoicing",
+                "Sanitation",
+                "Fine Dining",
+                "Estimates",
+                "Attention to Detail",
+                "Pressure",
+                "Food Service",
+                "Japanese"
             ],
             "location": {
                 "country": "SG",
                 "locality": "Singapore",
-                "address": "UOB PLAZA, 80 RAFFLES PLACE"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/d531c13c89efb756e1ee4cbb2647d03f/techknowledgey.png",
-                "name": "UNITED OVERSEAS BANK LIMITED"
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "United Overseas Bank Limited (UOB) is a leading bank in Asia with a global network of more than 500 branches and offices in 19 countries and territories in Asia Pacific, Europe and North America. In Asia, we operate through our head office in Singapore and banking subsidiaries in China, Indonesia, Malaysia and Thailand, as well as branches and offices.  Our history spans more than 80 years. Over this time, we have been guided by our values — Honorable, Enterprising, United and Committed. This means we always strive to do what is right, build for the future, work as one team and pursue long-term success. It is how we work, consistently, be it towards the company, our colleagues or our customers.  The Technology and Operations function is comprised of five teams of specialists with distinct capabilities: business partnership, technology, operations, risk governance and planning support and services. We work closely together to harness the power of technology to support our physical and digital banking services and operations. This includes developing, centralising and standardising technology systems as well as banking operations in Singapore and overseas branches. Job Responsibilities    Overall accountable and responsible for delivery of testing services across the Payment Program   Manage and oversee the day-to-day delivery of test services by Bank appointed vendors in the conduct of testing   Works with the testing service providers and other UOB stakeholders to review, provide feedback and sign off on the test strategy, test plans and other test service providers’ artefacts for the testing service delivery   Coordinates with the Test Governance team to ensure adoption of testing methods, standards and tools, and to coordinate any health checks or audits   Ensures that any changes to the scope of services are communicated to the respective test service providers and the impact is factored in to the plan   Engages with various UOB stakeholders (including but not limited to, application, security, infrastructure, business), testing service providers to ensure testing services meet the banks’ objectives and demand   Act as the first point of escalation for any issues raised by UOB stakeholders, testing service providers   Quantify, manage, track and report test related statuses, SLA and KPIs, and ensure that defined testing transformation SLA and KPI targets are met for the portfolio accountable   Drive and collaborate with all UOB stakeholders and test service providers to plan all testing related deliveries for the portfolio accountable   Participate and contribute in forums, as required, to drive testing transformation and innovation   Works closely with the Test Engineering Lead to provide inputs around domain specific test engineering requirements and ensure that they are met   Establishes and maintains effective working relationships with the Vendor Test Managers/Test Leads for the respective domains   Engages stakeholder communities to get their feedback on testing service delivery and identify improvement opportunities to be fed back to the Test CoE team  Job Requirement    Bachelor’s Degree or Master’s degree in computer engineering or related field   Proven working experience in test delivery or equivalent role with at least 12 years relevant experience in large and complex organisations preferably in the area of Banking and Finance   Extensive experience in managing end to end delivery of testing services from multiple vendor test service providers   Proven experience in testing standards, tools, processes ; methodologies, frameworks, and various delivery methodologies e.g. Agile, Hybrid Agile and Waterfall, DevOps   Proven, successful track record of managing shared IT service development and/ or IT Testing Services   Demonstrated success in developing highly effective working relationships with internal and external stakeholders to deliver collaboration, partnerships and services   Strong domain knowledge on Payment Program. Experience in managing testing for Payment Suite of applications will be an advantage   Strong attention to details, excellent analytical and problem solving skills   Experience in managing multiple external testing service providers.   Experience in managing multi-cultural, diverse, direct and virtual teams   Experience in various testing tool suites like HP UFT/QTP, Loadrunner/Performance Center/Sitescope, HP ALM / Quality Center, Tosca, Selenium, JIRA etc   Must display a high level of professional judgment, commitment, integrity, and teamwork   Excellent client facing, internal communications, written and verbal communication skills   Testing or quality certifications, PMP certifications, and Test Maturity Model integration (TMMi) Framework awareness will be preferred ",
-            "datePosted": "2023-03-20",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 15000,
-                "minValue": 11000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/banking-finance/test-program-manager-united-overseas-bank-e8322c90751bdcabd42a979ff57f6dfb?source=MCF&event=Search",
-            "uuid": "8765fd2b-a936-40c8-8701-133d7ea9d811"
-        },
-        {
-            "dueDate": "2023-04-03",
-            "jobTitle": "Photonics Test Development Engineer - Optics |",
-            "skills": [
-                "Design",
-                "Production",
-                "Photonics",
-                "Python",
-                "Optical Components",
-                "Instrumentation",
-                "Programming",
-                "Oral & Written Communication Skills",
-                "Labview",
-                "Calibration",
-                "Script",
-                "Testing",
-                "Signal Processing"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "7 ANG MO KIO STREET 64"
+                "address": null
             },
             "company": {
                 "logo": null,
-                "name": "APPLE SOUTH ASIA PTE. LTD."
+                "name": "LSS ZENIYA PTE. LTD."
             },
             "jobType": [
                 "FULL_TIME"
             ],
-            "description": "Job Summary We live in a mobile and device driven world where knowledge of the physical world around us is needed. We rely on this knowledge to get around, to learn about our environment and to enable spectacular new features for custom applications. Apple is meeting those needs as robustly and as creatively as possible and is interested in people who want to help meet that commitment. The success we are striving will be the result of very skilled people working in an environment which cultivates creativity, partnership, and thinking of old problems in new ways. If that sounds like the kind of environment that you find intriguing, then let's talk! These elements come together to make Apple an amazing environment for motivated people to do the greatest work of their lives. You will become part of a team that sets the standard in cultivating excellence, creativity and innovation. You will have the opportunity to be responsible for developing test plan ; metrics for characterisation of photonics product as well as test system and methodology for characterising photonics product. Will you help us design the next generation of revolutionary Apple products? Key Qualifications    Well trained in geometric optical domain, have in depth understanding on metric for optical components for example, distortion, EFL and etc   Hands-on experience on optical alignment and calibration   Hands-on experience on established equipment (such as Trioptics) for lens distortion measurement, optical power measurement, spectral measurement, high speed pulse measurement   Experience on building up experimental setup for photonics / optical characterisation   Clear and effective written and communication skill   Good to have: Experience on simple programming/ script for instrumentation or signal processing (for example, Python, Labview, or C++)   Good to have working experience on compact optical module: design, testing, characterisation and/or production  Description    Participate in cross-functional group discussion for test and characterisation of photonics product such as lens or light source   Derive an evaluation plan for characterising the optical component/ module/ system   Source test system to support product development   Setup and calibrate test solution hardware and software   Provide test and characterisation service to other team   Perform experiment, analyse data using statistical analysis tools   Participate in optical component design and evaluation  Education Bachelor/Master/PhD in photonics, optics, physics or engineering or equivalent",
-            "datePosted": "2023-03-20",
+            "description": "   Responsible for assisting Chef in administrative work   Responsible for procuring ingredients and invoicing   Responsible for preparing ingredients and dishes   Counsels, guides and instructs personnel in the proper performance of their duties   Responsible in assisting the Chef in the development of new dishes  Job description:    Assume the role as Head Chef in his or her absence   Assure adherence to all standards of food quality, preparation, recipes, and presentation in conjunction with the specifications   Monitor holding and storage operations, stocking and food rotation, and guarantee food service sanitation standards are met   Ensure kitchen personnel is trained in best cleanliness and sanitation practices   Manage all activities in the kitchen, including food preparation and production, management and training of kitchen staff   Ensure that all kitchen working documents, forms and reports are forwarded on time.   Ensure accurate maintenance of recipes, conversion recipes, yield tables and product specifications   Service standards, positively making enhancements and corrections where needed to improve service and product delivery.   Improving productivity levels and the need to prudently manage food costs within acceptable guidelines, ensuring optimum efficiency of all equipment.   Establishes a well-organized and hygienic Chef Uniform’s area and Dry Store, maintaining close control on the consumption of food, stores and inventory. Physical inventories of all supplies and operating equipment are to be taken on a monthly and a quarterly basis respectively.   Determines food quality, labour, productivity levels.   Directs food apportionment policy to control costs.   Frequently verifies that only fresh products are used in Food preparation.   Serves fresh food to the guests that is consistent in quality, and which reflects the style of the concept.   Supervises Kitchen personnel coordinating their assignments and rostering appropriately to ensure economical and timely food production.   Observes methods of food preparation and cooking, sizes of portions, and garnishing of foods to ensure food is prepared in prescribed manner.   Frequently tastes products and be demanding and critical when it comes to quality.   Estimates food consumption and purchases or requisitions foodstuffs and kitchen supplies.   Establishes and enforces sanitation standards are in line with NEA standards.   Encourages feedback from FOH team.   Ensure all employees provide a courteous and professional service at all times   Reporting complaints or problems if no immediate solution can be found, whilst feeding back a prompt follow up.   Maintains positive guest and colleague interactions with good working relationships.   Attends training sessions and meetings as and when required.  Job Requirements:    More than 9 years in a Japanese fine dining kitchen   Excellent knowledge of ingredients   Excellent good knowledge of food handling, food preparation and cooking   procedures for a specific station   Acute taste for food   Ability to consistently maintain a high quality of all food items and   standards of presentation for a specific station   Ability to maintain high levels of hygiene and order in work area such   as reach-in and walk-in fridges   Excellent knowledge of food hygiene regulations and company quality   standards   Passion to cook   Able to work at a fast pace and under pressure   Creative in working with ingredients   Positive attitude   Responsible   Good attention to detail   Good organisational and supervisory skills   Able to work in a team   High standard of personal hygiene ",
+            "datePosted": "2023-03-23",
             "salaryRange": {
                 "currency": "SGD",
-                "maxValue": 20000,
-                "minValue": 10000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/photonics-test-development-engineer-optics-apple-south-asia-a479ceba4152f97ed71a7e102c452721?source=MCF&event=Search",
-            "uuid": "4d938b78-de2d-4a42-b5b4-8f24ecabeaea"
-        },
-        {
-            "dueDate": "2023-04-19",
-            "jobTitle": "Software Development Engineer in Test - TikTok Global E-commerce",
-            "skills": [
-                "Automation Testing",
-                "Quality Assurance",
-                "Software Engineering",
-                "Automation Tools",
-                "HTML5",
-                "Test Cases",
-                "Product Engineering",
-                "Corporate Social Responsibility",
-                "Testing Process",
-                "Selenium",
-                "Stress Testing",
-                "Teamwork Skills",
-                "Genetics",
-                "Test Execution",
-                "Appium"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "1 RAFFLES QUAY"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/0998cece2d3d358f15cf853a2a37dcd3/tiktok.png",
-                "name": "TIKTOK PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London, Paris, Berlin, Dubai, Singapore, Jakarta, Seoul and Tokyo.   Why Join Us At TikTok, our people are humble, intelligent, compassionate and creative. We create to inspire - for you, for us, and for more than 1 billion users on our platform. We lead with curiosity and aim for the highest, never shying away from taking calculated risks and embracing ambiguity as it comes. Here, the opportunities are limitless for those who dare to pursue bold ideas that exist just beyond the boundary of possibility. Join us and make impact happen with a career at TikTok.  The e-commerce industry has seen tremendous growth in recent years and has become a hotly contested space amongst leading Internet companies, and its future growth cannot be underestimated.  With millions of loyal users globally, we believe TikTok is an ideal platform to deliver a brand new and better e-commerce experience to our users. Our product engineering team is responsible for building an e-commerce ecosystem that is innovative, secure and intuitive for our users. We are looking for passionate and talented people to join us as we drive the future of e-commerce here at TikTok.   Responsibilities: - Responsible for the quality assurance of e-commerce business Domain. Design reasonable test plan according to the requirements and technical implementation. Ensure overall test quality and progress on track covering frontend and backend. - Automation testing: Work on specific projects and automate test cases for them and continuously improve and maintain the testing framework. - Create/maintain robust CI/CD pipeline for test execution and quality gates for deployment. - Identify areas for improvement in the testing process and implement solutions. - Participate in code reviews to ensure that code is testable and meets quality standards. - Continuously track and analyze online and offline quality problems while constantly improving the quality of the system. - Stay up-to-date with the latest testing trends and technologies.  Qualifications: - Bachelor's degree or above in computer science or related major is preferred. - 5+ years of work experience in testing and development in the high tech sector.   - Solid knowledge of at least one programming language (Python/Java/Go). - Solid knowledge of computer field fundamentals for networking, database and algorithms. - Solid knowledge of api automation testing/UI-automation testing, server-side stress testing.   - Experienced in quality assurance methodology and have certain understanding of CI/CD. - Passionate, self-motivated and can demonstrate excellent teamwork skills. Self-driven at discovering, analyzing and summarizing problems to promote continuous improvement of projects.  TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.",
-            "datePosted": "2023-03-20",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 18000,
+                "maxValue": 10500,
                 "minValue": 9000,
                 "payPeriod": "MONTH"
             },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/software-development-engineer-test-tiktok-global-e-commerce-tiktok-1d2cff676f5f326469bfeb83c8b2a9c3?source=MCF&event=Search",
-            "uuid": "ef4b38f2-7234-4f29-9e4d-246b7dcb9c4c"
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/sous-chef-japanese-restaurant-lss-zeniya-ded67873a0cde0c9cf3902cc612c2ebf?source=MCF&event=Search",
+            "uuid": "158cf9d8-745d-45ef-b46b-45878fb0349e"
         },
         {
-            "dueDate": "2023-04-19",
-            "jobTitle": "Software Development Engineer in Test, TikTok Global E-commerce",
+            "dueDate": "2023-04-21",
+            "jobTitle": "Executive Chef",
             "skills": [
-                "Automation Testing",
-                "Quality Assurance",
-                "Software Engineering",
-                "Automation Tools",
-                "HTML5",
-                "Test Cases",
-                "Product Engineering",
-                "Corporate Social Responsibility",
-                "Testing Process",
-                "Selenium",
-                "Stress Testing",
-                "Teamwork Skills",
-                "Genetics",
-                "Test Execution",
-                "Appium"
+                "Menu Development",
+                "Culinary Management",
+                "Restaurants",
+                "Food Hygiene standards",
+                "Cooking",
+                "Food and Beverage Safety and Hygiene",
+                "Composition",
+                "Exceptional Customer Service",
+                "Purchasing",
+                "Sanitation",
+                "Restaurant Management",
+                "Banquets",
+                "Budgeting",
+                "Customer Satisfaction",
+                "Decision Making",
+                "Performance Appraisal",
+                "Culinary Skills",
+                "Catering",
+                "Culinary",
+                "Hospitality"
             ],
             "location": {
                 "country": "SG",
                 "locality": "Singapore",
-                "address": "1 RAFFLES QUAY"
+                "address": "The Singapore EDITION, 38 Cuscaden Road"
             },
             "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/0998cece2d3d358f15cf853a2a37dcd3/tiktok.png",
-                "name": "TIKTOK PTE. LTD."
+                "logo": null,
+                "name": "GRANMIL HOLDINGS PTE LTD"
             },
             "jobType": [
                 "FULL_TIME"
             ],
-            "description": "TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London, Paris, Berlin, Dubai, Singapore, Jakarta, Seoul and Tokyo.   Why Join Us At TikTok, our people are humble, intelligent, compassionate and creative. We create to inspire - for you, for us, and for more than 1 billion users on our platform. We lead with curiosity and aim for the highest, never shying away from taking calculated risks and embracing ambiguity as it comes. Here, the opportunities are limitless for those who dare to pursue bold ideas that exist just beyond the boundary of possibility. Join us and make impact happen with a career at TikTok.  The e-commerce industry has seen tremendous growth in recent years and has become a hotly contested space amongst leading Internet companies, and its future growth cannot be underestimated.  With millions of loyal users globally, we believe TikTok is an ideal platform to deliver a brand new and better e-commerce experience to our users. Our product engineering team is responsible for building an e-commerce ecosystem that is innovative, secure and intuitive for our users. We are looking for passionate and talented people to join us as we drive the future of e-commerce here at TikTok.   Responsibilities: - Responsible for the quality assurance of e-commerce business Domain. Design reasonable test plan according to the requirements and technical implementation. Ensure overall test quality and progress on track covering frontend and backend. - Automation testing: Work on specific projects and automate test cases for them and continuously improve and maintain the testing framework. - Create/maintain robust CI/CD pipeline for test execution and quality gates for deployment. - Identify areas for improvement in the testing process and implement solutions. - Participate in code reviews to ensure that code is testable and meets quality standards. - Continuously track and analyze online and offline quality problems while constantly improving the quality of the system. - Stay up-to-date with the latest testing trends and technologies.  Qualifications: - Bachelor's degree or above in computer science or related major is preferred. - 3+ years of work experience in testing and development in the high tech sector.   - Solid knowledge of at least one programming language (Python/Java/Go). - Solid knowledge of computer field fundamentals for networking, database and algorithms. - Solid knowledge of api automation testing/UI-automation testing, server-side stress testing.   - Experienced in quality assurance methodology and have certain understanding of CI/CD. - Passionate, self-motivated and can demonstrate excellent teamwork skills. Self-driven at discovering, analyzing and summarizing problems to promote continuous improvement of projects.  TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.",
-            "datePosted": "2023-03-20",
+            "description": "The first Singapore EDITION, located on the west end of the Orchard commercial district. In all, the eight-storey hotel will feature 204 rooms, stylishly designed with a sophisticated flair. It will be Edition Hotels’ first ultra-luxe offering. Hotel is projected to open in Q3, 2023.  JOB SUMMARY  Accountable for overall success of the daily kitchen operations. Exhibits culinary talents by personally performing tasks while leading the staff and managing all food related functions. Works to continually improve guest and employee satisfaction while maximizing the financial performance in all areas of responsibility. Supervises all kitchen areas to ensure a consistent, high quality product is produced. Responsible for guiding and developing staff including direct reports. Must ensure sanitation and food standards are achieved. Areas of responsibility comprise overseeing all food preparation areas (e.g., banquets, room service, restaurants, bar/lounge and employee cafeteria) and all support areas (e.g., dish room and purchasing).  CANDIDATE PROFILE  Education and Experience • High school diploma or GED; 6 years experience in the culinary, food and beverage, or related professional area. OR • 2-year degree from an accredited university in Culinary Arts, Hotel and Restaurant Management, or related major; 4 years experience in the culinary, food and beverage, or related professional area.  CORE WORK ACTIVITIES  Leading Kitchen Operations for Property • Leads kitchen management team. • Provides direction for all day-to-day operations. • Understands employee positions well enough to perform duties in employees' absence or determine appropriate replacement to fill gaps. • Provides guidance and direction to subordinates, including setting performance standards and monitoring performance. • Utilizes interpersonal and communication skills to lead, influence, and encourage others; advocates sound financial/business decision making; demonstrates honesty/integrity; leads by example. • Encourages and builds mutual trust, respect, and cooperation among team members. • Serving as a role model to demonstrate appropriate behaviors. • Ensures property policies are administered fairly and consistently. • Reviews staffing levels to ensure that guest service, operational needs and financial objectives are met. • Establishes and maintains open, collaborative relationships with employees and ensures employees do the same within the team. • Solicits employee feedback, utilizes an \"open door\" policy and reviews employee satisfaction results to identify and address employee problems or concerns. • Supervises and coordinates activities of cooks and workers engaged in food preparation. • Demonstrate new cooking techniques and equipment to staff.  Setting and Maintaining Goals for Culinary Function and Activities • Develops and implements guidelines and control procedures for purchasing and receiving areas. • Establishes goals including performance goals, budget goals, team goals, etc. • Communicates the importance of safety procedures, detailing procedure codes, ensuring employee understanding of safety codes, monitoring processes and procedures related to safety. • Manages department controllable expenses including food cost, supplies, uniforms and equipment. • Participates in the budgeting process for areas of responsibility. • Knows and implements the brand's safety standards.  Ensuring Culinary Standards and Responsibilities are Met • Provides direction for menu development. • Monitors the quality of raw and cooked food products to ensure that standards are met. • Determines how food should be presented, and create decorative food displays. • Recognizes superior quality products, presentations and flavor. • Ensures compliance with food handling and sanitation standards. • Follows proper handling and right temperature of all food products. • Ensures employees maintain required food handling and sanitation certifications. • Maintains purchasing, receiving and food storage standards. • Prepares and cooks foods of all types, either on a regular basis or for special guests or functions.  Ensuring Exceptional Customer Service • Provides and supports service behaviors that are above and beyond for customer satisfaction and retention. • Improves service by communicating and assisting individuals to understand guest needs, providing guidance, feedback, and individual coaching when needed. • Manages day-to-day operations, ensuring the quality, standards and meeting the expectations of the customers on a daily basis. • Displays leadership in guest hospitality, exemplifies excellent customer service and creates a positive atmosphere for guest relations. • Interacts with guests to obtain feedback on product quality and service levels. • Responds to and handles guest problems and complaints. • Empowers employees to provide excellent customer service. Establishes guidelines so employees understand expectations and parameters. Ensures employees receive on-going training to understand guest expectations. • Reviews comment cards, guest satisfaction results and other data to identify areas of improvement.  Managing and Conducting Human Resource Activities • Identifies the developmental needs of others and coaching, mentoring, or otherwise helping others to improve their knowledge or skills. • Ensures employees are treated fairly and equitably. • Trains kitchen associates on the fundamentals of good cooking and excellent plate presentations. • Administers the performance appraisal process for direct report managers. • Interacts with the Banquet Chef and Catering department on training regarding food knowledge and menu composition. • Observes service behaviors of employees and provides feedback to individuals and or managers. • Manages employee progressive discipline procedures for areas of responsibility. • Ensures disciplinary procedures and documentation are completed according to Standard and Local Operating Procedures (SOPs and LSOPs) and supports the Peer Review Process.  Additional Responsibilities • Provides information to executive teams, managers and supervisors, co-workers, and subordinates by telephone, in written form, e-mail, or in person. • Analyzes information and evaluating results to choose the best solution and solve problems.  Marriott International is an equal opportunity employer. We believe in hiring a diverse workforce and sustaining an inclusive, people-first culture. We are committed to non-discrimination on any protected basis, such as disability and veteran status, or any other basis covered under applicable law.  EDITION Hotels combine the visionary genius of boutique hotelier Ian Schrager, the service delivery of a world-class luxury hotel, and the global reach of Marriott International to create an entirely new experience in the world of hospitality. Our hotels are stunning microcosms of the world's top cities, featuring the finest in dining, entertainment, nightlife, and service to create an enchanting experience that makes your spirit soar!  But to create this magical experience, we need you.  EDITION is hiring warm, out-going, authentically amazing people who are looking for a place to work that inspires them, challenges them and makes them proud to come to work. A place where service comes from the heart, not from a handbook. A place that delivers a never-ending theatrical performance that continuously delights and enchants each and every one of our guests.  We invite you to join us today -&gt; https://jobs.marriott.com/marriott/jobs/23027607?lang=en-us",
+            "datePosted": "2023-03-22",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 14000,
+                "minValue": 10000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/customer-service/executive-chef-granmil-holdings-557c714fe067843c3e42f20c8e16e3e8?source=MCF&event=Search",
+            "uuid": "6f6c0902-4baf-47bf-83d0-3620ace5aa7e"
+        },
+        {
+            "dueDate": "2023-04-06",
+            "jobTitle": "Head Chef - Japanese Restaurant",
+            "skills": [
+                "Recipes",
+                "Venue Management",
+                "Ingredients",
+                "Food Safety",
+                "Property Management",
+                "Workplace Safety",
+                "Team Development",
+                "Purchasing",
+                "Administration",
+                "Payroll",
+                "Fine Dining",
+                "Equipment Maintenance",
+                "Capital",
+                "Japanese",
+                "Hospitality"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": null
+            },
+            "company": {
+                "logo": null,
+                "name": "LSS ZENIYA PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "   Responsible for overall culinary operations of a Japanese fine dining restaurant   Responsible for ensuring profitability and productivity   Responsible for proper costing of food preparation and submit cost proposal   Responsible for the quality of all food leaving the kitchen   Responsible for food and culinary purchase, wastage and inventory   Responsible for kitchen equipment and tools purchase, repairs and regular maintenance   Responsible for recruiting, training and developing culinary staff   Ensure that all food preparation is in accordance with food safety regulatory guideline   Ensure Workplace Safety standards are adhered to  Culinary Operations    Lead and manage the culinary team to plan, prepare and serve food to our guests according to the concept and set standards   Develop, implement and update Standard Operating Procedures, guidelines, grooming and hygiene standards, recipes, costing and plating guides in compliance to legislative guidelines and/or best-in-class standards   Direct and co-ordinate all food preparation and production activities in the kitchen   Ensure consistency of quality in selection of ingredients and food products, and regularly evaluate partnerships with suppliers   Lead in innovating, developing and updating menus where appropriate, to reflect changes in trends and/or preferences   Supports kitchen food and disposable inventory / stock management and assists in resolving issues. Monitors stock ordering by venue management and help maintain par levels   Monitors and oversees the weekly roster for culinary management and oversees the planning of staff rostering to promote productivity, minimize labour cost while maintaining best staffing balance   Participate in daily venue pre-shift roll call with team members to update on daily specials, guests’ preferences / feedback, internal memos, company / marketing update, station plan, sales and any other operational update   Ensure all culinary staff are basic hygiene certified   Ensure there are trained first aiders and fire wardens in culinary team for each venue   Ensure all staff are aware of fire escape route and SOP in case of emergency   Improve and maintaining a culinary training program for all new staff / ongoing mentorship and training for existing staff for the cluster   Creating and implementing culinary training strategies for the cluster   Review and improve on operating costs to ensure profitability while exceeding guest satisfaction. These includes purchasing (operating goods and equipment), maintenance, utilities and payroll   Responsible for kitchen equipment and property management / maintenance   Recommend and advise Senior Management on established goals, objectives and policies relating to the activities of all kitchens  Finance ; Administration    Attend and contribute in all required meetings and project teams   Co-develop annual business plans, departmental budget and forecasts and capital expenditure plans, together with the Senior Management Team   The Chef should work his/her administrative responsibilities around his/her operations duties. The individual should be focused on participating in operations during the key operating hours and must refrain from working on his/her laptop or doing any paperwork at the service area.  Staff Engagement    Recruit, select, drive and develop the culinary team   Supervise culinary team in the performance of their duties in accordance with the policies and procedures and applicable laws   Delegate appropriate duties and responsibilities to the team with sufficient resources and equipment   Work with venue management on team development and yearly appraisal   Schedule and lead monthly 1-1 check in with team members   Promote a culture of high performance and continuous improvement that values learning and a commitment to quality   Contribute to make the company the preferred hospitality workplace in Singapore  ",
+            "datePosted": "2023-03-23",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 13000,
+                "minValue": 10000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/head-chef-japanese-restaurant-lss-zeniya-ca00ad4c8bd51caf84dd2d692a8d985d?source=MCF&event=Search",
+            "uuid": "40fa039e-aae7-4eb1-a4e1-93cbff3ef827"
+        },
+        {
+            "dueDate": "2023-04-12",
+            "jobTitle": "Sous Chef",
+            "skills": [
+                "Recipes",
+                "Leadership",
+                "Ingredients",
+                "Microsoft Office",
+                "Quality Control",
+                "Food Safety",
+                "Cooking",
+                "Appraisals",
+                "Food Quality",
+                "Inventory",
+                "Purchasing",
+                "Sanitation",
+                "Fine Dining",
+                "HACCP",
+                "Audit",
+                "Japanese"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": null
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/05a09cba4b110ef42f98a14b43406d1b/violet-oon.png",
+                "name": "VIOLET OON INC. PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "· Be a direct link between the Corporate Executive Chef / Chef De Cuisine and the various outlets to implement standards across outlets. · Ensure all standards, policies, and expectations are communicated to the outlets and executed as per standards. · Ensure equipment and sanitation standards are always met, supplies and inventories are readily available, expectations are communicated, recipes are current. · Conduct training on a monthly basis. · Rotate and work at different outlets based on business demands. The rotations are at the discretion of the Corporate Executive Chef / Chef De Cuisine · Be constantly involved in all phases of the daily operation at the outlets · Responsible for proper efficiency and profitable functioning of the assigned outlets and to ensure expenses/purchases are within budget limits · Attend weekly meetings with Corporate Executive Chef /Chef De Cuisine to discuss future plans ; review ongoing action plans · Guide and lead new employees through their career in the outlets · Adheres to rules and regulations set by the Management · Monitor staff schedules, transfers, overtime, annual and statutory holiday. · Conduct staff appraisals.  Minimum Qualifications/Experience:    Minimum Diploma qualification.   Minimum 8-year experience in Food ;  Beverage service.   Oral and written of English required   Basic knowledge in Microsoft office.   Pleasant with dynamic personality.   Have an absolute 'can do' attitude. ",
+            "datePosted": "2023-03-13",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 5200,
+                "minValue": 4100,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/sous-chef-violet-oon-2197ec244b491055f55117a5743ea741?source=MCF&event=SuggestedJob",
+            "uuid": "a5edba7c-9830-4c24-8c94-fc0baa6a5022"
+        },
+        {
+            "dueDate": "2023-03-29",
+            "jobTitle": "Master Chef",
+            "skills": [
+                "Recipes",
+                "Leadership",
+                "Ingredients",
+                "Food Safety",
+                "Cooking",
+                "Housekeeping",
+                "Workplace Safety",
+                "Food Quality",
+                "Inventory",
+                "Job Descriptions",
+                "Sanitation",
+                "Compliance",
+                "Baking",
+                "Culinary Skills",
+                "Pastry",
+                "Japanese"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "28 SMITH STREET"
+            },
+            "company": {
+                "logo": null,
+                "name": "JIA RUI YIPIN RESTAURANT PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Job Descriptions:    Expertise in Chinese Cuisine Master Chef for preparing Chinese dishes such as Dongbei dishes and other etc.   Able to cook Mala Hotpot dishes, have barbeque skills, able to prepare Chinese Salad (eg. Liang Ban Chai)   Able to study each recipe and gathering all necessary ingredients and prepare all kind of Chinese Food Ingredients.   Maintaining the cleanliness of the food preparation area.   Comply with F;B safety ; hygiene and Workplace safety ; health policies and procedures.   Ensure consistency in food quality, presentation and standard.   Preparing ; Cooking Food.  Requirements:    At least 5 years of cooking/ relevant experience.   Passionate for cooking and a positive attitude.  Chef Job Responsibilities:    Lead, mentor and manage the culinary team.   Develop and plan menus and daily specials.   Create prep lists for the kitchen crew.   Manage food costing and inventory.   Maintain standards for food storage, rotation, quality and apperance.   Ensure compliance with applicable health codes and regulations.   Establish maintence and cleaning schedules for equipment, storage and work area. ",
+            "datePosted": "2023-02-27",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 12000,
+                "minValue": 8000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/master-chef-jia-rui-yipin-restaurant-d9b3f07c3f24ed0eb637dcfddda71216?source=MCF&event=Search",
+            "uuid": "e066e5b6-4713-4814-b73c-94fabfb56769"
+        },
+        {
+            "dueDate": "2023-04-02",
+            "jobTitle": "Executive Chef (Baker)",
+            "skills": [
+                "Factory",
+                "Leadership",
+                "Ingredients",
+                "Quality Control",
+                "Customer Experience",
+                "Fermentation",
+                "Purchasing",
+                "Sanitation",
+                "Customerfocused",
+                "Compliance",
+                "Attention to Detail",
+                "Baking",
+                "Professional and Business Ethics",
+                "Financial Analysis",
+                "Bakery",
+                "HACCP",
+                "Cost Analysis",
+                "Hazard Analysis",
+                "Team Work"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": null
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/3a8b42c421a013d29709f3c86edc350e/starter-lab.jpg",
+                "name": "STARTER LAB PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Learn more about us at https://www.thestarterlab.com The famous “hole-in-the-wall” bakery from Canggu, Bali opened its contemporary bakery café at Havelock Road, Singapore in August 2019. Starter Lab centers itself around healthy natural products from hand-crafted sourdough bread, pastries, posh toasts, salads, and locally roasted coffee. Our sourdough goes through a process of long fermentation using only wild yeast, wholesome natural ingredients, and the magical element of time! If you are passionate about wholesome food, open to learning, and customer-focused – we would love to have you join our crew. We are now on the lookout for an Executive Chef (Baker) for the production of Singapore's best sourdough bread and pastries based in Tai Seng, using wholesome ingredients and artisanal methods. The Executive Chef (Baker) will support the Group Executive Chef by managing the day-to-day operational and technical requirements of the Bakery Factory in delivering (i) high-quality, healthy, and delicious bakery products, and (ii) strong sales and profit growth.    Grow revenue and EBITDA each year by retaining existing customers and growing new customers (including through the above), managing team productivity carefully, and otherwise implementing efficient processes, costs savings measures, and profit improvements   Lead, inspire, and work collaboratively with the rest of the Bakery team to deliver an excellent customer experience   Manage, deploy, and develop kitchen personnel   Conduct financial analysis of the business unit, control costs, and develop and establish financial budget and plans   Manage central production operations   Cultivate strong, positive relationships with suppliers, vendors, partners, and other team members   Maintain Hazard Analysis ; Critical Control Point (HACCP) standards and checklists; responsible for ensuring team members adhere to HACCP requirements   Ensure the hygiene and safety practices are compliant and upheld as per licensing and legal requirements   Build our team through (i) new product development in our Bakery, (ii) a rigorous and continuous training and development program (for both full-time and part-time team members), and (iii) ensuring a strong commitment to and adherence to the Little Farms Group culture and values, as well as industry best practices (including leading by example)   Own the planning/forecasting of labour costs  Job Requirements    Over 10 years of proven experience as a baker or relevant role   Great attention to detail and creativity   Organizing and leadership skills   Willingness to replenish professional knowledge   In-depth knowledge of sanitation principles, food preparation and baking techniques, and nutrition   Working knowledge of baking with ingredient limitations (pastries that are gluten-free, sugarless, etc.)   Certificate in culinary arts, pastry-making, baking, or relevant field ",
+            "datePosted": "2023-03-03",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 13000,
+                "minValue": 10000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/executive-chef-starter-lab-64b32436a7809094ce4076f67215939c?source=MCF&event=Search",
+            "uuid": "9737bf8a-e203-4610-a417-b931c9465fb1"
+        },
+        {
+            "dueDate": "2023-04-01",
+            "jobTitle": "Master Chef",
+            "skills": [
+                "Recipes",
+                "Ingredients",
+                "Food Safety",
+                "Restaurants",
+                "Cooking",
+                "Appraisals",
+                "Quality Assurance",
+                "Workplace Safety",
+                "Food Quality",
+                "Inventory",
+                "Sanitation",
+                "Compliance",
+                "Team Management",
+                "Concept Development",
+                "Japanese",
+                "People Management"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "RE&S BUILDING, 32 TAI SENG STREET"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/5214946d16cb0df74a4887f71af4008f/r-e-s-enterprises.jpg",
+                "name": "R E & S ENTERPRISES PTE LTD"
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Position Purpose: • Prepare Authentic Japanese Cuisine • Lead the kitchen operation team to prepare and deliver quality menu in accordance to concept offering. • Oversee the implementation of processes and guidelines in Kitchen Operations • Train ; develop kitchen staff in the preparation of all meals to the highest quality standards. • Position kitchen staff according to operation needs to maximize kitchen efficiencies. • Manage quality and level of kitchen inventory as well as products delivered from suppliers. • Understand food cost models and how these impact the profitability of the restaurants. Responsibilities: • Menu Execution and Delivery • Understand food cost models and how these impact profitability of restaurants • Supervise stations to deliver orders in accordance to defined cooking processes, recipe and health ; safety standard • Conduct final check on finished product to ensure that food quality and presentation are in accordance to specifications of the menu • Kitchen Processes and Concept Development • Manage kitchen inventory levels and quality by placing orders for all food and kitchen supplies based on projected store demand endorsed by chef; and upon delivery, check to ensure quality of delivered supplies • To support the projection and ordering of food and kitchen supplies by providing inventory report detailing usage ; stock level, wastage and product shelf life while considering sales pattern and kitchen storage capacity • Oversee the setting up and cleaning of stations by staff • Oversee workflow for stations to ensure that processes adhered to specifications and guide line and to provide recommendations to improve efficiency • Quality Assurance ; Control • Investigate causes and reasons for customer complaints pertaining to food quality • Oversee operations to ensure compliance with all safety procedures and guidelines • Oversee preparation of all food in accordance to SOPs to ensure and maintain consistent food quality • Oversee overall kitchen cleanliness and sanitary conditions and to ensure all kitchen equipment are in good working condition • Take corrective actions to resolve unsafe and/or non-compliant conditions and behaviors regarding personal and food safety • People Management • Lead team by providing guidance, support and motivation • Conduct induction for new hires to provide them with the necessary skills and information to carry out roles and functions • Train and develop kitchen and kaiten staffs in the preparation of all meals to the highest quality standards while adhering to SOPs and workplace safety practices • Carry out team management activities, including and not limited to appraisals, handling disciplinary issues and holding communication sessions in conjunction with immediate supervisor • Carry out team management conversation with team members, including and not limited to doing appraisals and personal improvement plans in conjunction with immediate supervisor Requirement: • Must be able to speak fluent Japanese",
+            "datePosted": "2023-03-02",
             "salaryRange": {
                 "currency": "SGD",
                 "maxValue": 12000,
                 "minValue": 6000,
                 "payPeriod": "MONTH"
             },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/software-development-engineer-test-tiktok-global-e-commerce-tiktok-35911ef2d2d33ed56c260aea580fc654?source=MCF&event=Search",
-            "uuid": "3c0bfdc1-8b89-48e1-828e-39417d8a9aae"
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/master-chef-r-e-s-enterprises-9553f6897ae2aeeb58fe075a3543f395?source=MCF&event=Search",
+            "uuid": "ea92f3e1-3182-40c3-b9d7-4db82a918e7e"
         },
         {
-            "dueDate": "2023-03-29",
-            "jobTitle": "Sr. Test Program Manager – API",
+            "dueDate": "2023-03-31",
+            "jobTitle": "Chef de Cuisine (SKIRT)",
             "skills": [
-                "Excellent Communication Skills",
-                "Management Skills",
-                "Budgets",
-                "Leadership",
-                "Microsoft Excel",
-                "Analytical Skills",
-                "Agile",
-                "Amazon Web Services",
-                "Strategy",
-                "Program Management",
-                "Project Management",
-                "API",
-                "Stakeholder Management",
-                "Test Management"
+                "Coaching",
+                "Mentoring",
+                "Ingredients",
+                "Property",
+                "Exceptional Customer Service",
+                "Purchasing",
+                "Sanitation",
+                "Estimates",
+                "Restaurant Management",
+                "Human Resource",
+                "Customer Satisfaction",
+                "Artistic",
+                "Decision Making",
+                "Performance Appraisal"
             ],
             "location": {
                 "country": "SG",
                 "locality": "Singapore",
-                "address": "THE OCTAGON, 105 CECIL STREET"
+                "address": "W SINGAPORE SENTOSA COVE HOTEL, 21 OCEAN WAY"
             },
             "company": {
-                "logo": null,
-                "name": "DNA INFOTECH PTE. LTD."
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/ade429e89714f95bbfc209a1f335273f/w-singapore-sentosa-cove-hotel.jpg",
+                "name": "W SINGAPORE SENTOSA COVE HOTEL"
             },
             "jobType": [
                 "FULL_TIME"
             ],
-            "description": "   Experience in performing Test Management      Activities across multiple projects with sound knowledge on STLC      processes, best practices etc.   At least 5 years experience of working as Test Manager, preferably from      BFSI   Good knowledge on API Testing module   Excellent communication skills, efficient in Sr.      stakeholder management   Experience of handling projects in multi vendor      set up amid aggressive timeline ",
-            "datePosted": "2023-02-27",
+            "description": "JOB SUMMARY Accountable for the quality, consistency and production of the restaurant kitchen. Exhibits culinary talents by personally performing tasks while leading the staff and managing all food related functions. Coordinates menus, purchasing, staffing and food preparation for the property's restaurant. Works with team to improve guest and employee satisfaction while maintaining the operating budget. Must ensure sanitation and food standards are achieved. Develops and trains team to improve results.  CANDIDATE PROFILE Education and Experience • High school diploma or GED; 4 years experience in the culinary, food and beverage, or related professional area. OR • 2-year degree from an accredited university in Culinary Arts, Hotel and Restaurant Management, or related major; 2 years experience in the culinary, food and beverage, or related professional area.  CORE WORK ACTIVITIES Ensuring Culinary Standards and Responsibilities are Met for Restaurant • Develops, designs, or creates new applications, ideas, relationships, systems, or products, including artistic contributions for restaurant. • Supervises restaurant kitchen shift operations and ensures compliance with all Food ; Beverage policies, standards and procedures. • Maintains food preparation handling and correct storage standards. • Recognizes superior quality products, presentations and flavor. • Plans and manages food quantities and plating requirements for the restaurant. • Communications production needs to key personnel. • Assists in developing daily and seasonal menu items for the restaurant. • Ensures compliance with all applicable laws and regulations regulations. • Follows proper handling and right temperature of all food products. • Estimates daily restaurant production needs. • Prepares and cooks foods of all types, either on a regular basis or for special guests or functions. • Checks the quality of raw and cooked food products to ensure that standards are met. • Determines how food should be presented and creates decorative food displays.  Leading Kitchen Team • Supervises and coordinates activities of cooks and workers engaged in food preparation. • Utilizes interpersonal and communication skills to lead, influence, and encourage others; advocates sound financial/business decision making; demonstrates honesty/integrity; leads by example. • Leads shift teams while personally preparing food items and executing requests based on required specifications. • Supervises and manages restaurant kitchen employees. Managing all day-to-day operations. Understanding employee positions well enough to perform duties in employees' absence. • Encourages and builds mutual trust, respect, and cooperation among team members. • Serving as a role model to demonstrate appropriate behaviors. • Ensuring and maintaining the productivity level of employees. • Ensures employees are cross-trained to support successful daily operations. • Ensures employees understand expectations and parameters. • Establishes and maintains open, collaborative relationships with employees and ensures employees do the same within the team.  Establishing and Maintaining Restaurant Kitchen Goals • Sets and supports achievement of kitchen goals including performance goals, budget goals, team goals, etc. • Developing specific guidance and plans to prioritize, organize, and accomplish daily kitchen operations work. • Understands the impact of kitchen operation on the overall property financial goals and objectives and manages to achieve or exceed budgeted goals. • Effectively investigates, reports and follows-up on employee accidents. • Knows and implements company safety standards.  Ensuring Exceptional Customer Service • Provides services that are above and beyond for customer satisfaction and retention. • Manages day-to-day operations, ensuring the quality, standards and meeting the expectations of the customers on a daily basis. • Improves service by communicating and assisting individuals to understand guest needs, providing guidance, feedback, and individual coaching when needed. • Sets a positive example for guest relations. • Emphasizes guest satisfaction during all departmental meetings and focuses on continuous improvement. • Empowers employees to provide excellent customer service. • Handles guest problems and complaints. • Interacts with guests to obtain feedback on product quality and service levels.  Managing and Conducting Human Resource Activities • Identifies the developmental needs of others and coaching, mentoring, or otherwise helping others to improve their knowledge or skills. • Participates in training restaurant staff on menu items including ingredients, preparation methods and unique tastes. • Manages employee progressive discipline procedures. • Participates in the employee performance appraisal process, providing feedback as needed. • Uses all available on the job training tools for employees. • Assists as needed in the interviewing and hiring of employee team members with appropriate skills.  Additional Responsibilities • Provides information to supervisors, co-workers, and subordinates by telephone, in written form, e-mail, or in person. • Analyzes information and evaluating results to choose the best solution and solve problems. • Attends and participates in all pertinent meetings.  Marriott International is an equal opportunity employer. We believe in hiring a diverse workforce and sustaining an inclusive, people-first culture. We are committed to non-discrimination on any protected basis, such as disability and veteran status, or any other basis covered under applicable law.",
+            "datePosted": "2023-03-01",
             "salaryRange": {
                 "currency": "SGD",
-                "maxValue": 10500,
-                "minValue": 7500,
+                "maxValue": 11000,
+                "minValue": 9000,
                 "payPeriod": "MONTH"
             },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/sr-test-program-manager-%E2%80%93-api-dna-infotech-0e46735ab2b9777d6275b5bf6007ce94?source=MCF&event=Search",
-            "uuid": "2a887f49-5d17-4a40-96f7-91c056743bdb"
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/chef-de-cuisine-w-singapore-sentosa-cove-hotel-c1dd99a2c48e47bfdfeeb12a1e9e13e1?source=MCF&event=Search",
+            "uuid": "5d8bdf9f-6b68-49ac-872b-ef673d5c5925"
         },
         {
-            "dueDate": "2023-03-29",
-            "jobTitle": "Sr. Test Program Manager – Payments",
+            "dueDate": "2023-04-03",
+            "jobTitle": "Regional Executive Chef (New Franchise)",
             "skills": [
-                "Excellent Communication Skills",
-                "Manual Testing",
-                "Analytical Skills",
-                "Interpersonal Skills",
-                "Scripting",
-                "user testing",
-                "Test Cases",
-                "Adaptability",
-                "Stakeholder Management",
-                "Test Management"
+                "Menu Development",
+                "Ingredients",
+                "Food Quality",
+                "Recruiting",
+                "Food Industry",
+                "Marketing",
+                "Food Retail",
+                "Procurement",
+                "Food & Beverage",
+                "People Management"
             ],
             "location": {
                 "country": "SG",
                 "locality": "Singapore",
-                "address": "THE OCTAGON, 105 CECIL STREET"
+                "address": null
             },
             "company": {
-                "logo": null,
-                "name": "DNA INFOTECH PTE. LTD."
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/3e2e2c88268632d4ce534c148fffa5cd/michael-page-international.png",
+                "name": "MICHAEL PAGE INTERNATIONAL PTE LTD"
             },
             "jobType": [
                 "FULL_TIME"
             ],
-            "description": "   Experience in performing Test Management      Activities across multiple projects with sound knowledge on STLC      processes, best practices etc.   At least 5 years experience of working as Test Manager   Strong BFSI background, good knowledge on      Payments module   Excellent communication skills, efficient in Sr.      stakeholder management   Experience of handling projects in multi vendor      set up amid aggressive timeline ",
-            "datePosted": "2023-02-27",
+            "description": "   Food Innovation ; Menu Development   Manage The Kitchen Operations  About Our Client Well established firm within the QSR space is recruiting for an experienced Regional Executive Chef to join their operations team in Singapore as they are setting up new franchise operations here. Job Description The Regional Executive Chef will be working closely with the HQ on the global guidelines for menu development, food innovation and manage the customisation for each individual market within SEA region.  This includes overall responsibility for the food quality, partnering with the procurement team for the food ingredients, managing the ingredient cost, hiring ; development of the kitchen staff including chefs.  Other job aspects include:    Supervision of food storage, food handling, and kitchen operations   Training ; development of the kitchen staff   Collaborate with the marketing event to develop seasonal menus for promotional campaigns  The Successful Applicant    Strong experience as an Executive Chef/Master Chef/Head Chef in the QSR industry   Prior background in menu development in SEA   Excellent communication ; leadership skills  What's on Offer The successful candidate can look forward to joining an organisation which is fast paced and has rapid expansion plans for SEA in the next few years.",
+            "datePosted": "2023-03-04",
             "salaryRange": {
                 "currency": "SGD",
-                "maxValue": 10500,
-                "minValue": 7500,
+                "maxValue": 13000,
+                "minValue": 10000,
                 "payPeriod": "MONTH"
             },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/sr-test-program-manager-%E2%80%93-payments-dna-infotech-941fe157c6259bcb0e93033cb7a842e1?source=MCF&event=Search",
-            "uuid": "c8ee44b5-5ebf-4868-b4b6-4c38bc560211"
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/regional-executive-chef-michael-page-international-870663309d74d9655b42af4608800b85?source=MCF&event=Search",
+            "uuid": "5d46de61-eee8-43b7-a98e-45bde9d3a97e"
         }
     ]
 }
