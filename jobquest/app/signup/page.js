@@ -43,11 +43,34 @@ export default function SignInPage() {
             auth.createUserWithEmailAndPassword(email, password).then(
                 async (userCredential) => {
                     const user = userCredential.user;
-                    await db.collection("users").doc(user.uid).update({
-                        displayName: username,
-                        photoURL:
-                            "https://icon-library.com/images/default-user-icon/default-user-icon-13.jpg",
-                    });
+
+                    await db
+                        .collection("users")
+                        .doc(user.uid)
+                        .set({
+                            uid: user.uid,
+                            displayName: username,
+                            email: user.email,
+                            photoURL:
+                                "https://icon-library.com/images/default-user-icon/default-user-icon-13.jpg",
+                            searcherBoolean: false,
+                            searcherData: {
+                                school: null,
+                                major: null,
+                                location: null,
+                                jobType: null,
+                                citizenship: null,
+                                minSalary: null,
+                                skills: null,
+                            },
+                            resumeData: {
+                                projectData: null,
+                                workData: null,
+                                ccaData: null,
+                                achievementsData: null,
+                                skillsData: null,
+                            },
+                        });
                     Cookies.set("loggedin", true);
                     router.push("/user/tracker");
                 }
