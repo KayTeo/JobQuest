@@ -10,7 +10,7 @@ const SearchPost = ({ search, setSearch }) => {
                 <input
                     id="search"
                     type="text"
-                    placeholder="Search Posts"
+                    placeholder="Search For Item..."
                     value={search}
                     onChange={(e) => setSearch(e.target.value)}
                     className="w-full bg-inherit focus:outline-0"
