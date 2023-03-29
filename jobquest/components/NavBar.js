@@ -85,7 +85,7 @@ export default function NavBar() {
                     </button>
                     <img
                         alt="logo"
-                        className="h-10 w-10 rounded-full bg-black"
+                        className="h-10 w-10 rounded-full"
                         src={userData.photoURL}
                         referrerPolicy="no-referrer"
                     ></img>
