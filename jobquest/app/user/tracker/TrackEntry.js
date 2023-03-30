@@ -125,13 +125,13 @@ export default function TrackEntry({ data, userID }) {
                             />
                         </svg>
                     )}
-                    <div className="h-5 w-[30%] overflow-clip">
+                    <div className="h-5 w-[30%] overflow-hidden text-ellipsis whitespace-nowrap">
                         {data.company.name}
                     </div>
-                    <div className="h-5 w-[25%] overflow-clip">
+                    <div className="h-5 w-[25%] overflow-hidden text-ellipsis whitespace-nowrap">
                         {data.jobTitle}
                     </div>
-                    <div className="h-5 w-24 overflow-clip">
+                    <div className="h-5 w-24 overflow-hidden text-ellipsis whitespace-nowrap">
                         {data.location.locality}
                     </div>
                     <div className="flex items-center justify-end gap-1">
