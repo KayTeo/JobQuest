@@ -2,11 +2,11 @@ import { MagnifyingGlassIcon } from "@heroicons/react/20/solid";
 
 const SearchPost = ({ search, setSearch }) => {
     return (
-        <form onSubmit={(e) => e.preventDefault()}>
+        <form onSubmit={(e) => e.preventDefault()} className="w-full">
             <label htmlFor="search" className="absolute left-[-99999px]">
                 Search
             </label>
-            <div className="flex h-6 w-96 items-center justify-between gap-1 rounded-full bg-gray-200 p-1 px-2 md:w-[690px]">
+            <div className="flex h-6 w-full items-center justify-between gap-1 rounded-full bg-gray-200 p-1 px-2">
                 <input
                     id="search"
                     type="text"

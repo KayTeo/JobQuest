@@ -7,10 +7,15 @@ import { useRouter } from "next/navigation";
 import SearchPost from "../forum/SearchPost";
 import BoosterJobEntry from "./BoosterJobEntry";
 
-export default function DataWrapper({ resumeData, userID, jobData, boostData }) {
+export default function DataWrapper({
+    resumeData,
+    userID,
+    jobData,
+    boostData,
+}) {
     const [isOpen, setIsOpen] = useState(false);
     const [search, setSearch] = useState("");
-    
+
     const router = useRouter();
 
     const filteredJobs = jobData.filter((job) =>
@@ -45,7 +50,9 @@ export default function DataWrapper({ resumeData, userID, jobData, boostData }) 
                         </button>
                     </div>
                 </div>
-                <SearchPost search={search} setSearch={setSearch} />
+                <div className="flex w-full items-center justify-center">
+                    <SearchPost search={search} setSearch={setSearch} />
+                </div>
                 <main className="flex flex-col items-center gap-2 pt-2">
                     {filteredJobs.map((e) => (
                         <BoosterJobEntry
