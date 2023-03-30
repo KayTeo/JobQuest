@@ -1,5 +1,4 @@
-import Comment from "./Comment";
-import CommentPost from "./CommentPost";
+import Post from "./Post";
 import CommentModal from "./CommentModal";
 import { Dialog } from "@headlessui/react";
 import { useState, useEffect } from "react";
@@ -21,17 +20,17 @@ export default function DataWrapper({ postData, commentsData, userID }) {
                         {postData.title}
                     </header>
                     <section className="w-[430px] md:w-[730px]">
-                        <CommentPost postData={postData} />
+                        <Post postData={postData} />
                     </section>
                 </div>
                 <main className="flex w-[390px] flex-col gap-2 md:w-[690px]">
                     {commentsData.map((e) => (
-                        <Comment key={e.commentID} commentData={e} />
+                        <Post key={e.commentID} postData={e} />
                     ))}
                 </main>
                 <button
                     onClick={() => setIsOpen(true)}
-                    className="fixed top-20 left-3/4 h-8 w-20 rounded-full bg-accent-500 text-center text-[10px] font-bold leading-6 text-white shadow-sm hover:bg-accent-300 md:h-9 md:w-24 md:text-xs"
+                    className="fixed top-20 right-5 h-8 w-20 rounded-full bg-accent-500 text-center text-[10px] font-bold leading-6 text-white shadow-sm hover:bg-accent-300 md:h-9 md:w-24 md:text-xs"
                 >
                     + Comment
                 </button>

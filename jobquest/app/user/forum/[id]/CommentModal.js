@@ -3,7 +3,7 @@ import { getCurrentDate } from "@/utils/date";
 import { generateUUID } from "@/utils/uuid";
 
 import firebase from "@/firebase/firebase-config";
-import { commentData1 } from "./../tempforumdata";
+
 const db = firebase.firestore();
 
 async function addComment(userID, newComment, postID) {

@@ -1,12 +1,8 @@
 "use client";
 
-import { useState, use, useContext } from "react";
+import { use, useContext } from "react";
 import { UserContext } from "@/utils/UserContext";
 import DataWrapper from "./DataWrapper";
-import Comment from "./Comment";
-import CommentPost from "./CommentPost";
-import CommentModal from "./CommentModal";
-import { Dialog } from "@headlessui/react";
 
 import firebase from "@/firebase/firebase-config";
 const db = firebase.firestore();

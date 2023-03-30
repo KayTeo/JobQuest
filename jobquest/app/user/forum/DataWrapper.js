@@ -20,8 +20,8 @@ export default function DataWrapper({ userID, postsData }) {
 
     return (
         <>
-            <div className="flex flex-col items-center justify-center gap-2 py-5 text-xs text-black">
-                <header className="flex items-center justify-center gap-1">
+            <div className="flex flex-col items-center justify-center gap-4 py-10 text-black">
+                <header className="flex w-[384px] items-center justify-center gap-1 md:w-[690px]">
                     <SearchPost search={search} setSearch={setSearch} />
                     <button
                         onClick={() => setIsOpen(true)}
@@ -30,11 +30,19 @@ export default function DataWrapper({ userID, postsData }) {
                         + Post
                     </button>
                 </header>
-                <main className="flex flex-col items-center justify-center gap-2">
-                    {filteredPosts.map((e) => (
-                        <Post key={e.postID} postData={e} />
-                    ))}
-                </main>
+                <div className="flex min-h-[100px] w-[350px] flex-col gap-1 rounded-2xl bg-accent-200 pb-3 shadow-2xl md:w-[630px]">
+                    <section className="h-[50px] w-full rounded-t-2xl bg-blue-900 px-5 py-2 text-xl font-bold text-white md:text-2xl ">
+                        General Forum
+                    </section>
+                    <main className="flex w-full flex-col items-center justify-center gap-2">
+                        {filteredPosts.map((e) => (
+                            <div key={e.postID}>
+                                <Post postData={e} />
+                                <hr className="w-full bg-gray-500"></hr>
+                            </div>
+                        ))}
+                    </main>
+                </div>
             </div>
             {isOpen && (
                 <Dialog
