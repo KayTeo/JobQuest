@@ -3,6 +3,7 @@
 import { Dialog } from "@headlessui/react";
 import Modal from "./Modal";
 import TrackEntry from "./TrackEntry";
+import SearchPost from "../forum/SearchPost";
 import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
 
@@ -34,12 +35,16 @@ const emptyEntry = {
 
 export default function TrackList({ viewMode, userID, trackData }) {
     const [isOpen, setIsOpen] = useState(false);
+    const [search, setSearch] = useState("");
     const router = useRouter();
 
     useEffect(() => {
         router.refresh();
     }, [isOpen]);
 
+    const filteredTrack = trackData.filter((job) =>
+        job.company.name.toLowerCase().includes(search.toLowerCase())
+    );
     return (
         <>
             <div
@@ -58,13 +63,14 @@ export default function TrackList({ viewMode, userID, trackData }) {
                         +
                     </button>
                 </div>
+                <SearchPost search={search} setSearch={setSearch} />
                 <div
                     className={` ${
                         viewMode === "right" && "xl:w-[900px]"
                     }  h-[60vh] w-[600px] overflow-hidden rounded-xl border border-black bg-light-500`}
                 >
                     <div className="flex h-full w-full flex-col items-center gap-2 overflow-y-scroll p-2 pr-1">
-                        {trackData.map((e) => (
+                        {filteredTrack.map((e) => (
                             <TrackEntry key={e.uuid} data={e} userID={userID} />
                         ))}
                     </div>

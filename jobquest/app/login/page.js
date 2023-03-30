@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import GoogleLogIn from "@/components/GoogleLogIn";
 import Image from "next/image";
@@ -11,7 +11,7 @@ const auth = firebase.auth();
 export default function LogInPage() {
     const router = useRouter();
     if (Cookies.get("loggedin")) {
-        router.push("/user/tracker");
+        router.push("/user/searcher");
     }
 
     function handleSubmit(e) {
@@ -19,12 +19,13 @@ export default function LogInPage() {
         const email = e.target.username.value;
         const password = e.target.password.value;
         auth.signInWithEmailAndPassword(email, password)
-        .then(()=> {
-            Cookies.set("loggedin", true);
-            router.push("/user/tracker");
-        }).catch((error) => {
-            alert(error.message);
-        });
+            .then(() => {
+                Cookies.set("loggedin", true);
+                router.push("/user/tracker");
+            })
+            .catch((error) => {
+                alert(error.message);
+            });
     }
 
     return (

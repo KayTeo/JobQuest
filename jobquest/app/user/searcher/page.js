@@ -4,9 +4,10 @@ import { UserContext } from "@/utils/UserContext";
 import { useRouter } from "next/navigation";
 import { use, useContext, useState } from "react";
 import Search from "./Search";
-import Loading from "../loading";
+import Loading from "./loading";
 import Link from "next/link";
 import { MagnifyingGlassIcon } from "@heroicons/react/20/solid";
+
 
 import firebase from "@/firebase/firebase-config";
 const db = firebase.firestore();
@@ -85,7 +86,7 @@ export default function SearcherPage() {
                         <input
                             name="keywords"
                             type="text"
-                            className="h-[28px] w-[300px] rounded-xl border border-black px-2"
+                            className="h-[28px] w-[500px] rounded-xl border border-black px-2"
                         />
                         <button
                             type="submit"

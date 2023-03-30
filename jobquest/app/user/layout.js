@@ -4,7 +4,7 @@ import NavBar from "@/components/NavBar";
 import { UserContext } from "@/utils/UserContext";
 import { useAuthState } from "react-firebase-hooks/auth";
 import firebase from "@/firebase/firebase-config";
-import Loading from "./loading";
+import Loading from "./searcher/loading";
 import Cookies from "js-cookie";
 import { use } from "react";
 import { useRouter } from "next/navigation";
@@ -20,7 +20,7 @@ export default function UserLayout({ children }) {
     if (!Cookies.get("loggedin")) {
         router.push("/");
     }
-    
+
     return (
         <>
             {loading ? (

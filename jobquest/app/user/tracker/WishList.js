@@ -2,8 +2,15 @@
 
 import WishEntry from "./WishEntry";
 import Link from "next/link";
+import SearchPost from "../forum/SearchPost";
+import { useState } from "react";
 
 export default function WishList({ viewMode, userID, wishData }) {
+    const [search, setSearch] = useState("");
+
+    const filteredWish = wishData.filter((job) =>
+        job.company.name.toLowerCase().includes(search.toLowerCase())
+    );
     return (
         <div
             className={`${
@@ -19,14 +26,14 @@ export default function WishList({ viewMode, userID, wishData }) {
                     +
                 </Link>
             </div>
-
+            <SearchPost search={search} setSearch={setSearch} />
             <div
                 className={` ${
                     viewMode === "left" && "xl:w-[900px]"
                 }  h-[60vh] w-[600px] overflow-hidden rounded-xl border border-black bg-light-500`}
             >
                 <div className="flex h-full w-full flex-col items-center gap-2 overflow-y-scroll p-2 pr-1">
-                    {wishData.map((e) => (
+                    {filteredWish.map((e) => (
                         <WishEntry key={e.uuid} data={e} userID={userID} />
                     ))}
                 </div>
