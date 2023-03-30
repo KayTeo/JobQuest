@@ -2,744 +2,198 @@
     "jobs": [
         {
             "dueDate": "2023-04-29",
-            "jobTitle": "Test Engineer",
+            "jobTitle": "CHEF",
             "skills": [
-                "Verbal Communication",
-                ".NET",
-                "Quality Assurance",
-                "Automated Software Testing",
-                "System Integration",
-                "Scripting",
-                "Test Cases",
-                "Test Automation",
-                "Strategy",
-                "Software Testing",
-                "Selenium",
-                "Team Player",
-                "Integration Testing",
-                "Electronics"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "GUOCO TOWER, 1 WALLICH STREET"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/643690475fd1fdc2c79c950c10dd8a88/manpower-staffing-services.jpg",
-                "name": "MANPOWER STAFFING SERVICES (SINGAPORE) PTE LTD"
-            },
-            "jobType": [
-                "CONTRACTOR"
-            ],
-            "description": "Job scope Testing Strategy, Design and Planning Phase    Involve in understanding the requirements from multiple internal      and external stakeholders’ groups and work with the development team      throughout development to define and improve the build system quality.   Review stories or requirement specs to ensure that requirements      stated are correct, unambiguous and verifiable. i.e. verify that      definition of done is able to meet of every released feature.   Discuss, analyze and recommend design improvements or corrections      to developers throughout the development process.   Collaborate closely with stakeholders and project team to identify      needs and requirements for estimation of testing scope and time frame.   Develop and establish quality assurance deliverables and testing      framework, including create and maintain test plans and test cases in      accordance with changing requirements, throughout development.   Create and manage automated test framework whenever possible such      as prepare test environment, create automated functional testing scripts,      maintain functional testing script in accordance with changing      requirements.  Testing Execution/Implementation Phase    Conduct system integration tests with external parties, validate      the output and expected outcome e.g. data to and from external parties’      systems and feedback on improvement requirement.   Conduct extensive manual functional /exploratory testing, including      browser testing.   Conduct performance and load tests, validate the output and      expected outcomes and feedback on improvement required.   Conduct application performance and security testing to ensure we      have a robust and secured system in place.   Conduct impact analysis of defect fixes discovered during manual or      automated tests, validate completed stories pass the acceptance criteria,      raising defects as needed and work with development team to improve the      expected behavior and test cases.   Demonstrate the tested stories during Sprint Review and prepare      production show case to show the completed stories tested.  Job requirement    Bachelor’s degree in Computer Science or equivalent   With at least 2 years of relevant experience in software testing.   Certified Software Testing Professional and/or Certified Software      Quality Analyst or an equivalent certification will be a plus, e.g. ISTQB.   Good understanding and completion of projects using waterfall/Agile      methodology.   Demonstrate knowledge of automated software testing methodologies      such as integration testing, functional testing.   Familiarity with automated testing software such as JMeter and      Selenium.   Having .NET experience will be a plus   Team player with ability to collaborate and work effectively within      team.   Good written and verbal communication and interpersonal skills.   Passion for automation, standardization and best practices.  Thank you for your interest! We respect your privacy and all communication will be treated with confidentiality. If you wish to know more about this position or explore other roles, please prepare your updated profile and get in touch with our consultant at  cristina.malijan@manpower.com.sg Cristina Malabuyoc Malijan EA License No. 02C3423 Personnel Registration No. R1111547  Please note that your response to this advertisement and communications with us pursuant to this advertisement will constitute informed consent to the collection, use and/or disclosure of personal data by ManpowerGroup Singapore for the purpose of carrying out its business, in compliance with the relevant provisions of the Personal Data Protection Act 2012. To learn more about ManpowerGroup's Global Privacy Policy, please visit https://www.manpower.com.sg/privacy-policy",
-            "datePosted": "2023-03-30",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 7500,
-                "minValue": 6500,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/test-engineer-manpower-staffing-services-1f466ac7bda2b2da1a6e77699564a53a?source=MCF&event=Search",
-            "uuid": "d00f04c8-63b6-4640-a872-18481076d8b5"
-        },
-        {
-            "dueDate": "2023-04-29",
-            "jobTitle": "Test Engineer",
-            "skills": [
-                "troubleshooting skills",
-                "RF",
-                "Pay Attention to Detail",
-                "Test Cases",
-                "Test Automation",
-                "Analytical Troubleshooting",
-                "Requirements Analysis",
-                "Software Testing",
-                "Communication Skills",
-                "Project Coordination",
-                "Test Execution",
-                "Electronics"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "19 KALLANG AVENUE"
-            },
-            "company": {
-                "logo": null,
-                "name": "SEGEN CONSTRUCTION PTE LTD"
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Job Description    5G Network Testing   Indoor 5G Equipment Site Survey ; Installation   Project Coordination ; Management   Preparation of Technical Site Survey Report   Knowledge of any RF analysing tools to validate tests   Assess and update test results   Day-to-day coordination with Project Team   Managing technical project documentation   Preparing reports for submission   Able to work shift work (9am-6pm or 10pm-6am)   Any other Adhoc tasks   Required knowledge and skills    Excellent written and spoken communication skills   Excellent communication and customer service skills   Analytical thinking skills   Ability to pay attention to detail  ",
-            "datePosted": "2023-03-30",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 2500,
-                "minValue": 1800,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/test-engineer-segen-construction-e3be028cc9c392ca61f26667524a2062?source=MCF&event=Search",
-            "uuid": "252d432b-a214-49ca-a69b-bb6aee0e552e"
-        },
-        {
-            "dueDate": "2023-04-29",
-            "jobTitle": "Automation Test Engineer",
-            "skills": [
-                "Performance Testing",
-                "Automation Testing",
-                "Quality Assurance",
-                "Robot",
-                "Usability Testing",
-                "Agile",
-                "Information Technology",
-                "Karate",
-                "Agile Methodology",
-                "JIRA",
-                "Software Testing",
-                "Test Strategy",
-                "Test Execution",
-                "Test Management"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "SAMSUNG HUB, 3 CHURCH STREET"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/e86d19dc7786607f32d88b044ff5e0fb/tescom-software-systems-testing.jpg",
-                "name": "TESCOM (SINGAPORE) SOFTWARE SYSTEMS TESTING PTE LTD."
-            },
-            "jobType": [
-                "CONTRACTOR"
-            ],
-            "description": "Tescom is an IT consulting firm providing a range of professional services in functional testing, automation testing, cyber security testing, performance testing, independent IT auditing, usability testing, resource augmentation, IT support and training. We are looking to hire Automation Test Engineers, to join us in an exciting engagement. This is a rewarding role that requires candidates to exercise their technical skills with automation test tools and frameworks.  Responsibilities    Collaborate closely with stakeholders and project team to identify,      analyse and review design needs and requirements for estimation of      automation testing scope and schedule   Develop and maintain automation testing deliverables, such as      automation test scripts, automation test frameworks and work with      automation test tools.   Conduct automation test execution according to the company’s      current automation test strategy.   Develop and execute automation test scripts against backend batch      jobs and backup jobs.   Conduct defect management.   Collect and report on testing progress.   Adopt, execute and champion the company’s software testing and      quality assurance processes.   Participate actively in various Agile ceremonies such as sprint      planning, stand-up meetings, and sprint retrospectives.  Qualifications    Tertiary Qualification in Information Security, Information      Technology, Computer Science, Engineering (Computing/Telecommunication) or      equivalent   Minimum of 3 years of relevant working experience in automation      testing   Experience using Test management tools: Jira.   Experience using Automation Testing tools such as Postman, Robot      Framework, and Karate Framework.   Experience with automation testing involving backend batch jobs and      backup jobs.   Certified Software Testing Professional and/or Certified Software      Quality Analyst or an equivalent certification will be an added advantage   Good understanding of Agile methodology is preferred   Strong client and project management abilities coupled with      excellent communication, written, analytical, organizational and problem-solving skills  Think you have what it takes? Email us your resume now : sherin.kaur@tescom-apac.com  An exciting new career awaits you!",
-            "datePosted": "2023-03-30",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 6500,
-                "minValue": 5900,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/automation-test-engineer-tescom-software-systems-testing-588faa9a27485de2bd81dd2b47896fec?source=MCF&event=Search",
-            "uuid": "0f1ec8f1-5c2c-4627-beb3-382f651866a2"
-        },
-        {
-            "dueDate": "2023-04-29",
-            "jobTitle": "Production Test Engineer",
-            "skills": [
-                "Test Equipment",
-                "Program Development",
-                "Data Analysis",
-                "Hardware",
-                "Semiconductor Industry",
-                "Scripting",
-                "Problem Solving",
-                "Mixed Signal",
-                "Reliability",
-                "Characterization",
-                "Packaging",
-                "Python",
-                "DFT",
-                "Debugging",
-                "Manufacturing",
-                "Software Development"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "PAYA LEBAR 178, 178 PAYA LEBAR ROAD"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/d60a1f6da3565cad68022e5ce132200b/bridgetek.png",
-                "name": "BRIDGETEK PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Job Purpose: Test program development and implementation for new products.  Key Responsibilities:    ATE test program development and implementation for new products (Production and Characterization Test)   Test Hardware (final test loadboard and wafersort probecard) design and development for engineering activities and production ramp-up   Perform characterization testing, prepare test specifications, define tests, conditions, criteria, etc.   Solid digital and mixed-signal programming experience on ATE using C++/VB language and scripting   Automate test process by writing software scripts to improve work efficiency.   Monitor and manage production test yields, maverick lots, engineering lots   Hands-on test debugging, RMA analysis and improving test solutions (Hardware and Software)   Work with product designer and DFT engineer to ensure smooth product bring-up   Responsible for overseeing product reliability stresses and test results   Establish cost-effective production test solutions.  Additional Responsibilities: a) Any reasonable task assigned by management and deemed to be within the individuals’ capabilities to ensure smooth running of the business. b) As this is an evolving business, ongoing change is an integral part of the position. Management will liaise with the individual on any fundamental change to work practices. The individual is required to embrace and adopt any change to working practices.  Knowledge and skill requirements:    Bachelor's degree in engineering (electrical/electronics)   Minimum 5 years of relevant working experience in semiconductor industry   Knowledge and hands on experience with industry standard Automated Test Equipment – Teradyne J750.   Experience on Advantest T2K, Advantest 93K, UltraFlex, Chroma is a plus.   Strong understanding of ATE Test Programming principles, preferablywith experience in Digital and Mixed signal testing   Test Software development experience ; skills, including knowledge of C/C++, VB, PERL, Python etc.   Experience/knowledge in new product characterization and qualification.   Experience in test Hardware development (loadboard and probecard)   Good knowledge on manufacturing process (fab, packaging,test)   Good aptitude in statistical data analysis, problem solving and solution finding.  Working Conditions: - Working conditions are normal for an office environment. - Work requires willingness to work a flexible schedule.",
-            "datePosted": "2023-03-30",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 7000,
-                "minValue": 6000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/production-test-engineer-bridgetek-999327aa5b6a8fe661ac4c3ea333a8fa?source=MCF&event=Search",
-            "uuid": "64582904-99a7-467d-af80-e233d6b7d57c"
-        },
-        {
-            "dueDate": "2023-04-29",
-            "jobTitle": "System Test Lead",
-            "skills": [
-                "Manual Testing",
-                "Quality Assurance",
-                "Software Quality Assurance",
-                "Regression Testing",
-                "Agile Methodologies",
-                "SDLC",
-                "Microsoft SQL Server",
-                "SQL",
-                "Testing",
-                "Test Planning"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "3 DEPOT CLOSE"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/49b28337399acb69a47fc77f9337c683/staffondemand.png",
-                "name": "BEYONDSOFT INTERNATIONAL (SINGAPORE) PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "     COMPANY DESCRIPTION      Beyondsoft International (Singapore) Pte. Ltd. was set up in 2007 and established as the regional headquarters for the Southeast Asia (SEA) and European markets in September 2015. Based on our vision of \"Using technology to promote social progress, economic development and become a global customer preferred partner\" and our concept of \"Beyond your expectations\", Beyondsoft is committed to provide our customers in countries along the \"Belt and Road\" with comprehensive solutions and products and creating commercial value for customers to realizing continuous businesses development. Our core business includes: IT development servicesProviding customers with IT consulting, software research and development, software and hardware testing, system integration and operation and maintenance, data analysis and other services; New retail solutions and productsThrough intelligent products, helping small and medium-sized enterprises (SMEs) realize the digital transformation of their daily operations; Internet of Things (IoT) platform and solutionsComprehensive use of IoT, artificial intelligence, big data, cloud computing and other technologies to provide IoT solutions for intelligent upgrades in cities, parks, buildings and industries, to create a smart future. For more information, please visit www.beyondsoft.com.      RESPONSIBILITIES      Window cloning Review and clarify test requirement Execute testing based on the test cases Perform the exploratory test and clarify test procedure when needed Perform troubleshooting and identify root causes for the issues and report the defects Record and document results Design and develop test cases based on the test requirements and specifications Manage a team of system tester  QUALIFICATIONS     Minimum Diploma in Computer Science or relevant studies Minimum 1 year of software or prototype testing Experience with automation tools (i.e. run automation scripts, analyze reports and issues, report bugs) will be a distinct advantage Open to candidates who possess passion and interest in gaming industry&nbsp;       OTHER INFORMATION     We are looking for a technical candidate who is passionate about resolving complex customer issues in a quality and timely manner. This will be a new position to drive new testing procedures for new products. We are open to candidates who are keen with prototype and software testing as well. Training opportunities for career training and growth will be provided.      Please note that your application will be sent to and reviewed by the direct employer - Beyondsoft International (Singapore) Pte Ltd ",
-            "datePosted": "2023-03-30",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 2600,
-                "minValue": 2000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/system-test-lead-beyondsoft-international-7a3e9eb55e394d4b7f02c6b33bf17673?source=MCF&event=Search",
-            "uuid": "0eca6e04-45a9-4b00-a35b-295af7993ee8"
-        },
-        {
-            "dueDate": "2023-04-06",
-            "jobTitle": "Production Test Engineer (ATE Test Program, C++/VB)",
-            "skills": [
-                "Program Development",
-                "Technical Analysis",
-                "Hardware",
-                "RF",
-                "Interpersonal Skills",
-                "Test Engineering",
-                "Electrical",
-                "Soft Skills",
-                "Product Engineering",
-                "MS Word",
-                "Characterization",
-                "Test Design",
-                "Disposition",
-                "Debugging",
-                "IC",
-                "Electronics"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "THE ARCADE, 11 COLLYER QUAY"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/d1505f35fee02dabd4146b80df234925/recruit-expert.jpg",
-                "name": "RECRUIT EXPERT PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "   Perform ATE Test Program Design and Development for new products (Production and Characterization Test)   Design and create Final Test Loadboard and Wafersort Probecard   Manage Characterization Testing, prepare test specifications, define tests, conditions, criteria, etc.   Responsible for test debugging, RMA analysis, and improving test solutions (HW and SW)  Requirements:    Degree in Electrical/Electronic Engineering   At least 3 years of ATE Test Program Development (C++/VB) experience with J750, UltraFlex, Advantest 93K, Advantest T2K test programming.  If you are keen to apply for the position, kindly email your detailed resume in MS Word to hr@recruit-expert.com Please note that only shortlisted candidates will be notified. For more job opportunities, please visit our website at www.recruit-expert.com EA Licence: 19C9701 Registration: R22111604",
-            "datePosted": "2023-03-30",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 6500,
-                "minValue": 5500,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/production-test-engineer-recruit-expert-22c6fc38f0ad61e891d1a8cec3a34736?source=MCF&event=Search",
-            "uuid": "bf29436a-f9b7-404f-ab21-c9a201b4d0a2"
-        },
-        {
-            "dueDate": "2023-04-29",
-            "jobTitle": "Test Engineering Assistant",
-            "skills": [
-                "Test Equipment",
-                "Preventive Maintenance",
-                "Troubleshooting",
-                "Microsoft Office",
-                "Microsoft Excel",
-                "ICT",
-                "Electrical",
-                "Merchandising",
-                "MS Office",
-                "AutoCAD",
-                "Microsoft Word",
-                "Assembly",
-                "Catering",
-                "Manufacturing",
-                "Electronics",
-                "Commissioning"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "2 Chai Chee Drive "
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/21c573fecb7335c4d0b3946893ffcf0f/sanmina-sci-systems-singapore.png",
-                "name": "SANMINA-SCI SYSTEMS SINGAPORE PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Job Responsibilites:    Support production on the following line test equipment:     Maintain various industrial ICT e.g Agilent 3070, Teradyne 228X, LX128 etc.   Maintain Agilent 5DX and Takaya Flying Probe equipment.   Repair all customers consigned functional testers.   Job Requirements:    Minimum Diploma in Electrical / Electronics Engineering or equivalent.   Minimum 2 years of relevant experience in related field is preferred.   Preferably with Agilent 3070 or Takaya 228 X ICT experience.   Preferably with basic knowledge of tester trouble shooting skills to locate the fault.   Preferably able to operate oscilloscope and other instruments for fault finding.   Proficient in MS Office applications. ",
-            "datePosted": "2023-03-30",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 2700,
-                "minValue": 2000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/test-engineering-assistant-sanmina-sci-systems-singapore-fdb97253342095b291edcabf334d3a97?source=MCF&event=Search",
-            "uuid": "4370f607-84b2-4240-9ee3-c2e7937f5a08"
-        },
-        {
-            "dueDate": "2023-04-06",
-            "jobTitle": "QA Engineer (Software/Hardware Testing)",
-            "skills": [
-                "product testing",
-                "Product test",
-                "Product Quality",
-                "Test Cases",
-                "Computer Science",
-                "Product Testing and Development",
-                "Software Testing",
-                "Product Testing Management",
-                "analyse product quality",
-                "hardware testing",
-                "Test Execution",
-                "Test Environment Setup",
-                "Test Specifications"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "THE ARCADE, 11 COLLYER QUAY"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/d1505f35fee02dabd4146b80df234925/recruit-expert.jpg",
-                "name": "RECRUIT EXPERT PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "   Set up test environment and perform test execution based on product test specifications/cases.   Evaluate requirement list and ensure products are qualified to fulfil site requirements.   Support in test specifications, test cases, test records and test reports when required.  Requirements:    Diploma in Computer Science or equivalent   At least 2 years of software and hardware testing experience.   Independent, efficient and with good interpersonal skills.  If you are keen to apply for the position, kindly email your detailed resume in MS Word to hr@recruit-expert.com Please note that only shortlisted candidates will be notified. For more job opportunities, please visit our website at www.recruit-expert.com EA Licence: 19C9701 Registration: R1326740",
-            "datePosted": "2023-03-30",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 4000,
-                "minValue": 2500,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/qa-engineer-recruit-expert-b92dbbc7e929589192867bc8bb315074?source=MCF&event=Search",
-            "uuid": "1f6246c9-dffb-4364-b424-76b658bfbdd2"
-        },
-        {
-            "dueDate": "2023-04-06",
-            "jobTitle": "Test Engineer (Manufacturing/ Electronics, West)",
-            "skills": [
-                "Test Equipment",
-                "Troubleshooting",
-                "Manufacturing Engineering",
-                "Lean Manufacturing",
-                "FMEA",
+                "Recipes",
+                "Drainage",
+                "Leadership",
+                "Ingredients",
+                "Food Safety",
+                "Cooking",
                 "Housekeeping",
-                "Agile",
-                "Electrical",
-                "Test Automation",
-                "MS Word",
-                "VAVE",
-                "Time Management",
-                "Writing",
-                "Team Lead",
-                "Test Strategy",
-                "Assembly",
-                "Manufacturing",
-                "Electronics",
-                "Calibration",
-                "Test Management"
+                "Food Quality",
+                "Inventory",
+                "Sanitation",
+                "Raw Materials",
+                "Compliance",
+                "Baking",
+                "Culinary Skills",
+                "Pastry",
+                "Japanese"
             ],
             "location": {
                 "country": "SG",
                 "locality": "Singapore",
-                "address": "WCEGA TOWER, 21 BUKIT BATOK CRESCENT"
+                "address": "6 TEBING LANE"
             },
             "company": {
-                "logo": null,
-                "name": "HAN YA RECRUIT PTE. LTD."
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/9fd2757c2cc660deb96e7419190bff57/idea-management-services.jpg",
+                "name": "BANYAN BEER GARDEN PTE. LTD."
             },
             "jobType": [
                 "FULL_TIME"
             ],
-            "description": "Responsibilities    Responsible for developing of test scripts, issues tracking and test management   Responsible for conducting qualification test of new product or revised component with issuing of test report and recommendations to the test findings   Responsible for testing accordance to applicable product standards, guidelines, regulations and dormakaba Corporate Standard (DCS)   Responsible for preparation of samples and coordinate with PQS EN or certification bodies for product certification   Responsible for evaluating and analysis of competitors’ products – teardown analysis, VA/VE  Requirements    Min Diploma in Engineering or relevant   Min 2 years of working experience in production quality or test lab.  Please kindly email your resume in Ms Word to rc@hanyarecruit.com We regret to inform that only shortlisted candidates would be notified.  XIE JIANI Registration Number: R1548854 EA License No. 22C1026",
-            "datePosted": "2023-03-30",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 4000,
-                "minValue": 2000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/test-engineer-han-ya-recruit-870c0f61bd3b2fddaea3430ab45e9eeb?source=MCF&event=Search",
-            "uuid": "5ce2337f-8dd7-4928-b711-f194f4efcd77"
-        },
-        {
-            "dueDate": "2023-04-29",
-            "jobTitle": "10x Test Technician / Tested (North/ 5D/PCA Products/Basic up $2.7K)",
-            "skills": [
-                "Manual Testing",
-                "Troubleshooting",
-                "Soldering",
-                "Quality Assurance",
-                "Test Cases",
-                "Test Automation",
-                "Team Player",
-                "Assembly",
-                "Manufacturing",
-                "Electronics"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "ORCHARD TOWERS, 400 ORCHARD ROAD"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/401e1c670ff7b803a09523114fa4dbd9/htz-resources.jpg",
-                "name": "HTZ RESOURCES"
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Your Role We are looking for an experienced 10x Technician (Electronic Products) to handle technical assembly and troubleshooting PCA of product. You will maintenance and operating of test machine. And involve in continuous improvement in the production processes. And it will produce output as per production target.  What Will You Do · To handle technical assembly and troubleshooting PCA of product. · Maintenance and operating of test machine · Involve in continuous improvement in the production processes. · And it will produce output as per production target. · Any other ad-hoc job assigned by manager  What Do We Want · Min ITE in Electronics / Mechanical Engineering or equivalent · At least 1-2 years of unit level testing of product working / electronics manufacturing experience · Able to perform soldering and testing of products · Able to troubleshoot PCA and products, read schematic diagram  What Will You Get In Return You will be given exposure to a hold a key position in a growing organization with attractive rewards and a wide range of benefits. You will entitle a Gross salary up to S$3000 + attractive perks.  What You Need to do Now Click \"Apply\" and please include the following information in your resume:    Personal Particulars with recent photograph   Education background   Work experiences in point forms   Reason(s) for leaving   Current and Expected salary   Date of availability / Notice Period  Note: Only shortlisted candidate will be notified via email for an interview invitation",
-            "datePosted": "2023-03-30",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 3000,
-                "minValue": 2200,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/10x-test-technician-tested-htz-resources-8d9e9fcae5f8f8c15604f961b94c1c40?source=MCF&event=Search",
-            "uuid": "582a5d8f-b189-46b1-87d3-9044b619e2fe"
-        },
-        {
-            "dueDate": "2023-04-06",
-            "jobTitle": "Junior Test Engineer (Manufacturing/ Electronics, West)",
-            "skills": [
-                "Performance Testing",
-                "Test Equipment",
-                "Troubleshooting",
-                "Manufacturing Engineering",
-                "Lean Manufacturing",
-                "FMEA",
-                "Hardware",
-                "Housekeeping",
-                "Agile",
-                "Electrical",
-                "MS Word",
-                "VAVE",
-                "Time Management",
-                "Writing",
-                "Team Lead",
-                "Assembly",
-                "Manufacturing",
-                "Electronics",
-                "Calibration",
-                "Test Management"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "WCEGA TOWER, 21 BUKIT BATOK CRESCENT"
-            },
-            "company": {
-                "logo": null,
-                "name": "HAN YA RECRUIT PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Responsibilities    Responsible for developing of test scripts, issues tracking and test management   Responsible for conducting qualification test of new product or revised component with issuing of test report and recommendations to the test findings   Responsible for testing accordance to applicable product standards, guidelines, regulations and dormakaba Corporate Standard (DCS)   Responsible for preparation of samples and coordinate with PQS EN or certification bodies for product certification   Responsible for evaluating and analysis of competitors’ products – teardown analysis, VA/VE  Requirements    Min Diploma in Engineering or relevant   Min 2 years of working experience in production quality or test lab.  Please kindly email your resume in Ms Word to rc@hanyarecruit.com We regret to inform that only shortlisted candidates would be notified.  XIE JIANI Registration Number: R1548854 EA License No. 22C1026",
+            "description": "Job Description To perform cooking duties in a non-aircon F;B working environment. Detailed Responsibilities - Assist the head chef in daily kitchen operation - Cutting, steaming, frying, etc. - Washing and handling raw materials such as vegetable, seafood, pork, poultry, beef, etc. - Periodically cleaning ; maintenance of fridge, freezer, cooking area, exhaust hood, drainage, etc. - Periodically review menu with the management and design new promotion dishes - Other ad hoc duties assigned by the management Requirements - Min 2 years' experience as Chef in a restaurant - Able to get along with team members - Needs to work on split shift daily: 10am – 2pm ; 6pm – 10pm - Needs to work on weekends ; public holidays - OT may be required with short notice to cover other colleagues’ MC or leaves - Able to work in a Non-Aircon environment Interested applicants, please email resume to: ideamgt@yahoo.com.sg (Licence No. 04C4555, by applying this job, it's agreeable that you consent us to collect, use, disclose and/or process your personal data for your job placement purposes.)",
             "datePosted": "2023-03-30",
             "salaryRange": {
                 "currency": "SGD",
                 "maxValue": 5000,
-                "minValue": 2500,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/junior-test-engineer-han-ya-recruit-a9e56cb1969f34cbfd8ff6f9df7abbc2?source=MCF&event=Search",
-            "uuid": "0c040c17-8df4-43ef-a812-4b61f3526706"
-        },
-        {
-            "dueDate": "2023-04-29",
-            "jobTitle": "Software Testing & Business Analyst - Graduate Programme",
-            "skills": [
-                "Agile Methodolgy",
-                "Financial Services industry",
-                "Manual Testing",
-                "Business Analysis",
-                "SDLC",
-                "Information Technology",
-                "Microsoft SQL Server",
-                "Test Automation",
-                "technical environment",
-                "SQL",
-                "Software Testing",
-                "Business Process",
-                "Java",
-                "Linux",
-                "Testing",
-                "Test Planning"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "South Beach Towers, 38 Beach Road"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/619581708554eb5d31bb995756897a06/fdm-singapore-consulting.png",
-                "name": "FDM SINGAPORE CONSULTING PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "The demand for software testing is continuing to grow! Driven by continual technological advancements, FDM is seeking the next generation of specialists to join our Software Testing graduate programme to safeguard the future of technology and support the progression of the industry. About this role On the FDM Software Testing Graduate Programme, you will undergo industry recognised training before putting that into practice by working on projects with one of our industry leading clients. This programme will provide you with multiple future career opportunities ranging from Test Analyst and Quality Engineer through to Test Lead, Test Manager and Automated Test Engineer. Testing is an essential component of IT project delivery as all businesses implement these processes to support the management of risk and the delivery of high-quality products. Software Testing teams work hard to validate new technologies to ensure they are implemented successfully across their business both from a customer and internal process improvement perspective. With the huge surge in demand for testers, this is a role for those who are personable and have excellent stakeholder management skills as well as a passion for coding and working with new technology. Through our programme you will be provided with tailored training to help you develop a variety of skills that are required to be successful within both manual and automated testing roles. Through which you will be equipped with knowledge and skills that include ISTQB Foundation Level Qualification; test script creation and execution, defect management, test automation using a variety of coding languages, software tools and frameworks, providing you with a strong foundation upon which you can build a diverse and successful career. Benefits    A full-time contract with a salary from Day 1 of training   Training is provided by industry experts, covering both technical and professional skills to ensure you are job-ready   Ongoing career support throughout your entire FDM journey, including professional development, mentoring, and social networking events with a community of peers   A chance to launch a career in one of the most in-demand tech fields  Minimum Qualifications    Educated to a university degree level (bachelor or higher), no STEM degree required   Demonstrable interest and desire to work in technology   Ability to commit to completing our full 2.5-year graduate programme   Eligible to work in Singapore  About FDM Our people are our passion and that's why we make your training and career growth our priority. We are a global professional services provider focusing on IT and one of the Singapore's leading graduate employers, recruiting the brightest talent to become the innovators of tomorrow. With centres across Europe, North America and Asia-Pacific, and nearly 5000 consultants currently placed on client site around the world, FDM has shown exponential growth throughout the years, firmly establishing itself as an award-winning FTSE 250 employer. Diversity and Inclusion FDM Group is an Equal Opportunity Employer and all qualified applicants will receive consideration for employment without regard to race, colour, religion, sex, sexual orientation, national origin, age, disability, veteran status or any other status protected by federal, provincial or local laws.",
-            "datePosted": "2023-03-30",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 3916,
-                "minValue": 3666,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/consulting/software-testing-business-analyst-graduate-programme-fdm-singapore-consulting-dfb4a118d37e7e3b6e47445ba3d5f93b?source=MCF&event=Search",
-            "uuid": "9d8a57e4-ca20-4eba-aff9-76383f1c2368"
-        },
-        {
-            "dueDate": "2023-04-29",
-            "jobTitle": "Hardware Test Engineer (EMC/ Electronics/ Contract/ Kallang)",
-            "skills": [
-                "Troubleshooting",
-                "Hardware",
-                "Staffing Services",
-                "System Integration",
-                "Capital Equipment",
-                "PLC",
-                "Energy Management",
-                "Research and Development",
-                "Economic Development",
-                "DFT",
-                "C#",
-                "PLC Programming",
-                "Layout",
-                "Electronics",
-                "C++"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": null
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/643690475fd1fdc2c79c950c10dd8a88/manpower-staffing-services.jpg",
-                "name": "MANPOWER STAFFING SERVICES (SINGAPORE) PTE LTD"
-            },
-            "jobType": [
-                "CONTRACTOR",
-                "FULL_TIME"
-            ],
-            "description": "Hardware Test Engineer (EMC/ Electronics/ Contract/ Kallang)  1-Year contract Salary $8000 depending on experience Completion Bonus  Our Client is leading the digital transformation of energy management and automation. They are actively looking for Hardware Test Engineer to join their team.  Job Summary:    Understand test standards and relate test requirements/specifications in order to perform hardware tests on products.   Design the test fixture accordingly, setup, perform test, evaluate and troubleshoot failures and record in standard test reports.   Responsibilities    Design test setup for testing in varies test (environment and EMC test)   Support and perform hardware tests according to IEC61000-4-4, IEC61010, IEC 60721-3-3, IEC60068-2-6 and robustness standards etc.   Set up test for environment test, EMC test, etc.   Coordinate with HW designers to analysis test result and investigate failure if any.   Document test results according to company standards.   Requirements:    Bachelor’s degree in Engineering.   Min 3 year experience in relevant roles.   Knowledge on environment test, EMC tests (ESD, Surge, CE, RE, etc)   Application of relevant EMC and safety, an understanding of outside body approval requirements LVD, UL, CSA, marine etc.   Knowledge on PLC programming is a plus   Knowledge on schematic and layout is a plus.   If you possess above relevant skillsets, please send in your updated CV in word format to Apple.lim@manpower.com.sg  Lim Pey Chyi Recruitment Consultant (R2090579) Manpower Staffing Services (S) Pte Ltd EA Licence: 02C3423",
-            "datePosted": "2023-03-30",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 8000,
-                "minValue": 4000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/hardware-test-engineer-manpower-staffing-services-2119655e4d38d0294e5d119c8e0f5fb3?source=MCF&event=Search",
-            "uuid": "99f4f943-f06a-4b9b-96d8-45fe416c7a2c"
-        },
-        {
-            "dueDate": "2023-04-29",
-            "jobTitle": "Assistant Validation & Test Engineer (Electronics/ Contract/ Kallang)",
-            "skills": [
-                "Test Equipment",
-                "FMEA",
-                "Staffing Services",
-                "Problem Solving",
-                "Electrical",
-                "Energy Management",
-                "Project Management",
-                "Firmware",
-                "Laboratory",
-                "Electronics"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": null
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/643690475fd1fdc2c79c950c10dd8a88/manpower-staffing-services.jpg",
-                "name": "MANPOWER STAFFING SERVICES (SINGAPORE) PTE LTD"
-            },
-            "jobType": [
-                "CONTRACTOR",
-                "FULL_TIME"
-            ],
-            "description": "Assistant Validation ; Test Engineer (Electronics/ Contract/ Kallang)  1-Year contract Salary $3500 depending on experience Completion Bonus  Our Client is leading the digital transformation of energy management and automation. They are actively looking for Assistant Validation ; Test Engineer to join their team.  Responsibilities: Product and System Validation    Understand test requirements from test plan.   Ensure the availability of all test means (equipment ; tools, test standards facilities) to achieve product’s conformance.   Ensure correct usage of equipment ; tools by reading the user manual, or train by engineers.   Manage and perform product’s validation in accordance with test plan to ensure that the products meet the requirements.   Perform some simple problem solving (identify, diagnose, and troubleshoot technical problems).   Ensure on-time completion on all assigned product and system validation according to test schedule.   Continual improvement of Laboratory process    Continue to improve the work processes in laboratory to ensure the efficiency and effectiveness of the testing/processes   To optimize the planning and management of the test schedule as to maximize the usage of the test equipment   Always keep good cleanliness and tidiness of the laboratory to ensure safety of the workplace (NOTE: Laboratory does not responsible for any safety related issues caused by negligence or abuse of the person working in laboratory)   Contribute for improvement of laboratory tidiness and safety by helping implement of new measures (proposed by the department)   Test Reporting    Create test reports for performed tests and present test synopsis to project and requester   To write clear and concise reports which address the technical needs of requestors   Requirements:    Diploma in Electrical/ Electronics/ Mechatronics Engineering   Minimum 1 year experience in product verification and validation testing of industrial electromechanical and electronics products.   Good understanding of international standards   Experience working with Project Management / Product Evolution Processes   ISO/IEC 17025 knowledge or experience will be ideal   Exposure to industrial electromechanical and electronics products testing   Knowledge of FMEA, FTA, 6 Sigma concepts ; problem-solving methodologies will be ideal   Familiar with international test standards e.g. IEC, UL, CSA, Marine, etc.   If you possess above relevant skillsets, please send in your updated CV in word format to Apple.lim@manpower.com.sg  Lim Pey Chyi Recruitment Consultant (R2090579) Manpower Staffing Services (S) Pte Ltd EA Licence: 02C3423",
-            "datePosted": "2023-03-30",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 3500,
-                "minValue": 3300,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/assistant-validation-test-engineer-manpower-staffing-services-2ef36c8e42a89401cd8f563b557e05a5?source=MCF&event=Search",
-            "uuid": "ed43cba1-dd36-4f89-804d-dd8075669a88"
-        },
-        {
-            "dueDate": "2023-04-13",
-            "jobTitle": "Software Tester (Automated testing) - Financial Insurance industry #IKR",
-            "skills": [
-                "Manual Testing",
-                "Agile",
-                "Information Technology",
-                "Test Cases",
-                "Test Automation",
-                "Software Testing",
-                "Selenium",
-                "Test Strategy",
-                "Debugging",
-                "Business Requirements"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "NGEE ANN CITY, 391A ORCHARD ROAD"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/264d8aeb5b369c0a7176c2c6a18c8ff4/recruit-express.jpg",
-                "name": "RECRUIT EXPRESS PTE LTD"
-            },
-            "jobType": [
-                "CONTRACTOR",
-                "FULL_TIME"
-            ],
-            "description": "Job Description ; Requirements · Identifying and selecting the automation test cases · Applying various designs and documenting the automation test strategy · Creating an automation test plan and getting approval · Configuration and setup automation environment (Selenium/QTP or equivalent) · Requirement analysis, Identifying the requirements of the test data · Creating, enhancing, debugging, and running the test cases and test designs · Testing automation and execution · Keeping and maintaining a log of defects and follow-ups · Collating and monitoring the defect management process · Participate in the release control process (when the application is transferred from the build team to the test team) to ensure that solutions meet business requirements. · Analyzing and generating test reports  Interested applicants, please email your resume to Karin Chan Wei Kien Email: karinchan@recruitexpress.com.sg CEI Reg No: R1104584",
-            "datePosted": "2023-03-30",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 6000,
                 "minValue": 3000,
                 "payPeriod": "MONTH"
             },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/software-tester-financial-insurance-industry-ikr-recruit-express-83337ff36784bed5906ba40176708839?source=MCF&event=Search",
-            "uuid": "6bce2381-6b5d-4027-a599-3b12924330d4"
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/chef-banyan-beer-garden-2283cce26058765c1d6ef5a6becc1a5d?source=MCF&event=Search",
+            "uuid": "0e3aeaf5-0d9d-46e5-9d8a-52ad330a379b"
         },
         {
-            "dueDate": "2023-04-13",
-            "jobTitle": "System Integration & Engineering / Testing and Commissioning Engineer  ( Junior / Entry level / Senior ) X3 Opening / MNC",
+            "dueDate": "2023-04-29",
+            "jobTitle": "Sous Chef",
             "skills": [
-                "Factory",
-                "Preventive Maintenance",
+                "Recipes",
+                "Leadership",
+                "Ingredients",
+                "Quality Control",
+                "Food Safety",
+                "Cooking",
+                "Food Quality",
+                "Inventory",
+                "Purchasing",
+                "Sanitation",
+                "Fine Dining",
+                "Strategy",
+                "Banquets",
+                "HACCP",
+                "Staff Management",
+                "Audit"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "CHIJMES, 30 VICTORIA STREET"
+            },
+            "company": {
+                "logo": null,
+                "name": "THE WINERY SINGAPORE PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Job Description: A Sous Chef is the culinary chef located just below the executive or head chef in a kitchen chain of command. Therefore, the Sous Chef has a vital role in any commercial kitchen. As second-in-command, he/she has a large amount of responsibility in the kitchen.  Job Responsibilities:    Work with the executive chef to produce diversified menus in accordance with the restaurant’s policy and vision.   Come up with new dishes which appeal to the clients whenever required.   Establish the working schedule and organize the work in the kitchen so that everything works like “well-oiled machinery.”   Produce high-quality dishes that follow up the established menu and level up to the location’s standards as well as to client's requirements.   Plan the food design in order to create a perfect match between the dish’s aspect and its taste.   Discover talented chefs and train the min order to reach the high standards of the location.   Train the auxiliary kitchen staff in order to provide the best results in minimum time and using the maximum available resources.   Maintain order and discipline in the kitchen during working hours.   Create tasting menus for clients interested in contracting the food for different events(weddings, banquets, corporate dinners,birthday parties etc.) from their kitchen.   Developing a cross-marketing strategy in order to increase profit such as pairingdrinks with the food served.   Minimum Qualifications:    Proven experience as Sous Chef   Understanding of various cooking methods, ingredients, equipment and procedures.   Excellent record of kitchen and staff management ",
+            "datePosted": "2023-03-30",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 3700,
+                "minValue": 2800,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/sous-chef-winery-singapore-0ffca236757e700a63c4bb4ec4056f21?source=MCF&event=Search",
+            "uuid": "9683d30c-ac5e-4b50-b191-87a769b1d7ca"
+        },
+        {
+            "dueDate": "2023-04-12",
+            "jobTitle": "EXECUTIVE SENIOR CHEF",
+            "skills": [
+                "Recipes",
+                "Microsoft PowerPoint",
+                "Leadership",
+                "Ingredients",
                 "Microsoft Office",
                 "Microsoft Excel",
-                "Construction",
-                "System Integration",
-                "Drawing",
-                "Electrical",
-                "User Interface",
-                "MS Word",
-                "Team Building",
+                "Cooking",
+                "Social Media",
+                "Inventory",
+                "Sanitation",
+                "Marketing",
+                "Accounting",
                 "Microsoft Word",
-                "Commissioning",
-                "Mechanical Engineering"
+                "Catering",
+                "Able To Work Independently"
             ],
             "location": {
                 "country": "SG",
                 "locality": "Singapore",
-                "address": null
+                "address": "162 BUKIT MERAH CENTRAL"
             },
             "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/e1257fc011e1a3ec48c75a3fa1b4f2bb/RECRUITFLASH%20PTE.%20LTD..jpg",
-                "name": "RECRUITFLASH PTE. LTD."
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/a123c3157c4047b4cee090abbc0d33ba/careers-compass-consultants.png",
+                "name": "ALLSPICE INSTITUTE PTE. LTD."
             },
             "jobType": [
                 "FULL_TIME"
             ],
-            "description": "Job Description • Good Bonus - AWS + 3 month Variable Bonus / Permanent Role Engineer / Electrical engineer / Project Engineer / Junior ; Senior System Integration ; Engineering can apply   • Entry level / Junior / Senior / No experience welcome apply  X 3 Opening  • Full training provided Diploma/ Degree in Electrical / IT Entry level / Junior Welcome apply Experience candidates welcome apply 1 month AWS , Variable Bonus up to 3 months / 5 days work week Responsibilities:    Part of project team responsible for Testing      and Commissioning   Understand the Graphical User Interface   Prepare testing point information list   Configuration of points to be tested   Perform factory and site testing to ensure database integrity  Requirements:    NITEC or Higher NITEC in Technical or Engineering discipline  Good Pay + Good allowance + Good Bonus Salary for experience candidates will be considered based on the years of experience and our internal salary structure 1 month AWS Variable Bonus ranging from 1 to 3 months depending on individual and company performance Working hours: 8.00 am to 5.00 pm / 8.30 to 5.30 pm / 9.00 am to 6.00 pm / 9.30 am to 6.30pm / 10.00am to 7.00pm Working days: Monday to Friday (1 day work from home per week) Annual Leave:    14 days up to 17 days for non-executive (Assistant Engineer and below) 18 days up to 21 days for executive (Engineer and above) Medical benefits of $500 per financial year (Benefit is extended to spouse and children (below 21 years old) of married employees) Insurance coverage:       Hospital ; Surgical (Benefit is extended to spouse and children (below 25 years old) of married male employees and child (below 25 years old) of married female employees) Term Life Personal Accident Maternity Insurance for female employee and spouse of male employee on the birth of their 1st 2 children claimable up to delivery bill of $6,000.00 whichever is lower. Flex Dollars of $500 per financial year Free annual year-end Health Check-Up Monthly Birthday Party Celebration Monthly Sports Activities New Born Gift CSR Initiatives Department Bonding Activities Biennial team building and staff appreciation dinner Gym Corner for employees to exercise Interested candidates please send an updated Resume / CV in Ms Word format to lilian@recruitflash.com or WhatsApp’s your resume to 98332779 ( no Calls) Consultant in-charge : Quah Li Lian (Lilian) ( Registration No: R1983286 )",
+            "description": "   The Chef De Cuisine is responsible for the day to day running of the entire kitchen operation.   Ensure the preparation and presentation of all menu items in accordance with established recipes and standards. Planning of daily set lunch menu.   Responsible in the daily requisitioning of all food goods and maintain procedures to ensure proper storage minimize waste.   Responsible for and accountable for the overall food as well as kitchen supplies, energy and utensil costs in the assigned section.   Provide leadership, training and supervision to the Kitchen team.   Plan in conjunction with the Director/ Chef de Cuisine (Head office) on activities, promotions, and menu implementations according to the annual marketing plans.   Coordinate functions and activities with other relevant departments. ",
+            "datePosted": "2023-03-13",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 12500,
+                "minValue": 9500,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/education-training/executive-senior-chef-allspice-institute-d018a9c09ef045a233eb018c775f7a12?source=MCF&event=SuggestedJob",
+            "uuid": "b3db9178-d913-4c14-813d-9db348f92470"
+        },
+        {
+            "dueDate": "2023-04-29",
+            "jobTitle": "Sous Chef",
+            "skills": [
+                "Recipes",
+                "Weddings",
+                "Leadership",
+                "Ingredients",
+                "Quality Control",
+                "Food Safety",
+                "Cooking",
+                "Food Quality",
+                "Inventory",
+                "Purchasing",
+                "Sanitation",
+                "Fine Dining",
+                "Strategy",
+                "Banquets",
+                "HACCP",
+                "Audit"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "CHIJMES, 30 VICTORIA STREET"
+            },
+            "company": {
+                "logo": null,
+                "name": "THE ORGANIC WINERY PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Job Description: A Sous Chef is the culinary chef located just below the executive or head chef in a kitchen chain of command. Therefore, the Sous Chef has a vital role in any commercial kitchen. As second-in-command, he/she has a large amount of responsibility in the kitchen.  Job Responsibilities:    Work with the executive chef to produce diversified menus in accordance with the restaurant’s policy and vision.   Come up with new dishes which appeal to the clients whenever required.   Establish the working schedule and organize the work in the kitchen so that everything works like “well-oiled machinery.”   Produce high-quality dishes that follow up the established menu and level up to the location’s standards as well as to client's requirements.   Plan the food design in order to create a perfect match between the dish’s aspect and its taste.   Discover talented chefs and train the min order to reach the high standards of the location.   Train the auxiliary kitchen staff in order to provide the best results in minimum time and using the maximum available resources.   Maintain order and discipline in the kitchen during working hours.   Create tasting menus for clients interested in contracting the food for different events (weddings, banquets, corporate dinners,birthday parties etc.) from their kitchen.   Developing a cross-marketing strategy inorder to increase profit such as pairing drinks with the food served.   Minimum Qualifications:    Proven experience as Sous Chef   Understanding of various cookingmethods, ingredients, equipment andprocedures.   Excellent record of kitchen and staffmanagement ",
             "datePosted": "2023-03-30",
             "salaryRange": {
                 "currency": "SGD",
-                "maxValue": 8000,
-                "minValue": 5000,
+                "maxValue": 3700,
+                "minValue": 2800,
                 "payPeriod": "MONTH"
             },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/system-integration-engineering-testing-commissioning-engineer-x3-opening-mnc-recruitflash-307e83eaf1d50cdd9792ac45d545f57d?source=MCF&event=Search",
-            "uuid": "d4ac3ed1-4e61-4ac1-b26d-f914d85b7d30"
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/sous-chef-organic-winery-9bdf08c2c889c698d507bf024052b21d?source=MCF&event=Search",
+            "uuid": "bb93a2d9-c174-400f-9a0f-1e4ba86c9d89"
         },
         {
             "dueDate": "2023-04-13",
-            "jobTitle": "MNC Electrical Testing & Commissioning Engineer /Electrical Project Engineer – Protection Systems ( Junior / Entry level / Senior ) X3 Opening",
+            "jobTitle": "Chef",
             "skills": [
-                "Microsoft Excel",
-                "Construction",
-                "Wiring",
-                "Architects",
-                "Electrical",
-                "MS Word",
-                "Project Management",
-                "Driving License",
-                "Pressure",
-                "Team Building",
-                "AutoCAD",
-                "Electrical Engineering",
-                "Layout",
-                "Commissioning",
-                "Technical Support"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": null
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/e1257fc011e1a3ec48c75a3fa1b4f2bb/RECRUITFLASH%20PTE.%20LTD..jpg",
-                "name": "RECRUITFLASH PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Job Description Diploma/ Degree in Electrical / IT Entry level / Junior Welcome apply Experience candidates welcome apply 1 month AWS , Variable Bonus up to 3 months / 5 days work week Responsibilities:   • Technical  support for Protection Projects/Services • Handling testing and commissioning activities at site • Perform wiring check in workshop and at site • Project Management   Requirements:   • Diploma in Electrical/Electronic Engineering from a recognized Polytechnic • Experience in site testing and commissioning preferred but not necessary Our benefits and compensation for permanent position are as follows:Salary for experience candidates will be considered based on the years of experience and our internal salary structure 1 month AWS Variable Bonus ranging from 1 to 3 months depending on individual and company performance Working hours: 8.00 am to 5.00 pm / 8.30 to 5.30 pm / 9.00 am to 6.00 pm / 9.30 am to 6.30pm / 10.00am to 7.00pm Working days: Monday to Friday (1 day work from home per week) Annual Leave:    14 days up to 17 days for non-executive (Assistant Engineer and below) 18 days up to 21 days for executive (Engineer and above) Medical benefits of $500 per financial year (Benefit is extended to spouse and children (below 21 years old) of married employees) Insurance coverage:       Hospital ; Surgical (Benefit is extended to spouse and children (below 25 years old) of married male employees and child (below 25 years old) of married female employees) Term Life Personal Accident Maternity Insurance for female employee and spouse of male employee on the birth of their 1st 2 children claimable up to delivery bill of $6,000.00 whichever is lower. Flex Dollars of $500 per financial year Free annual year-end Health Check-Up Monthly Birthday Party Celebration Monthly Sports Activities New Born Gift CSR Initiatives Department Bonding Activities Biennial team building and staff appreciation dinner Gym Corner for employees to exercise Good Pay + Good allowance + Good Bonus Interested candidates please send an updated Resume / CV  in Ms Word format to lilian@recruitflash.com or WhatsApp’s your resume to 98332779 ( no Calls) Consultant in-charge : Quah Li Lian (Lilian) ( Registration No: R1983286 )",
-            "datePosted": "2023-03-30",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 8000,
-                "minValue": 5000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/mnc-electrical-testing-commissioning-engineer-electrical-project-engineer-%E2%80%93-protection-systems-x3-opening-recruitflash-e2eb42514fef036cd0ec5acc7f8ea55e?source=MCF&event=Search",
-            "uuid": "5f22ac4d-b5e8-4d47-a84a-9df5a3c6eec7"
-        },
-        {
-            "dueDate": "2023-04-28",
-            "jobTitle": "Technician (Test)",
-            "skills": [
-                "Preventive Maintenance",
-                "Troubleshooting",
-                "Soldering",
-                "RF",
+                "Recipes",
+                "Ability to Multitask",
+                "Leadership",
+                "Ingredients",
+                "Food Safety",
+                "Cooking",
                 "Housekeeping",
+                "Interpersonal Skills",
+                "Food Quality",
                 "Inventory",
-                "Electrical",
-                "Tuning",
-                "Telecommunication",
-                "Networking",
-                "Microsoft Word",
-                "Assembly",
-                "Job Search",
-                "Manufacturing",
-                "Electronics",
-                "Calibration"
+                "Sanitation",
+                "Compliance",
+                "Pressure",
+                "Culinary Skills",
+                "Pastry"
             ],
             "location": {
                 "country": "SG",
@@ -748,44 +202,38 @@
             },
             "company": {
                 "logo": null,
-                "name": "CAPITAL HUMAN RESOURCE MANAGEMENT PTE. LTD."
+                "name": "FARRER HORSE PTE. LTD."
             },
             "jobType": [
+                "PART_TIME",
                 "FULL_TIME"
             ],
-            "description": " Our Client, is in the Networking Industry located in the North East has opening for Technician   Responsibilities:    Testing, tuning and troubleshooting PCA or products   Produce output as per production target    Requirements:    ITC/NTC in Electronics   At least 1 year of relevant work experience in electronics manufacturing environment   Able to perform soldering and tuning of PCA and products   Able to troubleshoot PCA and products, read schematic diagram   Able to use simple equipment to troubleshoot such as multimeter and oscilloscope   Understanding of basic electronics and RF telecommunication    Qualified or interested candidates, kindly apply to us in the FOLLOWING FORMAT to facilitate the short listing process; Attachment of CV’s in MSWORD FORMAT Resumes please INCLUDE:    Personal Particulars   Education background   Work experiences in point forms   All Reasons for leaving   Current and Expected salary   Date of availability / Notice Period  **We regret that only shortlisted candidates would be notified. Your Profile will be kept in our database for more career opportunities. We wish you all the best in your job search.   Kyan Hou Shenglong Reg No: R1435754 EA No: 19C9570",
-            "datePosted": "2023-03-29",
+            "description": "   Well versed in Western and Indian cusines   Plan and execute menus in collaboration with other junior chefs   Ensure adequacy of supplies at all times   Place orders in a timely manner   Manage ingredients that should be frequently available on a daily basis   Suggest new ways of presentation of dishes   Suggest new rules and procedures for optimizing the cooking process   Give attention productivity of the kitchen such as speed and food quality   Ensure adherence to all relevant health, safety and hygiene standards   Collaborate with the management to achieve food and service quality   Excellent use of various cooking methods, ingredients, equipment, tools and processes   Ability to multitask   Ability to work efficiently under pressure   Great time management skills   Great communication and interpersonal skills ",
+            "datePosted": "2023-03-30",
             "salaryRange": {
                 "currency": "SGD",
                 "maxValue": 3000,
-                "minValue": 2200,
+                "minValue": 2400,
                 "payPeriod": "MONTH"
             },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/technician-capital-human-resource-management-d4b74f13586db36a7f1a5922065e6a6b?source=MCF&event=Search",
-            "uuid": "3ce5c522-0ba1-4648-9d60-f1dab2570fd7"
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/chef-farrer-horse-8b20d088a8d5fc61c55e831d441fd7bd?source=MCF&event=Search",
+            "uuid": "75bf30b0-4213-46c7-9c9f-f5368cb1d8f9"
         },
         {
-            "dueDate": "2023-04-28",
-            "jobTitle": "Product Test Engineer",
+            "dueDate": "2023-04-29",
+            "jobTitle": "CHEF",
             "skills": [
-                "Program Development",
-                "Soldering",
-                "Product Design",
-                "Analytical Skills",
-                "Technical Writing",
-                "EMC, electromagnetic compatibility",
-                "Power Supplies",
-                "EMC",
-                "Drawing",
-                "Problem Solving",
-                "Reliability",
-                "SharePoint",
-                "Product Development",
-                "Power supply system",
-                "Manufacturing",
-                "Electronics",
-                "Calibration",
-                "Failure Analysis"
+                "Recipes",
+                "Ingredients",
+                "Food Safety",
+                "Cooking",
+                "Food Quality",
+                "Inventory",
+                "Sanitation",
+                "Cutting Tools",
+                "Compliance",
+                "Good Communication Skills",
+                "Culinary Skills"
             ],
             "location": {
                 "country": "SG",
@@ -793,22 +241,664 @@
                 "address": null
             },
             "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/d241acfd5c9ead54305252653cedd595/envirodynamics-solutions.jpg",
-                "name": "ENVIRODYNAMICS SOLUTIONS PTE. LTD."
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/fcf1ed412b9ce0fb63ff35d1f9ca316c/57-employment-agency.jpg",
+                "name": "JP PEPPERDINE GROUP PTE. LTD."
             },
             "jobType": [
                 "FULL_TIME"
             ],
-            "description": "   Covering a range of power supply design verification testing, failure analysis of the product and alternative components evaluation during start of product development till EOL of the product.   Understand and follow design verification test procedure and setup accurately.   Perform full design verification tests or experiments as needed to support or confirm the design with proper written report for new product design, legacy product and competitor model, including functional tests and reliability tests, like thermal test, EMI/EMC test.   Work closely with design engineer on projects and expected to provide a summary of Design Validation Test (DVT) report and issues encountered.   Perform tests and experiments by following the test matrix to select and qualify the alternative component.   Good soldering skill for board modification and prototype preparation, including magnetic components building following formal and marked-up drawing.   Understand and analyse power supply circuit, safety requirement and mechanical construction will be an added advantage.   Troubleshoot power supplies to identify root cause and provide feedback to Quality, Manufacturing ; Design teams to discuss the solution to drive the design improvement or design changes.   Perform tests and experiments as needed to support or confirm customer issues.   Prepare and present the customer failure analysis reports.   Supporting on equipment annual calibration and general house keeping.   May be required to support team / supervisor on other tasks.  Requirements    Minimum bachelor’s degree in Electrical/Electronic engineering.   Preferably more than 2 years’ experience in power electronics design and evaluation.   Familiar with Microsoft 365 - Office tools (Word, Excel, PowerPoint), Teams, SharePoint. Experience in Power Platform is a strong plus.   Results-driven, detail-oriented, and passionate for continuous improvement.   Good technical writing capabilities, excellent communication, problem solving and analytical skills.  Kindly understand that only shortlisted candidates will be notified. EnviroDynamics Solutions Pte Ltd Poon Wai Soon, Bernard Reg. No: R2197713 EA License No.: 12C6285 ",
-            "datePosted": "2023-03-29",
+            "description": "Responsibilities    Set up workstations with all      needed ingredients and cooking equipment   Prepare ingredients to use in      cooking (chopping and peeling vegetables, cutting meat etc.)   Cook food in various utensils      or grillers   Check food while cooking to      stir or turn   Ensure great presentation by      dressing dishes before they are served   Keep a sanitized and orderly      environment in the kitchen   Ensure all food and other items      are stored properly   Check quality of ingredients   Monitor stock and place orders      when there are shortages  Requirements and skills    Proven experience as chef   Experience in using cutting      tools, cookware and bakeware   Knowledge of various cooking      procedures and methods (grilling, baking, boiling etc.)   Ability to follow all      sanitation procedures   Ability to work in a team   Very good communication skills   Excellent physical condition      and stamina ",
+            "datePosted": "2023-03-30",
             "salaryRange": {
                 "currency": "SGD",
-                "maxValue": 5500,
-                "minValue": 4500,
+                "maxValue": 5000,
+                "minValue": 3000,
                 "payPeriod": "MONTH"
             },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/product-test-engineer-envirodynamics-solutions-194d8d2cc85f9fdf4fd5711830a60f8e?source=MCF&event=Search",
-            "uuid": "385acb66-5016-4ff1-89c6-b6cb9d7f8827"
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/chef-jp-pepperdine-group-4d1e477f1d1b3254c76889dd511ca547?source=MCF&event=Search",
+            "uuid": "05d921ac-2ec0-467e-9b14-ba5cecd48024"
+        },
+        {
+            "dueDate": "2023-04-29",
+            "jobTitle": "Sous Chef",
+            "skills": [
+                "Recipes",
+                "Microsoft Office",
+                "Food Safety",
+                "Cooking",
+                "Sanitation",
+                "Reliability",
+                "Raw Materials",
+                "Restaurant Management",
+                "Good Communication Skills",
+                "Attention to Detail",
+                "Excess",
+                "Staff Management",
+                "Hazard Analysis"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "UNITED HOUSE, 20 KRAMAT LANE"
+            },
+            "company": {
+                "logo": null,
+                "name": "CLAYFUL PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Job Description    Assists the Head Chef in carrying out all aspects of the kitchen’s day-to-day operations that precludes the management of food hygiene and safety, enforcing performance and quality standards, and monitoring to ensure attainment of these goals   Helps control and direct the food preparation process efficiently and professionally   Ensures that the kitchen runs on schedule and that food and related services are of a high grade   Supports the Head Chef in planning and coordinating tasks while keeping labor expenses in mind   Identifies and resolves any challenges that emerge in the kitchen as well as takes charge of any potentially dangerous scenario   Helps create meals using new or current culinary inventions or as the business prescribes   Approves and polishes dishes before they are delivered and served to customers   Produces quality menu that could change seasonally as the business requires   Places equipment, tools or ingredient orders in response to possible detected shortfalls   When required and directed, makes arrangements for repairs of cooking equipment   When directed by the Head Chef, hires, manages, trains and educates kitchen workers to be par with the highest possible culinary standards   Manages kitchen stocks and ensures minimal wastage   Assists to forecast and assess personnel requirements ensuring no shortage or excess of kitchen staff while keeping labor costs in control   Helps purchase, store, and handle all food products and materials within the agreed-upon budget and to maximize gross profit to include the effective staff management and staff salary   Helps supervise subordinates’ work on dishes and guides them, at times hand holding them, to produce the best expected outcome   Assists in ensuring that base food preparations and mise en place are well organized for service, allowing smooth kitchen operations   When required, regulates the workload of junior kitchen staff   Helps train kitchen staff to maintain consistency in the highest possible standard in food production and workplace hygiene, as well as to support a continuous improvement process   Helps maintain punctuality and attendance records   Follows and strictly implements all food and sanitary rules as well as safety guidelines   Encourages coworkers to cooperate and respect one another, motivates team work   Keeps updated in the latest trends in culinary trends and kitchen processes and technologies   Helps in the sourcing of food raw materials to ensure quality dishes and coordinates with vendors to guarantee reliability of ingredient supplies at the best possible quality within the department’s food cost target set by management   Assists in the preparation of duty rotas for kitchen staff to provide appropriate coverage at all times while accounting for the seasonality of the business and keeping overtime to the minimum   Ensures that staff are aware of the job list and the different sections it covers such as meal schedules, functions, and holidays   Helps the Head Chef to ascertain that the personnel follow the regulations on hygiene, stock rotation, dates, storages, refrigerator temperature control, pest control, reporting of malfunctioning equipment, reporting of notifiable illnesses, and reporting of absenteeism, whether due to illness or otherwise   If and when directed by the Head Chef, keeps recipe files in excellent condition and up-to-date   Undertakes any other duties and ad hoc related roles as the business requires  Qualifications    Associate or Bachelor’s Degree in Culinary Arts or Science, Business, or relevant fields   Three (3) to five (5) years of experience as a sous chef   Completed the WSQ Basic Food Hygiene Course – Food Safety Course Levels 1 and 2   Updated in control of substances hazardous to health (COSHH) regulations or hazard analysis critical control point (HACCP) methods   Working knowledge of kitchen organizing   Strong interpersonal and leadership skills   Quick in picking up concepts and possesses good logical and analytical problem-solving skills   Able to grasp business requirements and processes   Good understanding of computer software such as POS, restaurant management system, and Microsoft Office   Service oriented, meticulous, attention to detail   Good communication skills   Team player ",
+            "datePosted": "2023-03-30",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 3800,
+                "minValue": 2800,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/sous-chef-clayful-69d18d47f3d6c0ea0026f6c320a10434?source=MCF&event=Search",
+            "uuid": "b17018eb-f7c5-48b8-93b0-68cc0d863e61"
+        },
+        {
+            "dueDate": "2023-04-29",
+            "jobTitle": "Chef De Partie",
+            "skills": [
+                "Recipes",
+                "Leadership",
+                "Ingredients",
+                "Quality Control",
+                "Food Safety",
+                "Restaurants",
+                "Cooking",
+                "Food Quality",
+                "Inventory",
+                "Sanitation",
+                "Communication Skills",
+                "Working Under Pressure",
+                "Team Player",
+                "Catering",
+                "Hospitality"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "TANGLIN MALL, 163 TANGLIN ROAD"
+            },
+            "company": {
+                "logo": null,
+                "name": "MAISON ANLI (PTE. LTD.)"
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "We are looking for a talented chef de partie to help our culinary team create memorable meals for our restaurant's patrons. You will be responsible for a specific section of the kitchen, preparing high-quality food that meets the head chef's standards, and ensuring that your station is sanitary and well-stocked. To be successful as a chef de partie, you should be someone who can keep a level head when working under pressure. The ideal candidate will be an excellent team player, willing to go the extra mile in pursuit of great food and exceptional service. Chef de Partie Responsibilities:    Preparing specific food items and meal components at your station.   Following directions provided by the head chef.   Collaborating with the rest of the culinary team to ensure high-quality food and service.   Keeping your area of the kitchen safe and sanitary.   Stocktaking and ordering supplies for your station.   Improving your food preparation methods based on feedback.   Assisting in other areas of the kitchen when required.  Chef de Partie Requirements:    Qualification from a culinary school.   Past experience working in a similar role.   Ability to work well in a team.   Excellent listening and communication skills.   Knowledge of best practices for safety and sanitation.   Passion for delivering great food and service.   Multitasking and organizational ability. ",
+            "datePosted": "2023-03-30",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 3000,
+                "minValue": 2500,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/chef-de-partie-maison-anli-08e2c49154633e8e4fd13d86b0f21895?source=MCF&event=Search",
+            "uuid": "6e8606f8-2c6a-4ae3-ba95-61403ea8bc6f"
+        },
+        {
+            "dueDate": "2023-04-20",
+            "jobTitle": "Junior Sous Chef",
+            "skills": [
+                "Recipes",
+                "Ingredients",
+                "Quality Control",
+                "Food Safety",
+                "Cooking",
+                "Stress",
+                "Food Quality",
+                "Inventory",
+                "Team Spirit",
+                "Problem Solving",
+                "Sanitation",
+                "Communication Skills",
+                "HACCP",
+                "Scheduling",
+                "Audit"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "26 MOHAMED SULTAN ROAD"
+            },
+            "company": {
+                "logo": null,
+                "name": "BISTECCA RESTAURANT PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Job Description Warm, out-going, passionate, authentic, and inspiring? Yes, that’s you! Artemis Grill is hiring someone who associates with all the above. Join us as a Junior Sous Chef in Bistecca Restaurant. Because of this vital role, we are looking for someone who can:    To receive and manage deliveries   To control ; order cleaning ; hygiene items   To work in conjunction with Head chef ; sous chef in keeping hygiene ; safety standards through out the work place   To prepare, control the designated food items to the standards set by the Chef   To assist on preparing a healthy/ varied family meal   To carry out any other further task and responsibilities set out by the Head chef  You should have the following skills that we are looking for:    A supportive personality along with positive attitude   (1) year of related experience preferred   Passion to work in a dynamic environment   Strong interpersonal and communication skills  In return for your hard work, you can look forward to a highly competitive salary and benefits package:    Attractive salary including monthly incentives and overtime   Joining bonus (T;C applies)   Full training provided   Growth opportunities within the group   Welfare ; benefits   5 days work week ",
+            "datePosted": "2023-03-30",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 4000,
+                "minValue": 2800,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/junior-sous-chef-bistecca-restaurant-c893471574c8031a4a1efdbd6f63c3ff?source=MCF&event=Search",
+            "uuid": "66c74de0-e736-45fd-bb68-e6077e3b3164"
+        },
+        {
+            "dueDate": "2023-04-29",
+            "jobTitle": "Head Chef",
+            "skills": [
+                "Recipes",
+                "Leadership",
+                "Cecil",
+                "Ingredients",
+                "Cooking",
+                "Appraisals",
+                "Food Quality",
+                "Inventory",
+                "Job Descriptions",
+                "Purchasing",
+                "Enforcement",
+                "Unloading",
+                "Sanitation",
+                "Compass",
+                "Turnover",
+                "Japanese"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "54 Tras St"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/9f53132f07bdf9be45513ea67eafdd3c/nextbeat-singapore.png",
+                "name": "AROMA SEITA PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Job Descriptions    Control and direct the food preparation process and any other relative activities   Approve and “polish” dishes before they reach the customer   Plan orders of equipment or ingredients according to identified shortages   Arrange for repairs when necessary   Remedy any problems or defects   Be fully in charge of hiring kitchen staff.   Managing and training kitchen and service staff   Oversee the work of subordinates   Estimate staff’s workload and compensations   Maintain records attendance   Contacting the Executive Chef in the event of an emergency.   Maintain high standards of behaviour and discipline throughout their shift   Comply with nutrition and sanitation regulations   Foster a climate of cooperation and respect between co-workers   Having high communication skills and leadership   Correctly use and maintain the security of equipment   Actively promoting a customer focused culture within the kitchen and service teams and promptly addressing any customer complaints, concerns or queries.   Ensuring that fresh food and the full menu choice is available throughout the service period.   Providing a chef presence on dining area when required.   Working with front and back of house developing clear communication and an inclusive culture among all staff.   Construct menus with new or existing culinary creations ensuring the variety and quality of the servings   Suggesting ideas to develop and improve the food and service provided to meet and exceed the expectations of all its customers.   Working as an active and co-operative member of the team, willing to be flexible in approach to changes in practices and customer demands and needs.   Ensuring that all appropriate procedures are properly completed and appropriate kitchen records are maintained, in keeping with statutory requirements and policies and procedures.   Taking responsibility for your actions and your part in maintaining a safe working environment in all areas.   Proactively identifying risks and eliminating accidents from the work place by promoting an excellent Health ; Safety culture and practices among staff.   Reporting all complaints and incidents affecting health or hygiene to the Executive chef.  Job Requirement    10 years of related experience  Working hours    Mondays to Fridays : 10am - 3pm, 5pm - 10:30pm   Saturdays : 3:30pm - 10:30pm   Sundays : Not working ",
+            "datePosted": "2023-03-30",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 10000,
+                "minValue": 7000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/customer-service/head-chef-aroma-seita-faba6b5bc87f33ccb6194bf5bf249b16?source=MCF&event=Search",
+            "uuid": "c2112061-5e01-4239-80c3-a5045409cf17"
+        },
+        {
+            "dueDate": "2023-04-13",
+            "jobTitle": "Head Chef",
+            "skills": [
+                "Recipes",
+                "Leadership",
+                "Ingredients",
+                "Food Safety",
+                "Cooking",
+                "Food Quality",
+                "Inventory",
+                "Cost Management",
+                "Purchasing",
+                "Sanitation",
+                "Payroll",
+                "Climate",
+                "Compliance",
+                "Nutrition",
+                "Directing",
+                "Food Service"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "THE WARREN, 55 CHOA CHU KANG LOOP"
+            },
+            "company": {
+                "logo": null,
+                "name": "C3J LLP"
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Prepare, control and direct food preparation process and any other relative activities Be responsible on cost management - plans order of equipment or ingredients and labour costs Managing and training kitchen staff Oversee the work of subordinates Compliance of SFA - sanitation regulations and safety standards At least 2 years of relevant experience Able to cook Western food (pasta, chicken chop, fish and chips etc) Cutting, grilling, frying etc Must be able to work shift and on weekends Willing and experienced to work as a Chef in eating house Able to work in a Non-Aircon environment",
+            "datePosted": "2023-03-30",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 3500,
+                "minValue": 2600,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/head-chef-c3j-dd1813fd05cfcb1bbb2afc3359bea62e?source=MCF&event=Search",
+            "uuid": "2f23c369-76a8-496c-b940-5852a8d235d8"
+        },
+        {
+            "dueDate": "2023-04-29",
+            "jobTitle": "Head Chef",
+            "skills": [
+                "Recipes",
+                "Leadership",
+                "Ingredients",
+                "Food Safety",
+                "Cooking",
+                "Food Quality",
+                "Inventory",
+                "Purchasing",
+                "Inventory Control",
+                "Directing",
+                "Food Service"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": null
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/8045f3ac082bde171ff2b3c83423fa31/aroma-food-enterprise.jpg",
+                "name": "AROMA FOOD ENTERPRISE PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "We are looking for an Izakaya Head Chef to work and lead a team at Holland Village / Bugis area.  Benefits: 1. 5.5 days work week 2. Accessible work location 3. Daily incentive upon hiting target 4. Health benefits provided upon confirmation 5. Staff meal allowance provided 6. Simple and sharp menu  Requirements: 1. Experience in both Sushi Bar and Hot Kitchen of at least 5 years 2. Creative, energetic, dynamic, passionate and always up for new challenges 3. Looking to grow a long-term career in our growing F;B company  ",
+            "datePosted": "2023-03-30",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 4000,
+                "minValue": 3500,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/head-chef-aroma-food-enterprise-74b88da36392ee1b5462c5550836da5b?source=MCF&event=Search",
+            "uuid": "d0a37a0a-2c2f-4bde-ae18-56e639d434c1"
+        },
+        {
+            "dueDate": "2023-04-09",
+            "jobTitle": "chef",
+            "skills": [
+                "Recipes",
+                "Leadership",
+                "Ingredients",
+                "Food Safety",
+                "Cooking",
+                "Housekeeping",
+                "Food Quality",
+                "Inventory",
+                "Purchasing",
+                "Sanitation",
+                "Compliance",
+                "Baking",
+                "Time Management",
+                "Culinary Skills",
+                "Pastry",
+                "Japanese"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "ENTERPRISE ONE, 1 KAKI BUKIT ROAD 1"
+            },
+            "company": {
+                "logo": null,
+                "name": "GOLDEN PILLOW 933 PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "   Prepares and cooks dishes to a high standard, in accordance with recipes and instructions from the Executive Chef/Sous Chef.   Monitors and manages inventory levels within their section, ensuring that all ingredients are stocked and stored correctly.   Ensures that food is cooked and presented to the highest standards, following health and safety guidelines and adhering to food hygiene regulations.   Communicates effectively with other members of the kitchen team, including the Executive Chef, Sous Chef, and other Chef de Parties, to ensure a smooth and efficient service.   Assists with menu planning and development, providing ideas and suggestions for new dishes and improvements to existing ones.   Maintains a clean and organized section of the kitchen, including equipment and work surfaces.   Performs any other duties as assigned by the Executive Chef/Sous Chef. ",
+            "datePosted": "2023-03-10",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 5000,
+                "minValue": 3500,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/chef-golden-pillow-933-766d383c43fa99cf43372a72afdb13d8?source=MCF&event=SuggestedJob",
+            "uuid": "deb1d523-9f0c-4619-abeb-f17c5f2e0ed4"
+        },
+        {
+            "dueDate": "2023-04-13",
+            "jobTitle": "Chef de Partie",
+            "skills": [
+                "Recipes",
+                "Leadership",
+                "Ingredients",
+                "Quality Control",
+                "Food Safety",
+                "Cooking",
+                "Food Quality",
+                "Inventory",
+                "Sanitation",
+                "Fine Dining",
+                "Pressure",
+                "Catering",
+                "Able To Work Independently",
+                "Hospitality"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "Century Square, 2  Tampines Central 5"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/89b64fd7aac4bf850442b92c925e94b6/prime-supermarket.png",
+                "name": "PRIME SUPERMARKET LIMITED"
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "We are looking for dedicated individuals who strive to produce good quality and delicious food!  Job Responsibilities    Oversee the production of Chinese cuisines   Ensure all food preparation meets standards   Prepare and present good quality food   Keep all working areas clean and tidy   Ensure proper storage of food   Report maintenance, hygiene and hazard issues   Comply with all health and safety and food safety regulations   Support Head Chef in all areas of kitchen management  Job Requirements    1-2 years’ experience as a Chef de Partie in Chinese cuisine   Possess Basic Food Hygiene Certificate   Good working attitude   Able to work independently and under pressure  Job Types: Full-time, Permanent  Benefits:    Employee discount   Food provided   Professional development  Schedule:    Day shift  Supplemental pay types:    Attendance bonus   Performance bonus  Experience:    Chef: 1 year (Preferred)  License/Certification:    basic food hygiene certification (Required)  Benefits:    Employee discount ",
+            "datePosted": "2023-03-30",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 2800,
+                "minValue": 2600,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/chef-de-partie-prime-supermarket-0e3ceee81b2900c4d1304ca23ee77c54?source=MCF&event=Search",
+            "uuid": "15a9055d-c046-4bb0-a2d0-99cb81b2f0e8"
+        },
+        {
+            "dueDate": "2023-04-29",
+            "jobTitle": "Sous Chef",
+            "skills": [
+                "Recipes",
+                "Leadership",
+                "Cecil",
+                "Ingredients",
+                "Cooking",
+                "Appraisals",
+                "Food Quality",
+                "Inventory",
+                "Job Descriptions",
+                "Purchasing",
+                "Enforcement",
+                "Unloading",
+                "Sanitation",
+                "Compass",
+                "Turnover",
+                "Japanese"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "20 Teck Lim Rd"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/9f53132f07bdf9be45513ea67eafdd3c/nextbeat-singapore.png",
+                "name": "EIGHT ONE NINE ONE PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Brief description of the Restaurant    Located in the buzzing Keong Saik Road dining enclave, Ahāra is chef-owner Vikramjit Roy’s rock ballad to India.    Through both food and art, Roy’s first restaurant in Singapore, is a reflection of his roots and culinary journey that has taken him across the seas from India to Japan.  Job Descriptions (Roles and Supporting Responsibilities)    Help in the preparation and design of food menus   Produce high quality plates both design and taste wise   Ensure that the kitchen operates in a timely way that meets our quality standards   Fill in for the Head Chef in planning and directing food preparation when necessary   Resourcefully solve any issues that arise and seize control of any problematic situation   Manage and train kitchen staff, establish working schedule and assess staff’s performance   Order supplies to stock inventory appropriately   Comply with and enforce sanitation regulations and safety standards   Ensure that the team is always well turned out and provide adequate training to ensure that they offer professional and courteous service to all internal and external guests   Be able to recognise our regular patrons and their needs and preferences  Job Requirement    2-3 years of working experience in a similar role   Understanding of various cooking methods, ingredients, equipment and procedures   Familiar with industry’s best practices   Working knowledge of various computer software programs (MS Office, restaurant management software, POS)   Positive attitude and excellent communication skills   Well-organised and clean   Keen for opportunities to learn and grow within the organisation   Able to commit to shift work   Location – Walking distance from Outram Park or Maxwell MRT Station  Benefits    14 days AL, Medical and Hospitalization  Working hours    5 days / 44hrs Sunday and Monday Closed ",
+            "datePosted": "2023-03-30",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 4000,
+                "minValue": 3500,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/customer-service/sous-chef-eight-one-nine-one-89edfcccbc63077775e4d39b90336319?source=MCF&event=Search",
+            "uuid": "c496c06c-5e42-4173-8eff-4960ba7fd387"
+        },
+        {
+            "dueDate": "2023-04-29",
+            "jobTitle": "Chef de Partie",
+            "skills": [
+                "Recipes",
+                "Budgets",
+                "Leadership",
+                "Ingredients",
+                "cook the menu",
+                "Quality Control",
+                "Food Safety",
+                "Cooking",
+                "Food Quality",
+                "Inventory",
+                "Administration",
+                "Sanitation",
+                "Italian cuisine, cooking experience",
+                "Attention to Detail",
+                "Prevention",
+                "Food Service",
+                "Hospitality"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "126 Neil Road"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/e95b61dfdee9cb289f7ec9c159fd8d36/craig-road-property-holdings.png",
+                "name": "CRAIG ROAD PROPERTY HOLDINGS PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "The Chef de Partie is required to supervise and oversee the preparation of breakfast, lunch, and dinner food items per guest orders or as assigned by kitchen management in accordance with production requirements and quality standards while maintaining a safe, sanitary work environment.  We are looking for an individual who is passionate about cuisine! He/She should be attention to detail and has a strong work ethic. The candidate is expected to work together with other team members on a daily basis to ensure a flawlessly executed final product and the ability to supervise and train the line cooks is required.     In the absence of the Chef de cuisine / Sous Chef take full responsibility for the running of the kitchen.   Assist in the employment and retention of all staff.   Supervise all commis chef's in the department.   Assist in the maintenance of company paperwork.   Assist in maintaining budgets and cost throughout all of the kitchens.   Assist and supervise the agreed standard of food service during shift.   Liaise and co-operate effectively with all other associated members of staff.   Supervise the training of all new staff members in the department.   Promote the safe use of the kitchen, its equipment and building under the Health and Safety at Work acts, Hygiene and other regulations.   Ensure all relevant food controls and correct temperatures are logged and adhered to at all time.    Ensure the agreed standards of food preparation and presentation are adhered to at all times.   Ensure all daily paperwork is filled out in accordance to company and government guidelines.   To provide a friendly, courteous, quick, efficient and professional service at all times.   Be aware of all relevant food suppliers and their products. Be in charge of ordering.   Supervise the smooth and efficient service and production of food from the department by working and liaising with other departments and Restaurant staff, and ensuring all necessary work is completed prior to the commencement of service.   To assist in the prevention of pilferage from the dry stores and refrigeration within the department. Control wastage by maintaining the correct stock levels and rotation from dry stores and avoid the over production of food and mis en place.   To be aware of the required food cost percentages as set down by the budget and to assist in the supervising and running of the department within these guidelines at all times.   To assist other sections of the kitchen in the production and service of food or the cleaning down of the section as and when required due to the workload.   To ensure all working areas of the kitchen, dry stores and refrigeration are maintained in a clean and hygienic condition at all times, and especially after your shift has finished.   To make sure, in conjunction with your team that all section files and recipes are maintained and updated.   To maintain constant quality control of all food prepared and cooked ensuring it is to the Head Chef’s and Restaurant standards.   To ensure all main cool rooms are tidy and clean at all times, especially after each service, so the Duty Chef can carry out daily ordering.   To ensure that all health marks are collected and allocated to the correct administration.   To operate the pass service of food from the kitchen to the restaurant, liaising with the Restaurant staff and ensuring the food is to the standard required by the Head Chef.   To provide a clear handover during shift changes   To ensure all staff within your team are well briefed on the daily responsibilities and are given constant supervision and motivation in all aspects of their work.   To report any problems, accidents or kitchen equipment defects to the Head Chef.   To confirm with the Head Chef and Senior Sous Chef any special requirements (including menu items and dishes), outstanding orders or work tasks required from your section.   To ensure all staff within your team are well briefed on the daily responsibilities and are given constant supervision and motivation on all aspects of their work.   To make yourself aware and notify your staff to all menu changes, specialties, function menus and changes to standards prior to the commencement of service. ",
+            "datePosted": "2023-03-30",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 3600,
+                "minValue": 2500,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/chef-de-partie-craig-road-property-holdings-bf0009a5030cb09aa8f7bb3a6c37260a?source=MCF&event=Search",
+            "uuid": "4e62a7b0-e6b1-4491-910b-1de74a37bf30"
+        },
+        {
+            "dueDate": "2023-04-29",
+            "jobTitle": "Junior Sous Chef",
+            "skills": [
+                "Recipes",
+                "Lifestyle",
+                "Ingredients",
+                "Quality Control",
+                "Food Safety",
+                "Cooking",
+                "Workplace Safety",
+                "Food Quality",
+                "Inventory",
+                "Sanitation",
+                "Hospitality"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "UNITED HOUSE, 20 KRAMAT LANE"
+            },
+            "company": {
+                "logo": null,
+                "name": "CLAYFUL PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Get to know us first! What is INITIA GROUP? The biggest lifestyle beauty lounge. INITIA Group sets out to find a consumer service business that is experience-based, differentiated and advantaged, non-seasonal, non-cyclical, highly predictable, has strong senior management, and strong online presence. Initia has been in the beauty industry and has created a series of new concept salons that blend with lifestyle and trends to provide unique and fascinating lounges. Initia is not just doing beauty business alone, but it also has business in the F;B Industry and Art. It has been around for years and it has been working with local and many Korean companies in Singapore and in Malaysia.  Our brands : Bada (Previously known as Leekaja Salon) Singapore Walking on Sunshine You are my Sunshine F;B  We are looking for a talented Chef/Cook to be our Junior Sous Chef. If you are currently a cook or Chef De Partie (CDP), welcome to challenge yourself by joining and supporting our culinary team in creating delightful meals for our restaurant/cafe. This is an important job in any kitchen that comes with a lot of independence. He/She will be responsible for preparing high-quality food that meets the head chef's standards.  DUTIES ; RESPONSIBILITIES :    Following directions provided by the head chef.   Collaborating with the whole culinary team to ensure high-quality food and service.   Keeping the kitchen safe and sanitary.   Stocktaking and ordering supplies.   Assisting in other areas of the kitchen when required.   Handling any problems that may arise.  QUALIFICATIONS :    Associate or Bachelor’s Degree in Culinary Arts or Science, Business, or relevant fields   At least 3 years experience working in a similar role.   Ability to work well alone and in a team.   Passion for delivering great food and service.   Knowledge of best practices for safety and sanitation.   Multitasking and organizational ability.   Flexibility in working hours subject to the demands of the business. ",
+            "datePosted": "2023-03-30",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 3000,
+                "minValue": 2200,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/junior-sous-chef-clayful-cade1b565c44410fef55b32349ba7d69?source=MCF&event=Search",
+            "uuid": "09f63bea-7264-41ad-a77b-3acdd46fb9ec"
+        },
+        {
+            "dueDate": "2023-04-29",
+            "jobTitle": "Junior Sous Chef",
+            "skills": [
+                "Recipes",
+                "Ingredients",
+                "Quality Control",
+                "Food Safety",
+                "Cooking",
+                "Stress",
+                "Interpersonal Skills",
+                "Food Quality",
+                "Inventory",
+                "Sanitation",
+                "Attention to Detail",
+                "Teamoriented",
+                "HACCP",
+                "Audit"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "120 TANJONG PAGAR ROAD"
+            },
+            "company": {
+                "logo": null,
+                "name": "KINTSUGI SPECTRE PRIVATE LIMITED"
+            },
+            "jobType": [
+                "PART_TIME",
+                "CONTRACTOR",
+                "FULL_TIME"
+            ],
+            "description": "Job Title: Junior Sous Chef   Location: Singapore Job Type: Full-time  Job Description: We are currently seeking energetic and experienced kitchen crew to join our team in Singapore. As a kitchen crew, you will be responsible for assisting the head chef in preparing and cooking food, maintaining kitchen cleanliness and hygiene, and ensuring that all dishes are presented in an attractive and appetizing manner. Responsibilities:    Assist the head chef in food preparation, cooking, and plating of dishes   Follow standard recipes and cooking techniques to ensure consistency in quality and taste of food   Ensure that food is prepared and cooked in a timely and efficient manner   Maintain cleanliness and hygiene in the kitchen area, including washing dishes, utensils, and equipment, and cleaning food preparation areas   Stock and organize inventory, including food, ingredients, and supplies   Collaborate with other kitchen staff to ensure smooth and efficient kitchen operations   Adhere to all food safety regulations and guidelines   Report any issues or concerns to the head chef   Participate in kitchen training and development sessions  Requirements:    At least 1-2 years of experience working in a kitchen environment   Strong knowledge of food preparation techniques and kitchen safety practices   Ability to work in a fast-paced environment and prioritize tasks effectively   Attention to detail and a commitment to delivering high-quality dishes   Good communication and interpersonal skills, and the ability to work well as part of a team   Flexibility to work early morning, evening, and weekend shifts as required   Relevant certification or training in culinary arts is preferred but not mandatory  If you are passionate about cooking and enjoy working in a fast-paced, team-oriented environment, we encourage you to apply for this exciting opportunity in Singapore.",
+            "datePosted": "2023-03-30",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 3000,
+                "minValue": 2600,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/junior-sous-chef-kintsugi-spectre-589a55d563b9e898d6ff7c3a2bec9839?source=MCF&event=Search",
+            "uuid": "e099508f-27e2-49c5-b659-049d900317f3"
+        },
+        {
+            "dueDate": "2023-04-29",
+            "jobTitle": "Chef De Partie",
+            "skills": [
+                "Recipes",
+                "Ability to Multitask",
+                "Leadership",
+                "Ingredients",
+                "Quality Control",
+                "Food Safety",
+                "Cooking",
+                "Food Quality",
+                "Inventory",
+                "Sanitation",
+                "Fine Dining",
+                "Climate",
+                "Pressure",
+                "Catering",
+                "Hospitality"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": null
+            },
+            "company": {
+                "logo": null,
+                "name": "TIME FOR THAI PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Responsibilities    Prepare menus in collaboration with colleagues   Ensure adequacy of supplies at the cooking stations   Prepare ingredients that should be frequently available (vegetables, spices etc.)   Follow the guidance of the executive or sous chef and have input in new ways of presentation or dishes   Put effort in optimizing the cooking process with attention to speed and quality   Enforce strict health and hygiene standards   Help to maintain a climate of smooth and friendly cooperation  Requirements and skills    Proven experience in a Chef de Partie role   Excellent use of various cooking methods, ingredients, equipment and processes   Ability to multitask and work efficiently under pressure   Knowledge of best cooking practices ",
+            "datePosted": "2023-03-30",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 10000,
+                "minValue": 6000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/chef-de-partie-time-thai-0d5809530078f1858fe1ae4a7abbe1db?source=MCF&event=Search",
+            "uuid": "daec9867-ad52-4df9-807e-3e15e9972fc9"
+        },
+        {
+            "dueDate": "2023-04-29",
+            "jobTitle": "Chef De Partie",
+            "skills": [
+                "Recipes",
+                "Ability to Multitask",
+                "Leadership",
+                "Ingredients",
+                "Quality Control",
+                "Food Safety",
+                "Cooking",
+                "Food Quality",
+                "Inventory",
+                "Sanitation",
+                "Fine Dining",
+                "Climate",
+                "Pressure",
+                "Catering",
+                "Hospitality"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": null
+            },
+            "company": {
+                "logo": null,
+                "name": "AL CAPONE'S KALLANG PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Responsibilities    Prepare menus in collaboration with colleagues   Ensure adequacy of supplies at the cooking stations   Prepare ingredients that should be frequently available (vegetables, spices etc.)   Follow the guidance of the executive or sous chef and have input in new ways of presentation or dishes   Put effort in optimizing the cooking process with attention to speed and quality   Enforce strict health and hygiene standards   Help to maintain a climate of smooth and friendly cooperation  Requirements and skills    Proven experience in a Chef de Partie role   Excellent use of various cooking methods, ingredients, equipment and processes   Ability to multitask and work efficiently under pressure   Knowledge of best cooking practices ",
+            "datePosted": "2023-03-30",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 10000,
+                "minValue": 6000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/chef-de-partie-al-capones-kallang-652d44b843757ea79cf42a4e4941b0df?source=MCF&event=Search",
+            "uuid": "045fd043-c96a-4b79-bfc7-2e746456494c"
+        },
+        {
+            "dueDate": "2023-04-29",
+            "jobTitle": "Assistant Chef",
+            "skills": [
+                "Product Knowledge",
+                "Recipes",
+                "Ingredients",
+                "Food Safety",
+                "Cooking",
+                "Appraisals",
+                "Workplace Safety",
+                "Food Quality",
+                "Inventory",
+                "Assurance",
+                "Sanitation",
+                "Compliance",
+                "Team Management",
+                "Communication Skills",
+                "Team Player",
+                "Cut"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "114 SIMS AVENUE"
+            },
+            "company": {
+                "logo": null,
+                "name": "MING LI'S EATING HOUSE"
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Main Job Responsbilities    Assist Chef with daily food preparation   Resolves issues in a tactful way.   Assist in bi-monthly stock take and ensure quality and account for each delivered item   Mentor kitchen team on maintaining recipe, cooking and preparation procedures ; standards   Perform routine inspection and evaluation of work station; including food presentation, quality, food hygiene, kitchen cleanliness and safety   Conduct orientation, training for new trainees   Adhere to company’s standard operating procedures   Any other appropriate duties and responsibilities as assigned   Able to work night shift and split shift   Able to do OT on weekends and public holiday  Requirements    Minimum 5 years of relevant experience in F;B industry   Have good product knowledge on food items   Candidate must possess basic computer knowledge and strict sense of hygiene and safety standards   Excellent organizational skills and communication skills ",
+            "datePosted": "2023-03-30",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 4600,
+                "minValue": 3000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/assistant-chef-ming-lis-eating-house-3066901449f269228a14c2a9190b644c?source=MCF&event=Search",
+            "uuid": "62f3efc2-6d27-4653-b1a1-ab768113836d"
         }
     ]
 }
