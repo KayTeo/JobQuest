@@ -12,8 +12,8 @@ import { use, useContext } from "react";
 const db = firebase.firestore();
 
 const options = [
-    { name: "Tracker", route: "/user/tracker" },
     { name: "Searcher", route: "/user/searcher" },
+    { name: "Tracker", route: "/user/tracker" },
     { name: "Booster", route: "/user/booster" },
     { name: "Forum", route: "/user/forum" },
 ];

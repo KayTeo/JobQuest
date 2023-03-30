@@ -12,7 +12,7 @@ const db = firebase.firestore();
 export default function SignInPage() {
     const router = useRouter();
     if (Cookies.get("loggedin")) {
-        router.push("/user/tracker");
+        router.push("/user/searcher");
     }
 
     function handleSubmit(e) {

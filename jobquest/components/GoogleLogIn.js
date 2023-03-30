@@ -20,7 +20,7 @@ export default function GoogleLogIn({ text }) {
                 .doc(user.uid)
                 .get()
                 .then((doc) => doc.exists);
-                
+
             if (!userDoc) {
                 await db
                     .collection("users")
@@ -50,7 +50,7 @@ export default function GoogleLogIn({ text }) {
                     });
             }
             Cookies.set("loggedin", true);
-            router.push("/user/tracker");
+            router.push("/user/searcher");
         });
     }
 

@@ -4,7 +4,7 @@ import { UserContext } from "@/utils/UserContext";
 import { useRouter } from "next/navigation";
 import { use, useContext, useState } from "react";
 import Search from "./Search";
-import Loading from "../loading";
+import Loading from "./loading";
 import Link from "next/link";
 import { MagnifyingGlassIcon } from "@heroicons/react/20/solid";
 
