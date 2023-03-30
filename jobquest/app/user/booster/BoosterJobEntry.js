@@ -15,6 +15,13 @@ async function sendRequest(url, data) {
 }
 
 async function boostResume(userID, resumeData, jobData) {
+    await db
+        .collection("users")
+        .doc(userID)
+        .collection("booster")
+        .doc(jobData.uuid)
+        .delete();
+
     const payload = {
         resumeData: resumeData,
         jobData: jobData,

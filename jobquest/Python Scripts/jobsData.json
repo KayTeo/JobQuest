@@ -1,373 +1,149 @@
 {
     "jobs": [
         {
-            "dueDate": "2023-04-13",
-            "jobTitle": "Software Engineer",
-            "skills": [
-                "Machine Learning",
-                "Verbal Communication",
-                "Interpersonal Skills",
-                "Software Engineering",
-                "System Integration",
-                "JavaScript",
-                "SQL",
-                "Python",
-                "Presentation Skills",
-                "Team Player",
-                "Java",
-                "C#",
-                "Software Development",
-                "C++"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": null
-            },
-            "company": {
-                "logo": null,
-                "name": "ETAVOLT PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "We are seeking for a candidate with strong background in software development and machine learning to join us at the our core team member in the software engineering team focuses on the digitalization solutions for solar photovoltaic (PV) lifecycle management.  Responsibilities    To lead the software development activities (design, development, release and maintenance) pertaining to the Solar PV lifecycle management solution project, intended for market and commercial applications.   To work closely with internal software and mobile app development engineers and project partner’s software team to meet deliverables.   Responsible for regular project status reports and updates.   Able to make independent contributions and to meet project deliverables.  Qualifications    Bachelor's degree or equivalent experience in Computer Science, Engineering, or related field   Experience with software development, testing and integration   Experience with programming languages: C++, C#, Python, and JavaScript   Experience with hardware/software system integration and ability to integrate company apps and third-party libraries and APIs.   Skilled in cybersecurity approaches to maximize the security of developed software and apps.   Experience in machine learning techniques and tools will be a plus.   Experience in solar photovoltaic related technologies will be a plus.   Team player with good communication ; interpersonal skills, ability to work in a team as well as independently.   Excellent written, verbal communication and presentation skills including ability to explain technical matters to non-technical audience ",
-            "datePosted": "2023-03-30",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 5000,
-                "minValue": 4000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/software-engineer-etavolt-0c525bce7b4d2241e653a9c512f37cfa?source=MCF&event=Search",
-            "uuid": "ee1895bc-4135-41fb-a60b-8ed5efcadc04"
-        },
-        {
             "dueDate": "2023-04-29",
-            "jobTitle": "IT Software Engineer",
+            "jobTitle": "Test Engineer",
             "skills": [
-                "JSON",
-                "CSS",
-                "Azure",
-                "AngularJS",
-                "Software Engineering",
-                "Software Documentation",
-                "JavaScript",
-                "HTML5",
-                "Windows Operating Systems",
-                "Docker",
-                "Web Application Development",
-                "Java",
-                "Databases",
-                "Linux",
-                "Software Development"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "KEPPEL DISTRIPARK, 511 KAMPONG BAHRU ROAD"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/2d196284c7d1f1b599b8158edf0a8438/hup-soon-cheong-services.png",
-                "name": "HUP SOON CHEONG SERVICES PTE LTD"
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Duties and responsibilities • Work with project team members to design algorithms and flowcharts • Troubleshoot, debug and upgrade existing software • Support applications in production – analyse and resolve issues as they arise • Write well designed, testable, efficient code by using best software development practices • Integrate data from various back-end services and databases • Gather and refine specifications and requirements based on technical needs • Create and maintain software documentation  Qualifications • At least 2 years or relevant experience in Web Application Development • Candidate must possess at least a Diploma in Software Engineering or equivalent to be considered • Familiarity with programming languages using NodeJS ; Angular/JS, HTML5, CSS and JavaScript consuming RESTful APIs and Json • Good software tools experience e.g. GitHub, Docker • LINUX and Windows operating systems development experience • Familiarity with Azure, AWS",
-            "datePosted": "2023-03-30",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 4500,
-                "minValue": 2500,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/software-engineer-hup-soon-cheong-services-f7d69ea58e7b200d99a1e92d848ea27d?source=MCF&event=Search",
-            "uuid": "3f819b2c-b3db-4609-991a-07d56255661c"
-        },
-        {
-            "dueDate": "2023-04-20",
-            "jobTitle": "Lead Software Engineer",
-            "skills": [
-                "Troubleshooting",
-                "Remediation",
-                "Architectural",
-                "Software Engineering",
-                "Agile Methodologies",
-                "Agile",
-                "Application Development",
-                "JavaScript",
-                "Technology Solutions",
-                "System Design",
-                "Cultural Diversity",
-                "Python",
-                "Infrastructure Architecture",
-                "Information Architecture",
-                "Java",
-                "C#",
-                "Stakeholder Management",
-                "Team Work",
-                "Software Development"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": null
-            },
-            "company": {
-                "logo": null,
-                "name": "JPMORGAN CHASE BANK, N.A."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "We have an opportunity to impact your career and provide an adventure where you can push the limits of what's possible.  As a Lead Software Engineer in the Finance, Risk, Data and Controls, Finance Technology – Regulatory Reporting team at JPMorgan Chase, you are an integral part of an agile team that works to enhance, build, and deliver trusted market-leading technology products in a secure, stable, and scalable way. As a core technical contributor, you are responsible for conducting critical technology solutions across multiple technical areas within various business functions in support of the firm’s business objectives.  Job responsibilities • Executes creative software solutions, design, development, and technical troubleshooting with ability to think beyond routine or conventional approaches to build solutions or break down technical problems • Develops secure and high-quality production code, and reviews and debugs code written by others • Identifies opportunities to eliminate or automate remediation of recurring issues to improve overall operational stability of software applications and systems • Leads evaluation sessions with external vendors, startups, and internal teams to drive outcomes-oriented probing of architectural designs, technical credentials, and applicability for use within existing systems and information architecture • Leads communities of practice across Software Engineering to drive awareness and use of new and leading-edge technologies • Adds to team culture of diversity, equity, inclusion, and respect  Required qualifications, capabilities, and skills • Bachelor’s Degree in Computer Science / Information Systems / Engineering or related disciplines • Minimum 5 years of experience in regulatory reporting applications • Knowledge of application, data and infrastructure architecture disciplines • Hands-on practical experience delivering system design, application development, testing, and operational stability • Advanced in one or more programming language(s) • Proficiency in automation and continuous delivery methods • Proficient in all aspects of the Software Development Life Cycle • Advanced understanding of agile methodologies such as CI/CD, Applicant Resiliency, and Security • Proficiency in Mandarin is required to liaise with stakeholders from China  Preferred qualifications, capabilities, and skills • Exposure to cloud technologies  To apply for this position, please use the following URL: https://ars2.equest.com/?response_id=385868a2edb899ae1d895097e79aa702",
-            "datePosted": "2023-03-21",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 20000,
-                "minValue": 10000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/banking-finance/lead-software-engineer-jpmorgan-chase-bank-na-7fb26245687b1aea84754a149159b6ea?source=MCF&event=SuggestedJob",
-            "uuid": "119920d6-ae68-4a0a-b625-3b30633141b9"
-        },
-        {
-            "dueDate": "2023-04-13",
-            "jobTitle": "Software Engineer (Java/ Singaporean)",
-            "skills": [
-                "Requirements Gathering",
-                "UAT",
-                "Hardware",
-                "Technology Management",
-                "Project Quality",
-                "Software Documentation",
-                "System Testing",
-                "Information Technology",
-                "Configuration Management",
-                "Team Lead",
+                "Verbal Communication",
+                ".NET",
+                "Quality Assurance",
+                "Automated Software Testing",
+                "System Integration",
+                "Scripting",
+                "Test Cases",
+                "Test Automation",
+                "Strategy",
+                "Software Testing",
+                "Selenium",
+                "Team Player",
                 "Integration Testing",
-                "Java",
-                "Disposition",
-                "Project Delivery",
-                "Software Development"
+                "Electronics"
             ],
             "location": {
                 "country": "SG",
                 "locality": "Singapore",
-                "address": "50 TAGORE LANE"
+                "address": "GUOCO TOWER, 1 WALLICH STREET"
             },
             "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/124a56e366aab8d58f2467802454997a/es-recruitment.jpg",
-                "name": "ES RECRUITMENT PTE. LTD."
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/643690475fd1fdc2c79c950c10dd8a88/manpower-staffing-services.jpg",
+                "name": "MANPOWER STAFFING SERVICES (SINGAPORE) PTE LTD"
             },
             "jobType": [
                 "CONTRACTOR"
             ],
-            "description": "Seeking Singaporean to join as Software Engineer (Java 2 Platform, Enterprise Edition(J2EE) 1 Year Project Assignment renewable  Jobscope: You are responsible to develop software based on design requirements and ensure software and subroutines are working to specification, program codes have conformed to standards and are delivered with quality meeting schedule and requirements.  Project Delivery • Analyse process/program specifications ; translate specifications to program codes, conforming to program guidelines and programming best practices • Make changes to configurable items, which include hardware, software, documentation, etc. It covers configuration management planning, configuration identification, configuration controls ; audits • Develop unit test package, execute tests ; document test results to ensure the quality of the program • Assist in the integration testing, system testing, User Acceptance Test ( UAT) ; implementation activities to fix the reported problems/bugs of the system to ensure the smooth execution of programs in the production environment • Investigate all reported problems/errors ; initiate amendments ; testing so that the system can operate correctly ; efficiently • Prepare ; maintain up-to-date system documentation. • Analyse functional requirements to translate into application design using established design methodologies and guidelines • Ensure codes comply with Company's security guidelines  Team Work • Work with team lead to ensure design and programme codes conform to architecture and design standards, and that design satisfies functional and system requirements • Participate in requirements gathering; work with Business Analysts in reviewing and refining functional specifications • Participate in peer reviews to improve project quality  Job requirements:    Typically 1-2 years’ experience with substantial project work in software development   Degree in Computer Science, Information Technology, Management of Information Systems or equivalent   Familiar in Java, Java 2 Platform, Enterprise Edition(J2EE)   Possess initiative and disposition with a strong commitment and orientation towards results and high quality standards   Strong problem solving skills and ability to think out of the box   Singaporean only ",
+            "description": "Job scope Testing Strategy, Design and Planning Phase    Involve in understanding the requirements from multiple internal      and external stakeholders’ groups and work with the development team      throughout development to define and improve the build system quality.   Review stories or requirement specs to ensure that requirements      stated are correct, unambiguous and verifiable. i.e. verify that      definition of done is able to meet of every released feature.   Discuss, analyze and recommend design improvements or corrections      to developers throughout the development process.   Collaborate closely with stakeholders and project team to identify      needs and requirements for estimation of testing scope and time frame.   Develop and establish quality assurance deliverables and testing      framework, including create and maintain test plans and test cases in      accordance with changing requirements, throughout development.   Create and manage automated test framework whenever possible such      as prepare test environment, create automated functional testing scripts,      maintain functional testing script in accordance with changing      requirements.  Testing Execution/Implementation Phase    Conduct system integration tests with external parties, validate      the output and expected outcome e.g. data to and from external parties’      systems and feedback on improvement requirement.   Conduct extensive manual functional /exploratory testing, including      browser testing.   Conduct performance and load tests, validate the output and      expected outcomes and feedback on improvement required.   Conduct application performance and security testing to ensure we      have a robust and secured system in place.   Conduct impact analysis of defect fixes discovered during manual or      automated tests, validate completed stories pass the acceptance criteria,      raising defects as needed and work with development team to improve the      expected behavior and test cases.   Demonstrate the tested stories during Sprint Review and prepare      production show case to show the completed stories tested.  Job requirement    Bachelor’s degree in Computer Science or equivalent   With at least 2 years of relevant experience in software testing.   Certified Software Testing Professional and/or Certified Software      Quality Analyst or an equivalent certification will be a plus, e.g. ISTQB.   Good understanding and completion of projects using waterfall/Agile      methodology.   Demonstrate knowledge of automated software testing methodologies      such as integration testing, functional testing.   Familiarity with automated testing software such as JMeter and      Selenium.   Having .NET experience will be a plus   Team player with ability to collaborate and work effectively within      team.   Good written and verbal communication and interpersonal skills.   Passion for automation, standardization and best practices.  Thank you for your interest! We respect your privacy and all communication will be treated with confidentiality. If you wish to know more about this position or explore other roles, please prepare your updated profile and get in touch with our consultant at  cristina.malijan@manpower.com.sg Cristina Malabuyoc Malijan EA License No. 02C3423 Personnel Registration No. R1111547  Please note that your response to this advertisement and communications with us pursuant to this advertisement will constitute informed consent to the collection, use and/or disclosure of personal data by ManpowerGroup Singapore for the purpose of carrying out its business, in compliance with the relevant provisions of the Personal Data Protection Act 2012. To learn more about ManpowerGroup's Global Privacy Policy, please visit https://www.manpower.com.sg/privacy-policy",
             "datePosted": "2023-03-30",
             "salaryRange": {
                 "currency": "SGD",
-                "maxValue": 5000,
-                "minValue": 3000,
+                "maxValue": 7500,
+                "minValue": 6500,
                 "payPeriod": "MONTH"
             },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/software-engineer-es-recruitment-f9ff0cd74b39704baa96c97c6440b5a9?source=MCF&event=Search",
-            "uuid": "ee637d20-f967-4e5d-987c-f58cb7f81fe0"
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/test-engineer-manpower-staffing-services-1f466ac7bda2b2da1a6e77699564a53a?source=MCF&event=Search",
+            "uuid": "d00f04c8-63b6-4640-a872-18481076d8b5"
         },
         {
             "dueDate": "2023-04-29",
-            "jobTitle": "Software Engineer (Backend Engineer)",
+            "jobTitle": "Test Engineer",
             "skills": [
-                "Puppet",
-                "Troubleshooting",
-                "PHP",
-                "High Availability",
-                "Mobile Games",
-                "Scripting",
-                "Bash",
-                "backend integrations",
-                "Windows Server",
-                "backend testing",
-                "Python",
-                "Mobile Devices",
-                "Bash Scripting",
-                "Ansible",
-                "API",
-                "Backend Development",
-                "Linux",
-                "Software Development"
+                "troubleshooting skills",
+                "RF",
+                "Pay Attention to Detail",
+                "Test Cases",
+                "Test Automation",
+                "Analytical Troubleshooting",
+                "Requirements Analysis",
+                "Software Testing",
+                "Communication Skills",
+                "Project Coordination",
+                "Test Execution",
+                "Electronics"
             ],
             "location": {
                 "country": "SG",
                 "locality": "Singapore",
-                "address": "GOLDEN AGRI PLAZA, 108 PASIR PANJANG ROAD"
+                "address": "19 KALLANG AVENUE"
             },
             "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/ded09b64235676d8fa2070583beabac9/xii-braves.png",
-                "name": "XII BRAVES PTE. LTD."
+                "logo": null,
+                "name": "SEGEN CONSTRUCTION PTE LTD"
             },
             "jobType": [
                 "FULL_TIME"
             ],
-            "description": "Software Engineer (Backend Engineer)  All applications will be treated with strictest confidentiality. We regret that only shortlisted candidates will be notified. Please email resume to career@xiibraves.com  Work Location: Pasir Panjang area (near MRT station), Singapore  Work Hours: Mon to Fri, 10am to 7pm (hybrid 3days WFO and 2days WFH arrangement)  Company Benefits:  · 13-month fixed bonus, known as Annual Wage Supplement (AWS) · Free office pantry snacks ; drinks · AIA Group health medical coverage (inpatient ; outpatient care) · Annual Leave 14 days, +1 additional day per employment year worked, capped at 18 days · Annual Birthday Gift/Voucher · Annual New Year Spring Gift or Reimbursement · Congratulatory Wedding gift reimbursement claim · Team-bonding activity claim   Company description ; backstory  XII Braves is a mobile social game studio based in Singapore, with its goal on providing World-class entertainment and excitement to the global market.  In recent years, with the widespread popularity of smartphones and mobile devices, the demand for mobile games has never been greater. This has opened many doors and new exciting forms of entertainment to audiences.  XII Braves, located in Singapore, serves as a HQ for the core development, creation and launch pad to bring its products to audiences around the world. We have also established overseas support teams for game operations and additional production. As an organization with many industry veterans, we are looking for highly motivated and self-driven individuals to be part of our elite team.  Job Description:  We're looking for a Backend Engineer to work on and maintain Mobile game applications Service Layer which will be served worldwide.   Responsibilities:  * Design and implement Server-side APIs in elegant, efficient, secure, highly available, and maintainable way. * Work closely with client engineers and game designers to ensure technical compatibility and user satisfaction. * Design workflow and components of technical system based on game design requirements. * Monitor timeline for server team in the project to ensure no bottleneck and able to deliver in time. * Develop tools and processes for efficient deployment process. * Code review and give feedback and suggestions to improve code base in terms of efficiency and readability. * Responsible for planning of career development for individual team member and conduct necessary training to progress the team members * Make technical decision on the framework and technology used for backend server architecture.   Job Requirements:  * Education: Possess Bachelor's Degree in Computer Science, related field OR equivalent work experience * 3 or more years of experience in production software development and/or operations * Preferably with 3 to 5 or more years of experience in handling live game operations * Deep knowledge on relational database for configuring database, designing efficient tables and query. * Ability to design and write efficient setup and deployment scripts for application deployment * Experience in Linux configuration and administration * Experience with distributed Source Code Management (SCM) tools, e.g. Git * Hands on coding experience in PHP, Python or Bash scripting development and related operations * Some experience with operational provisioning tools, e.g. Ansible, Puppet or Chef * Deep knowledge in AWS Architecture and Services. * Prior experience in working cloud applications on AWS. * Ability to design and setup high availability infrastructurein AWS across availability zones and availability regions * Ability to design and setup infrastructure on AWS taking advantage of disaster recovery design guidelines   All applications will be treated with strictest confidentiality. We regret that only shortlisted candidates will be notified.  Please email resume to career@xiibraves.com  Thank you.",
+            "description": "Job Description    5G Network Testing   Indoor 5G Equipment Site Survey ; Installation   Project Coordination ; Management   Preparation of Technical Site Survey Report   Knowledge of any RF analysing tools to validate tests   Assess and update test results   Day-to-day coordination with Project Team   Managing technical project documentation   Preparing reports for submission   Able to work shift work (9am-6pm or 10pm-6am)   Any other Adhoc tasks   Required knowledge and skills    Excellent written and spoken communication skills   Excellent communication and customer service skills   Analytical thinking skills   Ability to pay attention to detail  ",
             "datePosted": "2023-03-30",
             "salaryRange": {
                 "currency": "SGD",
-                "maxValue": 5500,
-                "minValue": 3500,
+                "maxValue": 2500,
+                "minValue": 1800,
                 "payPeriod": "MONTH"
             },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/consulting/software-engineer-xii-braves-b925e87e8152cc2804957b5e337dd7f8?source=MCF&event=Search",
-            "uuid": "c39def1a-e7da-4519-a821-c8423655ff5e"
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/test-engineer-segen-construction-e3be028cc9c392ca61f26667524a2062?source=MCF&event=Search",
+            "uuid": "252d432b-a214-49ca-a69b-bb6aee0e552e"
         },
         {
-            "dueDate": "2023-04-13",
-            "jobTitle": "Senior Software Engineer - Java",
+            "dueDate": "2023-04-29",
+            "jobTitle": "Automation Test Engineer",
             "skills": [
-                "JSON",
-                "Confluence",
-                "Test Automation Framework",
-                "Kubernetes",
-                "MySQL",
-                "HTML5",
-                "Soft Skills",
-                "SQL",
+                "Performance Testing",
+                "Automation Testing",
+                "Quality Assurance",
+                "Robot",
+                "Usability Testing",
+                "Agile",
+                "Information Technology",
+                "Karate",
+                "Agile Methodology",
                 "JIRA",
-                "Configuration Management",
-                "Test Methodologies",
-                "Java",
-                "API",
-                "Databases"
+                "Software Testing",
+                "Test Strategy",
+                "Test Execution",
+                "Test Management"
             ],
             "location": {
                 "country": "SG",
                 "locality": "Singapore",
-                "address": null
+                "address": "SAMSUNG HUB, 3 CHURCH STREET"
             },
             "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/4feda64bd6e19fb5725a3b47c6d14fc9/hcl-singapore.jpg",
-                "name": "HCL SINGAPORE PTE. LTD."
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/e86d19dc7786607f32d88b044ff5e0fb/tescom-software-systems-testing.jpg",
+                "name": "TESCOM (SINGAPORE) SOFTWARE SYSTEMS TESTING PTE LTD."
             },
             "jobType": [
-                "FULL_TIME"
+                "CONTRACTOR"
             ],
-            "description": "Job Description    The position requires a Senior Software Engineer who understand both technical and management aspect to deliver key projects under dynamic environment within a short timeline.   This role will provide leadership in the design, development, implementation and maintenance of MicroServices platform.   This role must be highly effective in engaging senior management, project sponsors in communication and collaboration across internal and external teams with demonstrated success, building strong relationships and delivering results in cross-group ; cross-industry projects.   This role also entails to oversee concurrent projects in Organization that are consuming MicroServices, building collaboration and influencing strategic direction by supporting the Product Manager.  Responsibilities    Provide the overall API/Micro Services design, solution and integration components of MircoServices platform aligned with Data Product Manager and Enterprise Architect.   Manage Product/Project lifecycle, from requirement, design, technical construction, testing, acceptance, training, documentation and implementation, in accordance with Project Management Process and Methodology best practices. This includes:   Perform business requirement analysis and do technical assessment to identify functional ; non-functional requirements.   Participate in pre-project activities such as estimation of project efforts, project budgeting, preparation of high level project plan with project timeline and resource requirements, and staffing and organization of project team.   Work with the Product Manager to Plan, coordinate and communicate project plan, timeline and activities to the project team.   Manage and coordinate project deliverables, ensuring their quality and configuration management.   Maintain project issue register to keep close match of the project issues till their resolution.   Takes accountability in considering business and regulatory compliance risks and takes appropriate steps to mitigate the risks.   Manage performance of the project team, guide the project team in resolving issues, and resolve conflicts within the project team.   Monitor and track progress of projects and stay on top of the projects to ensure smooth execution.   Provide periodic update on project progress to project sponsors and escalate project issues not resolvable at project team level to PSC team.   Lead a team of developers on the build of API/Micro Services required by SGFinDex Industry and related projects. This includes:   Provide leadership in the implementation of API/Micro Services using Spring Boot, Dockers, Kubernetes, CI/CD and other relevant tools.   Define, configure and maintain API definitions to secure control and manage APIs. Maintain Swagger definition required to publish APIs.   Build and test APIs for new and existing backend services to help facilitate development team migrations.   Responsible for the documentation ; maintenance of micro services catalogue for internal ; external usage. Documentation will include Detail Design Document, API Technical Specifications ; other necessary information to support the platform or assigned projects.   Responsible for the maintenance of SGFinDex MircoServices platform ensuring platform meets SLA and activities which includes:   Enhancement of tools, solutions and microservices associated with deployment and our operations platform.   Actively troubleshoot any issues that arise during testing and production, catching and solving issues before launch.   Support all planned maintenance activities, BAU activities for API/Micro Services including any emergency maintenance.   Maintain awareness of industry trends on regulatory compliance, emerging threats and appropriate steps to mitigate the risks.   Highlight any potential concerns / risks and proactively shares best risk management practices.   Any other ad-hoc duties as assigned.  Requirements (Skills Requirements)    Strong project management skill, managing project plan (WBS), dependencies, monitor / track / manage risks / issues / change, provide management update, and stakeholder management.   Experience in the managing projects that involve coordination of multiple stakeholders.   Familiar with test tools, developing manual and automated test strategy and plan, test script and performing testing for both functional and non-functional requirements, covering both web and mobile applications.   Familiar with QA test methodologies, have experience in developing QA test framework, test automation framework.  Technical / Professional Skills    Min 10 years of overall experience in professional IT/software engineering.   At least 5+ years of experience as Technical Lead and have lead min 3-4 projects from scratch owning solution, design ; implementation using API/Micro Services.   At least 5+ years of hands-on experience with various API technologies, Spring Boot, Spring Integration, Java, Kubernetes ; Dockers.   At least 3+ years of experience leading development team and delivery management experience, with proven track records in managing and steering projects towards smooth execution and on time delivery.   Have experienced implementing applications ; services using Spring Framework, Spring Boot ; other Java related technologies with CI/CD tool like Jenkins/Bamboo, Nexus, SonarQube, Bitbucket.   Have implemented ; well versed with digital/internet web technologies like RESTful Web Services, SOAP Web Services, ESB, JSON, XML, JSON Schemas, XML Schemas, HTML5, HTTP, FTP and JavaScript.   Experienced in design and development of database tables, indexing, query and must have working experience using both SQL ; No-SQL databases and DB integration with Application.   Must have experience working ; maintaining databases like MYSQL or Maria DB. Database experience hosted on cloud is a plus.   Must have working experience using UNIX ; Troubleshooting capability on issues related to Operating System ; Network.   Prefer with Banking or Insurance industry experience.   Good team player with good interpersonal skills. Adaptable to fast-pace environment, self-driven and result-oriented.   Able to work independently and possess initiative.   Understanding all aspects of the software life cycle, using Agile or Waterfall software development practices.   Experience in use of project management and collaboration tools is required (E.g. Microsoft Project, Confluence, Jira Software, Kanban Boards, etc.)   Strong interpersonal and leadership skills, effective in fostering teamwork and managing high performance project team.   Delivery management experience, with proven track records in managing and steering projects towards smooth execution and on time delivery.   High level of integrity, takes accountability of work and good attitude over teamwork.   Takes initiative to improve current state of things and adaptable to embrace new changes.  GOOD TO HAVE    Good spoken and written communication.   Strong problem solving skill and attention to detail.  Non-Technical / Soft Skills    Excellent client-facing and internal communication skills.   Excellent written and verbal communication skills.   Manage the relationship with the client and all stakeholders. ",
+            "description": "Tescom is an IT consulting firm providing a range of professional services in functional testing, automation testing, cyber security testing, performance testing, independent IT auditing, usability testing, resource augmentation, IT support and training. We are looking to hire Automation Test Engineers, to join us in an exciting engagement. This is a rewarding role that requires candidates to exercise their technical skills with automation test tools and frameworks.  Responsibilities    Collaborate closely with stakeholders and project team to identify,      analyse and review design needs and requirements for estimation of      automation testing scope and schedule   Develop and maintain automation testing deliverables, such as      automation test scripts, automation test frameworks and work with      automation test tools.   Conduct automation test execution according to the company’s      current automation test strategy.   Develop and execute automation test scripts against backend batch      jobs and backup jobs.   Conduct defect management.   Collect and report on testing progress.   Adopt, execute and champion the company’s software testing and      quality assurance processes.   Participate actively in various Agile ceremonies such as sprint      planning, stand-up meetings, and sprint retrospectives.  Qualifications    Tertiary Qualification in Information Security, Information      Technology, Computer Science, Engineering (Computing/Telecommunication) or      equivalent   Minimum of 3 years of relevant working experience in automation      testing   Experience using Test management tools: Jira.   Experience using Automation Testing tools such as Postman, Robot      Framework, and Karate Framework.   Experience with automation testing involving backend batch jobs and      backup jobs.   Certified Software Testing Professional and/or Certified Software      Quality Analyst or an equivalent certification will be an added advantage   Good understanding of Agile methodology is preferred   Strong client and project management abilities coupled with      excellent communication, written, analytical, organizational and problem-solving skills  Think you have what it takes? Email us your resume now : sherin.kaur@tescom-apac.com  An exciting new career awaits you!",
             "datePosted": "2023-03-30",
             "salaryRange": {
                 "currency": "SGD",
-                "maxValue": 11000,
-                "minValue": 8000,
+                "maxValue": 6500,
+                "minValue": 5900,
                 "payPeriod": "MONTH"
             },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-software-engineer-java-hcl-singapore-25ecbf957a127f71c4cfaaeb165c78b0?source=MCF&event=Search",
-            "uuid": "a904aea0-5dc4-46fe-9263-c3e1bf2caca6"
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/automation-test-engineer-tescom-software-systems-testing-588faa9a27485de2bd81dd2b47896fec?source=MCF&event=Search",
+            "uuid": "0f1ec8f1-5c2c-4627-beb3-382f651866a2"
         },
         {
             "dueDate": "2023-04-29",
-            "jobTitle": "Software Engineer (PHP) - HC017",
+            "jobTitle": "Production Test Engineer",
             "skills": [
-                "Requirements Gathering",
-                "Web Services",
-                "CSS",
-                "HTML",
-                "MySQL",
-                "Application Development",
-                "JavaScript",
-                "Web Technologies",
-                "Database Administration",
-                "AJAX",
-                "Laravel",
-                "Database Design",
-                "Web Applications",
-                "Linux",
-                "Software Development"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "SINGAPORE POST CENTRE, 10 EUNOS ROAD 8"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/a3a7eed68ecbd5a355d9936d248b635c/activate-interactive.png",
-                "name": "ACTIVATE INTERACTIVE PTE LTD"
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Activate Interactive Pte Ltd (“Activate”) is a leading IT solution and service provider headquartered in Singapore with a presence in Malaysia and Indonesia. Our clients are empowered with quality, cost-effective, and impactful end-to-end application development, like mobile and web applications, and cloud technology that remove technology roadblocks and increase their business efficiency. We believe in positively impacting the lives of people around us and the environment we live in through the use of technology. Hence, we are committed to providing a conducive environment for all employees to realise their full potential, who in turn have the opportunity to continuously drive innovation. We are searching for our next team members to join our growing team. If you love the idea of being part of a growing company with exciting prospects in mobile and web technologies that create positive impact on people’s lives, then we would love to hear from you. We are looking for Software Engineer (PHP) Internal Code: HC017 What will you do?    Develop online application, scripts and web services and provide end-user support to existing applications.   Perform requirements gathering, analysis and design and managing the projects, testing and training.   Manage, maintain and recommend the development platform used in the organization.   Involve in website updates and other ad-hoc software projects and IT activities.   Ensure proper documentation of applications developed, including change management  What are we looking for?    Degree/Diploma in Computer Science or Computer Engineering majoring in database design and software development   3 years of working experience in Software Development. Good Knowledge in LAMP (Linux, Apache, MySQL and PHP), HTML, CSS, AJAX and JavaScript   Good Knowledge and experience in software life cycle management and database design. Experience in CakePHP, Laravel Framework and SVN/GIT   Knowledge in Oracle/MySQL database administration and other software languages and tools   Able to handle multiple projects and team management with internal users and vendors   Knowledge in software automation and deployment tools such as Jenkins   Good Knowledge in OutSystems development platform  What do we offer in return?    Fun working environment   Employee Wellness Program  Does it sound like something you are interested in exploring further? Please be in touch with our team for an initial chat at chi@activate.sg Activate Interactive Singapore is an equal opportunity employer. Employment decisions will be based on merit, qualifications and abilities. Activate Interactive Pte Ltd does not discriminate in employment opportunities or practices on the basis of race, colour, religion, sex, sexuality, national origin, age, disability, marital status or any other characteristics protected by law. Protecting your privacy and the security of your data are longstanding top priorities for Activate Interactive Pte Ltd. Your personal data will be processed for the purposes of managing Activate Interactive Pte Ltd’s recruitment related activities, which include setting up and conducting interviews and tests for applicants, evaluating and assessing the results, and as is otherwise needed in the recruitment and hiring processes. Please consult our Privacy Notice (https://www.activate.sg/privacy-policy) to know more about how we collect, use, and transfer the personal data of our candidates. Here you can find how you can request for access, correction and/or withdrawal of your Personal Data.",
-            "datePosted": "2023-03-30",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 9000,
-                "minValue": 4500,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/software-engineer-hc017-activate-interactive-49fa0bf5622e71f707eeb17c4e8f7072?source=MCF&event=Search",
-            "uuid": "6de198bb-fa9f-48c2-bfe8-ae238ca02a87"
-        },
-        {
-            "dueDate": "2023-04-29",
-            "jobTitle": "Software Engineer (PHP) - HC017",
-            "skills": [
-                "MVC",
-                "Web Services",
-                "CSS",
-                "HTML",
-                "MySQL",
-                "JavaScript",
-                "Web Technologies",
-                "Database Administration",
-                "AJAX",
-                "Laravel",
-                "Database Design",
-                "Web Applications",
-                "Apache",
-                "Linux",
-                "Software Development"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "SINGAPORE POST CENTRE, 10 EUNOS ROAD 8"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/a3a7eed68ecbd5a355d9936d248b635c/activate-interactive.png",
-                "name": "ACTIVATE INTERACTIVE PTE LTD"
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Activate Interactive Pte Ltd (“Activate”) is a leading IT solution and service provider headquartered in Singapore with a presence in Malaysia and Indonesia. Our clients are empowered with quality, cost-effective, and impactful end-to-end application development, like mobile and web applications, and cloud technology that remove technology roadblocks and increase their business efficiency. We believe in positively impacting the lives of people around us and the environment we live in through the use of technology. Hence, we are committed to providing a conducive environment for all employees to realise their full potential, who in turn have the opportunity to continuously drive innovation. We are searching for our next team members to join our growing team. If you love the idea of being part of a growing company with exciting prospects in mobile and web technologies that create positive impact on people’s lives, then we would love to hear from you. We are looking for Software Engineer (PHP) Internal Code: HC017 What will you do?    Develop online application, scripts and web services and provide end-user support to existing applications.   Perform requirements gathering, analysis and design and managing the projects, testing and training.   Manage, maintain and recommend the development platform used in the organization.   Involve in website updates and other ad-hoc software projects and IT activities.   Ensure proper documentation of applications developed, including change management  What are we looking for?    Degree/Diploma in Computer Science or Computer Engineering majoring in database design and software development   3 years of working experience in Software Development. Good Knowledge in LAMP (Linux, Apache, MySQL and PHP), HTML, CSS, AJAX and JavaScript   Good Knowledge and experience in software life cycle management and database design. Experience in CakePHP, Laravel Framework and SVN/GIT   Knowledge in Oracle/MySQL database administration and other software languages and tools   Able to handle multiple projects and team management with internal users and vendors   Knowledge in software automation and deployment tools such as Jenkins   Good Knowledge in OutSystems development platform  What do we offer in return?    Fun working environment   Employee Wellness Program  Does it sound like something you are interested in exploring further? Please be in touch with our team for an initial chat at chi@activate.sg Activate Interactive Singapore is an equal opportunity employer. Employment decisions will be based on merit, qualifications and abilities. Activate Interactive Pte Ltd does not discriminate in employment opportunities or practices on the basis of race, colour, religion, sex, sexuality, national origin, age, disability, marital status or any other characteristics protected by law. Protecting your privacy and the security of your data are longstanding top priorities for Activate Interactive Pte Ltd. Your personal data will be processed for the purposes of managing Activate Interactive Pte Ltd’s recruitment related activities, which include setting up and conducting interviews and tests for applicants, evaluating and assessing the results, and as is otherwise needed in the recruitment and hiring processes. Please consult our Privacy Notice (https://www.activate.sg/privacy-policy) to know more about how we collect, use, and transfer the personal data of our candidates. Here you can find how you can request for access, correction and/or withdrawal of your Personal Data.",
-            "datePosted": "2023-03-30",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 14000,
-                "minValue": 7000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/software-engineer-hc017-activate-interactive-059a42cf9d9e99f435e785a019ef6a05?source=MCF&event=Search",
-            "uuid": "102e1ee9-d668-4b1c-b970-35273352be5e"
-        },
-        {
-            "dueDate": "2023-04-29",
-            "jobTitle": "Embedded Software Engineer (MCU Toolchain & Apps)",
-            "skills": [
-                "Embedded Software",
+                "Test Equipment",
+                "Program Development",
+                "Data Analysis",
                 "Hardware",
-                "Customer Support",
-                "GMP",
-                "Unix",
-                "Open Source",
-                "Embedded Systems",
+                "Semiconductor Industry",
+                "Scripting",
+                "Problem Solving",
+                "Mixed Signal",
+                "Reliability",
+                "Characterization",
+                "Packaging",
                 "Python",
-                "Firmware",
-                "Windows",
+                "DFT",
                 "Debugging",
-                "Linux",
-                "Software Development",
-                "Able To Work Independently",
-                "Visual Studio"
+                "Manufacturing",
+                "Software Development"
             ],
             "location": {
                 "country": "SG",
@@ -381,7 +157,7 @@
             "jobType": [
                 "FULL_TIME"
             ],
-            "description": "Candidate Profile: Software engineer with good knowledge and work experience on MCUs and embedded systems.  Key responsibilities: · Develop and maintain toolchains and IDEs for in house MCUs · Develop and maintain reference applications for in house MCUs · Perform design, review, coding, testing, and debugging embedded software · Provide customer support for in house MCUs · Evaluate open source and/or third-party software and perform integration if applicable  Knowledge and skill requirements: 1. 3 years+ experience in software development on embedded system, or PC based platform, i.e., Windows and Linux. 2. Must have strong programming skills in C/C++. Knowledge of Python is a plus. 3. Good domain knowledge on embedded system and hardware protocols, such as SPI, I2C, UART, LCD display controllers is required. 4. Solid work experience on debugging and testing. 5. Professional and proactive attitude. Able to work independently with minimum guidance.",
+            "description": "Job Purpose: Test program development and implementation for new products.  Key Responsibilities:    ATE test program development and implementation for new products (Production and Characterization Test)   Test Hardware (final test loadboard and wafersort probecard) design and development for engineering activities and production ramp-up   Perform characterization testing, prepare test specifications, define tests, conditions, criteria, etc.   Solid digital and mixed-signal programming experience on ATE using C++/VB language and scripting   Automate test process by writing software scripts to improve work efficiency.   Monitor and manage production test yields, maverick lots, engineering lots   Hands-on test debugging, RMA analysis and improving test solutions (Hardware and Software)   Work with product designer and DFT engineer to ensure smooth product bring-up   Responsible for overseeing product reliability stresses and test results   Establish cost-effective production test solutions.  Additional Responsibilities: a) Any reasonable task assigned by management and deemed to be within the individuals’ capabilities to ensure smooth running of the business. b) As this is an evolving business, ongoing change is an integral part of the position. Management will liaise with the individual on any fundamental change to work practices. The individual is required to embrace and adopt any change to working practices.  Knowledge and skill requirements:    Bachelor's degree in engineering (electrical/electronics)   Minimum 5 years of relevant working experience in semiconductor industry   Knowledge and hands on experience with industry standard Automated Test Equipment – Teradyne J750.   Experience on Advantest T2K, Advantest 93K, UltraFlex, Chroma is a plus.   Strong understanding of ATE Test Programming principles, preferablywith experience in Digital and Mixed signal testing   Test Software development experience ; skills, including knowledge of C/C++, VB, PERL, Python etc.   Experience/knowledge in new product characterization and qualification.   Experience in test Hardware development (loadboard and probecard)   Good knowledge on manufacturing process (fab, packaging,test)   Good aptitude in statistical data analysis, problem solving and solution finding.  Working Conditions: - Working conditions are normal for an office environment. - Work requires willingness to work a flexible schedule.",
             "datePosted": "2023-03-30",
             "salaryRange": {
                 "currency": "SGD",
@@ -389,26 +165,372 @@
                 "minValue": 6000,
                 "payPeriod": "MONTH"
             },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/embedded-software-engineer-bridgetek-a7ba6484a9c0eaf947514a7624b61077?source=MCF&event=Search",
-            "uuid": "cf55bd3a-416d-4ff4-9b62-a1f0200aa301"
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/production-test-engineer-bridgetek-999327aa5b6a8fe661ac4c3ea333a8fa?source=MCF&event=Search",
+            "uuid": "64582904-99a7-467d-af80-e233d6b7d57c"
         },
         {
             "dueDate": "2023-04-29",
-            "jobTitle": "Software Engineer (Robotics/Vehicle Automation/PCL/Boost/OpenCV)",
+            "jobTitle": "System Test Lead",
             "skills": [
+                "Manual Testing",
                 "Quality Assurance",
-                "Pipelines",
-                "Listings",
-                "Data Structures",
-                "Team Development",
-                "OpenCV",
-                "Scripting",
-                "Docker",
-                "Web Applications",
-                "Robotics",
-                "Visualization",
-                "Systems Engineering",
-                "System Architecture",
+                "Software Quality Assurance",
+                "Regression Testing",
+                "Agile Methodologies",
+                "SDLC",
+                "Microsoft SQL Server",
+                "SQL",
+                "Testing",
+                "Test Planning"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "3 DEPOT CLOSE"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/49b28337399acb69a47fc77f9337c683/staffondemand.png",
+                "name": "BEYONDSOFT INTERNATIONAL (SINGAPORE) PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "     COMPANY DESCRIPTION      Beyondsoft International (Singapore) Pte. Ltd. was set up in 2007 and established as the regional headquarters for the Southeast Asia (SEA) and European markets in September 2015. Based on our vision of \"Using technology to promote social progress, economic development and become a global customer preferred partner\" and our concept of \"Beyond your expectations\", Beyondsoft is committed to provide our customers in countries along the \"Belt and Road\" with comprehensive solutions and products and creating commercial value for customers to realizing continuous businesses development. Our core business includes: IT development servicesProviding customers with IT consulting, software research and development, software and hardware testing, system integration and operation and maintenance, data analysis and other services; New retail solutions and productsThrough intelligent products, helping small and medium-sized enterprises (SMEs) realize the digital transformation of their daily operations; Internet of Things (IoT) platform and solutionsComprehensive use of IoT, artificial intelligence, big data, cloud computing and other technologies to provide IoT solutions for intelligent upgrades in cities, parks, buildings and industries, to create a smart future. For more information, please visit www.beyondsoft.com.      RESPONSIBILITIES      Window cloning Review and clarify test requirement Execute testing based on the test cases Perform the exploratory test and clarify test procedure when needed Perform troubleshooting and identify root causes for the issues and report the defects Record and document results Design and develop test cases based on the test requirements and specifications Manage a team of system tester  QUALIFICATIONS     Minimum Diploma in Computer Science or relevant studies Minimum 1 year of software or prototype testing Experience with automation tools (i.e. run automation scripts, analyze reports and issues, report bugs) will be a distinct advantage Open to candidates who possess passion and interest in gaming industry&nbsp;       OTHER INFORMATION     We are looking for a technical candidate who is passionate about resolving complex customer issues in a quality and timely manner. This will be a new position to drive new testing procedures for new products. We are open to candidates who are keen with prototype and software testing as well. Training opportunities for career training and growth will be provided.      Please note that your application will be sent to and reviewed by the direct employer - Beyondsoft International (Singapore) Pte Ltd ",
+            "datePosted": "2023-03-30",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 2600,
+                "minValue": 2000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/system-test-lead-beyondsoft-international-7a3e9eb55e394d4b7f02c6b33bf17673?source=MCF&event=Search",
+            "uuid": "0eca6e04-45a9-4b00-a35b-295af7993ee8"
+        },
+        {
+            "dueDate": "2023-04-06",
+            "jobTitle": "Production Test Engineer (ATE Test Program, C++/VB)",
+            "skills": [
+                "Program Development",
+                "Technical Analysis",
+                "Hardware",
+                "RF",
+                "Interpersonal Skills",
+                "Test Engineering",
+                "Electrical",
+                "Soft Skills",
+                "Product Engineering",
+                "MS Word",
+                "Characterization",
+                "Test Design",
+                "Disposition",
+                "Debugging",
+                "IC",
+                "Electronics"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "THE ARCADE, 11 COLLYER QUAY"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/d1505f35fee02dabd4146b80df234925/recruit-expert.jpg",
+                "name": "RECRUIT EXPERT PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "   Perform ATE Test Program Design and Development for new products (Production and Characterization Test)   Design and create Final Test Loadboard and Wafersort Probecard   Manage Characterization Testing, prepare test specifications, define tests, conditions, criteria, etc.   Responsible for test debugging, RMA analysis, and improving test solutions (HW and SW)  Requirements:    Degree in Electrical/Electronic Engineering   At least 3 years of ATE Test Program Development (C++/VB) experience with J750, UltraFlex, Advantest 93K, Advantest T2K test programming.  If you are keen to apply for the position, kindly email your detailed resume in MS Word to hr@recruit-expert.com Please note that only shortlisted candidates will be notified. For more job opportunities, please visit our website at www.recruit-expert.com EA Licence: 19C9701 Registration: R22111604",
+            "datePosted": "2023-03-30",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 6500,
+                "minValue": 5500,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/production-test-engineer-recruit-expert-22c6fc38f0ad61e891d1a8cec3a34736?source=MCF&event=Search",
+            "uuid": "bf29436a-f9b7-404f-ab21-c9a201b4d0a2"
+        },
+        {
+            "dueDate": "2023-04-29",
+            "jobTitle": "Test Engineering Assistant",
+            "skills": [
+                "Test Equipment",
+                "Preventive Maintenance",
+                "Troubleshooting",
+                "Microsoft Office",
+                "Microsoft Excel",
+                "ICT",
+                "Electrical",
+                "Merchandising",
+                "MS Office",
+                "AutoCAD",
+                "Microsoft Word",
+                "Assembly",
+                "Catering",
+                "Manufacturing",
+                "Electronics",
+                "Commissioning"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "2 Chai Chee Drive "
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/21c573fecb7335c4d0b3946893ffcf0f/sanmina-sci-systems-singapore.png",
+                "name": "SANMINA-SCI SYSTEMS SINGAPORE PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Job Responsibilites:    Support production on the following line test equipment:     Maintain various industrial ICT e.g Agilent 3070, Teradyne 228X, LX128 etc.   Maintain Agilent 5DX and Takaya Flying Probe equipment.   Repair all customers consigned functional testers.   Job Requirements:    Minimum Diploma in Electrical / Electronics Engineering or equivalent.   Minimum 2 years of relevant experience in related field is preferred.   Preferably with Agilent 3070 or Takaya 228 X ICT experience.   Preferably with basic knowledge of tester trouble shooting skills to locate the fault.   Preferably able to operate oscilloscope and other instruments for fault finding.   Proficient in MS Office applications. ",
+            "datePosted": "2023-03-30",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 2700,
+                "minValue": 2000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/test-engineering-assistant-sanmina-sci-systems-singapore-fdb97253342095b291edcabf334d3a97?source=MCF&event=Search",
+            "uuid": "4370f607-84b2-4240-9ee3-c2e7937f5a08"
+        },
+        {
+            "dueDate": "2023-04-06",
+            "jobTitle": "QA Engineer (Software/Hardware Testing)",
+            "skills": [
+                "product testing",
+                "Product test",
+                "Product Quality",
+                "Test Cases",
+                "Computer Science",
+                "Product Testing and Development",
+                "Software Testing",
+                "Product Testing Management",
+                "analyse product quality",
+                "hardware testing",
+                "Test Execution",
+                "Test Environment Setup",
+                "Test Specifications"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "THE ARCADE, 11 COLLYER QUAY"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/d1505f35fee02dabd4146b80df234925/recruit-expert.jpg",
+                "name": "RECRUIT EXPERT PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "   Set up test environment and perform test execution based on product test specifications/cases.   Evaluate requirement list and ensure products are qualified to fulfil site requirements.   Support in test specifications, test cases, test records and test reports when required.  Requirements:    Diploma in Computer Science or equivalent   At least 2 years of software and hardware testing experience.   Independent, efficient and with good interpersonal skills.  If you are keen to apply for the position, kindly email your detailed resume in MS Word to hr@recruit-expert.com Please note that only shortlisted candidates will be notified. For more job opportunities, please visit our website at www.recruit-expert.com EA Licence: 19C9701 Registration: R1326740",
+            "datePosted": "2023-03-30",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 4000,
+                "minValue": 2500,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/qa-engineer-recruit-expert-b92dbbc7e929589192867bc8bb315074?source=MCF&event=Search",
+            "uuid": "1f6246c9-dffb-4364-b424-76b658bfbdd2"
+        },
+        {
+            "dueDate": "2023-04-06",
+            "jobTitle": "Test Engineer (Manufacturing/ Electronics, West)",
+            "skills": [
+                "Test Equipment",
+                "Troubleshooting",
+                "Manufacturing Engineering",
+                "Lean Manufacturing",
+                "FMEA",
+                "Housekeeping",
+                "Agile",
+                "Electrical",
+                "Test Automation",
+                "MS Word",
+                "VAVE",
+                "Time Management",
+                "Writing",
+                "Team Lead",
+                "Test Strategy",
+                "Assembly",
+                "Manufacturing",
+                "Electronics",
+                "Calibration",
+                "Test Management"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "WCEGA TOWER, 21 BUKIT BATOK CRESCENT"
+            },
+            "company": {
+                "logo": null,
+                "name": "HAN YA RECRUIT PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Responsibilities    Responsible for developing of test scripts, issues tracking and test management   Responsible for conducting qualification test of new product or revised component with issuing of test report and recommendations to the test findings   Responsible for testing accordance to applicable product standards, guidelines, regulations and dormakaba Corporate Standard (DCS)   Responsible for preparation of samples and coordinate with PQS EN or certification bodies for product certification   Responsible for evaluating and analysis of competitors’ products – teardown analysis, VA/VE  Requirements    Min Diploma in Engineering or relevant   Min 2 years of working experience in production quality or test lab.  Please kindly email your resume in Ms Word to rc@hanyarecruit.com We regret to inform that only shortlisted candidates would be notified.  XIE JIANI Registration Number: R1548854 EA License No. 22C1026",
+            "datePosted": "2023-03-30",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 4000,
+                "minValue": 2000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/test-engineer-han-ya-recruit-870c0f61bd3b2fddaea3430ab45e9eeb?source=MCF&event=Search",
+            "uuid": "5ce2337f-8dd7-4928-b711-f194f4efcd77"
+        },
+        {
+            "dueDate": "2023-04-29",
+            "jobTitle": "10x Test Technician / Tested (North/ 5D/PCA Products/Basic up $2.7K)",
+            "skills": [
+                "Manual Testing",
+                "Troubleshooting",
+                "Soldering",
+                "Quality Assurance",
+                "Test Cases",
+                "Test Automation",
+                "Team Player",
+                "Assembly",
+                "Manufacturing",
+                "Electronics"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "ORCHARD TOWERS, 400 ORCHARD ROAD"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/401e1c670ff7b803a09523114fa4dbd9/htz-resources.jpg",
+                "name": "HTZ RESOURCES"
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Your Role We are looking for an experienced 10x Technician (Electronic Products) to handle technical assembly and troubleshooting PCA of product. You will maintenance and operating of test machine. And involve in continuous improvement in the production processes. And it will produce output as per production target.  What Will You Do · To handle technical assembly and troubleshooting PCA of product. · Maintenance and operating of test machine · Involve in continuous improvement in the production processes. · And it will produce output as per production target. · Any other ad-hoc job assigned by manager  What Do We Want · Min ITE in Electronics / Mechanical Engineering or equivalent · At least 1-2 years of unit level testing of product working / electronics manufacturing experience · Able to perform soldering and testing of products · Able to troubleshoot PCA and products, read schematic diagram  What Will You Get In Return You will be given exposure to a hold a key position in a growing organization with attractive rewards and a wide range of benefits. You will entitle a Gross salary up to S$3000 + attractive perks.  What You Need to do Now Click \"Apply\" and please include the following information in your resume:    Personal Particulars with recent photograph   Education background   Work experiences in point forms   Reason(s) for leaving   Current and Expected salary   Date of availability / Notice Period  Note: Only shortlisted candidate will be notified via email for an interview invitation",
+            "datePosted": "2023-03-30",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 3000,
+                "minValue": 2200,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/10x-test-technician-tested-htz-resources-8d9e9fcae5f8f8c15604f961b94c1c40?source=MCF&event=Search",
+            "uuid": "582a5d8f-b189-46b1-87d3-9044b619e2fe"
+        },
+        {
+            "dueDate": "2023-04-06",
+            "jobTitle": "Junior Test Engineer (Manufacturing/ Electronics, West)",
+            "skills": [
+                "Performance Testing",
+                "Test Equipment",
+                "Troubleshooting",
+                "Manufacturing Engineering",
+                "Lean Manufacturing",
+                "FMEA",
+                "Hardware",
+                "Housekeeping",
+                "Agile",
+                "Electrical",
+                "MS Word",
+                "VAVE",
+                "Time Management",
+                "Writing",
+                "Team Lead",
+                "Assembly",
+                "Manufacturing",
+                "Electronics",
+                "Calibration",
+                "Test Management"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "WCEGA TOWER, 21 BUKIT BATOK CRESCENT"
+            },
+            "company": {
+                "logo": null,
+                "name": "HAN YA RECRUIT PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Responsibilities    Responsible for developing of test scripts, issues tracking and test management   Responsible for conducting qualification test of new product or revised component with issuing of test report and recommendations to the test findings   Responsible for testing accordance to applicable product standards, guidelines, regulations and dormakaba Corporate Standard (DCS)   Responsible for preparation of samples and coordinate with PQS EN or certification bodies for product certification   Responsible for evaluating and analysis of competitors’ products – teardown analysis, VA/VE  Requirements    Min Diploma in Engineering or relevant   Min 2 years of working experience in production quality or test lab.  Please kindly email your resume in Ms Word to rc@hanyarecruit.com We regret to inform that only shortlisted candidates would be notified.  XIE JIANI Registration Number: R1548854 EA License No. 22C1026",
+            "datePosted": "2023-03-30",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 5000,
+                "minValue": 2500,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/junior-test-engineer-han-ya-recruit-a9e56cb1969f34cbfd8ff6f9df7abbc2?source=MCF&event=Search",
+            "uuid": "0c040c17-8df4-43ef-a812-4b61f3526706"
+        },
+        {
+            "dueDate": "2023-04-29",
+            "jobTitle": "Software Testing & Business Analyst - Graduate Programme",
+            "skills": [
+                "Agile Methodolgy",
+                "Financial Services industry",
+                "Manual Testing",
+                "Business Analysis",
+                "SDLC",
+                "Information Technology",
+                "Microsoft SQL Server",
+                "Test Automation",
+                "technical environment",
+                "SQL",
+                "Software Testing",
+                "Business Process",
+                "Java",
+                "Linux",
+                "Testing",
+                "Test Planning"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "South Beach Towers, 38 Beach Road"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/619581708554eb5d31bb995756897a06/fdm-singapore-consulting.png",
+                "name": "FDM SINGAPORE CONSULTING PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "The demand for software testing is continuing to grow! Driven by continual technological advancements, FDM is seeking the next generation of specialists to join our Software Testing graduate programme to safeguard the future of technology and support the progression of the industry. About this role On the FDM Software Testing Graduate Programme, you will undergo industry recognised training before putting that into practice by working on projects with one of our industry leading clients. This programme will provide you with multiple future career opportunities ranging from Test Analyst and Quality Engineer through to Test Lead, Test Manager and Automated Test Engineer. Testing is an essential component of IT project delivery as all businesses implement these processes to support the management of risk and the delivery of high-quality products. Software Testing teams work hard to validate new technologies to ensure they are implemented successfully across their business both from a customer and internal process improvement perspective. With the huge surge in demand for testers, this is a role for those who are personable and have excellent stakeholder management skills as well as a passion for coding and working with new technology. Through our programme you will be provided with tailored training to help you develop a variety of skills that are required to be successful within both manual and automated testing roles. Through which you will be equipped with knowledge and skills that include ISTQB Foundation Level Qualification; test script creation and execution, defect management, test automation using a variety of coding languages, software tools and frameworks, providing you with a strong foundation upon which you can build a diverse and successful career. Benefits    A full-time contract with a salary from Day 1 of training   Training is provided by industry experts, covering both technical and professional skills to ensure you are job-ready   Ongoing career support throughout your entire FDM journey, including professional development, mentoring, and social networking events with a community of peers   A chance to launch a career in one of the most in-demand tech fields  Minimum Qualifications    Educated to a university degree level (bachelor or higher), no STEM degree required   Demonstrable interest and desire to work in technology   Ability to commit to completing our full 2.5-year graduate programme   Eligible to work in Singapore  About FDM Our people are our passion and that's why we make your training and career growth our priority. We are a global professional services provider focusing on IT and one of the Singapore's leading graduate employers, recruiting the brightest talent to become the innovators of tomorrow. With centres across Europe, North America and Asia-Pacific, and nearly 5000 consultants currently placed on client site around the world, FDM has shown exponential growth throughout the years, firmly establishing itself as an award-winning FTSE 250 employer. Diversity and Inclusion FDM Group is an Equal Opportunity Employer and all qualified applicants will receive consideration for employment without regard to race, colour, religion, sex, sexual orientation, national origin, age, disability, veteran status or any other status protected by federal, provincial or local laws.",
+            "datePosted": "2023-03-30",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 3916,
+                "minValue": 3666,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/consulting/software-testing-business-analyst-graduate-programme-fdm-singapore-consulting-dfb4a118d37e7e3b6e47445ba3d5f93b?source=MCF&event=Search",
+            "uuid": "9d8a57e4-ca20-4eba-aff9-76383f1c2368"
+        },
+        {
+            "dueDate": "2023-04-29",
+            "jobTitle": "Hardware Test Engineer (EMC/ Electronics/ Contract/ Kallang)",
+            "skills": [
+                "Troubleshooting",
+                "Hardware",
+                "Staffing Services",
+                "System Integration",
+                "Capital Equipment",
+                "PLC",
+                "Energy Management",
+                "Research and Development",
+                "Economic Development",
+                "DFT",
+                "C#",
+                "PLC Programming",
+                "Layout",
+                "Electronics",
                 "C++"
             ],
             "location": {
@@ -417,42 +539,37 @@
                 "address": null
             },
             "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/fb7aad6dd03f9bb306da13173847719d/search-personnel.jpg",
-                "name": "SEARCH PERSONNEL PRIVATE LIMITED"
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/643690475fd1fdc2c79c950c10dd8a88/manpower-staffing-services.jpg",
+                "name": "MANPOWER STAFFING SERVICES (SINGAPORE) PTE LTD"
             },
             "jobType": [
+                "CONTRACTOR",
                 "FULL_TIME"
             ],
-            "description": "   Position      : Software Engineer (Robotics/Vehicle Automation/PCL/Boost/OpenCV)   Location      : Kallang Pudding Rd   Working hours    : Monday - Friday 9am - 6pm   Salary (commensurate with experience)     : Up to $7000 + AWS + Performance Bonus + 14 Days Annual Leave (Up to 18 Days)   Duration      : Permanent   Industry      : Technology  Main Responsibilities:    Develop robotics application systems in navigation, perception, and APIs to external systems.   Development and optimization of coverage path planning algorithms.   Integration with web applications for the control, coordination, and visualization of robots for use in development, simulation, testing, and deployment.   Development of task planning application to coordinate complex tasks across multiple robots.   Design, review and maintain the system architecture.   Support, maintain, and document software features.   Quality assurance and write automated software tests and maintain the testing practice among the team members.   Set-up and maintain the ongoing development of continuous build / integration infrastructure, optimizing the team development and release practices   Design, implement, and preservation of systems and tools across the cloud stack   Any other ad hoc duties assigned  Requirements:    Degree(s) in Computer Science, Information Systems, Engineering or a related field, and/or equivalent industry experience   Familiarity with software development in Linux Environment including bash scripting and CLI   Proficiency in Object-Oriented languages, especially C++ 11   Possess a solid understanding of programming fundamentals such as data structures and algorithms in order to write robust and performant code.   At least 5 years’ experience in Robotics/Vehicle Automation Software Industry with ROS and ROS2 including simulation environment like Gazebo.   Strong background in developing robotics subsystems such as the perception and navigation stack, behaviour tree and state machine models.   Familiarity with commonly used library in Robotics e.g. PCL, Boost, OpenCV   Experience in CI/CD tools such as Docker containerization and pipelines in itlab/Github/BitBucket   Proficiency in version control tools (GIT) such as feature branch workflows, and doing code reviews.   Bilingual in English and Mandarin to liaise with Chinese clients who can converse in Mandarin only.  Email to: diana(at)searchpersonnel.com.sg or call me at: 6398 5682 for more information.  Do visit www.facebook.com/search.personnel for more job listings.  ***We do not charge our candidates any referral fee nor bind them with any contract.***  Diana Okta Tio  Senior Consulting Manager (APAC)  Reg no.: R2094678  EA No: 13C6684",
+            "description": "Hardware Test Engineer (EMC/ Electronics/ Contract/ Kallang)  1-Year contract Salary $8000 depending on experience Completion Bonus  Our Client is leading the digital transformation of energy management and automation. They are actively looking for Hardware Test Engineer to join their team.  Job Summary:    Understand test standards and relate test requirements/specifications in order to perform hardware tests on products.   Design the test fixture accordingly, setup, perform test, evaluate and troubleshoot failures and record in standard test reports.   Responsibilities    Design test setup for testing in varies test (environment and EMC test)   Support and perform hardware tests according to IEC61000-4-4, IEC61010, IEC 60721-3-3, IEC60068-2-6 and robustness standards etc.   Set up test for environment test, EMC test, etc.   Coordinate with HW designers to analysis test result and investigate failure if any.   Document test results according to company standards.   Requirements:    Bachelor’s degree in Engineering.   Min 3 year experience in relevant roles.   Knowledge on environment test, EMC tests (ESD, Surge, CE, RE, etc)   Application of relevant EMC and safety, an understanding of outside body approval requirements LVD, UL, CSA, marine etc.   Knowledge on PLC programming is a plus   Knowledge on schematic and layout is a plus.   If you possess above relevant skillsets, please send in your updated CV in word format to Apple.lim@manpower.com.sg  Lim Pey Chyi Recruitment Consultant (R2090579) Manpower Staffing Services (S) Pte Ltd EA Licence: 02C3423",
             "datePosted": "2023-03-30",
             "salaryRange": {
                 "currency": "SGD",
-                "maxValue": 7000,
-                "minValue": 5000,
+                "maxValue": 8000,
+                "minValue": 4000,
                 "payPeriod": "MONTH"
             },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/software-engineer-search-personnel-2acb82839dfff3c1e03c8dda96d9449b?source=MCF&event=Search",
-            "uuid": "e6317171-f45f-4175-b910-b04e2f30f427"
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/hardware-test-engineer-manpower-staffing-services-2119655e4d38d0294e5d119c8e0f5fb3?source=MCF&event=Search",
+            "uuid": "99f4f943-f06a-4b9b-96d8-45fe416c7a2c"
         },
         {
             "dueDate": "2023-04-29",
-            "jobTitle": "7491 - Senior Software Engineer (Full Stack / 5 days / Up to $8000)",
+            "jobTitle": "Assistant Validation & Test Engineer (Electronics/ Contract/ Kallang)",
             "skills": [
-                "MVC",
-                "TestNG",
-                "TDD",
-                "CSS",
-                "Scalability",
-                "Autonomy",
-                "Cloud Computing",
-                "HTML",
-                "JavaScript",
-                "Information Technology",
-                "Titles",
-                "JUnit",
-                "Angular",
-                "Web Application Development",
-                "Java",
+                "Test Equipment",
+                "FMEA",
+                "Staffing Services",
+                "Problem Solving",
+                "Electrical",
+                "Energy Management",
+                "Project Management",
+                "Firmware",
+                "Laboratory",
                 "Electronics"
             ],
             "location": {
@@ -461,82 +578,81 @@
                 "address": null
             },
             "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/d162667fbe1365aa541016a407de7ae4/supreme-hr-advisory.jpg",
-                "name": "THE SUPREME HR ADVISORY PTE. LTD."
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/643690475fd1fdc2c79c950c10dd8a88/manpower-staffing-services.jpg",
+                "name": "MANPOWER STAFFING SERVICES (SINGAPORE) PTE LTD"
             },
             "jobType": [
+                "CONTRACTOR",
                 "FULL_TIME"
             ],
-            "description": "Senior Software Engineer (Full Stack / 5 days / Up to $8000)  Interested applicants can send your resume to 8739 9469 Janie / janie_fun@thesupremehr.com and allow our Consultants to match you with our Clients. No Charges will be incurred by Candidates for any service rendered.     Monday - Friday : 9.00am to 6.00pm   $5000 - $8000   Office Location: Toa Payoh // Client Site: Pasir Panjang   Job Responsibilities:    Ownership over feature design and implementation, with a focus on sound technical choices and maintainability.   Collaborating with other designers and engineers   Web application development involving frontend, backend and/or cloud infrastructure.   Autonomy to drive the direction of the product with the chance to develop a developer console from the ground up   Perform code reviews and evangelize best practices   Design and build highly available, resilient and scalable system with a focus on quality  Requirements:    Degree in Computer Science, Computer or Electronics Engineering, Information Technology or related disciplines   At least 5 years of professional experience as a software engineer or equivalent position   Experience in frontend technologies (HTML, CSS and JS/TS) as well as any web framework (React, Angular, Vue etc)   Experience in Node.js/TypeScript will be advantageous though we are open for other server side languages   Experience in architecting multi-tenancy architecture will be advantageous   Experience in search technologies like ElasticSearch, Lunr   Experience in creating frameworks/libraries/tools for other teams to spin up new applications easily(infra, database, servers, UI)   Fun Jia Jia (Janie) 🌸 Reg No: R22107945 The Supreme HR Advisory Pte Ltd 🌸 EA No: 14C7279",
+            "description": "Assistant Validation ; Test Engineer (Electronics/ Contract/ Kallang)  1-Year contract Salary $3500 depending on experience Completion Bonus  Our Client is leading the digital transformation of energy management and automation. They are actively looking for Assistant Validation ; Test Engineer to join their team.  Responsibilities: Product and System Validation    Understand test requirements from test plan.   Ensure the availability of all test means (equipment ; tools, test standards facilities) to achieve product’s conformance.   Ensure correct usage of equipment ; tools by reading the user manual, or train by engineers.   Manage and perform product’s validation in accordance with test plan to ensure that the products meet the requirements.   Perform some simple problem solving (identify, diagnose, and troubleshoot technical problems).   Ensure on-time completion on all assigned product and system validation according to test schedule.   Continual improvement of Laboratory process    Continue to improve the work processes in laboratory to ensure the efficiency and effectiveness of the testing/processes   To optimize the planning and management of the test schedule as to maximize the usage of the test equipment   Always keep good cleanliness and tidiness of the laboratory to ensure safety of the workplace (NOTE: Laboratory does not responsible for any safety related issues caused by negligence or abuse of the person working in laboratory)   Contribute for improvement of laboratory tidiness and safety by helping implement of new measures (proposed by the department)   Test Reporting    Create test reports for performed tests and present test synopsis to project and requester   To write clear and concise reports which address the technical needs of requestors   Requirements:    Diploma in Electrical/ Electronics/ Mechatronics Engineering   Minimum 1 year experience in product verification and validation testing of industrial electromechanical and electronics products.   Good understanding of international standards   Experience working with Project Management / Product Evolution Processes   ISO/IEC 17025 knowledge or experience will be ideal   Exposure to industrial electromechanical and electronics products testing   Knowledge of FMEA, FTA, 6 Sigma concepts ; problem-solving methodologies will be ideal   Familiar with international test standards e.g. IEC, UL, CSA, Marine, etc.   If you possess above relevant skillsets, please send in your updated CV in word format to Apple.lim@manpower.com.sg  Lim Pey Chyi Recruitment Consultant (R2090579) Manpower Staffing Services (S) Pte Ltd EA Licence: 02C3423",
             "datePosted": "2023-03-30",
             "salaryRange": {
                 "currency": "SGD",
-                "maxValue": 8000,
-                "minValue": 5000,
+                "maxValue": 3500,
+                "minValue": 3300,
                 "payPeriod": "MONTH"
             },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/7491-senior-software-engineer-supreme-hr-advisory-bf10c619171127086240654ef3b88ce6?source=MCF&event=Search",
-            "uuid": "46d47a55-5836-482a-9e08-41d2461ab612"
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/assistant-validation-test-engineer-manpower-staffing-services-2ef36c8e42a89401cd8f563b557e05a5?source=MCF&event=Search",
+            "uuid": "ed43cba1-dd36-4f89-804d-dd8075669a88"
         },
         {
-            "dueDate": "2023-04-29",
-            "jobTitle": "Software Engineer / Senior Software Engineer",
+            "dueDate": "2023-04-13",
+            "jobTitle": "Software Tester (Automated testing) - Financial Insurance industry #IKR",
             "skills": [
-                "Troubleshooting",
-                "Software Engineering",
-                "JavaScript",
-                "Windows OS",
-                "SQL",
-                "Python",
-                "Software Design",
-                "Java",
-                "Software Development",
-                "Able To Work Independently",
-                "C++"
+                "Manual Testing",
+                "Agile",
+                "Information Technology",
+                "Test Cases",
+                "Test Automation",
+                "Software Testing",
+                "Selenium",
+                "Test Strategy",
+                "Debugging",
+                "Business Requirements"
             ],
             "location": {
                 "country": "SG",
                 "locality": "Singapore",
-                "address": "1 NORTH COAST, 1 NORTH COAST AVENUE"
+                "address": "NGEE ANN CITY, 391A ORCHARD ROAD"
             },
             "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/bf1d8344d214c09e0b2d9e9f21873dc9/capcon-singapore.jpg",
-                "name": "CAPCON SINGAPORE PTE. LTD."
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/264d8aeb5b369c0a7176c2c6a18c8ff4/recruit-express.jpg",
+                "name": "RECRUIT EXPRESS PTE LTD"
             },
             "jobType": [
+                "CONTRACTOR",
                 "FULL_TIME"
             ],
-            "description": "Job Responsibilities: · Software sustaining and continuous improvement of current machine’s software. · Responsible for software feature development and enhancement based on customer requirements. · Provide supporting and troubleshooting to on-site software issues. · Review and update the user requirement documents and operation procedures. · Collaborate with mechanical, electrical, application team to implement new hardware feature or software feature to equipment. · Develop and enhance software utilities to improve equipment setup and easy operating abilities  Requirements: · Require BS or MS in Electrical/ Electronic/ Computer Engineering or equivalent. · Proficient in C, C++ programming with Windows OS. · Experience in PC-based control programming. · Able to work independently with good interpersonal, verbal and written communication skills. · Requires minimum of 3 years relevant experience in software development. · Require travel regionally. · Experiences in similar kind of project will be advantageous. · Knowledge in real time control system, object oriented software design Methodologies and database Technologies. · Good knowledge with vision, motion and Secsgem would be assigned as senior position.  Job Benefits · 5 days work week · Group Medical Insurance · Flexi-Benefits  Only shortlisted candidates will be notified Starting salary depending on experience",
+            "description": "Job Description ; Requirements · Identifying and selecting the automation test cases · Applying various designs and documenting the automation test strategy · Creating an automation test plan and getting approval · Configuration and setup automation environment (Selenium/QTP or equivalent) · Requirement analysis, Identifying the requirements of the test data · Creating, enhancing, debugging, and running the test cases and test designs · Testing automation and execution · Keeping and maintaining a log of defects and follow-ups · Collating and monitoring the defect management process · Participate in the release control process (when the application is transferred from the build team to the test team) to ensure that solutions meet business requirements. · Analyzing and generating test reports  Interested applicants, please email your resume to Karin Chan Wei Kien Email: karinchan@recruitexpress.com.sg CEI Reg No: R1104584",
             "datePosted": "2023-03-30",
             "salaryRange": {
                 "currency": "SGD",
-                "maxValue": 8000,
-                "minValue": 3500,
+                "maxValue": 6000,
+                "minValue": 3000,
                 "payPeriod": "MONTH"
             },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/software-engineer-senior-software-engineer-capcon-singapore-aae9a88ecf8123718e25c5b25ad825d4?source=MCF&event=Search",
-            "uuid": "62fbebd0-c63e-4fb7-ad0a-20ff80da87a7"
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/software-tester-financial-insurance-industry-ikr-recruit-express-83337ff36784bed5906ba40176708839?source=MCF&event=Search",
+            "uuid": "6bce2381-6b5d-4027-a599-3b12924330d4"
         },
         {
             "dueDate": "2023-04-13",
-            "jobTitle": "Software Engineer (mobile application development/ Android and / or iOS / iPadOS)",
+            "jobTitle": "System Integration & Engineering / Testing and Commissioning Engineer  ( Junior / Entry level / Senior ) X3 Opening / MNC",
             "skills": [
-                "MVC",
-                "JSON",
-                "iOS",
-                "Application Development",
-                "JavaScript",
-                "HTML5",
-                "UI",
+                "Factory",
+                "Preventive Maintenance",
+                "Microsoft Office",
+                "Microsoft Excel",
+                "Construction",
+                "System Integration",
+                "Drawing",
+                "Electrical",
+                "User Interface",
                 "MS Word",
-                "React Native",
-                "Mobile Applications",
-                "Java",
-                "Debugging",
-                "API",
-                "Software Development",
-                "Technical Support",
-                "Aspnet MVC"
+                "Team Building",
+                "Microsoft Word",
+                "Commissioning",
+                "Mechanical Engineering"
             ],
             "location": {
                 "country": "SG",
@@ -550,413 +666,149 @@
             "jobType": [
                 "FULL_TIME"
             ],
-            "description": "We are seeking a Software Engineer to join the software development team involve in supporting our solution team on the API technical support by providing coding guidance to our clients. This requires a simple application development on Android, iOS and/or Web platform for label printing. Responsibilities: · Perform technical tasks to develop / enhance / improve software applications according to functional and technical specifications. · Participate in discussions with stakeholders to understand business and system requirements. · Responsible for design, programming, debugging, testing, modifications and maintenance of the applications. · Ensure that the developed modules / deliverables meet user expectation, quality standards and within schedule. · Effectively documenting issues and providing regular status and progress towards project milestones. Requirement: · At least 2 years’ experience in developing web application in the Microsoft .net Framework using ASP.Net MVC, C#. · Experience in backend development · Experience in MS-SQL · Experience in mobile application development with Android and / or iOS / iPadOS Good Pay + Good allowance + Good Bonus Interested candidates please send an updated Resume / CV  in Ms Word format to lilian@recruitflash.com or WhatsApp’s your resume to 98332779 ( no Calls) Consultant in-charge : Quah Li Lian (Lilian) ( Registration No: R1983286 )",
+            "description": "Job Description • Good Bonus - AWS + 3 month Variable Bonus / Permanent Role Engineer / Electrical engineer / Project Engineer / Junior ; Senior System Integration ; Engineering can apply   • Entry level / Junior / Senior / No experience welcome apply  X 3 Opening  • Full training provided Diploma/ Degree in Electrical / IT Entry level / Junior Welcome apply Experience candidates welcome apply 1 month AWS , Variable Bonus up to 3 months / 5 days work week Responsibilities:    Part of project team responsible for Testing      and Commissioning   Understand the Graphical User Interface   Prepare testing point information list   Configuration of points to be tested   Perform factory and site testing to ensure database integrity  Requirements:    NITEC or Higher NITEC in Technical or Engineering discipline  Good Pay + Good allowance + Good Bonus Salary for experience candidates will be considered based on the years of experience and our internal salary structure 1 month AWS Variable Bonus ranging from 1 to 3 months depending on individual and company performance Working hours: 8.00 am to 5.00 pm / 8.30 to 5.30 pm / 9.00 am to 6.00 pm / 9.30 am to 6.30pm / 10.00am to 7.00pm Working days: Monday to Friday (1 day work from home per week) Annual Leave:    14 days up to 17 days for non-executive (Assistant Engineer and below) 18 days up to 21 days for executive (Engineer and above) Medical benefits of $500 per financial year (Benefit is extended to spouse and children (below 21 years old) of married employees) Insurance coverage:       Hospital ; Surgical (Benefit is extended to spouse and children (below 25 years old) of married male employees and child (below 25 years old) of married female employees) Term Life Personal Accident Maternity Insurance for female employee and spouse of male employee on the birth of their 1st 2 children claimable up to delivery bill of $6,000.00 whichever is lower. Flex Dollars of $500 per financial year Free annual year-end Health Check-Up Monthly Birthday Party Celebration Monthly Sports Activities New Born Gift CSR Initiatives Department Bonding Activities Biennial team building and staff appreciation dinner Gym Corner for employees to exercise Interested candidates please send an updated Resume / CV in Ms Word format to lilian@recruitflash.com or WhatsApp’s your resume to 98332779 ( no Calls) Consultant in-charge : Quah Li Lian (Lilian) ( Registration No: R1983286 )",
             "datePosted": "2023-03-30",
             "salaryRange": {
                 "currency": "SGD",
-                "maxValue": 9000,
+                "maxValue": 8000,
                 "minValue": 5000,
                 "payPeriod": "MONTH"
             },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/software-engineer-recruitflash-3abddb1486d9fffc82969db1ec21e4df?source=MCF&event=Search",
-            "uuid": "aad2502c-4b08-4110-992a-0dbd193e099c"
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/system-integration-engineering-testing-commissioning-engineer-x3-opening-mnc-recruitflash-307e83eaf1d50cdd9792ac45d545f57d?source=MCF&event=Search",
+            "uuid": "d4ac3ed1-4e61-4ac1-b26d-f914d85b7d30"
         },
         {
-            "dueDate": "2023-03-31",
-            "jobTitle": "Software Engineer (Fresh Grad)",
+            "dueDate": "2023-04-13",
+            "jobTitle": "MNC Electrical Testing & Commissioning Engineer /Electrical Project Engineer – Protection Systems ( Junior / Entry level / Senior ) X3 Opening",
             "skills": [
-                "Critical Thinking",
-                "Self-driven",
-                "Software Engineering",
-                "Agile",
-                "Good Communication Skills",
-                "Web Applications",
-                "Agile Software Development",
-                "Web Development",
-                "Software Development",
-                "Able To Work Independently"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "CINTECH IV, 79 SCIENCE PARK DRIVE"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/fd079cc1fd0d37c180e2d78a4fce8ce5/obvio-health.png",
-                "name": "OBVIO HEALTH PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "We are looking for aspiring software engineers to build web applications and services. At OBVIOHEALTH, we are looking for promising talent, keen on building disruptive solutions for the healthcare and clinical industries.  Our ideal candidate would be independent, driven and keen on learning modern web development frameworks and the back-end technologies that enable them.  Responsibilities:    Work in a collaborative environment with other software engineers to deliver on the business goals.   Build, test, document and maintain web applications for our customers and internal employees.   Build, test, document and maintain back-end services to power our applications.   Work with our product team to help drive out technical requirements for business initiatives and estimate story complexity.  Requirements:    Good communication skills   Critical thinking and problem-solving skills   Exposure to web development frameworks   Exposure to Agile software development methodologies   Bachelor of Science in Computer Science or demonstration of equivalent knowledge and experience ",
-            "datePosted": "2023-03-01",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 6000,
-                "minValue": 5000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/software-engineer-obvio-health-ff9c2cc16d7f98c0bfdebd22a4dadb09?source=MCF&event=SuggestedJob",
-            "uuid": "8a30473b-d000-4a8e-ad98-80c5cbdb550d"
-        },
-        {
-            "dueDate": "2023-04-28",
-            "jobTitle": "Software Engineer",
-            "skills": [
-                "Git",
-                "RDS",
-                "MongoDB",
-                "CSS",
-                "PostgreSQL",
-                "Design Patterns",
-                "Regression Testing",
-                "Unit Testing",
-                "TypeScript",
-                "MySQL",
-                "JavaScript",
-                "React Native",
-                "Team Player",
-                "Teamwork Skills",
-                "Data Analytics",
-                "Databases",
-                "Software Development"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "SUNTEC TOWER FOUR, 6 TEMASEK BOULEVARD"
-            },
-            "company": {
-                "logo": null,
-                "name": "ZENITH EDUCATION TECHNOLOGIES PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "About Zenith Zenith's mission is to deliver a holistic, world-class education to all learners in South East Asia through technology. Today, Zenith is one of the leading education companies in Singapore and we provide the best-in-class educational experience in the pre-university segment. Our dedicated team strives to empower learners to reach their peak potential by cultivating integral values and skills that will set them up for success in life. Most importantly, we believe in equal access to opportunity regardless of background, and that the future of education is a tech-driven experience that places the learner at its core. To deliver on both, we aim to combine our pedagogical expertise with cutting-edge technology and an unrelenting sense of customer obsession. If you share our mission of making a positive change in the future of education in South East Asia, we want to speak to you!  Summary We are looking for passionate Software Engineers who will be crucial in building next-generation education platforms. You enjoy solving complex requirements and is a team player possessing strong communication skills to manage different stakeholders. You have relevant experience and are interested in the edtech space.  Responsibilities    Develop Edutech LMS for students that involve video-on-demand lessons, live-streamed lessons, data analytics, and interactive quizzes   Responsible for building a highly scalable and accessible software-as-a-service solution to serve the Southeast Asian region   Work in a cross-functional team consisting of software engineers, DevOps, and other specialists   Maintain code and write automated tests to ensure the product is of the highest quality   Diagnose and fix bugs and performance issues  Requirements    Bachelor's Degree in Computer Science or relevant disciplines   Practical experience with Design Patterns, Design Principles, Software Architecture and Algorithms   Knowledge in ReactJS and/or React Native, CSS, PostgreSQL databases, Typescript and Node.js is required   Ability to write high-quality and maintainable code   Experience with at least one RDBMS (e.g. MySQL, PostgreSQL) and/or NoSQL database (e.g. MongoDB, Amazon DocumentDB)   Good with Git and Git workflow   Familiar with CI/CD tools   Working knowledge of AWS (EC2, RDS, S3) is preferred   Possess strong written and verbal communication and teamwork skills   Dedicated and reliable team player who is able to take direction as well as actively contribute to discussions on design and strategy   Experience with unit testing, regression testing, and QA tool   Possess experience with end-to-end software development from development to operations ",
-            "datePosted": "2023-03-29",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 9000,
-                "minValue": 4500,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/education-training/software-engineer-zenith-education-technologies-dc8513a5ca2388592cb3b5e8843b81c2?source=MCF&event=Search",
-            "uuid": "42dcc9d3-8b4d-4075-b638-a290fe7dd4f7"
-        },
-        {
-            "dueDate": "2023-04-12",
-            "jobTitle": "Software Engineer",
-            "skills": [
-                "Excellent Communication Skills",
-                "PHP",
-                "Analytical Skills",
-                "Autonomy",
-                "Kanban",
-                "Scrum",
-                "Unit Testing",
-                "Software Engineering",
-                "System Integration",
-                "Distributed Systems",
-                "Python",
-                "Ethernet",
-                "Team Player",
-                "Linux",
-                "C++",
-                "Agile Development"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "SIF BUILDING, 96 ROBINSON ROAD"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/495d0844f62001e94ba7b37168a82d2d/jade-clover.png",
-                "name": "JADE CLOVER (SEA) PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Job Description  · Design and develop robust and production ready software application components · Design and develop the application specific business logic using state of the art technologies · Connect business logic with mobile robotic autonomy stack · Design and develop interfaces to 3rd party components from customers and partners · Implement mobile robotic related utility components including log management, system health monitoring, self-check routines etc. · Support the system integration with the developed components  Qualifications  · 3+ years of hands-on experience in software engineering · C++, Python or PHP (must be proficient in one) · Application/business logic background · SW interface design · Embedded knowhow is a plus · Unit testing, CD/CI, Test automatization · Behavior trees, state machines · Knowledge in distributed systems and DDS is a plus · Knowledge of ROS beneficial · Ethernet (TCP/IP) knowhow is a plus · Linux · Experience in Agile development methods of advantage (Scrum, Kanban) · Excellent communication skills · Team player with intercultural competencies · Strong analytical skills.",
-            "datePosted": "2023-03-29",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 7000,
-                "minValue": 4000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/software-engineer-jade-clover-936a6d6e9b6cf770d287dfbb6984a63c?source=MCF&event=Search",
-            "uuid": "0716e977-6134-4553-b8eb-7f0e8950e20a"
-        },
-        {
-            "dueDate": "2023-04-28",
-            "jobTitle": "Software Engineer",
-            "skills": [
-                "Human Machine Interface",
-                "DCS",
-                "designed",
-                "Software Engineering",
-                "MySQL",
-                "JavaScript",
+                "Microsoft Excel",
+                "Construction",
+                "Wiring",
+                "Architects",
                 "Electrical",
-                "PLC",
-                "monitoring",
-                "SCADA",
-                "SQL",
-                "industrial automation",
+                "MS Word",
+                "Project Management",
+                "Driving License",
+                "Pressure",
+                "Team Building",
                 "AutoCAD",
-                "equipment",
-                "Java",
-                "PLC Programming",
                 "Electrical Engineering",
-                "Linux",
-                "Software Development",
-                "C++"
+                "Layout",
+                "Commissioning",
+                "Technical Support"
             ],
             "location": {
                 "country": "SG",
                 "locality": "Singapore",
-                "address": "Mega@Woodlands, 39 Woodlands Close"
+                "address": null
             },
             "company": {
-                "logo": null,
-                "name": "TRIDENTEC GROUP PTE. LTD."
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/e1257fc011e1a3ec48c75a3fa1b4f2bb/RECRUITFLASH%20PTE.%20LTD..jpg",
+                "name": "RECRUITFLASH PTE. LTD."
             },
             "jobType": [
                 "FULL_TIME"
             ],
-            "description": "Software Engineer Responsibilities: You will be responsible to:    Design, develop, install, commission and program Human Machine Interface , SCADA, DCS  and industrial automation software (PLC) for vacuum coating equipment as well as monitoring and maintenance of company production software   Operate computer-assisted engineering of design software or equipment to perform engineering tasks   Confer with engineers, customers, or others to discuss existing or potential engineering projects or products   Design, implement, maintain, or improve electrical instruments, equipment, facilities, components, products, or systems for commercial, industrial, or domestic purposes  Requirements:    At least Degree in Electronics and Electrical Engineering or Computer with minimum 3 years’ working experience in automation / electrical design related fields   Proficiency in AutoCAD ; Autocad    Experience in VB and PLC programming (Siemens / AB / ABB ) will be advantage   Strong in electrical and power electronics, power generation   Team player who is meticulous, diligent, independent, responsible and with hands-on capability   Good command of written and spoken English and Mandarin (to liaise with Mandarin speaking associates) ",
-            "datePosted": "2023-03-29",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 3800,
-                "minValue": 2600,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/software-engineer-tridentec-group-5e0546c6e949e47e6477ae158a90a1e6?source=MCF&event=Search",
-            "uuid": "ac623a0b-8f67-42a8-ba86-d05aa715f9e7"
-        },
-        {
-            "dueDate": "2023-04-28",
-            "jobTitle": "Software Engineer",
-            "skills": [
-                "Asset Management",
-                "Quantitative Research",
-                "Modeling",
-                "Valuation",
-                "Data Structures",
-                "Physics",
-                "Tuition",
-                "JavaScript",
-                "Risk Management",
-                "SQL",
-                "Python",
-                "Statistics",
-                "Wellbeing",
-                "Team Player",
-                "Fixed Income",
-                "C#",
-                "Pricing",
-                "Equities"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "80 ROBINSON ROAD"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/1adf25d7769c6b31cac759bf7b12ff7b/petros-consulting.jpg",
-                "name": "POINT72 ASIA (SINGAPORE) PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Software Engineer, Risk Technology About Point72 Point72 Asset Management is a global firm led by Steven Cohen that invests in multiple asset classes and strategies worldwide. Resting on more than a quarter-century of investing experience, we seek to be the industry’s premier asset manager through delivering superior risk-adjusted returns, adhering to the highest ethical standards, and offering the greatest opportunities to the industry’s brightest talent. We’re inventing the future of finance by revolutionizing how we develop our people and how we use data to shape our thinking. For more information, visit www.Point72.com/working-here Risk Technology is a highly collaborative and results-oriented team. We work closely with the Risk Management and Quantitative Research groups to build and maintain a vital and high-profile system, which supports the business to enhance the Firm’s risk-adjusted performance and protect the Firm from excessive exposure. What you’ll do As a software engineer on our Risk Technology team, you will use your programming expertise to advance the performance of our risk management systems, valuation engines, and analytic capabilities within Point72’s Risk department. In this role you will:    Build analytical tools      on a next generation technology platform to facilitate rapid, ad-hoc      understanding of performance and risk for portfolio managers, senior management,      risk managers and analysts   Develop quantitative      understanding of risk to anticipate the requirements of our team   Innovate and improve      our capabilities to deliver high quality products to our business partners   Solve complex and      challenging problems through the application of creative and unique      solutions using the latest technology  What’s required   2-5 years software exp · Commitment to the highest ethical standards · Training in computer science, math, physics or related technical field · Programming experience in a quantitative environment with statistic models or complex aggregations · Awesome team player with excellent written and verbal communication skills with peers and clients · Problem solving skills with deep understanding of core computer science algorithms and data structures · Experience within a mix of related technologies including C#, Python, NodeJS/React and SQL · Experience designing, building and delivering end to end software solutions · Experience with VaR/Stress systems or Fixed Income Valuation/Trading systems We take care of our people We invest in our people, their careers, their health, and their well-being. When you work here, we provide:    Fully-paid health care      benefits   Generous parental and      family leave policies   Mental and physical      wellness programs   Volunteer      opportunities   Support for      employee-led affinity groups representing women, minorities and the LGBT+      community   Tuition assistance ",
-            "datePosted": "2023-03-29",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 12000,
-                "minValue": 8000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/software-engineer-point72-asia-c32f135579aeb2ba3067f4404d9bfa6f?source=MCF&event=Search",
-            "uuid": "4ea2d3f3-fe7c-499a-9236-9b4872cbbb88"
-        },
-        {
-            "dueDate": "2023-04-28",
-            "jobTitle": "Software Engineer",
-            "skills": [
-                "Biometrics",
-                "Solution Delivery",
-                "Collaboration",
-                "designed",
-                "Software Engineering",
-                "MySQL",
-                "JavaScript",
-                "Analysis",
-                "SQL",
-                "SCRUM-based development environment",
-                "Java",
-                "Linux",
-                "SDK",
-                "Software Development",
-                "C++"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "GEMALTO BUILDING, 12 AYER RAJAH CRESCENT"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/d3922350d65cc746e31b18df6900bc86/THALES%20DIS%20(SINGAPORE)%20PTE.%20LTD..jpg",
-                "name": "THALES DIS (SINGAPORE) PTE. LTD."
-            },
-            "jobType": [
-                "CONTRACTOR",
-                "FULL_TIME"
-            ],
-            "description": "A week in the life of a Software Engineer: · You will understand and analysis the feature requirement, design and implement the interface. · You will responsible for improvement and maintaining the multi kinds of Biometric SDK and interface. · You will work together with a young and productive team for collaboration and knowledge sharing under Scrum process. · You will collaborate with Solution managers, project manager and customer on project solution. · You will share your professional knowledge to internal teams global wide and partners / customers. · You will travel to onsite international for solution delivery  Knowledge, Skills and Experience: · To succeed at this job, you must have: - Mastered C++ interface programming. - Experienced with Java interface programming. - Experienced with Oracle DB or other SQL-DB. - Experienced with interface/SDK development. - Experienced with project management. · It would be preferred if you have rich experienced with Linux system; rich experienced with Oracle DB for large scale DB; rich experienced with Restful web service and C++ service. · You must be fluent in English. · We would like someone to join our team who is rigorous, proactive, and analytical, motivated, a problem solver and strong communicator, a team player, able to manage multiple responsibilities in a fast-paced environment, a strong negotiator and quick-learner. · You must have a Degree in Computer Science or a related field. · We are looking for someone with more than 3 years of software development experience.",
-            "datePosted": "2023-03-29",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 6000,
-                "minValue": 4000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/software-engineer-thales-dis-23a8c45b828eb44780afca1b092c2270?source=MCF&event=Search",
-            "uuid": "8b59a8a0-d379-4f0a-a5af-14428f1927aa"
-        },
-        {
-            "dueDate": "2023-04-28",
-            "jobTitle": "Senior Software Engineer",
-            "skills": [
-                "Git",
-                "RDS",
-                "MongoDB",
-                "CSS",
-                "PostgreSQL",
-                "Design Patterns",
-                "Regression Testing",
-                "Unit Testing",
-                "TypeScript",
-                "MySQL",
-                "React Native",
-                "Team Player",
-                "Teamwork Skills",
-                "Data Analytics",
-                "Databases",
-                "Software Development"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "SUNTEC TOWER FOUR, 6 TEMASEK BOULEVARD"
-            },
-            "company": {
-                "logo": null,
-                "name": "ZENITH EDUCATION TECHNOLOGIES PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "About Zenith Zenith's mission is to deliver a holistic, world-class education to all learners in South East Asia through technology.   ﻿Today, Zenith is one of the leading education companies in Singapore and we provide the best-in-class educational experience in the pre-university segment. Our dedicated team strives to empower learners to reach their peak potential by cultivating integral values and skills that will set them up for success in life.   ﻿Most importantly, we believe in equal access to opportunity regardless of background, and that the future of education is a tech-driven experience that places the learner at its core. To deliver on both, we aim to combine our pedagogical expertise with cutting-edge technology and an unrelenting sense of customer obsession.   ﻿If you share our mission of making a positive change in the future of education in South East Asia, we want to speak to you!  Summary We are looking for passionate Senior Software Engineers who will be crucial in building the next-generation education platforms. You enjoy solving complex requirements and is a team player possessing strong communication skills to manage different stakeholders. You have at least 2 years of relevant experience and are interested in the edtech space.  Responsibilities    Guide junior software engineers in developing Edutech LMS for students that involves video streaming lessons, live streaming lesson, data analytics and interactive quizzes   Responsible for building a highly scalable and accessible software-as-a-service solution to serve Southeast Asian region   Work in a cross-functional team consisting of software engineers, DevOps, and other specialists   Maintain code and write automated tests to ensure the product is of the highest quality   Diagnose and fix bugs and performance issues  Requirements    Bachelor's Degree in Computer Science or relevant disciplines   At least 5 years of experience as a Software Engineer   Practical experience with Design Patterns, Design Principles, Software Architecture and Algorithms   Knowledge in ReactJS and/or React Native, CSS, PostgreSQL databases, Typescript and Node.js is required   Ability to write high-quality and maintainable code   Experience with at least one RDBMS (e.g. MySQL, PostgreSQL) and/or NoSQL database (e.g. MongoDB, Amazon DocumentDB)   Good with Git and Git workflow   Familiar with CI/CD tools   Working knowledge of AWS (EC2, RDS, S3) is preferred   Possess strong written and verbal communication and teamwork skills   Dedicated and reliable team player who is able to take direction as well as actively contribute to discussions on design and strategy   Experience with unit testing, regression testing, and QA tools   Possess experience with end-to-end software development from development to operations  * This is a Singapore-based position",
-            "datePosted": "2023-03-29",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 12000,
-                "minValue": 6000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-software-engineer-zenith-education-technologies-bad8f57c63f6394a834d47106e01bda6?source=MCF&event=Search",
-            "uuid": "a3c3d167-665d-463a-8922-dd5798deafc2"
-        },
-        {
-            "dueDate": "2023-04-12",
-            "jobTitle": "Senior Software Engineer",
-            "skills": [
-                "Oracle",
-                "Azure",
-                "Pipelines",
-                "Scrum",
-                "REST",
-                "Software Engineering",
-                "Agile",
-                "SQL",
-                "Distributed Systems",
-                "Python",
-                "Continuous Integration",
-                "Java",
-                "Debugging",
-                "API",
-                "Databases",
-                "Software Development"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "CAPITASKY, 79 ROBINSON ROAD"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/dfdee7b6e8828c0211f3229669cb6ce2/equinix-asia-pacific.png",
-                "name": "EQUINIX ASIA PACIFIC PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Equinix is the world’s digital infrastructure company, operating 240+ data centers across the globe and providing interconnections to all the key clouds and networks. Businesses need one place to simplify and bring together fragmented, complex infrastructure that spans private and public cloud environments. Our global platform allows customers to place infrastructure wherever they need it and connect it to everything they need to succeed.  At Equinix, we help the world’s digital leaders scale with agility, speed the launch of digital services, deliver world-class experiences, and transform people’s lives. Our culture is based on collaboration and the growth and development of our teams.  We hire hardworking people who thrive on solving challenging problems and give them opportunities to hone new skills, and try new approaches, as we grow our product portfolio with new software and network architecture solutions. We embrace diversity in thought and contribution and are committed to providing an equitable work environment. that is foundational to our core values as a company and is vital to our success.  Job Summary In the role of Sr. Data Platform Engineer, you will be responsible for end-to-end development of Data Analytics Platform and AI/ML Ops use cases to take our data engineering and analytics team and system into the future. The role must be hands on.  The role is for a self-motivated individual with software engineering skills and expertise with Big Data technologies. The candidate will be extensively involved in hands-on activities including POCs, design, documentation, development, and test of new functionality. Candidate must be agile and flexible with changing priorities based on team’s needs.  Responsibilities    Design ; Architecture: You help to design and implement an optimal data pipeline architecture for the Equinix analytics system. Identify, design, and implement improvements to automate manual processes, optimize speed and efficiency of data delivery, architecting and designing for high availability, scaling, and reliability. Architect and design infrastructure to facilitate data extraction, transformation, export, and query of data from a variety of data sources, both internal and external, both small and large   Massive data: You will source / examine, analyze, engineer data pipelines for gigabytes/terabytes of structured and unstructured data with our platform to create value for customers. You will also be working with Enterprise data   Pushing the limits: This role will be on the cutting edge of our Data / Machine Learning platform. As we push to solve more of our customer challenges, you will be prototyping new features, tools, and ideas. Innovate at a very fast pace to maintain our competitive edge   Distributed Processing Engine: You will be masterfully working on the data platform which involves processing of both unbounded and bounded data sources, perform im-memory computation ; transformation   Production deployment: You will be responsible for integration and deployment of the Data Ingestion ; machine learning pipelines into production where your ideas can come to life   Work with stakeholders including the Data Science teams, Business Systems Analysts, and Architecture teams to assist with data platform technical and organizational issues and support the company’s data and analytics needs   Educate, train, and mentor members of the Data Engineering and Analytics teams in the design, implementation, and usage of modern data systems  Qualifications    IT / CS fundamentals: You have earned at least a Bachelor’s / Master’s in Information Technology / Computer Science, or related degree AND you have a strong ethos of continuous learning   Commercial software engineering: You have 11+ years of professional software development experience in multiple programming languages, including modern virtual-machine languages such as Java, as well as common scripting and glue languages such as Python and version control (git), with good analytical ; debugging skills. Experience performing root-cause analysis on bugs and performance problems in distributed systems, including network and source-level debugging   Big data: You have extensive experience with data analytics and working knowledge of big data infrastructure such as Google Cloud, Big Query, Data Flow, Hadoop Eco System, HDFS, Apache Storm, Apache Spark. You've routinely built data pipelines with gigabytes/terabytes of data and understand the challenges of manipulating such large datasets   Cloud Exposure: Strong experience implementing systems and applications using distributed and cloud infrastructure. GCP preferred, but AWS or Azure are also okay   Data Modeling: Flair for data, schema, data model, PL/SQL, Star ; snowflake schema, how to bring efficiency in data modeling for efficient querying data for analysis, understands criticality TDD and develops data validation techniques. Working knowledge of distributed relational and tabular data stores, message queues, stream processing facilities, and other scalable big-data platform technologies   Real Time Systems: Understands evolution of databases for in-memory, NoSQL ; indexing technologies along with experience on real-time ; stream processing systems like Google pub/sub, GCP technologies, Kafka, Storm, Spark Streaming   Strong design skills: with a proven track record of success on large/highly complex projects preferably in Enterprise Apps and Integration. Advanced, hands-on knowledge of design, implementation, and optimization of big data architectures, pipelines, and data sets   Project management: Professional experience in a modern software development life cycle, including requirements gathering, system design, unit and integration testing, continuous integration, and deployment. You demonstrate excellent project and time management skills, exposure to scrum or other agile practices in JIRA   Excellent verbal and written communication skills: Must be able to effectively communicate ; work with fellow team members and other functional team members to coordinate ; meet deliverables  Must Have    Commercial software engineering : Proficient in Java, Hands-on Coding / development experience, SQL, REST API   Big Data Systems : Google Cloud Platform technologies, Pub/Sub, Kafka, Big Query, Dataflow, Apache Beam, Apache Spark, Apache Storm,   Realtime and Batch processing   (Data volume in TBs / Millions of events per day for real time)   Database : SQL and NoSQL Database (Cassandra, HBase), Google Cloud Bigtable, Redis, Oracle  Good to have    Commercial software engineering : Python, PySpark   Big Data Systems :AWS/Azure, Hadoop Eco System, HDFS, MLOps   Database : Exasol   Tools : Tableau, PowerBI  Equinix is committed to ensuring that our employment process is open to all individuals, including those with a disability. If you need assistance in applying for an open position, you may send an email to Staffing@equinix.com. Please provide your contact information and let us know how we can assist you.  Equinix is an Equal Employment Opportunity and, in the U.S., an Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to unlawful consideration of race, color, religion, creed, national or ethnic origin, ancestry, place of birth, citizenship, sex, pregnancy / childbirth or related medical conditions, sexual orientation, gender identity or expression, marital or domestic partnership status, age, veteran or military status, physical or mental disability, medical condition, genetic information, political / organizational affiliation, status as a victim or family member of a victim of crime or abuse, or any other status protected by applicable law.",
-            "datePosted": "2023-03-29",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 14500,
-                "minValue": 8000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-software-engineer-equinix-asia-pacific-eb277f03fdb25f3dbc3c247843f8ac3a?source=MCF&event=Search",
-            "uuid": "86a4fa3f-1246-4e7f-b5e7-411a7eee779c"
-        },
-        {
-            "dueDate": "2023-04-12",
-            "jobTitle": "Senior Software Engineer (Java).",
-            "skills": [
-                "XML",
-                "Design Patterns",
-                "provide feedback",
-                "Software Engineering",
-                "Agile Methodologies",
-                "JavaScript",
-                "Architectural Design",
-                "lifecycle",
-                "design & development",
-                "architecting",
-                "Java",
-                "Linux",
-                "Software Development",
-                "Patterns",
-                "C++",
-                "Agile Development"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "FAR EAST FINANCE BUILDING, 14 ROBINSON ROAD"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/94fb0431f6b4a9cd73c62c4a52061828/jj-consulting-services.png",
-                "name": "JJ CONSULTING SERVICES"
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": " Our Client is an established company in Singapore, who is seeking to recruit Senior Software Engineer (Java).  Responsibilities    You will be      responsible for design, development of APIs that meets project      requirements, is high quality and is based on reference architecture and      various design patterns.   You      will be responsible for and incorporating ; adhering to API standards      and practices set by API chapter teams and make sure it is followed.   You      will be able to provide feedback on standards and patterns time to time      back to chapter leads. This is to make sure standards and patterns are      practical and also evolving.   You      will be able to participate in an agile team to deliver the full      lifecycle, including requirements, architecture, design, development,      testing and deployment.   You      will be able to review code from project teams time to time and advise      whether code meets the required standards.   You      will be able to interact with various stakeholders including product      owners, BA’s to design and deliver technical solutions to support various      functions.   Work      in a Globally Distributed Development team environment to enable      successful delivery with a minimal supervision   You      are passionate, creative and self-driven   You      are curious and collaborative, and a believer in the power of teams and      team work  Qualification ; Experience Required    Minimum 3-7 years of      experience in software engineering designing and building highly scalable      applications   Strong      hands-on experience in API development, design, deployment and operation      in production.   Aware      of all the cross cutting concerns and development patterns for API   Strong      hands-on experience in Java 8 – Strong understanding of Java concurrency,      concurrency patterns, experience building thread safe code   Highly      comfortable with Java Spring Framework / Spring Cloud / Spring batch   Possesses      deep understanding on Cloud Native applications   Experienced      with building applications using AWS, PCF or OpenShift   Data      modelling experience in both Relational and NoSQL databases   Good      understanding of OAuth 2.0 / SAML 2.0 protocols   Experience      writing unit, functional, load and end-to-end tests   Experience      working with JIRA, Confluence, Jenkins ; bitbucket   Strong      working knowledge of SDLC and Agile development methodologies   Certification in AWS, Java, J2EE, ITIL      would be an added advantage  JJ Consulting Services EA Licence No.: 12C6207  Applicants are invited to send in a MS Word resume to jobs@jjconsulting.com.sg stating position applying for/present/expected salaries and earliest available date.  We thank all applicants in advance and regret that only short listed candidates will be notified.",
-            "datePosted": "2023-03-29",
+            "description": "Job Description Diploma/ Degree in Electrical / IT Entry level / Junior Welcome apply Experience candidates welcome apply 1 month AWS , Variable Bonus up to 3 months / 5 days work week Responsibilities:   • Technical  support for Protection Projects/Services • Handling testing and commissioning activities at site • Perform wiring check in workshop and at site • Project Management   Requirements:   • Diploma in Electrical/Electronic Engineering from a recognized Polytechnic • Experience in site testing and commissioning preferred but not necessary Our benefits and compensation for permanent position are as follows:Salary for experience candidates will be considered based on the years of experience and our internal salary structure 1 month AWS Variable Bonus ranging from 1 to 3 months depending on individual and company performance Working hours: 8.00 am to 5.00 pm / 8.30 to 5.30 pm / 9.00 am to 6.00 pm / 9.30 am to 6.30pm / 10.00am to 7.00pm Working days: Monday to Friday (1 day work from home per week) Annual Leave:    14 days up to 17 days for non-executive (Assistant Engineer and below) 18 days up to 21 days for executive (Engineer and above) Medical benefits of $500 per financial year (Benefit is extended to spouse and children (below 21 years old) of married employees) Insurance coverage:       Hospital ; Surgical (Benefit is extended to spouse and children (below 25 years old) of married male employees and child (below 25 years old) of married female employees) Term Life Personal Accident Maternity Insurance for female employee and spouse of male employee on the birth of their 1st 2 children claimable up to delivery bill of $6,000.00 whichever is lower. Flex Dollars of $500 per financial year Free annual year-end Health Check-Up Monthly Birthday Party Celebration Monthly Sports Activities New Born Gift CSR Initiatives Department Bonding Activities Biennial team building and staff appreciation dinner Gym Corner for employees to exercise Good Pay + Good allowance + Good Bonus Interested candidates please send an updated Resume / CV  in Ms Word format to lilian@recruitflash.com or WhatsApp’s your resume to 98332779 ( no Calls) Consultant in-charge : Quah Li Lian (Lilian) ( Registration No: R1983286 )",
+            "datePosted": "2023-03-30",
             "salaryRange": {
                 "currency": "SGD",
                 "maxValue": 8000,
-                "minValue": 6000,
+                "minValue": 5000,
                 "payPeriod": "MONTH"
             },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-software-engineer-jj-consulting-services-ba0252adf85dd68dbcc1b154479ea58d?source=MCF&event=Search",
-            "uuid": "fd42091c-3705-4b40-8108-ea272880d63c"
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/mnc-electrical-testing-commissioning-engineer-electrical-project-engineer-%E2%80%93-protection-systems-x3-opening-recruitflash-e2eb42514fef036cd0ec5acc7f8ea55e?source=MCF&event=Search",
+            "uuid": "5f22ac4d-b5e8-4d47-a84a-9df5a3c6eec7"
+        },
+        {
+            "dueDate": "2023-04-28",
+            "jobTitle": "Technician (Test)",
+            "skills": [
+                "Preventive Maintenance",
+                "Troubleshooting",
+                "Soldering",
+                "RF",
+                "Housekeeping",
+                "Inventory",
+                "Electrical",
+                "Tuning",
+                "Telecommunication",
+                "Networking",
+                "Microsoft Word",
+                "Assembly",
+                "Job Search",
+                "Manufacturing",
+                "Electronics",
+                "Calibration"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": null
+            },
+            "company": {
+                "logo": null,
+                "name": "CAPITAL HUMAN RESOURCE MANAGEMENT PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": " Our Client, is in the Networking Industry located in the North East has opening for Technician   Responsibilities:    Testing, tuning and troubleshooting PCA or products   Produce output as per production target    Requirements:    ITC/NTC in Electronics   At least 1 year of relevant work experience in electronics manufacturing environment   Able to perform soldering and tuning of PCA and products   Able to troubleshoot PCA and products, read schematic diagram   Able to use simple equipment to troubleshoot such as multimeter and oscilloscope   Understanding of basic electronics and RF telecommunication    Qualified or interested candidates, kindly apply to us in the FOLLOWING FORMAT to facilitate the short listing process; Attachment of CV’s in MSWORD FORMAT Resumes please INCLUDE:    Personal Particulars   Education background   Work experiences in point forms   All Reasons for leaving   Current and Expected salary   Date of availability / Notice Period  **We regret that only shortlisted candidates would be notified. Your Profile will be kept in our database for more career opportunities. We wish you all the best in your job search.   Kyan Hou Shenglong Reg No: R1435754 EA No: 19C9570",
+            "datePosted": "2023-03-29",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 3000,
+                "minValue": 2200,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/technician-capital-human-resource-management-d4b74f13586db36a7f1a5922065e6a6b?source=MCF&event=Search",
+            "uuid": "3ce5c522-0ba1-4648-9d60-f1dab2570fd7"
+        },
+        {
+            "dueDate": "2023-04-28",
+            "jobTitle": "Product Test Engineer",
+            "skills": [
+                "Program Development",
+                "Soldering",
+                "Product Design",
+                "Analytical Skills",
+                "Technical Writing",
+                "EMC, electromagnetic compatibility",
+                "Power Supplies",
+                "EMC",
+                "Drawing",
+                "Problem Solving",
+                "Reliability",
+                "SharePoint",
+                "Product Development",
+                "Power supply system",
+                "Manufacturing",
+                "Electronics",
+                "Calibration",
+                "Failure Analysis"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": null
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/d241acfd5c9ead54305252653cedd595/envirodynamics-solutions.jpg",
+                "name": "ENVIRODYNAMICS SOLUTIONS PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "   Covering a range of power supply design verification testing, failure analysis of the product and alternative components evaluation during start of product development till EOL of the product.   Understand and follow design verification test procedure and setup accurately.   Perform full design verification tests or experiments as needed to support or confirm the design with proper written report for new product design, legacy product and competitor model, including functional tests and reliability tests, like thermal test, EMI/EMC test.   Work closely with design engineer on projects and expected to provide a summary of Design Validation Test (DVT) report and issues encountered.   Perform tests and experiments by following the test matrix to select and qualify the alternative component.   Good soldering skill for board modification and prototype preparation, including magnetic components building following formal and marked-up drawing.   Understand and analyse power supply circuit, safety requirement and mechanical construction will be an added advantage.   Troubleshoot power supplies to identify root cause and provide feedback to Quality, Manufacturing ; Design teams to discuss the solution to drive the design improvement or design changes.   Perform tests and experiments as needed to support or confirm customer issues.   Prepare and present the customer failure analysis reports.   Supporting on equipment annual calibration and general house keeping.   May be required to support team / supervisor on other tasks.  Requirements    Minimum bachelor’s degree in Electrical/Electronic engineering.   Preferably more than 2 years’ experience in power electronics design and evaluation.   Familiar with Microsoft 365 - Office tools (Word, Excel, PowerPoint), Teams, SharePoint. Experience in Power Platform is a strong plus.   Results-driven, detail-oriented, and passionate for continuous improvement.   Good technical writing capabilities, excellent communication, problem solving and analytical skills.  Kindly understand that only shortlisted candidates will be notified. EnviroDynamics Solutions Pte Ltd Poon Wai Soon, Bernard Reg. No: R2197713 EA License No.: 12C6285 ",
+            "datePosted": "2023-03-29",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 5500,
+                "minValue": 4500,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/product-test-engineer-envirodynamics-solutions-194d8d2cc85f9fdf4fd5711830a60f8e?source=MCF&event=Search",
+            "uuid": "385acb66-5016-4ff1-89c6-b6cb9d7f8827"
         }
     ]
 }
