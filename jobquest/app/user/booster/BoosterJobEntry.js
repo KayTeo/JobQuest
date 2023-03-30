@@ -50,7 +50,7 @@ export default function BoosterJobEntry({
 
     useEffect(() => {
         router.refresh();
-    }, [loadingBoost]);
+    }, [loadingBoost, viewFlag]);
 
     let formattedBoostData = {
         coverLetter: [],

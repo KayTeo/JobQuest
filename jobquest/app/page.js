@@ -8,7 +8,7 @@ import Features from "@/components/Features";
 export default function Main() {
     const router = useRouter();
     if (Cookies.get("loggedin")) {
-        router.push("/user/tracker");
+        router.push("/user/searcher");
     }
     return (
         <div className="flex flex-col items-center justify-center gap-10 pt-10 sm:pt-0">

@@ -8,7 +8,6 @@ import Loading from "./loading";
 import Link from "next/link";
 import { MagnifyingGlassIcon } from "@heroicons/react/20/solid";
 
-
 import firebase from "@/firebase/firebase-config";
 const db = firebase.firestore();
 
@@ -69,13 +68,25 @@ export default function SearcherPage() {
             {loadingJobs ? (
                 <Loading />
             ) : (
-                <div className="flex h-[calc(100vh-64px)] flex-col items-center justify-start gap-5 overflow-auto py-10">
+                <div className="flex h-[calc(100vh-64px)] flex-col items-center justify-start gap-3 overflow-auto py-10">
+                    <img
+                        alt="logo"
+                        className="h-20 w-20 rounded-full"
+                        src={userData.photoURL}
+                        referrerPolicy="no-referrer"
+                    ></img>
+                    <h1 className="text-4xl font-bold text-accent-500">
+                        Welcome back, {userData.displayName}!
+                    </h1>
                     <Link
                         href="/user/searcher/setup"
                         className="flex items-center justify-center rounded-full bg-accent-500 px-2 py-1 text-center text-base font-semibold text-white  hover:bg-accent-300"
                     >
                         Update Your Details
                     </Link>
+                    <h1 className="text-2xl font-semibold text-accent-500">
+                        Start searching for jobs!
+                    </h1>
                     <form
                         id="keywords"
                         action="submit"

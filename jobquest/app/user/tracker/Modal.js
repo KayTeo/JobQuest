@@ -4,6 +4,7 @@ import { Dialog } from "@headlessui/react";
 import { useState, useRef } from "react";
 import Skill from "@/components/Skill";
 import { generateUUID } from "@/utils/uuid";
+import { useRouter } from "next/navigation";
 
 import firebase from "@/firebase/firebase-config";
 const db = firebase.firestore();
@@ -19,6 +20,7 @@ async function createEntry(userID, entry) {
 
 export default function Modal({ setIsOpen, userID, defaultData }) {
     const [skills, setSkills] = useState(defaultData.skills);
+    const router = useRouter();
     const skillsInputRef = useRef();
 
     async function handleSubmit(e) {
@@ -41,6 +43,7 @@ export default function Modal({ setIsOpen, userID, defaultData }) {
 
         await createEntry(userID, newEntry);
         // setTrackData([...trackData, newEntry]);
+        router.refresh();
         setIsOpen(false);
     }
 

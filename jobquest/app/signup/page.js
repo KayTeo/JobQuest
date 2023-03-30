@@ -72,7 +72,7 @@ export default function SignInPage() {
                             },
                         });
                     Cookies.set("loggedin", true);
-                    router.push("/user/tracker");
+                    router.push("/user/searcher");
                 }
             );
         }

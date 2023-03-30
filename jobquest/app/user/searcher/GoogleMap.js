@@ -8,9 +8,23 @@ export default function GoogleMap({ address }) {
     Geocode.setApiKey(API_KEY);
     Geocode.setLanguage("en");
     Geocode.setRegion("sg");
-    const addressData = use(
-        Geocode.fromAddress(address ? address : "50 Nanyang Ave, 639798")
+
+    let addressData = null;
+
+    addressData = use(
+        Geocode.fromAddress(address)
+            .then((res) => {
+                return res;
+            })
+            .catch((err) => {
+                return null;
+            })
     );
+
+    if (!addressData) {
+        return <div>Address not found</div>;
+    }
+
     const centerLat = addressData.results[0].geometry.location.lat;
     const centerLng = addressData.results[0].geometry.location.lng;
     const renderMarkers = (map, maps) => {
