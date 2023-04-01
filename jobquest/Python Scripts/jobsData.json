@@ -2,884 +2,899 @@
     "jobs": [
         {
             "dueDate": "2023-04-30",
-            "jobTitle": "Software Engineer",
+            "jobTitle": "Accountant/Senior Accountant",
             "skills": [
-                "Negotiation",
-                "Management Skills",
-                "Data Analysis",
-                "Mathematics",
-                "Software Engineering",
-                "Scripting",
-                "JavaScript",
-                "Investment Management",
-                "Quantitative Finance",
-                "SQL",
-                "Foreign Exchange",
-                "Conflict Management",
-                "OOP",
+                "Corporate Governance",
+                "Regulatory Compliance",
+                "Problem Solving",
+                "Accounting System",
+                "Accruals",
+                "Accounting",
+                "Communication Skills",
+                "SOA",
+                "Vlookup",
+                "Audit",
+                "Fixed Assets"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "REPUBLIC PLAZA, 9 RAFFLES PLACE"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/962dd3961b59167448f52736f9c84846/ferrari-logistics-singapore.jpg",
+                "name": "FERRARI LOGISTICS SINGAPORE PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "About Ferrari Group As a one-stop service provider specializing in shipping, integrated logistics and high value-added services for precious goods worldwide, Ferrari Group is a leading corporation in the freight forwarding business for luxury clients.  Founded in Italy, now headquartered in London, UK, Ferrari group has a network of offices and agents in over 80 cities.  The Singapore office, with 3 offices across the city, is seeking talents to join our team in our expansion project.     Responsibilities And Requirements Handling full sets of accounts • Including checking and reviewing receipts, all payment and accruals of expenses to ensure completeness and adequacy of provision is done • Updating and checking customers and suppliers credit rating before input their details in the accounting system • Verifying transaction before posting into accounting system • Checking and posting GL entries • Preparing fixed assets, Prepayment, Depreciation and Right of use (ROU) schedule • Managing and oversee day to day flow transactions and approve payment to vendors and customers • Verifying the petty cash claims and payments • Keying payroll entries and prepare payroll reports to auditors • Preparing and submitting quarterly GST returns • Preparing audit scheduling and answering queries for corporate and local audit • Preparing and analysing month end financial report (TB, PL and BS) to the local management • Preparing quarterly report to HQ in London • Ability to communicate with the bankers, corporate secretary and auditors • Oversee and ensure accuracy of billing of invoices • Sending of SOA to customers/vendors • Other ad-hoc duties as assigned by the Management  Requirements • Minimum 3 years of relevant work experiences in an internal accounting environment Diploma/ Degree in Accountancy • Good understanding of FRS and accounting principles and statutory regulation • Negotiation and problem-solving skills • Strong written and oral communication skills • Good understanding of corporate governance, regulatory compliance and accounting principles • Good in Excel (Pivot Table, including Vlookup) • Experience in managing a team. To provide guidance and feedback to the team members and work under tight timelines • Able to communicate efficiently with stakeholders • Result-oriented • Short notice or immediate hiring preferred ",
+            "datePosted": "2023-03-31",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 5000,
+                "minValue": 4000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/accounting/accountant-senior-accountant-ferrari-logistics-singapore-f953c705f26db3f219fcfca81bb6f2bf?source=MCF&event=Search",
+            "uuid": "619c0245-6c74-4d84-888c-2e0aa0001ae6"
+        },
+        {
+            "dueDate": "2023-04-30",
+            "jobTitle": "Accountant",
+            "skills": [
+                "Accounts Payable",
+                "Microsoft Excel",
+                "Interpersonal Skills",
+                "Tax",
+                "Books",
+                "Financial Transactions",
+                "Administration",
+                "Payroll",
+                "Accounting System",
+                "MS Office",
+                "Accounting",
+                "Attention to Details",
+                "Audits",
+                "Bookkeeping",
+                "Excel",
+                "Tax Returns"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "THE CONCOURSE, 300 BEACH ROAD"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/1dbc1147def3c94d07c3b8863e4ed63e/bci-central-singapore.png",
+                "name": "BCI CENTRAL SINGAPORE PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "The Role We are currently looking for an Accountant to be part of our finance team. As an accountant, your main responsibilities include but are not limited to; maintaining accurate books on accounts payable and receivable, payroll, and daily financial entries and reconciliations for our BCI Group business.   To be successful in this role, you should have previous experience with bookkeeping and a flair for spotting numerical mistakes. Ultimately, you will provide us with accurate quantitative information on the financial position, liquidity, and cash flows of our business, while ensuring we’re compliant with all tax regulations.   Responsibilities: - •\tPlan, coordinate, and facilitate end-of-month processes and reporting for the Group such as Singapore, Hong Kong, and any other entities if required •\tReconcile accounts payable and receivable. •\tEnsure all day-to-day financial transactions are processed in the accounting system, is accurate and timely manner – payment updates, processing client’s invoices etc. •\tReview and finalize deferral schedule each month and post necessary journals •\tSingapore’s Payroll administration – payroll processing and statutory requirement. •\tFixes Assets management – additions, disposals, reconciliations •\tReview and finalize deferral schedule each month and post necessary journals •\tManage balance sheets and profit/loss statements •\tCompute taxes and prepare tax returns. •\tHandling queries related to accounts. •\tWork closely with the Group team of accountants and CFO •\tSupport in finance, accounting and adhoc projects as required by the CFO.  Requirements: -  •\tDegree or Diploma holder in Accounting, Commerce or Finance •\tMinimum 5 years of working experience as Accounts or Finance officer •\tWorking experience in multinational companies and with remote teams •\tHands-on experience with liaising with auditors and managing audits •\tExperience with Singapore GST filing •\tExperience with managing intercompany transactions •\tUnderstanding of Singapore payroll regulations and experience payroll administration •\tStrong proficiency and hands- on experience in computing system including MS office, excel, payroll and reporting system •\tIn-depth understanding of general accounting principles. •\tGood interpersonal skills, accuracy and attention to details.  Why Join BCI? •\tTransparent working culture and supportive team! •\tRegional team and exposure. •\tUp to 20 days of Annual Leave per year •\tHybrid work arrangement (office ; home) •\tBirthday ; Work Anniversary Leave. •\tMedical Insurance Coverage   (Only shortlisted candidates will be notified) ",
+            "datePosted": "2023-03-31",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 5000,
+                "minValue": 3800,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/accounting/accountant-bci-central-singapore-8532dcdcdc0e5be7248e0b1799d257d6?source=MCF&event=Search",
+            "uuid": "11b76a51-9141-49ca-afca-8e0eb4a56226"
+        },
+        {
+            "dueDate": "2023-04-05",
+            "jobTitle": "Account Assistant",
+            "skills": [
+                "Accounts Payable",
+                "Microsoft Office",
+                "Microsoft Excel",
+                "Strong Attention To Detail",
+                "Ability To Work Independently",
+                "Interpersonal Skills",
+                "Tax",
+                "Financial Transactions",
+                "Data Entry",
+                "Bank Reconciliation",
+                "Accounting",
+                "Audit",
+                "Financial Reporting"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "LHK 3, 8 NEW INDUSTRIAL ROAD"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/8202418fd55c510b25a542306c3d7eef/sing-wah-enterprise.jpg",
+                "name": "SING WAH ENTERPRISE PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Job Description: We are looking for a detail-oriented and organized Account Assistant to join our team. The Account Assistant will be responsible for providing support to the accounting team, processing transactions, reconciling accounts, and assisting with financial reporting. Responsibilities:    Assist with processing accounts payable and receivable transactions.   Reconcile bank and credit card statements on a monthly basis.   Prepare and submit invoices to clients and follow up on outstanding payments.   Maintain accurate and up-to-date records of financial transactions and documentation.   Assist with financial reporting, including balance sheets, income statements, and cash flow statements.   Perform other general accounting duties as assigned by the accounting team.   Respond to accounting-related inquiries from internal and external stakeholders.  Requirements:    Bachelor's degree in accounting, finance, or related field.   Minimum 1-2 years of experience in an accounting or finance role.   Knowledge of accounting principles and procedures.   Proficiency in Microsoft Excel and other accounting software.   Strong attention to detail and accuracy.   Good communication and interpersonal skills.   Ability to work independently as well as in a team environment.   Willingness to learn and grow within the accounting team.  If you are a motivated and reliable Account Assistant with a passion for accounting and finance, we encourage you to apply for this exciting opportunity.",
+            "datePosted": "2023-03-06",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 4000,
+                "minValue": 2500,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/accounting/account-assistant-sing-wah-enterprise-4c9d5fc7173b0af6a0f75e002f494cb3?source=MCF&event=SuggestedJob",
+            "uuid": "02e6ee75-ef82-4cbc-bda4-587d03ccd92f"
+        },
+        {
+            "dueDate": "2023-04-14",
+            "jobTitle": "Accountant",
+            "skills": [
+                "Account Management",
+                "Microsoft Office",
+                "Microsoft Excel",
+                "Consolidation",
+                "Annual Budgets",
+                "Interpersonal Skills",
+                "ACCA",
+                "Accounting",
+                "Compliance",
+                "Financial Statements",
+                "Office Software",
+                "Accounting Standards",
                 "Team Player",
-                "Java",
-                "Software Development"
+                "Tax Returns",
+                "Audit",
+                "Corporate Finance",
+                "Financial Reporting"
             ],
             "location": {
                 "country": "SG",
                 "locality": "Singapore",
-                "address": "UOB PLAZA, 80 RAFFLES PLACE"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/7afc587c2072deff7f1f1fd8189010c1/investment-company-peoples-republic-china.jpg",
-                "name": "INVESTMENT COMPANY OF THE PEOPLE'S REPUBLIC OF CHINA (SINGAPORE) PTE LTD"
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Investment Company of the People’s Republic of China (Singapore) Pte Ltd is a fully owned subsidiary of the People’s Bank of China. The company manages a part of foreign exchange reserve within the scope authorized by the People’s Bank of China, undertakes and transacts various kinds of investment businesses.  Job Description:    Work closely with the business for development of investment management functionalities, ensure the quality of deliverable for the work assigned;   Participate in the full RAD/Agile projects and also maintenance/ support post implementation;   Involved in analysis and scripting SQL queries for data analysis and data extraction, implement new regulatory changes, create new reports etc.;   Collaborate with internal technical team/users in investigating, testing and together providing delivery solutions;   Perform coding, implementation, integration, deployment, documentation and user guide of IT application systems;   Work with IT teams and senior management, regular reporting to management.   Requirements:    At least 5 years of IT experience in driving enterprise-wide projects;   Deep understanding with Software engineering, OOP, Database, OS and Network fundamentals.   Experience in C#/Python language and framework, SQL Developer, B/S projects, Strong skills in coding.   Experience in investment or financial sector, basic understanding of financial products and quantitative finance mathematics;   Good communication, negotiation, problem-solving, conflict management skills, Independent and proactive yet a strong team player;   Ability to interact with business users, senior management, IT teams effectively.   We offer a competitive salary which commensurate with experience, or beyond the stated salary range for unicorns.",
-            "datePosted": "2023-03-31",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 10000,
-                "minValue": 5000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/software-engineer-investment-company-peoples-republic-china-3f1b7b2abbbcb86d63f4d25acf9b0c38?source=MCF&event=Search",
-            "uuid": "5043e2ab-ae77-4b31-9982-98149d24298d"
-        },
-        {
-            "dueDate": "2023-04-07",
-            "jobTitle": "Software Engineer #64498",
-            "skills": [
-                "Staff responsibility",
-                "Discipline",
-                "Hardware",
-                "Software Engineering",
-                "Agile",
-                "JavaScript",
-                "Protocol",
-                "Social Responsibility",
-                "SQL",
-                "Python",
-                "TCP",
-                "Java",
-                "C#",
-                "Screening",
-                "Manufacturing",
-                "Linux",
-                "Software Development",
-                "UDP",
-                "C++"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": null
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/737b2bbd5f7b6aa4a3e393db45fe9479/ANRADUS%20PTE.%20LTD..jpg",
-                "name": "ANRADUS PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Job Description    Industry/ Organization Type: Manufacturing and Production   Position Title:  Software Engineer/Firmware Engineer   Working Location: Kallang   Working Hours: 5 days (Monday to Friday, 9.00 am to 6.00 pm)   Salary Package: Up to $6000 + AWS + Variable bonus + Medical Benefits   Duration: 1-year contract (Convertible to Permanent Role)  Key Responsibilities    Maintain, improve, design and develop application software for car parking systems.   Must have hardware interface/firmware experience.   Any other duties as and when assigned.  APPLY NOW!!!    Diploma/Degree in Computer/IT, with 3-5 years relevant experience.   Knowledge in C/C++, Linux, R232 Protocol, TCP and UDP protocol and Digital I/O preferred.  Kindly apply through ANY of the following methods:    Submit your application by clicking the APPLY button;   Email your resume to Job(at)anradus.com.sg. Please indicate #64498 on the email subject.  Anradus Policy: This clarifies Anradus' working procedures, from receiving the applicant's resume, screening to shortlisting. We assure you our consultants will go through every resume we receive but we regret that only shortlisted candidates will be notified. Anradus Pte Ltd | EA License No. 20C0161 | Angel Lim | EA Reg No.: R1769781",
-            "datePosted": "2023-03-31",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 6000,
-                "minValue": 4000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/software-engineer-64498-anradus-a88017811d2df78c4db393a80b1995df?source=MCF&event=Search",
-            "uuid": "08c53caf-33d3-40cf-80e2-1340ae5dda6a"
-        },
-        {
-            "dueDate": "2023-04-16",
-            "jobTitle": "Senior Software Engineer",
-            "skills": [
-                "Software Engineering",
-                "MySQL",
-                "Agile",
-                "Industrial Engineering",
-                "JavaScript",
-                "Soft Skills",
-                "SQL",
-                "Python",
-                "Web Applications",
-                "Visualization",
-                "Java",
-                "C#",
-                "API",
-                "Databases",
-                "Software Development",
-                "C++"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "THE JTC SUMMIT, 8 JURONG TOWN HALL ROAD"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/e2c1c51456229ae9588e4ba0a7edbb8c/d-simlab-technologies.gif",
-                "name": "D-SIMLAB TECHNOLOGIES PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "As a Software Engineer in D-SIMLAB, you will get exposure in both technical and soft skills development. The role does not limit to only software development, but also involves in providing professional consultation services to customers, with the following key responsibilities: Work together with a team of highly skilled Software Engineers and Data Scientists in software product deployment and delivery at world leading semiconductor manufacturers. Actively involved in product enhancement (in the area of visualization and algorithms) which improves the quality of D-SIMLAB product. Responsible for key software components development. We are looking for candidates fulfil the following criteria: Bachelor/Master Degree specialises in Computer Science/Engineering or Industrial Engineering. Diploma holders with relevant experience are encouraged to apply. Enjoy working with experts with different cultural and technical backgrounds. Love to travel the world and work on challenging projects. Interest in career progression by strengthening your technical and soft skills.",
-            "datePosted": "2023-03-17",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 8000,
-                "minValue": 5000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-software-engineer-d-simlab-technologies-3a2dc42ccc90c57b5de6e43175114c9a?source=MCF&event=SuggestedJob",
-            "uuid": "04f0539f-2ee7-4599-a4f4-bc843316bbb7"
-        },
-        {
-            "dueDate": "2023-04-07",
-            "jobTitle": "Junior Software Engineer #63406",
-            "skills": [
-                "Software Engineering",
-                "MySQL",
-                "JavaScript",
-                "SDLC",
-                "SQL",
-                "Python",
-                "Medical Devices",
-                "Angular",
-                "Web Applications",
-                "Integration Testing",
-                "Java",
-                "Screening",
-                "Manufacturing",
-                "Databases",
-                "Django",
-                "Software Development"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": null
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/737b2bbd5f7b6aa4a3e393db45fe9479/ANRADUS%20PTE.%20LTD..jpg",
-                "name": "ANRADUS PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Job Description    Industry/ Organization Type: Manufacturing/ Production   Position Title: Junior Software Engineer/ Software Engineer   Working Location: Serangoon North (will be moving to MacPherson in Q2 2023)   Working Hours: Mon – Fri, 9 am – 6 pm   Salary Package: Up to $6,000 + Bonus   Duration: Permanent  Key Responsibilities    Develop Full stack web applications (for medical devices).   Carry out requirement gathering, design, implementation, integration, testing, verification, user acceptance and maintenance of company's software products.   Continual improvement of the software management process.   Troubleshoot, document, upgrade and develop maintenance procedures.   Any other duties as and when assigned by immediate superior  APPLY NOW!!    At least Degree in Computer Engineering/ Computer Science/ IT or a related discipline.   Minimum 1 year of working experience in Node.js Framework, e.g., express, meteor, react, angular or python Framework, e.g., Django.   Must have completed at least 1 full Software Development Life Cycle (SDLC) before.   Used at least 2 different DB from NoSQL and RDBMS.  Kindly apply through ANY of the following methods:    Submit your application by clicking the APPLY button;   Email your resume to Job(at)anradus.com.sg. Please indicate #63406 on the email subject.  Anradus Policy: This clarifies Anradus' working procedures, from receiving the applicant's resume, screening to shortlisting. We assure you our consultants will go through every resume we receive but we regret that only shortlisted candidates will be notified. Anradus Pte Ltd | EA License No. 20C0161 | Adelin Chong | EA Reg No.: R1875641",
-            "datePosted": "2023-03-31",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 6000,
-                "minValue": 5000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/junior-software-engineer-63406-anradus-e720f777c4055c045726f5961e4fc597?source=MCF&event=Search",
-            "uuid": "4168094b-3288-465b-8c27-f7e917dc2612"
-        },
-        {
-            "dueDate": "2023-04-30",
-            "jobTitle": "Software Engineer (Embedded C)",
-            "skills": [
-                "Groovy",
-                "Embedded Software",
-                "Embedded C",
-                "Cryptography",
-                "Scripting",
-                "Maven",
-                "JIRA",
-                "Visual Basic",
-                "Configuration Management",
-                "Python",
-                "Firmware",
-                "Continuous Integration",
-                "Software Design",
-                "C#",
-                "Linux",
-                "Visual Studio"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "ST. ANDREW'S CENTRE, 250 TANJONG PAGAR ROAD"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/05d214497560fea4a47134b807906580/anotech-energy-singapore.jpg",
-                "name": "ANOTECH ENERGY SINGAPORE PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "As an Embedded Software Engineer, you will be part of a team in embedded engineering in designing and developing software, tooling, test suites, workflow in order to improve daily activities such as automated test suite, automated delivery (binaries, documents), automated static analysis tool, and configuration management.  Job Duties · Support the design and assist in software and tooling as part of workflow in continuous integration and continuous delivery · Support lead requirements definition, workload estimation, software design, development, testing and integration of software and tools · Aid the continuous product and development methodology improvements · Assist in the improvement of existing technology platform and development methodologies through prototyping  Job Requirements · Degree in Electrical/Electronics/Computer/Software Engineering, or related fields · 2-5 years of practical experience with software design projects · Knowledge in Embedded C (C++ is considered a plus), Java, C#, Python, Linux, Visual Basic · Proficient in Groovy, Python, Bash Scripting · Familiar with Git/Mercurial, Nexus/Artifactory, Maven, Jira, Jenkins Architecture · Familiar with IT Service processes, guidelines, and best practices · Team player with good communications and collaborative skills · Enjoy thinking out of the box and being creative · You have experience in Product Lifecycle (design and documentation, development, validation refactoring, deployment and maintenance) · It will be considered a plus if you possess the following knowledge o Software security and cryptography o Javacard o Testing methodologies o Server integration via REST API o Continuous integration ; delivery tool suites o Static Code Analysis tools",
-            "datePosted": "2023-03-31",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 8000,
-                "minValue": 4000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/software-engineer-anotech-energy-singapore-b31b063921812dc9554519a78cfaf9e8?source=MCF&event=Search",
-            "uuid": "5f64ae29-59bc-4409-b8f3-c408eefa8c29"
-        },
-        {
-            "dueDate": "2023-04-30",
-            "jobTitle": "Senior Software Engineer - Java",
-            "skills": [
-                "Git",
-                "Oral Communication Skills",
-                "Web Services",
-                "Modeling",
-                "Design Patterns",
-                "REST",
-                "Agile",
-                "Problem Solving",
-                "Private Banking",
-                "Open Source",
-                "Enterprise Architecture",
-                "Continuous Integration",
-                "SOA",
-                "Banking",
-                "Java",
-                "API"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": null
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/9d6b0e8653ae12ad08adac09386b841a/trinity-consulting-services.jpg",
-                "name": "TRINITY CONSULTING SERVICES PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "As an API developer, you will work closely with multiple teams, including Digital Channels, Enterprise Architecture, Infrastructure and other business and technology teams to ensure solutions are aligned with overall strategy. Project Details : Digital Banking Project    Bachelor’s Degree in computer science or computer engineering   At least 2+ years of hands-on experience on API deployment;   6+ years of experience as software engineer in the following domains:   Java EE including (Web Services, REST, JPA).   Spring, SOA, Design patterns.   Database (SQL ; No SQL)   Knowledge and experience with CI/CD tools   API usage in Mobile technologies  Mandatory    Strong Java technical Expertise   Strong critical thinker with problem solving aptitude.   Good written and oral communication skills   Proven/previous experience with CI/CD, DevOps and Agile.   Hands-on experience on API related activities: requirement analysis, design, resource-based API modeling, micro-services architecture   Knowledge about API design standards, patterns and best-practices   Hands-on experience in API security standards and implementation  Plus    General banking knowledge or Banking knowledge related to Private banking   Speaking at conferences and/or user groups   Contributing to open source projects   Exposure to the following domains is a plus: Analytics, Mobile Technologies. ",
-            "datePosted": "2023-03-31",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 9000,
-                "minValue": 7000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-software-engineer-java-trinity-consulting-services-579fb42f59e067572acb7c0cf4c1940e?source=MCF&event=Search",
-            "uuid": "a80bac75-0032-4e08-85ac-441eccefaebf"
-        },
-        {
-            "dueDate": "2023-04-30",
-            "jobTitle": "Senior Software Engineer - Java",
-            "skills": [
-                "Git",
-                "Oral Communication Skills",
-                "Web Services",
-                "Modeling",
-                "Design Patterns",
-                "REST",
-                "Agile",
-                "Problem Solving",
-                "Private Banking",
-                "Open Source",
-                "Enterprise Architecture",
-                "Continuous Integration",
-                "SOA",
-                "Banking",
-                "Java",
-                "API"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": null
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/9d6b0e8653ae12ad08adac09386b841a/trinity-consulting-services.jpg",
-                "name": "TRINITY CONSULTING SERVICES PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "As an API developer, you will work closely with multiple teams, including Digital Channels, Enterprise Architecture, Infrastructure and other business and technology teams to ensure solutions are aligned with overall strategy. Project Details : Digital Banking Project    Bachelor’s Degree in computer science or computer engineering   At least 2+ years of hands-on experience on API deployment;   6+ years of experience as software engineer in the following domains:   Java EE including (Web Services, REST, JPA).   Spring, SOA, Design patterns.   Database (SQL ; No SQL)   Knowledge and experience with CI/CD tools   API usage in Mobile technologies  Mandatory    Strong Java technical Expertise   Strong critical thinker with problem solving aptitude.   Good written and oral communication skills   Proven/previous experience with CI/CD, DevOps and Agile.   Hands-on experience on API related activities: requirement analysis, design, resource-based API modeling, micro-services architecture   Knowledge about API design standards, patterns and best-practices   Hands-on experience in API security standards and implementation  Plus    General banking knowledge or Banking knowledge related to Private banking   Speaking at conferences and/or user groups   Contributing to open source projects   Exposure to the following domains is a plus: Analytics, Mobile Technologies. ",
-            "datePosted": "2023-03-31",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 8000,
-                "minValue": 6000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-software-engineer-java-trinity-consulting-services-147392a8379143da4f47de851b8ea8d3?source=MCF&event=Search",
-            "uuid": "1cbba9bf-719e-4d8e-8249-ee1ebc688aa0"
-        },
-        {
-            "dueDate": "2023-04-30",
-            "jobTitle": "Senior Software Engineer - Java",
-            "skills": [
-                "Git",
-                "Oral Communication Skills",
-                "Web Services",
-                "Modeling",
-                "Design Patterns",
-                "REST",
-                "Agile",
-                "Problem Solving",
-                "Private Banking",
-                "Open Source",
-                "Enterprise Architecture",
-                "Continuous Integration",
-                "SOA",
-                "Banking",
-                "Java",
-                "API"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": null
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/9d6b0e8653ae12ad08adac09386b841a/trinity-consulting-services.jpg",
-                "name": "TRINITY CONSULTING SERVICES PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "As an API developer, you will work closely with multiple teams, including Digital Channels, Enterprise Architecture, Infrastructure and other business and technology teams to ensure solutions are aligned with overall strategy. Project Details : Digital Banking Project    Bachelor’s Degree in computer science or computer engineering   At least 2+ years of hands-on experience on API deployment;   6+ years of experience as software engineer in the following domains:   Java EE including (Web Services, REST, JPA).   Spring, SOA, Design patterns.   Database (SQL ; No SQL)   Knowledge and experience with CI/CD tools   API usage in Mobile technologies  Mandatory    Strong Java technical Expertise   Strong critical thinker with problem solving aptitude.   Good written and oral communication skills   Proven/previous experience with CI/CD, DevOps and Agile.   Hands-on experience on API related activities: requirement analysis, design, resource-based API modeling, micro-services architecture   Knowledge about API design standards, patterns and best-practices   Hands-on experience in API security standards and implementation  Plus    General banking knowledge or Banking knowledge related to Private banking   Speaking at conferences and/or user groups   Contributing to open source projects   Exposure to the following domains is a plus: Analytics, Mobile Technologies. ",
-            "datePosted": "2023-03-31",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 9000,
-                "minValue": 7000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-software-engineer-java-trinity-consulting-services-518e4a62fda2f7afd62233de50053c77?source=MCF&event=Search",
-            "uuid": "6ee2ccff-8bef-4fea-a766-ad3118b9ce46"
-        },
-        {
-            "dueDate": "2023-04-30",
-            "jobTitle": "Senior Software Engineer - Java",
-            "skills": [
-                "Git",
-                "Oral Communication Skills",
-                "Web Services",
-                "Modeling",
-                "Design Patterns",
-                "REST",
-                "Agile",
-                "Problem Solving",
-                "Private Banking",
-                "Open Source",
-                "Enterprise Architecture",
-                "Continuous Integration",
-                "SOA",
-                "Banking",
-                "Java",
-                "API"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": null
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/9d6b0e8653ae12ad08adac09386b841a/trinity-consulting-services.jpg",
-                "name": "TRINITY CONSULTING SERVICES PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "As an API developer, you will work closely with multiple teams, including Digital Channels, Enterprise Architecture, Infrastructure and other business and technology teams to ensure solutions are aligned with overall strategy. Project Details : Digital Banking Project    Bachelor’s Degree in computer science or computer engineering   At least 2+ years of hands-on experience on API deployment;   6+ years of experience as software engineer in the following domains:   Java EE including (Web Services, REST, JPA).   Spring, SOA, Design patterns.   Database (SQL ; No SQL)   Knowledge and experience with CI/CD tools   API usage in Mobile technologies  Mandatory    Strong Java technical Expertise   Strong critical thinker with problem solving aptitude.   Good written and oral communication skills   Proven/previous experience with CI/CD, DevOps and Agile.   Hands-on experience on API related activities: requirement analysis, design, resource-based API modeling, micro-services architecture   Knowledge about API design standards, patterns and best-practices   Hands-on experience in API security standards and implementation  Plus    General banking knowledge or Banking knowledge related to Private banking   Speaking at conferences and/or user groups   Contributing to open source projects   Exposure to the following domains is a plus: Analytics, Mobile Technologies. ",
-            "datePosted": "2023-03-31",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 9000,
-                "minValue": 7000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-software-engineer-java-trinity-consulting-services-09ed9d86aec3d2c083b389abfb2a7dc7?source=MCF&event=Search",
-            "uuid": "8ce6ea95-6a53-4ff8-bba0-860253ee0db5"
-        },
-        {
-            "dueDate": "2023-04-30",
-            "jobTitle": "Senior Software Engineer - Java",
-            "skills": [
-                "Git",
-                "Oral Communication Skills",
-                "Web Services",
-                "Modeling",
-                "Design Patterns",
-                "REST",
-                "Agile",
-                "Problem Solving",
-                "Private Banking",
-                "Open Source",
-                "Enterprise Architecture",
-                "Continuous Integration",
-                "SOA",
-                "Banking",
-                "Java",
-                "API"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": null
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/9d6b0e8653ae12ad08adac09386b841a/trinity-consulting-services.jpg",
-                "name": "TRINITY CONSULTING SERVICES PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "As an API developer, you will work closely with multiple teams, including Digital Channels, Enterprise Architecture, Infrastructure and other business and technology teams to ensure solutions are aligned with overall strategy. Project Details : Digital Banking Project    Bachelor’s Degree in computer science or computer engineering   At least 2+ years of hands-on experience on API deployment;   6+ years of experience as software engineer in the following domains:   Java EE including (Web Services, REST, JPA).   Spring, SOA, Design patterns.   Database (SQL ; No SQL)   Knowledge and experience with CI/CD tools   API usage in Mobile technologies  Mandatory    Strong Java technical Expertise   Strong critical thinker with problem solving aptitude.   Good written and oral communication skills   Proven/previous experience with CI/CD, DevOps and Agile.   Hands-on experience on API related activities: requirement analysis, design, resource-based API modeling, micro-services architecture   Knowledge about API design standards, patterns and best-practices   Hands-on experience in API security standards and implementation  Plus    General banking knowledge or Banking knowledge related to Private banking   Speaking at conferences and/or user groups   Contributing to open source projects   Exposure to the following domains is a plus: Analytics, Mobile Technologies. ",
-            "datePosted": "2023-03-31",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 9000,
-                "minValue": 7000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-software-engineer-java-trinity-consulting-services-d790208a1adbcf27c787fcd6b229e940?source=MCF&event=Search",
-            "uuid": "28bfbad9-0daa-4d80-8af4-096c8425a0a6"
-        },
-        {
-            "dueDate": "2023-04-30",
-            "jobTitle": "Senior/Software Engineer, A*CRC",
-            "skills": [
-                "Machine Learning",
-                "Quality Assurance",
-                "HTML",
-                "REST",
-                "Software Engineering",
-                "MySQL",
-                "Scripting",
-                "JavaScript",
-                "PyTorch",
-                "Ruby",
-                "Python",
-                "Software Design",
-                "Java",
-                "Scientific Computing",
-                "Parallel Computing"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "Connexis, 1 Fusionopolis Way"
+                "address": "CARGO AGENTS BUILDING D, 9 AIRLINE ROAD"
             },
             "company": {
                 "logo": null,
-                "name": "A*STAR RESEARCH ENTITIES"
+                "name": "A-SONIC LOGISTICS PTE. LTD."
             },
             "jobType": [
-                "CONTRACTOR",
                 "FULL_TIME"
             ],
-            "description": "Job Description Supercomputing at your FingerTips (SC@FT) is a HPC workload management platform for users of A*CRC’s computing and storage resources to process scientific workloads at scale. Built on top of the Open OnDemand project with the goal to enable easier access and use of highly parallel computing systems, we are looking to further enhance the SC@FT platform to accommodate more workflows and use-cases at A*STAR and beyond. Hence, we are looking for a software engineer to help on the source code development and management of the SC@FT platform at A*CRC. The candidate is expected to: Be involved in source code development of the SC@FT platform at A*CRC. Participate in the planning, design, implementation and testing of new functionality for SC@FT and participate in discussions related to its software design and capabilities. · Help in implementing additional features to SC@FT, such as machine learning and data management. · Use best software engineering practices for sustainable development and maintenance. · Work with internal and external staff involved in the project during planning, development, management and maintenance of the software. · Assist in developing and maintaining the software’s documentation for continuity purposes, knowledge transfer and training for the SC@FT platform. Qualification: Diploma / Bachelor's Degree, Post Graduate Diploma Min. Years of Experience: 2 Years or graduates with very good track records, skills ; interest are welcome to apply. Essential Requirements: Has experience in scripting and programming languages, including: · Python, Shell, Javascript and/or Ruby · Java · Familiar with coding and scripting for user-interactive websites. · Understands webpage syntax, HTML and CSS. · Familiar with RESTful architectures and in developing and implementing REST APIs. · Good communication and inter-personal skills to work with other people to develop and manage software projects and its goals. · Take care of continuous professional development and be able to learn new skills as required. Desirable Requirements: Knowledge and use of machine learning frameworks such as TensorFlow or PyTorch. · Familiar in at least one database management system such as MySQL. · Familiar with or willing to learn, adopt and use the following open-source projects as and when required: · Open OnDemand · Open XDMod · SeldonIO MLServer · Apache/NGNIX · MySQL Knowledge of identity management and authentication mechanisms such as SAML, OAuth2, OpenID or LDAP. Has an interest in the concepts of HPC and scientific computing, for example: · HPC job schedulers such as SLURM and PBS Pro. · Performance measurement and profiling of applications. · Computing, storage and accelerator architectures for clusters and for scientific computing. Familiar with cloud computing and in public cloud platforms and features. Software engineering knowledge such as: · Development, testing and quality assurance. · Analysis of user requirements, software and code. · Maintenance and deployment for new and existing versions. · Assess new technologies and methods for implementation. · Coding standards. Familiar with best software engineering practices such as · CI/CD automation and software testing · Use of code tools such as make, git Has a track record in software engineering such as participation or management of Github/Gitlab software projects. · Has experience in the full development lifecycle of software products. · Has experience in software design and an understanding of object-oriented programming.",
+            "description": "Job Description:    Assist in consolidation and reviewing of accounts for the group and subsidiaries.   Ensure timely submission of accounts by subsidiaries.   Ensure accounts submitted are in compliance with local accounting standards, group reporting requirements, tax, statutory, regulations and SGX/MAS requirement.   Implement head office internal control policies, procedures and reporting requirements.   Assist in preparing, monitoring and analysing management reports, forecasts and annual budgets.   Assist in reviewing of tax returns of local subsidiaries and foreign subsidiaries.   Liaise with auditors, tax agents, bankers, company secretaries, government agencies and external parties.   Assist with ad-hoc projects when required.   Requirements:    Possess CPA/CA preferred and Degree in Accountancy/Finance or other related professional discipline.   Minimum 3 years of related experience.   Competent in consolidation of group accounts.   Independent, meticulous and well organized.   Good interpersonal and written communication skills.   Able to work under pressure and meet tight deadlines in fast paced environment.   Possess \"roll up my sleeves\" mind set and ready to hands on whenever required.   Well-versed in Microsoft Office software.   Must have experience in stock exchange dealing rules.   Liaise with SGX on all compliance and corporate finance matters would be a big plus. ",
             "datePosted": "2023-03-31",
             "salaryRange": {
                 "currency": "SGD",
                 "maxValue": 6000,
+                "minValue": 4000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/accounting/accountant-a-sonic-logistics-b83ef2f37bda8021831d4482c7c7c9da?source=MCF&event=Search",
+            "uuid": "29139e13-9eaf-4040-a071-12489e6824c7"
+        },
+        {
+            "dueDate": "2023-04-30",
+            "jobTitle": "Accountant",
+            "skills": [
+                "Budgets",
+                "Microsoft Office",
+                "Microsoft Excel",
+                "IRAs",
+                "Tax",
+                "Property",
+                "Variance Analysis",
+                "Payroll",
+                "Financial Accounting",
+                "Investment Management",
+                "Office Administration",
+                "Accounting",
+                "Financial Analysis",
+                "Cost Control",
+                "Corporate Finance"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "29B KEONG SAIK ROAD"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/549600d67e1a40c00abe87afe853a80f/hippo-prop.jpg",
+                "name": "HIPPO PROP PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Key Attributes: Meticulous. Sharp. Systematic.  Role Description: True to all start-up, you will be the sole rep for finance and admin. Reporting to General Manager, you are responsible for day-to-day accounting function, property rental invoice management and office administration.  Experience: 8 years of experience in financial accounting and experience with property rental or investment management is a bonus. Ideally proficient with MYOB and Time Software.  Requirements:    Responsible for day-to-day accounting functions including month end closing, budgets and cashflow forecast, CPF and GST submissions, payroll, and AR/AP functions.   Preparation, review and analysis of management accounts. Corporate finance matters, feasibility studies, financial analysis and evaluation of performances, variance analysis, cost control also fall within the remit of the role.   In-charge of all office admin related matters and liaise with auditors, tax agents, MOM, IRAS, CPF Board and any other government authorities.  Education: Degree in accountancy or professional qualifications",
+            "datePosted": "2023-03-31",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 4800,
+                "minValue": 4200,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/accounting/accountant-hippo-prop-c4195a96f4472bcb5a3993a2ab32a8ec?source=MCF&event=Search",
+            "uuid": "f90486a6-e07e-4239-96cf-f7b5927a42db"
+        },
+        {
+            "dueDate": "2023-04-30",
+            "jobTitle": "Accountant",
+            "skills": [
+                "Account Management",
+                "Accounts Payable",
+                "Microsoft Office",
+                "Microsoft Excel",
+                "Interpersonal Skills",
+                "Tax",
+                "ACCA",
+                "Payroll",
+                "Bank Reconciliation",
+                "Accounting",
+                "Financial Statements",
+                "Team Player",
+                "Audit",
+                "Financial Reporting"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "NOVENA SQUARE, 238A THOMSON ROAD"
+            },
+            "company": {
+                "logo": null,
+                "name": "JSW ADVISORY PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Requirements     Min Degree in Accountancy   At least 2 years of relevant accounting experience   5 days work week   Working location in Novena ",
+            "datePosted": "2023-03-31",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 4000,
                 "minValue": 3000,
                 "payPeriod": "MONTH"
             },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-software-engineer-acrc-astar-research-entities-6bbbdea5cd406d62d968bbb22fe7f1ad?source=MCF&event=Search",
-            "uuid": "5a0a56ce-f954-43da-821a-a69e36501cb8"
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/accounting/accountant-jsw-advisory-107ebd1d8afd31914ac113b5ad7073db?source=MCF&event=Search",
+            "uuid": "6d16f976-f0c5-4232-9dc9-b49680322616"
         },
         {
             "dueDate": "2023-04-30",
-            "jobTitle": "Senior/Software Engineer, A*CRC",
+            "jobTitle": "Accountant",
             "skills": [
-                "Machine Learning",
-                "Quality Assurance",
-                "HTML",
-                "REST",
-                "Software Engineering",
-                "MySQL",
-                "Scripting",
-                "JavaScript",
-                "PyTorch",
-                "Ruby",
-                "Python",
-                "Software Design",
-                "Java",
-                "Scientific Computing",
-                "Parallel Computing"
+                "Taxation",
+                "Account Reconciliation",
+                "Tax",
+                "Invoicing",
+                "Bank Reconciliation",
+                "Accounting",
+                "Compliance",
+                "Human Resource",
+                "Banking",
+                "Accounting Standards",
+                "Financial Reporting"
             ],
             "location": {
                 "country": "SG",
                 "locality": "Singapore",
-                "address": "Connexis, 1 Fusionopolis Way"
+                "address": "GOLDEN AGRI PLAZA, 108 PASIR PANJANG ROAD"
             },
             "company": {
-                "logo": null,
-                "name": "A*STAR RESEARCH ENTITIES"
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/a19e513eaf5e9c85ac50f118a40302b3/oncod.png",
+                "name": "ONCOD PTE. LTD."
             },
             "jobType": [
-                "CONTRACTOR",
                 "FULL_TIME"
             ],
-            "description": "Job Description Supercomputing at your FingerTips (SC@FT) is a HPC workload management platform for users of A*CRC’s computing and storage resources to process scientific workloads at scale. Built on top of the Open OnDemand project with the goal to enable easier access and use of highly parallel computing systems, we are looking to further enhance the SC@FT platform to accommodate more workflows and use-cases at A*STAR and beyond. Hence, we are looking for a software engineer to help on the source code development and management of the SC@FT platform at A*CRC. The candidate is expected to: Be involved in source code development of the SC@FT platform at A*CRC. Participate in the planning, design, implementation and testing of new functionality for SC@FT and participate in discussions related to its software design and capabilities. · Help in implementing additional features to SC@FT, such as machine learning and data management. · Use best software engineering practices for sustainable development and maintenance. · Work with internal and external staff involved in the project during planning, development, management and maintenance of the software. · Assist in developing and maintaining the software’s documentation for continuity purposes, knowledge transfer and training for the SC@FT platform. Qualification: Diploma / Bachelor's Degree, Post Graduate Diploma Min. Years of Experience: 2 Years or graduates with very good track records, skills ; interest are welcome to apply. Essential Requirements: Has experience in scripting and programming languages, including: · Python, Shell, Javascript and/or Ruby · Java · Familiar with coding and scripting for user-interactive websites. · Understands webpage syntax, HTML and CSS. · Familiar with RESTful architectures and in developing and implementing REST APIs. · Good communication and inter-personal skills to work with other people to develop and manage software projects and its goals. · Take care of continuous professional development and be able to learn new skills as required. Desirable Requirements: Knowledge and use of machine learning frameworks such as TensorFlow or PyTorch. · Familiar in at least one database management system such as MySQL. · Familiar with or willing to learn, adopt and use the following open-source projects as and when required: · Open OnDemand · Open XDMod · SeldonIO MLServer · Apache/NGNIX · MySQL Knowledge of identity management and authentication mechanisms such as SAML, OAuth2, OpenID or LDAP. Has an interest in the concepts of HPC and scientific computing, for example: · HPC job schedulers such as SLURM and PBS Pro. · Performance measurement and profiling of applications. · Computing, storage and accelerator architectures for clusters and for scientific computing. Familiar with cloud computing and in public cloud platforms and features. Software engineering knowledge such as: · Development, testing and quality assurance. · Analysis of user requirements, software and code. · Maintenance and deployment for new and existing versions. · Assess new technologies and methods for implementation. · Coding standards. Familiar with best software engineering practices such as · CI/CD automation and software testing · Use of code tools such as make, git Has a track record in software engineering such as participation or management of Github/Gitlab software projects. · Has experience in the full development lifecycle of software products. · Has experience in software design and an understanding of object-oriented programming.",
+            "description": ". Manage Accounts/Finance related transactions, banking, invoicing, AP ; AR . Process, GL, account reconciliation, bank reconciliation, etc. . Ensure compliance with Accounting Standards ; best accounting practices. . Monthly Financial reporting. . Dealing in Import ; Export documentation ; related matters. . Handling of Taxation matters, including payments ; returns. . Liaise with government bodies on statutory compliances, licenses, approvals and government surveys and Tax authorities. . Work closely with senior leaders to analyze and interpret business performance from a financial perspective. . Support the full spectrum of Human Resource (HR) functions which includes recruitment, learning and development, appraisal and employees relation. Ensure compliance with MOM regulations and other related authority by HR personnel. . Support in Commercial matters. . Support in Administrative activities (clearing dues, helping in setting up meetings, managing office premises, etc.). . Manage general administrative office duties to ensure office processes run smoothly.",
             "datePosted": "2023-03-31",
             "salaryRange": {
                 "currency": "SGD",
-                "maxValue": 7800,
-                "minValue": 3900,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-software-engineer-acrc-astar-research-entities-49f2010809e7421b7a57a466dd0ab8dd?source=MCF&event=Search",
-            "uuid": "2a6f300d-05b2-4134-939b-53be370282dd"
-        },
-        {
-            "dueDate": "2023-04-07",
-            "jobTitle": "Software Engineer (Full-stack)",
-            "skills": [
-                "TestNG",
-                "Scalability",
-                "Cloud Computing",
-                "Critical Thinking",
-                "Agile",
-                "JavaScript",
-                "Agile Methodology",
-                "Attention to Details",
-                "SaaS",
-                "Angular",
-                "Team Player",
-                "Product Development"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": null
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/ab7a4e01b199b447937b31dca04352ae/adstify-search.jpg",
-                "name": "ADSTIFY SEARCH PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Our client is a Venture Capital backed, well-funded SaaS startup in Singapore. They are looking for a Software Engineer who wants to be deeply involved in the end-to-end delivery of a new software product. Responsibilities    Develop and deploy software systems that iteratively deliver business value across both back-end and front-end   Derive and implement non-functional requirements based on interactions with the product and business elements   Establish best practices for developing processes, technologies, coding practices and architectures   Maintain a DevOps culture and an Agile product development mindset in the technical team   Write and maintain unit tests to ensure robustness of the product   Debug and fix code based on customer incident reports and on errors found through internal testing   Assist in maintaining software infrastructure and ensure optimal availability of products / services   Assist in maintaining and upgrading the software architecture as new services are added to ensure ease of long-term development  Qualifications    2-6 years of experience in frontend and backend programming development   Experienced in using an Agile methodology / operating with a DevOps culture   Strong analytical mindset, attention to details, and critical thinking; entrepreneurial and solution-oriented   Strong team player with good communication and leadership skills   Experience in software architecture design and software infrastructure is a plus   Experience with high scalability SaaS systems built with microservices is a plus  What's next? If you're interested in this role, click APPLY or drop an email to don@adstifysearch.com Don Chan ﻿﻿Senior Consultant ﻿﻿EA Personnel Number: R1763146 ﻿﻿EA License Number: 20C0292",
-            "datePosted": "2023-03-31",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 10000,
-                "minValue": 6000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/software-engineer-adstify-search-fa656447861fd657bbaeab62684587fe?source=MCF&event=Search",
-            "uuid": "cb107aad-0a6b-422d-ab9e-7f49feab2a0e"
-        },
-        {
-            "dueDate": "2023-04-21",
-            "jobTitle": "Senior Software Engineer",
-            "skills": [
-                "Requirements Gathering",
-                "UAT",
-                "Web Services",
-                "CSS",
-                ".NET",
-                "C#.NET",
-                "JavaScript",
-                "SDLC",
-                "Information Technology",
-                ".NET Core",
-                "SQL",
-                "Team Lead",
-                "VB.NET",
-                "Angular",
-                "Web Applications",
-                "Java",
-                "Web API",
-                "C#",
-                "Project Delivery",
-                "Software Development"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "NCS HUB, 5 ANG MO KIO STREET 62"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/5ee0fd962bacc971bd92195a5bb21bd3/ncs.png",
-                "name": "NCS PTE. LTD."
-            },
-            "jobType": [
-                "CONTRACTOR",
-                "FULL_TIME"
-            ],
-            "description": "Are you looking for value adding and impactful work? Do you want to make a difference with your expertise?  With us, you’ll be able to make it happen.  NCS is a leading technology services firm, operating across Asia Pacific in over 20 countries, providing services and solutions in consulting, digital services, technology, and more.  We believe in utilizing the power of technology to make extraordinary things happen and to create lasting impact and value for our people, communities, and partners. Our diverse 12,000-strong workforce has delivered a wealth of large-scale, mission-critical, and multi-platform projects for governments and enterprises in Singapore and the APAC region.  What we do We drive our passion for harnessing technology. We bring people and technology together. We advance communities and transform industries.  We’re searching for a Senior Software Engineer to be part of our diverse team of talent here at NCS!  If you believe in going above and beyond, want to exemplify the best, and wish to bring people and technology together like never before, then we would love to have a conversation with you!  What we seek to accomplish together: Project Delivery    Analyse process/program specifications ; translate specifications to program codes, conforming to program guidelines and programming best practices   Make changes to configurable items, which include hardware, software, documentation, etc. It covers configuration management planning, configuration identification, configuration controls ; audits   Develop unit test package, execute tests ; document test results to ensure the quality of the program   Assist in the integration testing, system testing, User Acceptance Test (UAT) ; implementation activities to fix the reported problems/bugs of the system to ensure the smooth execution of programs in the production environment   Investigate all reported problems/errors ; initiate amendments ; testing so that the system can operate correctly ; efficiently   Prepare ; maintain up-to-date system documentation.   Analyse functional requirements to translate into application design using established design methodologies and guidelines   Ensure codes comply with NCS security guidelines  Teamwork    Work with team lead to ensure design and programme codes conform to architecture and design standards, and that design satisfies functional and system requirements   Participate in requirements gathering; work with Business Analysts in reviewing and refining functional specifications   Participate in peer reviews to improve project quality   A little about you:    Preferably 5-10 years’ experience with substantial project work in software development   Possess relevant system development / maintenance experience using .Net/Java-related technologies (such as but not limited to C#, ASP.Net, VB.Net, .Net Core, Web API, SQL Server Database, MySQL, HTML, CSS, JavaScript framework, Java GUI frameworks like Swing, SWT, AWT, RESTful Web Services, Struts, Spring, Angular   Possess initiative and disposition with a strong commitment and orientation towards results and high-quality standards   Strong problem-solving skills and ability to think out of the box   Team player with strong communication and interpersonal skills   Self-motivator with a positive attitude and with high energy   Customer focused   Proficient in written and spoken English   Diploma / Degree in Computer Science / Computer Engineering / Information Technology related field, or IT equivalent   Able to travel as required   What you might also need to have:    Knowledge on cloud technologies such as AWS and Microsoft Azure Cloud   Knowledge or experience in Outsystems   DevOps knowledge, understanding of major DevOps tools ",
-            "datePosted": "2023-03-22",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 10400,
-                "minValue": 5200,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-software-engineer-ncs-0942a59f09f712c55e37e9b39f985c1d?source=MCF&event=SuggestedJob",
-            "uuid": "6597e0bc-f92c-4094-87eb-05108b308f86"
-        },
-        {
-            "dueDate": "2023-04-30",
-            "jobTitle": "Senior Software Engineer (PHP)",
-            "skills": [
-                "MVC",
-                "Web Services",
-                "CSS",
-                "HTML",
-                "MySQL",
-                "JavaScript",
-                "Web Technologies",
-                "Database Administration",
-                "AJAX",
-                "Laravel",
-                "Database Design",
-                "Web Applications",
-                "Apache",
-                "Linux",
-                "Software Development"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "SINGAPORE POST CENTRE, 10 EUNOS ROAD 8"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/a3a7eed68ecbd5a355d9936d248b635c/activate-interactive.png",
-                "name": "ACTIVATE INTERACTIVE PTE LTD"
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Activate Interactive Pte Ltd (“Activate”) is a leading IT solution and service provider headquartered in Singapore with a presence in Malaysia and Indonesia. Our clients are empowered with quality, cost-effective, and impactful end-to-end application development, like mobile and web applications, and cloud technology that remove technology roadblocks and increase their business efficiency. We believe in positively impacting the lives of people around us and the environment we live in through the use of technology. Hence, we are committed to providing a conducive environment for all employees to realise their full potential, who in turn have the opportunity to continuously drive innovation. We are searching for our next team members to join our growing team. If you love the idea of being part of a growing company with exciting prospects in mobile and web technologies that create positive impact on people’s lives, then we would love to hear from you. We are looking for Senior Software Engineer (PHP) What will you do? · Develop online application, scripts and web services and provide end-user support to existing applications. · Perform requirements gathering, analysis and design and managing the projects, testing and training. · Manage, maintain and recommend the development platform used in the organization. · Involve in website updates and other ad-hoc software projects and IT activities. · Ensure proper documentation of applications developed, including change management. What are we looking for? · Degree/Diploma in Computer Science or Computer Engineering majoring in database design and software development · 3 years of working experience in Software Development. Good Knowledge in LAMP (Linux, Apache, MySQL and PHP), HTML, CSS, AJAX and JavaScript · Good Knowledge and experience in software life cycle management and database design. Experience in CakePHP, Laravel Framework and SVN/GIT · Knowledge in Oracle/MySQL database administration and other software languages and tools · Able to handle multiple projects and team management with internal users and vendors · Knowledge in software automation and deployment tools such as Jenkins · Good Knowledge in OutSystems development platform What do we offer in return? · Fun working environment · Employee Wellness Program Does it sound like something you are interested in exploring further? Please be in touch with our team for an initial chat at chi@activate.sg Activate Interactive Singapore is an equal opportunity employer. Employment decisions will be based on merit, qualifications and abilities. Activate Interactive Pte Ltd does not discriminate in employment opportunities or practices on the basis of race, colour, religion, sex, sexuality, national origin, age, disability, marital status or any other characteristics protected by law. Protecting your privacy and the security of your data are longstanding top priorities for Activate Interactive Pte Ltd. Your personal data will be processed for the purposes of managing Activate Interactive Pte Ltd’s recruitment related activities, which include setting up and conducting interviews and tests for applicants, evaluating and assessing the results, and as is otherwise needed in the recruitment and hiring processes. Please consult our Privacy Notice (https://www.activate.sg/privacy-policy) to know more about how we collect, use, and transfer the personal data of our candidates. Here you can find how you can request for access, correction and/or withdrawal of your Personal Data.",
-            "datePosted": "2023-03-31",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 10000,
-                "minValue": 5500,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-software-engineer-activate-interactive-4a296aa60674a8d7896dbe8b84ccc7ad?source=MCF&event=Search",
-            "uuid": "df9231d9-1e1d-4e71-89b7-330d5685bd20"
-        },
-        {
-            "dueDate": "2023-04-21",
-            "jobTitle": "Senior Frontend Software Engineer (ReactJS) - SPVR",
-            "skills": [
-                "ReactJS",
-                "CSS3",
-                "CSS",
-                "HTML",
-                "Translating",
-                "Software Engineering",
-                "Architects",
-                "JavaScript",
-                "HTML5",
-                "Web Technologies",
-                "User Interface",
-                "SQL",
-                "Ruby",
-                "Python",
-                "Web Applications",
-                "Java",
-                "API",
-                "Databases",
-                "React.js",
-                "Software Development"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": null
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/415cd155321ac5fb41291fdf2bf822c2/scientec-consulting.jpg",
-                "name": "SCIENTEC CONSULTING PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "We are looking for a Senior Software Engineer and experienced with Reactjs !   Job Description:    Working Hours: Monday - Friday (Office Hour)   Working Location: Tanjong Pagar   Salary Package: Up to $8k (Basic) + AWS + Performance Bonus   Working Mode: Hybrid (Flexible)  Job Responsibilities:    Develop, test, deploy, and maintain building user interface components and implementing them following React.js workflows   Provide vision, design and develop in keeping up to date and cutting-edge web technologies in building interactive web applications   Building reusable components and front-end libraries for future use   Translating designs into high quality code using Bootstrap, HTML5, CSS3 and WebSocket   API Integration with Restful services   Actively participate in all aspects of the software development process   Collaborate with other software engineers, business analysts and software architects to plan, design, develop, test, and maintain web-based business applications built on Java technologies   Job Requirements:    Degree in Computer Science or equivalent   5 years+ experience involving frontend development using ReactJS   2 years experience in leading a team of developers   Possess good experience developing web application, Web Forms and Enterprise Workflows   At least one backend language, like Java, Python, Ruby   If you are interest in this opportunity, kindly submit your application now to spvr@scientecpersonnel.com  Low Yong Wei (Wyman) - R1550983 ScienTec Consulting Pte Ltd - 11C5781",
-            "datePosted": "2023-03-31",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 8000,
-                "minValue": 6500,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-frontend-software-engineer-spvr-scientec-consulting-6ce111b8a552209efcb87a625ad05b0e?source=MCF&event=Search",
-            "uuid": "3498a02a-f432-48b0-ab35-c9ec086e7109"
-        },
-        {
-            "dueDate": "2023-04-30",
-            "jobTitle": "Software Testing Engineer",
-            "skills": [
-                "Performance Testing",
-                "Automation Testing",
-                "Software Engineering",
-                "Agile",
-                "Scripting",
-                "Test Cases",
-                "Test Automation",
-                "JIRA",
-                "Python",
-                "Software Testing",
-                "Writing",
-                "Selenium",
-                "Java",
-                "Software Development",
-                "Test Management"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": null
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/cc438f6df777519019475e9299375366/sparkle-networks.png",
-                "name": "SPARKLE NETWORKS PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Key Responsibilities:    Meeting with Development Managers to discuss software specifications and controls.   Designing manual and automated test procedures   Building, coding, and implementing software evaluation test programs.   Running test programs to ensure that testing protocols evaluate the software correctly.   Finalizing and documenting testing procedures.   Completing final tests and creating test reports.   Presenting test reports to management and suggesting software fixes.  Requirements:    Bachelor’s degree in computer science, software engineering, or similar field.   2 years’ work experience as a software testing engineer.   Experience in WEB/H5/APP function testing   Familiar with interface testing tools and interface testing methods   Experience in automated testing and performance testing is preferred.   Strong learning ability, seek continuous breakthrough and innovation   Effective communication and coordination skills with strong sense of responsibility  Salary will be commensurate with qualifications and experience.  For more information on our company, please visit http://sparkle.com.sg/",
-            "datePosted": "2023-03-31",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 4500,
-                "minValue": 3600,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/banking-finance/software-testing-engineer-sparkle-networks-d0a20568030ee3dc29e972d01f37853f?source=MCF&event=Search",
-            "uuid": "b75d6c8d-ad6c-4026-b0df-89b44425bc48"
-        },
-        {
-            "dueDate": "2023-04-30",
-            "jobTitle": "Senior Software Engineer (PHP) - HC017",
-            "skills": [
-                "Requirements Gathering",
-                "Web Services",
-                "CSS",
-                "HTML",
-                "MySQL",
-                "Application Development",
-                "JavaScript",
-                "Web Technologies",
-                "Database Administration",
-                "AJAX",
-                "Laravel",
-                "Database Design",
-                "Web Applications",
-                "Linux",
-                "Software Development"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "SINGAPORE POST CENTRE, 10 EUNOS ROAD 8"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/a3a7eed68ecbd5a355d9936d248b635c/activate-interactive.png",
-                "name": "ACTIVATE INTERACTIVE PTE LTD"
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Activate Interactive Pte Ltd (“Activate”) is a leading IT solution and service provider headquartered in Singapore with a presence in Malaysia and Indonesia. Our clients are empowered with quality, cost-effective, and impactful end-to-end application development, like mobile and web applications, and cloud technology that remove technology roadblocks and increase their business efficiency. We believe in positively impacting the lives of people around us and the environment we live in through the use of technology. Hence, we are committed to providing a conducive environment for all employees to realise their full potential, who in turn have the opportunity to continuously drive innovation. We are searching for our next team members to join our growing team. If you love the idea of being part of a growing company with exciting prospects in mobile and web technologies that create positive impact on people’s lives, then we would love to hear from you. We are looking for Senior Software Engineer (PHP)  Internal Code: HC017 What will you do? · Develop online application, scripts and web services and provide end-user support to existing applications. · Perform requirements gathering, analysis and design and managing the projects, testing and training. · Manage, maintain and recommend the development platform used in the organization. · Involve in website updates and other ad-hoc software projects and IT activities. · Ensure proper documentation of applications developed, including change management. What are we looking for? · Degree/Diploma in Computer Science or Computer Engineering majoring in database design and software development · 3 years of working experience in Software Development. Good Knowledge in LAMP (Linux, Apache, MySQL and PHP), HTML, CSS, AJAX and JavaScript · Good Knowledge and experience in software life cycle management and database design. Experience in CakePHP, Laravel Framework and SVN/GIT · Knowledge in Oracle/MySQL database administration and other software languages and tools · Able to handle multiple projects and team management with internal users and vendors · Knowledge in software automation and deployment tools such as Jenkins · Good Knowledge in OutSystems development platform What do we offer in return? · Fun working environment · Employee Wellness Program Does it sound like something you are interested in exploring further? Please be in touch with our team for an initial chat at chi@activate.sg Activate Interactive Singapore is an equal opportunity employer. Employment decisions will be based on merit, qualifications and abilities. Activate Interactive Pte Ltd does not discriminate in employment opportunities or practices on the basis of race, colour, religion, sex, sexuality, national origin, age, disability, marital status or any other characteristics protected by law. Protecting your privacy and the security of your data are longstanding top priorities for Activate Interactive Pte Ltd. Your personal data will be processed for the purposes of managing Activate Interactive Pte Ltd’s recruitment related activities, which include setting up and conducting interviews and tests for applicants, evaluating and assessing the results, and as is otherwise needed in the recruitment and hiring processes. Please consult our Privacy Notice (https://www.activate.sg/privacy-policy) to know more about how we collect, use, and transfer the personal data of our candidates. Here you can find how you can request for access, correction and/or withdrawal of your Personal Data.",
-            "datePosted": "2023-03-31",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 14000,
-                "minValue": 7500,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-software-engineer-hc017-activate-interactive-cc3575df3e9e08b967e4781f5e609fa8?source=MCF&event=Search",
-            "uuid": "982948a9-d39c-455d-b932-d6869a1d09f1"
-        },
-        {
-            "dueDate": "2023-04-30",
-            "jobTitle": "Software System Engineer",
-            "skills": [
-                "Performance Testing",
-                "Troubleshooting",
-                "Web Design",
-                "Kubernetes",
-                "Application Servers",
-                "Software Engineering",
-                "Scripting",
-                "Test Cases",
-                "Reliability",
-                "Python",
-                "Orchestration",
-                "System Deployment"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": null
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/ed52fe36990ce2e72df49ad94b6e31cc/red-dot-analytics.png",
-                "name": "RED DOT ANALYTICS PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Red Dot Analytics is looking for a Software System Engineer to join our team. The ideal candidate will be responsible for deploying, testing, maintaining, and integrating software systems. This role will work closely with the development team to ensure software quality, reliability, and performance. Responsibilities    Deploy and test software systems to ensure functionality and quality.   Develop and maintain system documentation and test cases.   Collaborate with the development team to integrate software components.   Troubleshoot and resolve system issues.   Conduct system performance and reliability testing.   Monitor system performance and implement improvements as needed.  Qualifications    Bachelor's degree in Computer Science, Software Engineering, or a related field.   Proven experience in software system deployment, testing, and maintenance.   Experience with programming and scripting languages, such as Python and Bash   Familiarity with DevOps practices and tools   Experience with system monitoring and performance testing tools.   Experience with cloud platforms such as AWS and containerization technologies like Kubernetes (k8s).   Knowledge in IoT or digital twins will be a plus.   Excellent problem-solving and troubleshooting skills.   Strong communication and collaboration skills.  Benefits    Competitive salary and benefits package.   Opportunity to work with cutting-edge technologies and projects.   Collaborative and dynamic work environment.   Opportunities for growth and career development.  About Red Dot Analytics Pte Ltd: Red Dot Analytics (RDA) Pte. Ltd., is a deep tech spin-off from Nanyang Technological University (NTU) Singapore that are pioneers in the industrial AI space. We envision to transform the applications of AI solutions to digitalise, optimise and automate physical operations and systems for businesses and organisations, beginning with data centres as our beachhead market. Our company is known for its award-winning cognitive twin solution and has been working with well-known data centre operators in the APAC market, ranging from hyperscale to colocation and enterprise data centre customers. Red Dot Analytics was co-founded by a team of professors and researchers from NTU and industry veterans from the infrastructure sectors. For more information, please visit www.rda.ai",
-            "datePosted": "2023-03-31",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 7000,
+                "maxValue": 6000,
                 "minValue": 4000,
                 "payPeriod": "MONTH"
             },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/software-system-engineer-red-dot-analytics-b61890d6581a3c586513da2d842f2f5a?source=MCF&event=Search",
-            "uuid": "b06ec1cb-b50c-495a-ba26-125b9cc7d2ba"
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/accounting/accountant-oncod-55006959b4657317943686bb44b6fb9c?source=MCF&event=Search",
+            "uuid": "3d3e1c5a-5f5f-4b01-ae9f-556199a3efd8"
         },
         {
             "dueDate": "2023-04-30",
-            "jobTitle": "Software Engineer (Hybrid WFH/ Good Career Progression) JO",
+            "jobTitle": "Accountant",
             "skills": [
-                "Requirements Gathering",
-                "UAT",
-                ".NET",
-                "Software Engineering",
-                "JavaScript",
-                "SDLC",
-                "SQL",
-                "Application Support",
-                "Python",
-                "User Acceptance Testing",
-                "Presentation Skills",
-                "Web Applications",
-                "System Integration Testing",
-                "Java",
-                "C#",
-                "Software Development"
+                "Forecasting",
+                "External Audit",
+                "Microsoft Excel",
+                "Strong Attention To Detail",
+                "Dynamics",
+                "Interpersonal Skills",
+                "Tax",
+                "Financial Transactions",
+                "PowerPoint",
+                "Accounting",
+                "Compliance",
+                "Budgeting",
+                "Team Player",
+                "Regulatory Requirements"
             ],
             "location": {
                 "country": "SG",
                 "locality": "Singapore",
-                "address": null
+                "address": "LUXASIA BUILDING, 12 TAI SENG STREET"
             },
             "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/520ad499e341ed679f2bff9541649f36/search-index.jpg",
-                "name": "SEARCH INDEX PTE. LTD."
+                "logo": null,
+                "name": "Faith Community Baptist Church"
             },
             "jobType": [
                 "FULL_TIME"
             ],
-            "description": "Software Engineer (Hybrid WFH/ Good Career Progression)  • Attractive Bonus + Attractive Benefits • Entry-level welcome to apply. Training will be provided. • 5 Days work week (Hybrid WFH Module) • Permanent Role  Responsibility:    Responsible for Software Development Life Cycle (SDLC); Involved in IT Project requirements gathering and analysis for development / implementation of new systems and enhancements to existing systems.   Involvement in the system integration testing (SIT) and user acceptance testing (UAT) prior to production implementation of changes and design ; development/coding of software.   Provide on-going application support and be involved in various stages of the SDLC.  Requirement:    Minimum Diploma / Degree in computer science/IT or related certifications   Entry-level welcome to apply. Training will be provided.   Meticulous and excel under pressure ; deadlines   Candidates with more relevant experience will be considered for the Senior Analyst or even PM position  How to apply Interested candidates who wish to apply for the post, you may send in your updated resume (in MS Word format) to search77@searchindex.com.sg  We regret to inform that only shortlisted candidates will be notified.  Ooi Chuan Yi (Jacky) EA License | 14C7092 EA Registration Number | R1871737",
+            "description": "Organisation/Department Summary/Chart Reports to the Assistant Finance Manager Job Purpose: Primary Responsibilities · Prepares financial reports for general management use · Maintains company journals and ledgers · Performs reconciliations of company financial data, researches variances, and adjusts as needed · Enters, reviews, and/or approves financial transactions in company financial systems · Interprets and analyses financial reports for organisation management · Assist in the budgeting and forecasting process · Assists with special projects as assigned · Performs other duties as assigned Duties and Responsibilities: · Able to handle full set of accounts · Ensure timely and accurate financial and management reporting · Assist in the budgeting and forecasting process · Assist with internal or/and external audit · Assist to develop and implement the accounting procedures and policies · Ensure compliance with local statutory, tax, and regulatory requirements · Review and improve workflow · Liaise with bankers, external and internal auditors, tax and secretarial agents · Any other ad-hoc projects Requirements: Education/Professional Qualification · Degree in Accountancy or equivalent with minimum 3 to 5 years of relevant experience · Chartered Accountant certification preferred Preferred Skills/Experience · Good written and verbal communication skills · Strong attention to detail and ability to meet deadlines · Ability to analyse data and make suggestions for adjustment or process improvements · Proficient in Microsoft Excel, Word, and PowerPoint · Microsoft Dynamics 365 Business Central experience is preferred · Good interpersonal skills and a team player",
             "datePosted": "2023-03-31",
             "salaryRange": {
                 "currency": "SGD",
-                "maxValue": 8500,
-                "minValue": 4500,
+                "maxValue": 3500,
+                "minValue": 3100,
                 "payPeriod": "MONTH"
             },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/software-engineer-jo-search-index-08a58b288c5ab9109c2ad7cd8b9444db?source=MCF&event=Search",
-            "uuid": "d6840785-1c50-4ec7-ae0f-2ceb61ebc688"
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/accounting/accountant-faith-community-baptist-church-a3348c50ae89ced24446599db4e1d857?source=MCF&event=Search",
+            "uuid": "710250ac-7b3e-4fe7-9beb-2e760790a0cf"
+        },
+        {
+            "dueDate": "2023-04-21",
+            "jobTitle": "Accountant",
+            "skills": [
+                "Outlook",
+                "Accounts Payable",
+                "Microsoft Office",
+                "Microsoft Excel",
+                "Interpersonal Skills",
+                "Tax",
+                "Payroll",
+                "Accounting",
+                "Financial Statements",
+                "Customer Oriented",
+                "Excel",
+                "Team Player",
+                "Audit",
+                "Financial Reporting"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "TUAS COVE INDUSTRIAL CENTRE, 53K TUAS SOUTH AVENUE 1"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/5defcc70e0858cbf731c63433d8a2b98/niu-bros-singapore.png",
+                "name": "NIU BROS SINGAPORE PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Job Description (Duties and responsibilities):    Assist to Account Manager.   Prepare claim, quotation, PO, invoice and follow up.   Communicating with clients regarding billing and payments.   Handle and prepare full sets of accounts.   Maintaining client relationships.   At least one year' experience in a similar role.   Working hour: Mon-Fri, 0900 am-1830 pm.  Requirement:    Minimum “O” Level or ITE. Fresh graduate may apply.   Hardworking and willing to learn attitude.   Customer oriented, good communication and interpersonal skill.   Proficient in use of Excel, Word and Outlook.   Work well in a team. ",
+            "datePosted": "2023-03-31",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 4000,
+                "minValue": 2000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/accounting/accountant-niu-bros-singapore-e37051cd766133ffb3a0d67ee2b56400?source=MCF&event=Search",
+            "uuid": "7eb7b983-dfd0-4f49-94f2-794ee75c246e"
+        },
+        {
+            "dueDate": "2023-04-30",
+            "jobTitle": "Account Executive / Senior Account Executive",
+            "skills": [
+                "Vendor Relationships",
+                "Accounts Payable",
+                "Ability To Work Independently",
+                "Consolidation",
+                "Interpersonal Skills",
+                "Tax",
+                "Job Descriptions",
+                "Accounting System",
+                "Bank Reconciliation",
+                "Accounts Receivable",
+                "General Ledger",
+                "Accounting",
+                "Financial Statements",
+                "Xero",
+                "Banking",
+                "Accounting Standards",
+                "Cash Flow",
+                "Tax Returns",
+                "Audit"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "ROYAL GROUP BUILDING, 3 PHILLIP STREET"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/aa2d5eb7159d52406390c70dae85c707/lotusia.png",
+                "name": "LOTUSIA PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Job Highlights    Fun Working Environment   Attractive Remuneration Package   Career Development Opportunity  Job Description We are an energetic team who are looking for a candidate passionate about continuous learning and pursue career development.  Why Join Us?    Leadership opportunity   Open discussion work environment   Gain career exposure   Career development opportunity   Work life balance   Company activities: Movie Day, company trip, etc...  Job Descriptions    Prepare and maintain full sets of accounts   Prepare monthly financial and management reports for companies   Consolidate accounts and ensure compliance with accounting standards   Support audit and tax queries   Compute taxes and prepare tax returns   Liaise with banks on banking transactions   Assist in annual budgeting, monitor cash flow   Publish financial statements in time   Report on the company’s financial health and liquidity   Coordinate and liaise with internal parties to support intercompany activities   Answer client's enquiries on accounting/ tax field   Handle tax, withholding tax and gst submission   Identify areas for improvement and implement improvements to processes  Requirements    Bachelor Degree in Accounting ; Finance or equivalent   At least 2-3 years of experience in accounting ; finance   Experience in Singapore tax, gst and witholding tax   Bilingual with proficiency in Mandarin preferred to liaise with Mandarin speaking client   Strong understanding of accounting principles   Ability to work independently with a high degree of accuracy and efficiency   Experience in accounting and secretarial services would be an advantage   Proficiency in accounting software: Xero Accounting would be an advantage   Able to work immediately or 1 month notices  Working Hours: Monday - Friday 9:30am - 6:00pm Location: Raffles Place  Interested candidate may submit your latest resume to lotusia.recruitment@gmail.com",
+            "datePosted": "2023-03-31",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 4200,
+                "minValue": 3000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/accounting/account-executive-senior-account-executive-lotusia-f191fabc99ed1b368db3bce24af049a4?source=MCF&event=Search",
+            "uuid": "b044d53f-7ea9-4e0d-9064-10ba1f676f77"
+        },
+        {
+            "dueDate": "2023-04-30",
+            "jobTitle": "Senior Accountant",
+            "skills": [
+                "Forecasting",
+                "Accounts Payable",
+                "Tax",
+                "ERP",
+                "Journal Entries",
+                "CPA",
+                "Accounting System",
+                "Internal Controls",
+                "SAP",
+                "General Ledger",
+                "Accounting",
+                "Financial Statements",
+                "Audits",
+                "Budgeting",
+                "Accounting Standards",
+                "Financial Reporting"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "KA Centre, 150 Kampong Ampat"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/4f69aeb52245a38ba45665455ec8a8a3/stulz-singapore.jpg",
+                "name": "STULZ SINGAPORE PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "As the Regional Senior Accountant for Asia, you will be responsible for overseeing the financial management and reporting of the organization's operations in the Asia region. You will ensure that all financial transactions are recorded accurately, in compliance with applicable accounting standards, and that all financial processes are efficient and effective.  Key Responsibilities: - General Accounting: Oversee and ensure the accuracy of the organization's day-to-day financial transactions, including accounts payable, accounts receivable,  general ledger accounting, and quarterly GST reports for IRAS filing.  Accounts Receivable: o Manage the accounts receivable process, including invoicing, collections, and customer account reconciliations. o Ensure the accurate and timely recording of all accounts receivable transactions in the accounting system, and reconcile accounts receivable to the general ledger. o Work with Stulz subsidiaries, partners in countries, or any customer accounts to resolve any billing disputes or discrepancies.  General Ledger Accounting: o Ensure the accurate and timely recording of all financial transactions in the general ledger, including journal entries, accruals, and prepayments. o Reconcile all balance sheet accounts on a monthly basis, investigate and resolve any discrepancies. o Assist with the preparation of monthly, quarterly, and annual financial statements, ensuring compliance with local and international accounting standards.  - Financial Reporting: Ensure the timely and accurate preparation of financial statements, including profit and loss, balance sheets, and cash flow statements, in compliance with local and international accounting standards. - Budgeting and Forecasting: Work with Asia local and regional teams to develop and implement annual budgets and forecasts, providing insights and analysis to support decision-making. - Internal Controls: Ensure that all financial processes and procedures are in compliance with the organization's internal control policies, and identify areas for improvement. - Tax Compliance: Work with external tax partner to ensure compliance with all relevant tax regulations, including preparing and filing tax returns, and providing support during tax audits. - Audit Management: Work with external auditors to ensure the timely and accurate completion of annual audits, and provide support during audit-related inquiries. - ERP system: Oversee the ERP system to ensure that it is functioning optimally and meeting the financial needs of the organization.  Key Requirements: · Bachelor's degree in Accounting, Finance, or related field. · Professional accounting certification (e.g. CPA, CA, ACCA) preferred. · Minimum of 8 years of experience in accounting, with at least 3 years of experience in a senior accounting role. · Strong understanding of accounting principles, regulations, and practices. · Experience with financial management software, such as SAP or Oracle will be a plus. · Excellent analytical skills, with the ability to provide insights and recommendations based on financial data. · Strong communication skills, with the ability to effectively communicate financial information to non-financial stakeholders.",
+            "datePosted": "2023-03-31",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 6500,
+                "minValue": 6000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/accounting/senior-accountant-stulz-singapore-13a6d7b6c67c777716e4643ec29f9747?source=MCF&event=Search",
+            "uuid": "b7e06e4c-597e-4ed6-8055-3e198778fcb9"
+        },
+        {
+            "dueDate": "2023-04-30",
+            "jobTitle": "ACCOUNTS ASSISTANT",
+            "skills": [
+                "Accounts Payable",
+                "Microsoft Office",
+                "Microsoft Excel",
+                "Analytical Skills",
+                "Tax",
+                "Data Entry",
+                "Bank Reconciliation",
+                "MS Office",
+                "Accounting",
+                "Financial Statements",
+                "Bookkeeping",
+                "Team Player",
+                "Disposition",
+                "Audit",
+                "Able To Work Independently"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "TRIVEX, 8 BURN ROAD"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/7fff7b6f3065a5fd0d666ad7b992d452/s-c-mohan-pac.PNG",
+                "name": "S C MOHAN PAC"
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Responsibilities:     Handle full sets of accounts   Handle accounting assignments independently   Perform monthly accounts closing and relevant reports   Maintain accounting files and records   Assist in preparing financial statements and schedules   Handle tax filing for corporate clients   Assist with GST filings / registration   Ensuring timely completion of audit / accounts and ensuring meeting monthly budget / billing  Requirements:     A recognized degree in accountancy / professional qualification from an international accounting Institute   At least 1-year working experience in audit or accounting field   Bookkeeping knowledge   Strong analytical skills, resourceful, able to work independently and as a team player   Committed to work under tight deadlines   Good command of English with strong inter-personal and communications skill   Eye for details   Computer literate and proficient in MS Office   Pleasant disposition   Candidate seeking long term employment ",
+            "datePosted": "2023-03-31",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 4000,
+                "minValue": 2000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/accounting/accounts-assistant-s-c-mohan-pac-53a84a184a82cc8cde1ff2f13d914dca?source=MCF&event=Search",
+            "uuid": "2b07a7ae-2d8b-4181-af41-e7644235c1ca"
+        },
+        {
+            "dueDate": "2023-04-14",
+            "jobTitle": "Accounting Manager",
+            "skills": [
+                "Negotiation",
+                "Account Management",
+                "Microsoft Excel",
+                "Interpersonal Skills",
+                "Selling",
+                "Strategy",
+                "MS Office",
+                "Accounting",
+                "Attention to Detail",
+                "Bookkeeping",
+                "Presentation Skills",
+                "Customer Satisfaction",
+                "Team Player",
+                "Business Development",
+                "Databases"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "INTERNATIONAL PLAZA, 10 ANSON ROAD"
+            },
+            "company": {
+                "logo": null,
+                "name": "KGM GROUP PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "   Proven working experience as Accounting Manager, Accounting Supervisor or Finance Manager   Advanced computer skills on MS Office, accounting software and databases   Ability to manipulate large amounts of data   Proven knowledge of bookkeeping and accounting principles, practices, standards, laws and regulations   High attention to detail and accuracy   Ability to direct and supervise   BS degree in Accounting or Finance ",
+            "datePosted": "2023-03-31",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 12000,
+                "minValue": 8500,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/wholesale-trade/accounting-manager-kgm-group-f88d8ed79befbaa3e6538bd3b72a4ade?source=MCF&event=Search",
+            "uuid": "c36611aa-005f-4f9f-b519-d0e92c6c77f8"
+        },
+        {
+            "dueDate": "2023-04-20",
+            "jobTitle": "Account Executive",
+            "skills": [
+                "Forecasting",
+                "Accounts Payable",
+                "Tax",
+                "Selling",
+                "Bank Reconciliation",
+                "General Ledger",
+                "Accounting",
+                "Financial Statements",
+                "Bookkeeping",
+                "Cash Management",
+                "Excel",
+                "Team Player",
+                "Cash Flow",
+                "Audit",
+                "Able To Work Independently"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "SUNRAY BUILDING, 9 SUNGEI KADUT STREET 3"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/63f27c9e5454156f9a481b6eb48e43e2/sunray-woodcraft-construction.jpg",
+                "name": "SUNRAY WOODCRAFT CONSTRUCTION PTE LTD"
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "· Day to day preparation of full set of accounts (AR, AP ; GL); · Prepare and maintain bank reconciliations, Prepare statement of accounts, Follow up on collection matters.      Maintain ; reconcile accounts payable accounts; · On time preparation of financial statements and reporting; · Assists in the preparation of financial statements within specific timelines; · Assists in cash management ensuring that there is positive cash flow through prompt collection of receivables   and effective cash forecasting; · Responsible for preparation and maintenance of general ledgers; · Updates, maintains and reports on fixed asset listing; · Preparation of monthly sales reports and accounts receivables; · Assists in maintaining bookkeeping; · Carries out intercompany reconciliation in a timely manner; · Allocation of costs to respective project accounts; · Prepares monthly salary and wages for General Ledger purpose and allocation of manpower costs to respective     project accounts; · Prepares GST reports; · Updates and maintains accounts payable file; · Any other duties as assigned.",
+            "datePosted": "2023-03-21",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 5000,
+                "minValue": 2500,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/accounting/account-executive-sunray-woodcraft-construction-8e80efffed933b6414ae0ea4736861b8?source=MCF&event=SuggestedJob",
+            "uuid": "60d8fb99-19be-476a-b9e7-4558ba11b81b"
+        },
+        {
+            "dueDate": "2023-04-14",
+            "jobTitle": "Account Assistant",
+            "skills": [
+                "Accounts Payable",
+                "Microsoft Office",
+                "Microsoft Excel",
+                "Tax",
+                "Accounting System",
+                "Auditor",
+                "Data Entry",
+                "Bank Reconciliation",
+                "Accounts Receivable",
+                "Physically Fit",
+                "Accounting",
+                "Accpac",
+                "Audit"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "WOODLANDS INDUSTRIAL PARK E, 34 WOODLANDS INDUSTRIAL PARK E5"
+            },
+            "company": {
+                "logo": null,
+                "name": "MILLIONBUILT PTE LTD"
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Responsibilities    Prepare quarterly GST return   Preparing of monthly schedules and reconciliationof G/L   Monthly bank reconciliation   Preparing of auditor schedules and liaise with auditor   Monthly management report   AR ; AP Transaction, data entries and checking entries   Answering phones   Reconciling of Creditors accounts   Any adhoc duties related to accounts  Requirements    Diploma in Accountancy/LCCI with experience in accounts an advantages   At least one year working experience / Fresh graduate may apply   Positive working attitude and responsibility   Physically fit and able to work in fast paced environment, reliable, initative and hardworking   Preferably knowledge in Accpac accounting system or equivalent   Computer literate and knowledge in Microsoft office ",
+            "datePosted": "2023-03-31",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 2800,
+                "minValue": 2000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/accounting/account-assistant-millionbuilt-5af5df26e8a7979fa7069a7455e5fa92?source=MCF&event=Search",
+            "uuid": "8fe3c1b3-02e9-4ff6-82d6-f6a6c46902ef"
+        },
+        {
+            "dueDate": "2023-04-24",
+            "jobTitle": "Accountant",
+            "skills": [
+                "Account Reconciliation",
+                "Forecasting",
+                "Tax",
+                "Invoicing",
+                "MS Office",
+                "PowerPoint",
+                "Accounting",
+                "Good Communication Skills",
+                "Financial Statements",
+                "Audits",
+                "Bookkeeping",
+                "Budgeting",
+                "Financial Closing",
+                "Able To Work Independently",
+                "Financial Reporting"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "MARINA BAY FINANCIAL CENTRE, 10 MARINA BOULEVARD"
+            },
+            "company": {
+                "logo": null,
+                "name": "CORPBOND INVESTMENTS PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Responsibilities    Manage bookkeeping works such as invoicing, data entries, payments      and filing;   Prepare monthly management financial statements;   Prepare annual financial reports;   Responsible for accounting tasks, including AP ; AR process, GL,      account reconciliation, etc;   Ensure timely and accurate financial reporting to the Management;   Support forecasting and budgeting exercise as per company guidelines;   Coordinate and liaise with external parties like external auditors,      tax agents, corporate secretarial agents, local tax and government      authorities where required;   Support and ensure compliance with all finance filing requirements,      tax filing requirement, audits, procedures and forms for both statutory      and internal;   Support related companies’ financial closing and reporting;   Perform any other duties as assigned;  Requirements    Minimum Diploma holder in Accountancy   Able to handle full set of accounting and statutory reporting   Minimum 2 years of working experience in Accounting Field   Well-versed in MS Office, such as MS Excel, PowerPoint and Word   Good communication skills in English and Mandarin   Able to work independently and deliver to deadlines   Meticulous and well-organised   Positive attitude, driven and passionate about work ",
+            "datePosted": "2023-03-25",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 5000,
+                "minValue": 3000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/accounting/accountant-corpbond-investments-576175bed6d5d1532253afde55bb8066?source=MCF&event=Search",
+            "uuid": "b57bfffe-8a27-4950-92f4-9808469af66e"
+        },
+        {
+            "dueDate": "2023-04-16",
+            "jobTitle": "Accountant / Account Executive",
+            "skills": [
+                "Accounts Payable",
+                "Microsoft Office",
+                "Microsoft Excel",
+                "Construction",
+                "Consolidation",
+                "Tax",
+                "Corporate Tax",
+                "ISO",
+                "Accounting System",
+                "Accounts Receivable",
+                "Accounting",
+                "Budgeting",
+                "Cash Flow",
+                "Audit",
+                "Able To Work Independently"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "15 SOON LEE ROAD"
+            },
+            "company": {
+                "logo": null,
+                "name": "ZHENGDA CORPORATION PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Accountant / Account Executive Job Description · Preparing and issuing payments to creditors · Preparing monthly cash flow schedules and budgeting · Filing and organizing of document in accordance with ISO requirement · Manage full set accounts · Ensure timely preparation of monthly. Quarterly and yearly consolidation of financial reports for management and statutory reporting · Assist with related area such as statutory audit, corporate tax and submit GST · Involve in annual budgeting. Including detailed review and analysis of the budget submitted · To supervise junior executives, provide assistance and guidance to them in executing their duties · PIC Claim · Ad-hoc projects as required Job Requirements    Degree in accountancy   Minimum 3 years of experience in construction company   prior audit background will be an advantage   process good communications skills in English ; mandarin   Strong analytical and problem-solving skills   Able to work independently   Able to start work immediately ",
+            "datePosted": "2023-03-17",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 5800,
+                "minValue": 3000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/accounting/accountant-account-executive-zhengda-corporation-54412275040c1ee64f49c9f57b0c1756?source=MCF&event=Search",
+            "uuid": "db750cbd-cecd-43ff-8f02-12b54b72022a"
+        },
+        {
+            "dueDate": "2023-04-11",
+            "jobTitle": "Accountant",
+            "skills": [
+                "Budgets",
+                "Accounts Payable",
+                "Microsoft Office",
+                "Microsoft Excel",
+                "IRAs",
+                "Tax",
+                "Cash Flow Management",
+                "Bank Reconciliation",
+                "Accounts Receivable",
+                "Accounting",
+                "Capital",
+                "Team Player",
+                "Audit",
+                "Able To Work Independently"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "SPRINGLEAF TOWER, 3 ANSON ROAD"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/50d427e9524c77940bc702791cf93115/chemone-holdings.jpg",
+                "name": "CHEMONE HOLDINGS PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Job Description:    Handle both accounts receivable and accounts payable function   Performing  general accounts duties, reconcile the accounts receivable ledger that all payments are accounted for and properly posted   Processing transaction, issuing checks, updating legers, budgets   Prepare monthly, quarterly, and annual management accounts   Accounting for, preparing and submitting GST returns   Working capital and cash flow management   Monitor weekly and monthly cash flows   Preparing Inter-company reconciliation ; bank reconciliation statement and resolving open items   Coordination with IRAS for tax matters   Coordinate with regional/branch offices   Assisting with audit, general administrative duties or any ad-hoc duties as assigned by superior  Job Requirements:    Diploma in Accountancy / Diploma in Commerce or any other equivalent qualification   At least 2 -3 years of basic accounting experience   Expert knowledge in Microsoft Office such as excel and word   Strong knowledge of compliance   Basic accounting experience   Meticulous, responsible and good team player   Able to work independently ",
+            "datePosted": "2023-03-21",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 3800,
+                "minValue": 3500,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/accounting/accountant-chemone-holdings-f1f5e3531c7336370f2671e1ac1649a5?source=MCF&event=Search",
+            "uuid": "a6619f03-55fd-44ed-ab05-d0c3b96617cd"
+        },
+        {
+            "dueDate": "2023-04-27",
+            "jobTitle": "Accountant",
+            "skills": [
+                "Forecasting",
+                "Accounts Payable",
+                "Microsoft Office",
+                "Microsoft Excel",
+                "Valuation",
+                "Tax",
+                "Journal Entries",
+                "Financial Transactions",
+                "Internal Controls",
+                "Accounting",
+                "Financial Statements",
+                "Income Tax",
+                "Fraud",
+                "Budgeting",
+                "Capital",
+                "Audit"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "82 JOO CHIAT ROAD"
+            },
+            "company": {
+                "logo": null,
+                "name": "THE ORIGINAL VADAI PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "~ Prepare accurate and timely financial statements. ~ Calculate taxable income and the income tax liabilities of the organisation. ~ Calculate the cost of different types of capital financial instruments and the overall costs of capital for the organisation. ~ Compile accurate tax-related information for the organisation. ~ Compute the valuation of business and financial assets using different models. ~ Ensure the respective privileges and rights are in place within the accounting information system for users with different job roles and functions. ~ Extract data and provide analysis for management using relevant accounting information systems or software. ~ Implement policies and procedures with emphasis on internal controls to prevent possible fraud and errors. ~ Maintain accurate journal entries and allocations. ~ Manage accounts payable and receivables to help the organisation determine working capital needs and funding strategies. ~ Operate accounting information systems efficiently and effectively. ~ Participate in budgeting and forecasting activities. ~ Plan and coordinate the annual financial audit process. ~ Prepare asset, liability, and capital account entries by compiling and analysing account information. ~ Prepare financial statements and disclosure notes. ~ Provide accurate and timely tax and financial reports to the relevant authorities. ~ Provide data in relation to assets, capital rationing and cost of capital. ~ Reconcile accounts and provide analysis for the organisations financial transactions. ~ Resolve issues and deficiencies arising from audit findings. ~ Respond to internal and external auditors on audit data, variances and audit findings.",
+            "datePosted": "2023-03-28",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 9000,
+                "minValue": 6000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/accounting/accountant-original-vadai-9303f3be8126aecc6169022e99414610?source=MCF&event=Search",
+            "uuid": "3955562e-97ad-4bfb-a5a1-655fbd2e9129"
+        },
+        {
+            "dueDate": "2023-04-27",
+            "jobTitle": "Accountant / Account Executive",
+            "skills": [
+                "Accounts Payable",
+                "Microsoft Office",
+                "Microsoft Excel",
+                "Construction",
+                "Consolidation",
+                "Tax",
+                "Corporate Tax",
+                "ISO",
+                "Accounting System",
+                "Accounts Receivable",
+                "Accounting",
+                "Budgeting",
+                "Cash Flow",
+                "Audit",
+                "Able To Work Independently"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "15 SOON LEE ROAD"
+            },
+            "company": {
+                "logo": null,
+                "name": "ZHENGDA ENGINEERING PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Job Description · Preparing and issuing payments to creditors · Preparing monthly cash flow schedules and budgeting · Filing and organizing of document in accordance with ISO requirement · Manage full set accounts · Ensure timely preparation of monthly. Quarterly and yearly consolidation of financial reports for management and statutory reporting · Assist with related area such as statutory audit, corporate tax and submit GST · Involve in annual budgeting. Including detailed review and analysis of the budget submitted · To supervise junior executives, provide assistance and guidance to them in executing their duties · PIC Claim · Ad-hoc projects as required Job Requirements    Degree in accountancy   Minimum 3 years of experience in construction company   prior audit background will be an advantage   process good communications skills in English ; mandarin   Strong analytical and problem-solving skills   Able to work independently ",
+            "datePosted": "2023-03-28",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 5500,
+                "minValue": 3000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/accounting/accountant-account-executive-zhengda-engineering-957a66cc6a83002f1dc18245cae6642d?source=MCF&event=Search",
+            "uuid": "94f97db5-c1f4-4ce5-b813-242bfe262095"
+        },
+        {
+            "dueDate": "2023-04-16",
+            "jobTitle": "Accountant / Account Executive",
+            "skills": [
+                "Accounts Payable",
+                "Microsoft Office",
+                "Microsoft Excel",
+                "Construction",
+                "Consolidation",
+                "Tax",
+                "Corporate Tax",
+                "ISO",
+                "Accounting System",
+                "Accounts Receivable",
+                "Accounting",
+                "Budgeting",
+                "Cash Flow",
+                "Audit",
+                "Able To Work Independently"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "15 SOON LEE ROAD"
+            },
+            "company": {
+                "logo": null,
+                "name": "GOLDEN TRIUNITY CONSTRUCTION PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Job Description · Preparing and issuing payments to creditors · Preparing monthly cash flow schedules and budgeting · Filing and organizing of document in accordance with ISO requirement · Manage full set accounts · Ensure timely preparation of monthly. Quarterly and yearly consolidation of financial reports for management and statutory reporting · Assist with related area such as statutory audit, corporate tax and submit GST · Involve in annual budgeting. Including detailed review and analysis of the budget submitted · To supervise junior executives, provide assistance and guidance to them in executing their duties · PIC Claim · Ad-hoc projects as required Job Requirements    Degree in accountancy   Minimum 3 years of experience in construction company   prior audit background will be an advantage   process good communications skills in English ; mandarin   Strong analytical and problem-solving skills   Able to work independently ",
+            "datePosted": "2023-03-17",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 7500,
+                "minValue": 3800,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/accounting/accountant-account-executive-golden-triunity-construction-ac42a6b22ae8826a8fa8de99938da94c?source=MCF&event=Search",
+            "uuid": "93ac090f-17be-488d-a6a6-7aa4cce7209b"
         }
     ]
 }

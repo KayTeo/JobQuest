@@ -64,6 +64,7 @@ export default function Modal({ setIsOpen, userID, defaultData }) {
                             className="w-36 rounded-lg border border-black px-2 font-normal"
                             defaultValue={defaultData.company.name}
                             required
+                            pattern=".*\S+.*"
                         ></input>
                     </div>
                     <div className="flex flex-col items-start">
@@ -73,6 +74,7 @@ export default function Modal({ setIsOpen, userID, defaultData }) {
                             className="w-36 rounded-lg border border-black px-2 font-normal"
                             defaultValue={defaultData.jobTitle}
                             required
+                            pattern=".*\S+.*"
                         ></input>
                     </div>
                     <div className="flex flex-col items-start">
@@ -82,6 +84,7 @@ export default function Modal({ setIsOpen, userID, defaultData }) {
                             className="w-36 rounded-lg border border-black px-2 font-normal"
                             defaultValue={defaultData.location.locality}
                             required
+                            pattern=".*\S+.*"
                         ></input>
                     </div>
                     <div className="flex flex-col items-start">
