@@ -1,6 +1,9 @@
 "use client";
 import { BriefcaseIcon } from "@heroicons/react/24/outline";
-import { ChevronLeftIcon, ChevronRightIcon } from "@heroicons/react/20/solid";
+import {
+    ChevronDoubleLeftIcon,
+    ChevronDoubleRightIcon,
+} from "@heroicons/react/20/solid";
 import Skill from "@/components/Skill";
 import { motion } from "framer-motion";
 
@@ -45,12 +48,9 @@ export default function SmallCard({
                 className={`${className} flex h-[300px] w-[300px] items-center justify-between gap-2 rounded-2xl bg-dark-500 p-3 text-white shadow-lg md:w-[600px]`}
             >
                 <div className="flex flex-col items-center justify-center">
-                    <button
-                        onClick={nextCard}
-                        className="flex h-10 w-10 items-center justify-center rounded-full border border-white pr-1 shadow-sm hover:bg-accent-300 md:h-14 md:w-14"
-                    >
-                        <ChevronLeftIcon />
-                    </button>
+                    <div className="flex h-10 w-10 items-center justify-center md:h-14 md:w-14">
+                        <ChevronDoubleLeftIcon />
+                    </div>
                     <div className="text-sm font-bold md:text-base">Next</div>
                 </div>
                 <div className="flex h-full w-[180px] flex-col items-center justify-between gap-5 md:w-[400px]">
@@ -130,15 +130,9 @@ export default function SmallCard({
                     </button>
                 </div>
                 <div className="flex flex-col items-center justify-center">
-                    <button
-                        onClick={() => {
-                            moveToWishList(userID, data);
-                            nextCard();
-                        }}
-                        className="flex h-10 w-10 items-center justify-center rounded-full border border-white pl-1 shadow-sm hover:bg-accent-300 md:h-14 md:w-14"
-                    >
-                        <ChevronRightIcon />
-                    </button>
+                    <div className="flex h-10 w-10 items-center justify-center md:h-14 md:w-14">
+                        <ChevronDoubleRightIcon />
+                    </div>
                     <div className="text-sm font-bold md:text-base">Add</div>
                 </div>
             </div>
