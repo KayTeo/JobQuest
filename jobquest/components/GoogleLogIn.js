@@ -56,7 +56,7 @@ export default function GoogleLogIn({ text }) {
 
     return (
         <button
-            className="w-40 rounded-full bg-accent-500 p-2 text-sm font-semibold text-white hover:bg-accent-700"
+            className="h-9 w-40 rounded-full bg-accent-500 p-2 text-sm font-semibold text-white hover:bg-accent-700"
             onClick={signInWithGoogle}
         >
             {text}
