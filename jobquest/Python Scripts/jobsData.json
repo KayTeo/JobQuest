@@ -1,20 +1,63 @@
 {
     "jobs": [
         {
-            "dueDate": "2023-04-18",
-            "jobTitle": "\"#SGUnitedJobs\"Job Title: Customer Service Officer (Call Center)",
+            "dueDate": "2023-04-15",
+            "jobTitle": "Draftsman",
             "skills": [
-                "Ability to Multitask",
-                "Written and Verbal Communication Abilities",
-                "Customer Service Oriented",
-                "Able To Multitask",
-                "Verbal Communication",
-                "Multitasking Skills",
-                "Administration",
-                "Verbal Skills",
-                "Customer Service",
-                "Customer Orientation",
-                "Call Center"
+                "Revit",
+                "Autodesk Revit",
+                "Microsoft Office",
+                "Construction",
+                "Asbuilt Drawings",
+                "BIM",
+                "Architectural",
+                "Drawing",
+                "Electrical",
+                "3D",
+                "AutoCAD",
+                "Civil Engineering",
+                "Layout",
+                "CAD"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "60 BENOI ROAD"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/052366b25443f36c41a23bc9736bf445/power-works.jpg",
+                "name": "POWER WORKS PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Scope of Work:- 1. Prepare 2D drafting and drawing 2. Familiar in preparing combines utilities drawing 3. Prepare and amend drawings as per site requirement / specification 4. Able to interpret, create ; update BIM models 5. Upkeep drawing record  Requirements:- · 1-2 year/s experience · Proficient in AutoCad Software, with Autodesk Revit preferred · Prefer candidate to possess a Diploma in Electrical / Civil Engineering",
+            "datePosted": "2023-04-01",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 3500,
+                "minValue": 3000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/draftsman-power-works-a9ffb5a14a46f1194f5a82b2ccf909b9?source=MCF&event=Search",
+            "uuid": "a15439f8-8fd1-4327-a234-9fa6c116b99e"
+        },
+        {
+            "dueDate": "2023-05-01",
+            "jobTitle": "BIM Modeller",
+            "skills": [
+                "3D Modeling",
+                "Revit",
+                "Microsoft Office",
+                "Concept Design",
+                "BIM",
+                "Drawing",
+                "Building Services",
+                "Architecture Design",
+                "Communication Skills",
+                "AutoCAD",
+                "Project Coordination",
+                "Layout"
             ],
             "location": {
                 "country": "SG",
@@ -23,847 +66,735 @@
             },
             "company": {
                 "logo": null,
-                "name": "NOBILITY PLACEMENT SERVICES PTE. LTD."
+                "name": "CANDIDATEASIA GROUP PTE. LTD."
             },
             "jobType": [
                 "FULL_TIME"
             ],
-            "description": "Job Requirements • Diploma / Degree in IT or Business or related discipline. • Must have minimum 1 year of call center experience. • Must know how to hadle incoming contacts( via Calls, Emails, digital platforms, Call-Back Requests). • Must have an ability to multi task and take on Customer Administration functions as well as CSO frontline role. • Excellent written and verbal communication skills. ",
-            "datePosted": "2023-03-28",
+            "description": "    Ensure projects are completed in accordance to BIM guidelines and regulatory compliance;   Manage processes, implementation, best practices and techniques of BIM and related tools;   Proficient in BIM Design Models and Documentation, Autodesk Revit, Archicad, Autocad   Familiar with codes and regulation   Degree / Diploma in Architecture / Engineering   Relevant experience in BIM (REVIT) related project implementation experience  Alternatively, you can apply the various positions via https://www.candidateasia.com/viewResult.php?id=710  EA Licence No. 16C7962 ",
+            "datePosted": "2023-04-01",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 6000,
+                "minValue": 4500,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/architecture/bim-modeller-candidateasia-group-075f26e6050eba2c6cd6060485dd14de?source=MCF&event=Search",
+            "uuid": "2828cb0c-ee71-4a71-bceb-6761a80f6b69"
+        },
+        {
+            "dueDate": "2023-05-01",
+            "jobTitle": "Drafter",
+            "skills": [
+                "Revit",
+                "Autodesk Revit",
+                "Microsoft Office",
+                "Construction",
+                "BIM",
+                "Architectural",
+                "Drawing",
+                "Electrical",
+                "3D",
+                "AutoCAD",
+                "Civil Engineering",
+                "3D Modelling",
+                "SketchUp",
+                "Layout",
+                "CAD"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": null
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/221d43ac297ee01fcb78bc8eb3cd8ca0/china-railway-11-bureau-group-corporation.png",
+                "name": "CHINA RAILWAY 11 BUREAU GROUP CORPORATION (SINGAPORE BRANCH)"
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Key Responsibilities and Accountabilities : 1. Provide sketches and detailed drawings as required by C;S Design Manager 2. Plan/Coordinate with subcontractor to provide shop drawings for various structural elements of MRT station, viaduct and external works, etc 3. Prepare drawings of temporary works adequate/ready for the construction on site 4. Review drawings for completeness and accuracy with the project team  Requirements : 1. Minimum Diploma in Civil/Structural Engineering or its equivalent 2. At least 3 years’ relevant experience in 2D drawing 3. Experience in viaduct precast segment and crosshead shop drawings is an advantage 4. Experience in MRT/LTA projects is an added advantage 5. Familiar with 3D Modelling (AutoCAD / Autodesk Revit) is essential",
+            "datePosted": "2023-04-01",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 3500,
+                "minValue": 2500,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/building-construction/drafter-china-railway-11-bureau-group-corporation-d0690258a5c9b345434b90a6ffe3835c?source=MCF&event=Search",
+            "uuid": "382e0321-7706-4f60-b8e3-1dac1e9409bc"
+        },
+        {
+            "dueDate": "2023-05-01",
+            "jobTitle": "Drafter (AutoCad / Autodesk Revit / Construction) DO",
+            "skills": [
+                "Revit",
+                "Autodesk Revit",
+                "Microsoft Office",
+                "Construction",
+                "Architectural",
+                "Drawing",
+                "Electrical",
+                "AutoCAD",
+                "SketchUp",
+                "Layout",
+                "CAD"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": null
+            },
+            "company": {
+                "logo": null,
+                "name": "TRUST RECRUIT PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Responsibilities    Responsible for the preparation of architectural designs and drawings using AutoCAD and REVIT, and ensuring that design drawings conform to specifications provided.   Assist site staff to provide timely shop drawing and best of knowledge provide accurate information for construction.   To provide assistance in develop shop drawing with senior staff.   Develop a plan and specifications according to clients' needs.   Ensure on-time completion of required drawing.  Requirements    Minimum Diploma in Electrical Engineering/Electronics or specialist certification   At least 2 years of relevant work experience   Proficiency in AutoCAD   Proficiency in Building Information Model using Autodesk Revit MEP will be an added advantage  HOW TO APPLY: Interested applicants, please click on “Apply Now”. We regret only shortlisted candidates will be notified. Important Note: Trust Recruit Pte Ltd is committed to safeguarding your personal data in accordance with the Personal Data Protection Act (PDPA). Please read our privacy statement on our corporate website www.trustrecruit.com.sg. Trust Recruit Pte Ltd EA License No: 19C9950 EA Personnel: Ong Darlene Day Ibasco EA Personnel Reg No: R22105561",
+            "datePosted": "2023-04-01",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 3500,
+                "minValue": 2500,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/building-construction/drafter-trust-recruit-634d238b8f9cd908933241c4ced07937?source=MCF&event=Search",
+            "uuid": "d1c78052-53da-4a69-8298-0b32116ad834"
+        },
+        {
+            "dueDate": "2023-04-15",
+            "jobTitle": "Mechanical Design Engineer(High speed Automated Machine )",
+            "skills": [
+                "Bill Of Material",
+                "Modeling",
+                "Design for Manufacturing",
+                "Piping",
+                "Project Management",
+                "AutoCAD",
+                "3D Modelling",
+                "CAD",
+                "Commissioning",
+                "Mechanical Engineering"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": null
+            },
+            "company": {
+                "logo": null,
+                "name": "RECRUITMENT ALLIANCE"
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "5 days, Ang Mo Kio Our client Business: Cleaning Machine/Customised Automated Equipment Manufacturer Industry served: semiconductor and electronic Year in business: 20years Area: Global Joc scope · To conceptualize ,mechanical design , testing, commissioning semi and fully automatic machines (semiconductor n electronic machine) · Project lead from conceptualisation to completion. · Maintain and control relevant documents related to R ; D, bill of material · Generate detailed 2D/3D drawings. · Raise ECN for update of changes to design and drawings · Provide technical support to full equipment lifecycle. Requirements: · Bachelor’s degree up in mechanical engineering · 3years of relevant experience in semiconductor or automation equipment design.. · Strong understanding of mechanical engineering principles and engineering techniques are required. · Strong proficiency in Solidworks /Autodesk/autocad · Solid knowledge and experience in material properties are required for Senior position. whats on offer: (1) Attractive package (2) Stable Management (3) Dynamic work environment Please submit resumes to michelle@careersg.sg with the following details in MS Word format: - Position applying for - Current remuneration - Expected remuneration - Notice period Michelle Goh EA License No : 22C1142 We regret that only shortlisted candidates will be notified",
+            "datePosted": "2023-04-01",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 6500,
+                "minValue": 4500,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/mechanical-design-engineer-recruitment-alliance-a7c5230a64878e0e160e88ef01686e4a?source=MCF&event=Search",
+            "uuid": "4cfbb2f4-d70f-4dc9-913a-aae9a46dab23"
+        },
+        {
+            "dueDate": "2023-04-15",
+            "jobTitle": "SENIOR Mechanical Design Engineer( ATE Equipment )",
+            "skills": [
+                "Pneumatics",
+                "Process Automation",
+                "Solidworks",
+                "Design for Manufacturing",
+                "Autodesk Inventor",
+                "Project Management",
+                "Geometric Dimensioning & Tolerancing",
+                "Design for Assembly",
+                "AutoCAD",
+                "Manufacturing",
+                "Mechanical Engineering"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": null
+            },
+            "company": {
+                "logo": null,
+                "name": "RECRUITMENT ALLIANCE"
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "5days, permanent, Ang Mo Kio Our client: Original equipment manufacturer (OEM) of automated testing equipment (ATE) and system integrator of industrial automation solution. Year in business: 20 years Industries served: Semiconductor Job description: · To conceptualise and design for standard and customized automation equipment such as material handling, process automation, fixturing, and tooling. · To generate detailed CAD design and drawing using Autodesk Inventor or equivalent and release of the design documentation · To perform tolerance, stack up analyses on critical design parameters on the quality of the development project. · Project manage and cross department collaboration for DFM and DFA · Hands on in prototype assembly, testing, and qualification inclusive of troubleshooting. Requirement: · Diploma up in Mechanical/Mechatronics Engineering · Min 4 years  experience in designing industrial automation equipment, product assembly, and test fixtures. · Familiar with components sizing of pneumatics and motion components such as servo motors and mechanical drive components. · Experience in Design for Manufacturing (DFM) and Design for Assembly (DFA). · Proficient in tolerance stack up in GD;T · proficient in the following are added advantage:  motion systems, Opto-mechanical systems, thermal and vibration control, design of laser structures.    Project      management experience will be an added advantage  Whats on offer: (1) Good benefit (2) Stable Management (3) Dynamic work environment Please submit resumes to michelle@careersg.sg with the following details in MS Word format: - Position applying for - Current remuneration - Expected remuneration - Notice period Michelle Goh EA License No: 22C1142 We regret that only shortlisted candidates will be notified.",
+            "datePosted": "2023-04-01",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 5500,
+                "minValue": 4500,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/senior-mechanical-design-engineer-recruitment-alliance-81ef1b1d9148318d597e91fff7c93a84?source=MCF&event=Search",
+            "uuid": "55f43bdb-6dbe-4048-9915-6f39c68a013c"
+        },
+        {
+            "dueDate": "2023-04-30",
+            "jobTitle": "ASSISTANT ENGINEER",
+            "skills": [
+                "Revit",
+                "Troubleshooting",
+                "Microsoft Excel",
+                "Construction",
+                "Writing",
+                "AutoCAD",
+                "Microsoft Word",
+                "Assembly",
+                "Scheduling",
+                "Electrical Engineering",
+                "CAD",
+                "Electronics"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "EUNOS INDUSTRIAL ESTATE, 1002 EUNOS AVENUE 8"
+            },
+            "company": {
+                "logo": null,
+                "name": "V-TOP PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "min 2 yrs experience in M;E / Construction Industry.Good knowledge of reading engineering building drawings. Good in microsoft office, word,excel, powerpoint,microsoft project,autocad 2D-3D and CAD measurement. Working knowledge of M;E contruction methods.Knowledge of Building information Modeling,BIM (Essential Revit for Architecture) by Autodesk,BIM -01(Revit for Architecture ; Structure),Prepare for shop drawings and as-built drawings.Performing quantities and estimation based on the drawing for QS. English Speaking ; Writing.",
+            "datePosted": "2023-03-31",
             "salaryRange": {
                 "currency": "SGD",
                 "maxValue": 3000,
-                "minValue": 2000,
+                "minValue": 2500,
                 "payPeriod": "MONTH"
             },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/customer-service/sgunitedjobsjob-title-customer-service-officer-nobility-placement-services-248c51497b092ea58ef1d0108e0c7aee?source=MCF&event=Search",
-            "uuid": "517a7a87-20de-4e67-abd5-ccef4018cdeb"
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/building-construction/assistant-engineer-v-top-4c6049a41cd33ac296f3d166149a3392?source=MCF&event=Search",
+            "uuid": "3e027483-5558-4726-8b9b-6d1ef772a11b"
         },
         {
-            "dueDate": "2023-04-04",
-            "jobTitle": "Recruitment Executive",
+            "dueDate": "2023-04-30",
+            "jobTitle": "Site Engineer (1077)",
+            "skills": [
+                "Excavation",
+                "Autodesk Revit",
+                "Microsoft Office",
+                "Construction",
+                "Quality Control",
+                "Hospitals",
+                "Architectural",
+                "Drawing",
+                "Project Planning",
+                "Structural Engineering",
+                "Compliance",
+                "Construction Drawings",
+                "AutoCAD",
+                "Civil Engineering",
+                "Scheduling",
+                "Soil"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": null
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/967c451f3f17363949e29da206386ae1/penta-ocean-construction-company.png",
+                "name": "PENTA-OCEAN CONSTRUCTION COMPANY LIMITED"
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Responsibilities:    Able draw the Methodology/Sequence for Top- Down Construction   Preparation Construction Schedule   Coordination, Supervision ; Monitoring the progress of project works on site and Manpower mobilization   Liaise with respective Consultants and carry out the site inspection   Produce weekly site progress and necessary submission to consultants   Taking Quantity of Materials (Scaffolding / Soil Excavation at Basement for Top-Down construction)   Requirements:    Candidate must possess at least a Professional Certificate, Bachelor’s Degree in Building or Civil Engineering from a recognized institution   Minimum 5 years of relevant years of experience and 3 years of experience in Singapore building projects   Preferable experiences for piling work and deep basement construction in Singapore   Preferable experiences in Hospital/Medical facility in Singapore   Preferable knowledge for Autodesk Revit   Able to do Presentation of the Method of Construction   Adequate Knowledge for Top-Down Construction   Those will Pre-cast installation experience is preferred ",
+            "datePosted": "2023-03-31",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 5000,
+                "minValue": 4000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/building-construction/site-engineer-penta-ocean-construction-company-60328d6288030e8a031cb7b111d0b15b?source=MCF&event=Search",
+            "uuid": "417f4a65-295c-405e-9381-60cc91cf0a55"
+        },
+        {
+            "dueDate": "2023-04-30",
+            "jobTitle": "Principal Design Engineer/Consultancy/5 days",
+            "skills": [
+                "Creative Direction",
+                "Systems Thinking",
+                "BIM",
+                "Rail",
+                "GIS",
+                "3D",
+                "Microstation",
+                "Structural Engineering",
+                "System Design",
+                "Design Strategy",
+                "User Research",
+                "Storytelling",
+                "Geometry"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": null
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/684413cd8beea29e8c0a1320c3e76559/talent-trader-group.jpg",
+                "name": "TALENT TRADER GROUP PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Responsibilities:     Lead the team to design rail track geometry and alignment    Work closely with clients and contractors   Must possess the experience of working with modelling ability in GIS and BIM   Has worked extensively on projects related to alignment design, (Switch/crossing/plain line) of railway track infrastructure    Requirements:     Degree in Civil or Structural Engineering from a recognized University   Minimum of 10 years of rail alignment design experience after tertiary education.   Expertise in the use of Autodesk Civil 3D for Rail design will be considered.    Expertise in the use of railway software packages (Microstation, Bentley OpenRail) will be preferred.      Interested candidates who wish to apply for the advertised position, please click on the APPLY button below to send in your resume.   EA License No: 13C6305  Reg. No.: R22104949  For candidate who applied for the advertised position is deemed to have consented to us that we may collect, use or disclose your personal information for purpose in connection with the services provided by us.",
+            "datePosted": "2023-03-31",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 10000,
+                "minValue": 6000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/principal-design-engineer-consultancy-5-days-talent-trader-group-cc57c1c81f3bd61c14015676c1712321?source=MCF&event=Search",
+            "uuid": "d5d88a10-f0ce-435c-9c6f-78b91416c4bb"
+        },
+        {
+            "dueDate": "2023-04-21",
+            "jobTitle": "Senior Project engineer",
+            "skills": [
+                "Budgets",
+                "Construction",
+                "Regulatory Compliance",
+                "AutoCAD Civil 3D",
+                "Critical Thinking",
+                "Electrical",
+                "Project Planning",
+                "Estimates",
+                "Procurement",
+                "Project Management",
+                "Civil Engineering",
+                "Scheduling",
+                "Commissioning"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "ELDIX, 11 MANDAI ESTATE"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/57b27aad9e11e17e12489eeadce70295/crec-construction.jpg",
+                "name": "CREC CONSTRUCTION PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Project Engineer Responsibilities:    Developing detailed designs.   Doing feasibility assessments and site inspections.   Preparing and implementing project plans.   Researching and providing estimates for projects.   Reviewing government regulations and ordinances.   Monitoring and optimizing safety procedures, production processes, and regulatory compliance.   Making recommendations or presenting alternative solutions to problems.   Confidently liaising with clients and other professional subcontractors.   Project management duties (e.g. managing budgets, resources, and deadlines; acquiring and compiling quotes, etc.).  PROJECT Engineer Requirements:    Bachelor’s degree in Civil Engineering or related field, accredited by the Institution of Civil Engineers. Master degree will be preferred.   A minimum of five years’ industry knowledge may be strongly desired.   Familiarity with design software, such as Autodesk, AutoCad Civil 3D, and MicroStation..   Strong analytical and critical thinking skills, with a high level of accuracy in calculations and design.   Excellent time management skills to ensure project deadlines are met.   Leadership skills to effectively manage a diverse group of professionals working on one project.   Ability to coordinate more than one project at a time.  · Competent ability in English · Can working at weekends and public holidays.",
+            "datePosted": "2023-03-31",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 6500,
+                "minValue": 4000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/senior-project-engineer-crec-construction-2880327e5bff7e87d709eab1df0cbc00?source=MCF&event=Search",
+            "uuid": "06bb661d-5ead-4631-812a-0037eaf75360"
+        },
+        {
+            "dueDate": "2023-04-30",
+            "jobTitle": "M&E Coordinator #movingforward",
+            "skills": [
+                "Autodesk Revit",
+                "Microsoft Office",
+                "Construction",
+                "BIM",
+                "Architectural",
+                "ISO",
+                "Architects",
+                "Drawing",
+                "Electrical",
+                "Project Planning",
+                "Compliance",
+                "AutoCAD",
+                "Electrical Engineering",
+                "Cost Control",
+                "Commissioning",
+                "Mechanical Engineering"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": null
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/684413cd8beea29e8c0a1320c3e76559/talent-trader-group.jpg",
+                "name": "TALENT TRADER GROUP PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "   Study M;E drawings and coordinate M;E works with the consultants and sub-contractors to resolve any technical / site issues;   Ensure M;E works are carried out according to specifications / drawings;   Inform Project Director / Project Manager on any technical / site problems   To supervise M;E subcon works and ensure subcontractors progress in accordance to schedule set.   To prepare and arrange M;E installation in accordance with approved drawings and materials.   To carry out site supervision on M;E works and arrange inspection with RTO.  Requirements    Min Degree in Mechanical/Electrical or equivalent   Minimum 3 years’ experience in the construction supervision of M;E and Local Building projects.   Autodesk Revit MEP experience will be an advantage  Interested candidates who wish to apply for the advertised position, please click on the APPLY button below to send in your resume to engg1@talenttradersg.com  EA License No: 13C6305 Reg. No.: R1981808  For candidate who applied for the advertised position is deemed to have consented to us that we may collect, use or disclose your personal information for purpose in connection with the services provided by us.",
+            "datePosted": "2023-03-31",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 4500,
+                "minValue": 3500,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/building-construction/me-coordinator-movingforward-talent-trader-group-76b3c7535d2555c2befe9ffef2885373?source=MCF&event=Search",
+            "uuid": "3bd6bda2-7f4a-4ec9-9ce4-bb4a007360db"
+        },
+        {
+            "dueDate": "2023-04-30",
+            "jobTitle": "BIM Coordinator",
+            "skills": [
+                "Consulting clients",
+                "Revit",
+                "Water",
+                "Construction Management",
+                "Construction",
+                "BIM",
+                "Water Treatment",
+                "Bentley Microstation",
+                "Plant Design",
+                "Drawing",
+                "Electrical",
+                "Water Resources",
+                "3D",
+                "AutoCAD",
+                "Consulting",
+                "Civil Engineering",
+                "Proactive Communication",
+                "Wastewater Treatment",
+                "Mechanical Engineering",
+                "Navisworks"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": null
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/956a2b5faebe66027e1d644592e113fd/jacobs-international-consultants.png",
+                "name": "JACOBS INTERNATIONAL CONSULTANTS PTE. LTD."
+            },
+            "jobType": [
+                "CONTRACTOR",
+                "FULL_TIME"
+            ],
+            "description": "Our bodies and environment all depend on water, it is the building block that supports all life. Water issues are becoming increasingly prominent as we struggle with the disparity between water availability and demands, water pollution, and competition for limited water resources. At Jacobs, we recognize these challenges, and our engineers, scientists, and planners are working together with clients to find the right solutions to their water challenges. Our Water business is currently hiring a BIM Coordinator to be part of the major water treatment plant project in Tuas, Singapore. This is a site-based role to provide technical support to the design teams as well as coordinate deliverables from the Contractor and manage submissions to the Client related to 3D models and drawings. This role will work and report to the Project BIM Manager and Construction Manager. Tasks include, but are not limited to:    Be the point of contact for all BIM-related reporting and inquiries within the designated contract group, Lead any BIM meeting with Contractors to deliver per BIM requirements.   Report the current submission status to the Team, and take a proactive approach to resolve engineering challenges using BIM tools.   Review Contractor’s submission per requirements properly.  To be a successful candidate, you must possess:    Bachelor's Degree in Civil or Mechanical Engineering. Working experience as a BIM Coordinator in process plant and/or wastewater treatment projects will be an added advantage   Relevant experience in large multi-disciplinary infrastructure projects using 3D models   Experience in managing multiple contractors within one project in Singapore   Proficiency in BIM software such as Bentley, Autodesk, or a similar suite of software. Knowledge of Bentley AECOsim/Open Buildings/Open Plant software will be an advantage.  Other information:     Indicated salary range is monthly take-home-pay inclusive of pro-rated AWS.   Working hours: 44 per week (Monday to Friday).   Transport is provided from 3 pickup locations across Singapore.   Jacobs. A world where you can. From our inclusive employee networks, to our positive mental health champions – we’re committed to driving a culture of caring where you can be you. Joining Jacobs not only connects you locally but globally - and together, our diverse perspectives and unique backgrounds power our collective strength. We collaborate and share! By supporting one another, we all succeed. With safety and flexibility always top of mind, we’ve gone beyond traditional ways of working so you have the support, means and space to maximise your potential. You’ll uncover flexible working arrangements, benefits and opportunities to do good too – from participating in our global giving and volunteering program, to exploring new and inventive ways to help our clients make the world a better place. No matter what drives you, you’ll discover how you can cultivate, nurture and achieve your goals – all at a single global company. Please note: If you are being represented by a recruitment agency you will not be considered, to be considered you will need to apply directly to Jacobs. Jacobs complies with the Tripartite Guidelines on Fair Employment Practices (TGFEP), including the prevailing guidelines on recruitment. All qualified applicants will be considered for the position regardless of age, race, religion, language, nationality, marital status, or family responsibilities.",
+            "datePosted": "2023-03-31",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 7500,
+                "minValue": 5500,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/bim-coordinator-jacobs-international-consultants-512ba5efbbba627e57d487f9c967bc55?source=MCF&event=Search",
+            "uuid": "263c46cd-04fc-44bc-ab41-8b08be6386d3"
+        },
+        {
+            "dueDate": "2023-04-29",
+            "jobTitle": "Principal BIM Modeller (M&E)",
+            "skills": [
+                "Revit",
+                "Autodesk Revit",
+                "Quality Control",
+                "BIM",
+                "Drawing",
+                "Electrical",
+                "Engineering Design",
+                "AutoCAD",
+                "Instrumentation",
+                "Navisworks"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "THE STRATEGY, 2 INTERNATIONAL BUSINESS PARK"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/0044fc6d240e4a916ecaeafce415eec1/binnies-singapore.jpg",
+                "name": "BINNIES SINGAPORE PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Job Descriptions: BIM Modeller shall have a broad range of responsibilities, but will primarily be concerned with:    Maintaining the BIM Protocol for the project.   Preparing BIM models using Autodesk Revit, Autodesk Plant 3D based on interpreting of engineering design requirements from verbal instructions or engineering sketches in civil, structural, mechanical, process or electrical, instrumentation, control and automation discipline drawings.   Establishing and maintaining quality control procedures to ensure that all models and datasets are accurate and that the level of information is fit for purpose.   Identifying and documenting clashes using clash detection software.   Recording and monitoring the shared data and relationships between models, for example grids, floor levels and shared project coordinates.   Following and enforcing the mandated BIM Collaboration Procedures in the BIM Execution Plan.   Follow-up on the BIM workflow and ensuring that any potential issues are dealt with effectively.  Qualifications Required:    Minimum 3 years production experience in BIM design environment, drafting or engineering with relevant certification/Diploma.   To have an in-depth working knowledge of current BIM software such as Autodesk Revit, Plant 3D, etc.   Proficiency in Bentley Open Plant ; AECOsim is an added advantage.   Ability to take on additional responsibilities as needed as well as determine and manage priorities with minimal guidance.   Must be a self-starter and possess the drive to pursue continued improvement in BIM.   Possess the ability to work well as part of a team and independently. ",
+            "datePosted": "2023-03-30",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 6000,
+                "minValue": 4000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/building-construction/principal-bim-modeller-binnies-singapore-b8bd7cb3271bfc8a316c40f116f2cd99?source=MCF&event=Search",
+            "uuid": "06544971-9e2d-4792-8a2d-3721f1efa9c1"
+        },
+        {
+            "dueDate": "2023-04-29",
+            "jobTitle": "CIVIL ENGINEER",
+            "skills": [
+                "Budgets",
+                "Microsoft Office",
+                "Construction",
+                "Regulatory Compliance",
+                "AutoCAD Civil 3D",
+                "Critical Thinking",
+                "Drawing",
+                "Project Planning",
+                "Estimates",
+                "Structural Engineering",
+                "Project Management",
+                "AutoCAD",
+                "Civil Engineering"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "ANG MO KIO INDUSTRIAL PARK 2, 5037 ANG MO KIO INDUSTRIAL PARK 2"
+            },
+            "company": {
+                "logo": null,
+                "name": "TEMP HENG ENGINEERING CONSTRUCTION"
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "   Developing detailed designs.   Doing feasibility assessments and site inspections.   Preparing and implementing project plans.   Researching and providing estimates for projects.   Reviewing government regulations and ordinances.   Monitoring and optimizing safety procedures, production processes, and regulatory compliance.   Making recommendations or presenting alternative solutions to problems.   Confidently liaising with clients and other professional subcontractors.   Project management duties (e.g. managing budgets, resources, and deadlines; acquiring and compiling quotes, etc.).  Civil Engineer Requirements:    Bachelor’s degree in civil engineering or related field, accredited by the Institution of Civil Engineers.   Registration/Licensure as a professional engineer may be required.   A minimum of 5 years of industry knowledge may be strongly desired.   Familiarity with design software, such as Autodesk, AutoCAD Civil 3D, and MicroStation.   Knowledge of map creation software and photo imaging software.   Strong analytical and critical thinking skills, with a high level of accuracy in calculations and design.   Excellent time management skills to ensure project deadlines are met.   Leadership skills to effectively manage a diverse group of professionals working on one project.   Ability to coordinate more than one project at a time. ",
+            "datePosted": "2023-03-30",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 4750,
+                "minValue": 3500,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/building-construction/civil-engineer-temp-heng-engineering-construction-62bd642461cac6772f399e3022991916?source=MCF&event=Search",
+            "uuid": "a86a9fbb-92be-4d40-a70b-dd56f1fc7412"
+        },
+        {
+            "dueDate": "2023-04-29",
+            "jobTitle": "Dimension Controller",
             "skills": [
                 "Microsoft Excel",
-                "Social Media",
-                "Telemarketing",
-                "Legislation",
-                "Interpersonal Skills",
-                "Arranging",
-                "Job Descriptions",
-                "Recruiting",
-                "Communication Skills",
-                "Career Counseling",
-                "Human Resources",
-                "Screening",
-                "Scheduling",
-                "Sourcing",
+                "Derivatives",
+                "Quality Management",
+                "Valuation",
+                "Mindfulness",
+                "Work Well Under Pressure",
+                "3D",
+                "Routing",
+                "Investment Management",
+                "FPSO",
+                "Team Management",
+                "Visualization",
+                "3D Scanning",
+                "CAD",
                 "Able To Work Independently"
             ],
             "location": {
                 "country": "SG",
                 "locality": "Singapore",
-                "address": "The Signature , 51 Changi Business Park Central 2"
+                "address": "8 @ TRADEHUB 21, 8 BOON LAY WAY"
             },
             "company": {
-                "logo": null,
-                "name": "THE RESPONSIBLE PEOPLE PTE. LTD."
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/ca51f3e2f58f5a5b17074b14f5ff72d5/asian-sealand-offshore-marine.png",
+                "name": "ASIAN SEALAND OFFSHORE AND MARINE PTE. LTD."
             },
             "jobType": [
                 "FULL_TIME"
             ],
-            "description": "Job Description ; Requirements Our company is looking for driven individuals that are keen to learn and progress their career to the next level. The Recruitment executive at our company will be expected to spearhead the recruitment process and assist in career counseling. If you think you have what it takes to grow with us, apply now!  Benefits: - Attractive base salary and performance-based bonuses - Structured and Comprehensive Guidance - Work from home during the heightened measures period - Great work-life balance with monthly team bonding activities  Job Responsibilities: - Conduct hiring process which includes sourcing, screening, and interviewing potential candidates - Oversee interviews and use online assessment tools to filter suitable candidates - Brainstorming creative ideas to expand the company’s outreach towards a greater talent pool - Provide career counseling whenever necessary - Ad-Hoc Admin tasks to streamline the recruitment process  Requirements: - Minimum Education background of Diploma, A-Levels, or Degree - Confidence in recruitment - Excellent interpersonal and communication skills",
-            "datePosted": "2023-03-28",
+            "description": "Roles ; Responsibilities: · Willing to work in offshore FPSO ; RIG Platform. · Familiar with 3D laser equipments. · Plan and perform 3D scanning with hand-held 3D scanner and tripod terrestrial laser 3D scanner. · Familiar to operate the equipments with good care ; follow the client Safety rules. · Field visits including mobilizing and demobilizing the handheld and laser scan equipment. · Have a good skill to setup the scanner equipments. · Have a good knowledge to scan required location in order to get more information. · Post processing (Registration, Merging) of the 3D laser scan data. · Perform point cloud analysis (Measurements). · Output scan data as required for downstream design and inspection process. · Good knowledge in 3D designing software’s say like - Power shape, Design X, Aveva marine ; Autodesk products. · Able to perform 3D point cloud data processing. · Have a good visualization during processing the data. · After processing done to Import the required formats. · Closely coordinate with design team. · Able to suggest the new pipe routing on existing scanned locations. · Cross check the 3D model data against point cloud data. · Cross check Tie-in area flange orientations and look for any deviation against the existing. · Verify the 3D model with isometrics. · Good knowledge in material specifications ; designs. · Good communication between project team ; engineering team. · Communication and interaction with clients. · Lead meeting on process status updates.  Qualifications: · Diploma or higher · 1-3 years’ experience in 2D/3D CAD software and generating 2D/3D technical drawings · Detail-oriented, analytical, and well organized · No experience with 3D scanning is required. Prior experience with 3D scanning is a plus · Excellent oral and written communication skills · Demonstrates strong computer skills, particularly file management · Able to work independently and in a team · Willing to learn new skills and work hard to deliver results in a timely manner",
+            "datePosted": "2023-03-30",
             "salaryRange": {
                 "currency": "SGD",
-                "maxValue": 5000,
+                "maxValue": 6000,
                 "minValue": 3000,
                 "payPeriod": "MONTH"
             },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/consulting/recruitment-executive-responsible-people-3c9e0babb7c0d223fe553b6e63164ae3?source=MCF&event=Search",
-            "uuid": "b1b5ab5d-513a-46dc-984f-2184e45534e2"
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/dimension-controller-asian-sealand-offshore-marine-20ffd05286cdb3ec7de0247be88cff6b?source=MCF&event=Search",
+            "uuid": "079147f0-b78c-4286-bc6e-7a51da5a1dbf"
         },
         {
-            "dueDate": "2023-04-27",
-            "jobTitle": "Digital Sales Representative",
+            "dueDate": "2023-04-29",
+            "jobTitle": "Senior/Principal/Associate Track Alignment Engineer",
             "skills": [
-                "Lead Generation",
-                "Calling clients",
-                "Verbal Communication",
-                "Customer Relationships",
-                "Selling",
-                "Sales Process",
-                "Strategy",
-                "Solution Selling",
-                "People Development",
-                "Self Starter",
-                "Excellent Written Communication Skills",
-                "Time Management",
-                "SaaS",
-                "Building Relationships",
-                "Customer Service",
-                "Profit Analysis"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "6 RAFFLES QUAY"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/a26351de7815b5fbc1ac9ee37280fb9f/cloudgo.png",
-                "name": "CLOUDGO PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Role purpose CloudGo is a digital consulting company that solves business problems with digital workflows that matter. We are one of ServiceNow’s leading Elite partners, and due to our rapid growth, we need a highly motivated individual to join us as a Digital Sales Representative to grow our business. This is a full-time role with a focus on building our commercial and enterprise pipeline and customer base. A background in of inside sales and/or selling services for SaaS platforms will be an advantage, as that will be your responsibility here. This is a great opportunity to grow your career into field sales! Half of your work will be outbound: introducing CloudGo to existing ServiceNow customers, building relationships with ServiceNow and other key partners, and introducing ServiceNow to other net new logos. You will need to be comfortable calling on a range of stakeholders, from IT to finance, HR and customer service. You have probably come from an inside sales background so aren’t afraid of the work but want to grow into a field sales role to start building relationships and leading the strategy for specific accounts. The other half will be closing our smaller run-rate deals in partnership with our enterprise account teams. You’ll do well if you have a solution selling or customer-centric selling background, with excellent written and verbal communication and influence skills, a history or exceeding sales targets, and a hunger to grow. You will be given direction on where you’re going, not micromanagement so you need to be comfortable with being a self-starter. CloudGo hires for culture first – our people are global go-getters, we look to the long term, we solve for the customer, and we value open, honest, early communication. We believe we don’t exist without exceptional people, so we respect and value them. We pay fair base and at-risk components based on experience and the market, with uncapped overachievement potential. You will be reporting to our group head of sales, so if you think this sounds like somewhere you want to grow, then come and talk to us. Key Responsibilities · To meet or exceed individual KPI’s based on outbound call volume and new meetings/leads. · Actively promote CloudGo’s ServiceNow solutions products and services to prospects, customers and partners via a range of channels. · Follow up on leads generated from relationships, partnerships, marketing or other sources. · Build and develop customer relationships with customers, prospects and partners. · Handle entire inside sales process from lead generation to presentation to proposal, with support and coaching from your manager. You may need to work with some field sales reps to close deals, but you will own the entire sales cycle yourself for smaller deals. · Develop and maintain in-depth knowledge of products and services, industry trends, and competition. · Maintain current and accurate account and contact information, as well as lead and opportunity status and activity in our CRM Skills and Competencies · Minimum 2 years field sales or inside sales experience preferably in services for software or technology, focused on commercial and enterprise business · Need a solid understanding of SaaS concepts and be comfortable discussing technology with customers · Demonstrate effectiveness through weekly reports to track performance and results · Be able to operate successfully in a rapidly changing, ambiguous and less defined environment. · Outstanding time management and organizational skills. · Demonstrated ability to be proactive and take the initiative to get things done · Ability to manage multiple tasks at once (flexible and self-sufficient) · Positive attitude, wiling to learn, self-motivated and persistent",
-            "datePosted": "2023-03-28",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 8000,
-                "minValue": 5000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/digital-sales-representative-cloudgo-3e868e9695ae64637d19d99c384a69f5?source=MCF&event=Search",
-            "uuid": "2d021cac-a824-4a3e-ac49-5e7f0f6cadd8"
-        },
-        {
-            "dueDate": "2023-04-27",
-            "jobTitle": "Regional Specialist (Digital Campaign)",
-            "skills": [
-                "Management Skills",
-                "Marketing Strategy",
-                "Wealth",
-                "Private Banking",
-                "Email Marketing",
-                "B2B",
-                "Retail Banking",
-                "Digital Marketing",
-                "Presentation Skills",
-                "Fixed Income",
-                "Scheduling",
-                "UX",
-                "Mutual Funds",
-                "Equities",
-                "Africa"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "ALEXANDRA TECHNOPARK, 438B ALEXANDRA ROAD"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/ae50e245e0641c3d01ef32a23a3d53ea/epson-singapore.jpg",
-                "name": "EPSON SINGAPORE PTE LTD"
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Job Summary    B2B Digital Campaign Specialist for the ASEAN region, preferably with Pardot experience.   The Digital Campaign Specialist is key in helping to shape the digital marketing strategy for our company, proving the success of digital marketing campaigns and making optimisation efforts across all digital channels.   The ideal candidate should have a strong track record and passion for digital marketing, and will be able to show business outcomes achieved in a well-executed digital marketing strategy.  Key Accountabilities    Organise and manage timelines for the projects   Manage internal Business Unit stakeholders to ensure clarity of communication throughout campaigns   Ensure the digital campaign structures are complete, while adapting offline marketing collaterals and/or assets to digital format with strong design and UX elements  Key Job Requirements Job / Skills Competencies:    Work closely with digital manager to strategise and manage digital marketing campaigns for the Southeast Asia to drive traffic, engagement and lead generations   Deep understanding of owned, earned and paid media methodologies and ability to apply in 360 campaign approach   Proven ability to work on multiple projects, digital marketing campaigns and on sales strategies with expected outcome   Experience in digital campaign analysis   Outstanding digital, innovative ; creative mindset   Strong analytical and data-driven capabilities   Strong team player with ability to understand, share and explain digital requirements   Monitoring current and future digital marketing trends   Independent and autonomous   Excellent English communication and presentation skills  Critical Work Experience:    Minimum 3-5 years of digital marketing experience in both B2B and B2C environments   Prior experience setting up and managing Google DataStudio Dashboards   Prior experience setting up and managing email campaign workflows on Pardot or other email marketing tools  Qualifications:    Degree in IT or Marketing ",
-            "datePosted": "2023-03-28",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 5800,
-                "minValue": 3000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/advertising/regional-specialist-epson-singapore-69e439ee414fc81f05c339e7a10c96a8?source=MCF&event=Search",
-            "uuid": "3de56110-bf83-4adb-a162-2500673fd264"
-        },
-        {
-            "dueDate": "2023-04-27",
-            "jobTitle": "Functional Consultant",
-            "skills": [
-                "business objectives",
-                "Integration",
-                "IT Service Management",
-                "Business Intelligence",
-                "Technical Analysis",
-                "Process Improvement",
-                "Customer Service Management",
-                "HTML",
-                "Information Technology",
-                "Thought Leadership",
-                "Enterprise Software",
-                "SAP R3",
-                "Consulting",
-                "ITIL",
-                "Business Process",
-                "Project Delivery"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "6 RAFFLES QUAY"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/a26351de7815b5fbc1ac9ee37280fb9f/cloudgo.png",
-                "name": "CLOUDGO PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "The Functional Consultant is required to work with customers and learn the business problems that need to be addressed and through applying technical analysis, recommend a solution. Is an expert with ServiceNow processes and capable of delivering advice when required. Working closely with the pre-sales team is involved in delivering documentation through all stages of a project’s lifecycle. Key Responsibilities · Work closely with a customer to understand their requirements and our solutions to address those needs. · Understand business objectives, projects, and problem statements of our prospects and customer. · Lead business process definition, re-engineering, and process improvement workshops during the Examine Phase of customer engagements. · Develop required documentation such as workshop agendas, workshop presentations, process design documents, use cases, responsibilities documents. · Identify areas of process effectiveness and recommend solutions that detail pros, cons, and risks. · Align and represent industry practices and recommend solutions to meet business objectives. · Present proposals including the ServiceNow product and services. · Identify and contribute to the creation of best practices, white papers, workshops, etc. · Contribute to the continual improvement of Delivery and Advisory Services processes as well as the maturing of the different portfolios, capabilities, expertise, and best practices in consideration of customer needs and requirements. · Ensure all time is recorded accurately and keep the calendar up to date with scheduled activities. · Completing, developing, and improving required documentation such as process flow diagrams, workshop agendas, presentations, gap analysis reports. · Ability to influence and consult while providing thought leadership to sponsors in solving business processes and/or technical problems during project delivery. · Assist delivery teams in resolving critical path issues and challenges during engagements. · Supporting specific sales activities when required. · Alliance with the Sales team, Solution Consultants, conduct transition briefings - communicate commitments and expectations in preparation for engagements. Basic requirements · ServiceNow Pre-Sales Accreditations in IT Service Management and at least two (2) other product lines. · Highly motivated · 3+ years of experience in service management, service delivery, or a related field such as IT Project Management, Human Resources, Security Operations, and Customer Service Management. · ITIL V3/4 Foundations desirable · Degree or equivalent, preferably in Computer Science or Information Technology, and proven experience in technical consulting roles Professional qualifications and education requirements · Enterprise consulting experience, including implementation experience with one or more common enterprise software solutions filling positions of increasing responsibility and management of program teams · Proven ability to communicate with all levels of the organization including mid-level management Please click on the link below if you are looking for a role but would require us to sponsor your visa. Link: CloudGo - Functional Consultant in Singapore (cloudgoservices.com)",
-            "datePosted": "2023-03-28",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 9000,
-                "minValue": 7000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/functional-consultant-cloudgo-74af26220a5424d7b602ac4c1171ae56?source=MCF&event=Search",
-            "uuid": "b6a83640-2bcc-43a8-9e49-c8013d8aecf7"
-        },
-        {
-            "dueDate": "2023-04-27",
-            "jobTitle": "Sales Assistant",
-            "skills": [
-                "Sales",
-                "Visual Merchandising",
-                "Housekeeping",
-                "Interpersonal Skills",
-                "Inventory",
-                "Retail Sales",
-                "Administration",
-                "Selling",
-                "Physically Fit",
-                "Cashiering",
-                "Presentation Skills",
-                "Customer Satisfaction",
-                "Team Player",
-                "Customer Service",
-                "Pricing"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": null
-            },
-            "company": {
-                "logo": null,
-                "name": "VENUS BEAUTY SERVICES PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "A talented individual who will bring her sales talent, and passion to our company. Has to be service-oriented, has superb presentation skills, and will always maintain a professional image.    Provides excellent customer service   Makes appropriate recommendations when required   Housekeeping, replenishing stocks   Manage merchandise and assist in visual displays when needed   Ensure that the image of the Company is portrayed positively at all times   Requirement:   Willing to work on roster based on retail hours.   Team player with excellent communication and interpersonal skills  Working hours:    6 days roster based (retail hour 10am to 10pm)   1 weekday off  Benefits: 1. Training will be provided. 2. Commission. Estimated about S$500 and above. Commission will be given based on personal sales 3. Annual Bonus 4. Annual leave and medical leave 5. Grooming allowance",
-            "datePosted": "2023-03-28",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 2800,
-                "minValue": 2000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/sales/sales-assistant-venus-beauty-services-7562c9aec8c07f381f449cb71356dd31?source=MCF&event=Search",
-            "uuid": "adbcb7c8-477f-47d1-9b9e-af1845be5655"
-        },
-        {
-            "dueDate": "2023-04-27",
-            "jobTitle": "Manager, Facilities Management",
-            "skills": [
-                "Fire Safety",
-                "Facilities Operations",
-                "Facilities Environmental",
-                "Management Skills",
-                "Sustainability",
-                "Preventive Maintenance",
-                "Change Management",
-                "Housekeeping",
-                "Property",
-                "Invoicing",
-                "Electrical",
-                "Building Services",
-                "Facilities & Maintenance",
-                "MS Office",
-                "Writing",
-                "Team Player",
-                "Facilities Engineering",
-                "Health & Safety",
-                "Facilities Management"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "SINGAPORE EXPO, 1 EXPO DRIVE"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/b0d1a0fba822cfbc2828606bd5fac602/constellar-venues.png",
-                "name": "CONSTELLAR VENUES PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "In this role, you will    To ensure that Singapore Expo operate to good standards in line with the mission statement and values of the company. To manage waste recycling efforts to achieve sustainability goals.   To ensure that the facilities team under his charge response appropriately and promptly to incidents and emergencies.   To monitor the service providers’ performance to ensure standards and requirements are achieved and aligned.   To assist the Head, Engineering; Facilities Management in monitoring the budget allocated for repair and maintenance works, utilities usage ; billing, license agreement, etc.   To assist the department in collating data and occurrences related to building services, cleaning, housekeeping, carpark system and operation for life cycle trending.   To ensure that the contract services related to landscaping, pest control, carpark, etc are carried out in accordance with the schedule planned.   To oversee the operations, service and maintenance of the Electronic Parking System (EPS) and arrange for repair and rectification works for any faults and damages.  To help you succeed in this role, you should have    Minimum 4 - 5 years of relevant experience with recognized degree in Engineering, Building, Estates or Construction   Understanding of local regulations, standards and ordinances on Facilities operations and maintenance   Self-driven, resourceful team player with good analytical, communication, writing and interpersonal and change management skills   Be able to work outdoors and be exposed to various environmental factors such as, but not limited to fatigue, noise, dust, and be able to access all areas of the property including those at height   Proficiency in MS Office applications, relevant Singapore Standards, Codes of Practices, and regulatory guidelines   Independent and able to work cohesively with staff at all level. Ability to thrive in a fast-pace and rapid growth environment ",
-            "datePosted": "2023-03-28",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 7000,
-                "minValue": 5000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/manager-facilities-management-constellar-venues-947c45d04cb8b7a4eead6c4c2c7803bb?source=MCF&event=Search",
-            "uuid": "7b64e72d-a7a9-485a-8666-07a767f75651"
-        },
-        {
-            "dueDate": "2023-04-11",
-            "jobTitle": "Piping Material Engineer",
-            "skills": [
-                "Materials Science",
+                "Switches",
                 "Construction",
-                "MS Office",
-                "Interpreting",
-                "Weight",
-                "FPSO",
-                "Piping",
-                "AutoCAD",
-                "Regulatory Requirements",
-                "Laboratory",
-                "Manufacturing",
-                "Layout",
-                "Commissioning",
-                "Mechanical Engineering",
-                "Technical Support"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": null
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/04a14962dcd9f89fbbd53df4c3257bad/peak-ocean.jpg",
-                "name": "PEAK OCEAN PTE. LTD."
-            },
-            "jobType": [
-                "CONTRACTOR"
-            ],
-            "description": "JOB PURPOSE: To independently handle the piping material activities, prepare, manage, and produce the critical engineering deliverables for the assigned project (that may include short-term assignment to Construction, Commissioning, and Offshore) effectively and efficiently according to the specified technical requirements, timelines, and within budget, and deal independently with and resolve all the issues of the project, and provide guidance to the assigned members.  RESPONSIBILITIES:    Works independently to perform the assigned task and develops a solution to technical/engineering and related problems by analyzing the issue or data, interpreting the analysis, and evaluating various options/measures using experience, precedents, and professional references with minimal or no supervision or guidance.   Understands technical requirements of project specifications and standards, local statutory and regulatory requirements, Classification society requirements, and applicable codes and standard industry practices to carry out the piping activities and prepare piping deliverables for assigned projects.   Carries out the pipe wall thickness calculations using applicable design code. Prepares the piping material specification and valve specification by using and modifying the MODEC corporate specifications suitably to match the project-specific requirements.   Prepares piping insulation specification, and flange management specification (bolt torquing and tensioning) by using the MODEC corporate specifications and modifying these to meet the project requirement.   Prepares bill of materials for piping bulk items (like pipe, flanges, and fittings), valves, piping specialty items, gaskets, stud bolts and nuts, and pipe support materials. Provides piping unit weight inputs for weight control reports.   Prepares data sheets for process-critical and non-critical piping specialty items obtaining the process parameters required for the design and manufacturing of process-critical items.   Prepares requisitions for piping bulk items, valves, piping specialty items, gaskets, stud bolts and nuts, spring supports, cargo tank heating coil (marine), valve remote control system (marine) and performs a technical evaluation of bids received from various suppliers to ensure shortlisted vendors meet technical requirements as per project specifications, and provides an assessment on technically acceptable bids for Buyer to follow up tender evaluation further to conclude and award the purchaser order.   Conducts kick-off meetings with successful suppliers to ensure a clear understanding of the scope of supply, technical requirements, documentation, and delivery conditions to enable the supplier to execute the work strictly as per the purchase order, reviews supplier drawings and documents, and shares the relevant data with engineering contractor to get it incorporated in piping layout design.   Works closely with suppliers and contractors concerned to resolve technical issues and visits supplier’s manufacturing facilities to witness the FAT, where necessary.   Provides technical support and advice to construction yard and commissioning work at the site. Where necessary, provides off-site support and guidance.   Supports the Lead Piping Engineer and assists in preparing lessons learned during the course of execution of the project for further processing through MIMS.   Shares the knowledge and experience with team members and guides the engineers in carrying out the assigned task the right a correctively.   Reports Functionally to the Piping Section Lead and Operationally to Lead Piping Engineer on matters related to the assigned project.   Closely interacts and assists Lead Piping Engineer in co-coordinating with other disciplines, engineering contractors, and Construction and Commissioning team.   Deals with internal stakeholders on technical matters.  REQUIREMENTS:    Bachelor in Mechanical Engineering or Master of Engineering. Alternatively Diploma in Mechanical Engineering with relevant years of experience.   Minimum 15 years of relevant working experience in piping engineering in the oil and gas sector, preferably in FPSO or Offshore processing facilities for graduates or a minimum of 12 years of relevant working experience for diploma holders. For a Masters’s degree holder, a minimum of 10 years of relevant working experience is required.   Knowledge in MS Office, AutoCAD, E3D, Naviswork, Caesar II ",
-            "datePosted": "2023-03-28",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 10000,
-                "minValue": 7500,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/piping-material-engineer-peak-ocean-be59a98def26349b27b6fbd8491b9e64?source=MCF&event=Search",
-            "uuid": "a500a110-71b9-47cd-bff1-a4f4d43853da"
-        },
-        {
-            "dueDate": "2023-04-27",
-            "jobTitle": "Business Development Manager [Main Contactor| West] 2894",
-            "skills": [
-                "Market Research",
-                "Sales",
-                "Leadership",
-                "Construction",
-                "Interpersonal Skills",
-                "Customer Relationships",
-                "Architects",
-                "Market Analysis",
-                "Strategy",
-                "Networking",
-                "Market Intelligence",
-                "Communication Skills",
-                "Consulting",
-                "Team Player",
+                "BIM",
+                "Rail",
+                "GIS",
+                "Surveying",
+                "Microstation",
+                "Structural Engineering",
                 "Civil Engineering",
-                "Business Development"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": null
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/d162667fbe1365aa541016a407de7ae4/supreme-hr-advisory.jpg",
-                "name": "THE SUPREME HR ADVISORY PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "   Singapore Based   Attractive Salary Package   Company Benefits ; Incentives   Career Progression Opportunities  Interested applicants can also send your resume to  Brandon at +65 9460 8816  and allow our Consultant to match you with our Clients.  The Supreme HR Advisory Pte Ltd EA License No: 14C7279 EA Personnel: Brandon Lim Yeu Li EA Personnel No: R21102894  Responsibilities    Exposure with developers ; institutional developers.   Comprehensive exposure to local consultants, architects and engineers.   Conversant with different type of contracting procedures.   Able to handle business development on their own.   Build and maintain strong customer relationships while supporting the tender and business development team, project clients and consultants in their tender bids.   Coordinate with tender department and HQ in scope of work and project executions and responding to requests, clarifications, and resolving any issues promptly and diligently.   Coordinate with tender team to manage proposal response process, including detailed tender/ bid requirements.   Initiate customer visits and processing of various sales proposal, quotations and contracts.   Manage relationship with existing and potential clients to develop new opportunities and advance organisation’s business interests.   Business development experience in the contract market with high-end architects, consultants and end-user clients.   Take charge of client acquisition and create new business opportunities to maintain the company’s relevance and competitive edge.   Conduct the necessary market analysis to identify potential working partners for targeted projects.   Communicate with the potential clients, consulting firms etc. to collect the information of targeted projects.   To perform market research and identify prospective local projects leads.   Resourceful and possess good market intelligence on potential upcoming projects.   Conversant with local authorities’ requirements and engineering standards.   Good working knowledge of general construction, especially in large and heavy civil engineering project. ",
-            "datePosted": "2023-03-28",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 9000,
-                "minValue": 7000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/building-construction/business-development-manager-main-contactor-west-2894-supreme-hr-advisory-eb262ac9648b7d1826ab38fa907977e1?source=MCF&event=Search",
-            "uuid": "41a32be1-d3a0-4e0a-8ccb-c41f8a3a342b"
-        },
-        {
-            "dueDate": "2023-04-27",
-            "jobTitle": "Human Resource and Administrative Executive (No Need Experience)",
-            "skills": [
-                "Able To Multitask",
-                "Microsoft Office",
-                "Microsoft Excel",
-                "Talent Acquisition",
-                "Inventory",
-                "Administration",
-                "Payroll",
-                "Accounting",
-                "Grants",
-                "HR Policies",
-                "Human Resource",
-                "Administrative Support",
-                "Human Resources",
-                "Performance Management"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "PAYA LEBAR SQUARE, 60 PAYA LEBAR ROAD"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/603389bcb4e32f1db1e4eca7471e0d92/recruitpedia.jpg",
-                "name": "RECRUITPEDIA PTE. LTD."
-            },
-            "jobType": [
-                "OTHER",
-                "FULL_TIME"
-            ],
-            "description": "We are a centrally located boutique recruitment firm experiencing strong growth. As the company scales, we are looking to bring on a HR and Admin Executive who can help support through the next phase of growth and development roadmap. Job Description / Duties:    Responsible for all General Human Resource matters   Involved in designing and creating learning resources, training materials and e-contents   Market information search and data/report compilation   In charge of ensuring smooth day to day business operations   Handle General Administrative Duties   Provide support to the various departments   Assist in internal talent acquisition and recruitment related duties   Any other ad-hoc duties assigned by the supervisor  Requirements:    Minimum Diploma /Degree   Good in Microsoft Excel   Able to cope in a fast-moving environment and work independently under minimal supervision   Meticulous, highly organized and able to multi-task  Interested candidates who wish to apply for the advertised position, please click APPLY NOW or email an updated copy of your resume/cv. We regret that only shortlisted candidate will be notified. Email Address: hr@recruitpedia.sg",
-            "datePosted": "2023-03-28",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 4000,
-                "minValue": 2200,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/admin/human-resource-administrative-executive-recruitpedia-029ff7d70bf4b7e86bf2171a50a40950?source=MCF&event=Search",
-            "uuid": "6dde5bc4-bd7d-497c-a7e0-34577f33c97c"
-        },
-        {
-            "dueDate": "2023-04-27",
-            "jobTitle": "Senior Human Resource and Admin Executive",
-            "skills": [
-                "Coaching",
-                "Employer Branding",
-                "Microsoft Excel",
-                "Talent Acquisition",
-                "Change Management",
-                "Succession Planning",
-                "Administration",
-                "Payroll",
-                "Grants",
-                "HR Policies",
-                "Accountability",
-                "Human Resource",
-                "Organizational Effectiveness",
-                "Human Resources",
-                "Performance Management"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "PAYA LEBAR SQUARE, 60 PAYA LEBAR ROAD"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/603389bcb4e32f1db1e4eca7471e0d92/recruitpedia.jpg",
-                "name": "RECRUITPEDIA PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "We are a centrally located boutique recruitment firm experiencing strong growth. As the company scales, we are looking to bring on a Senior HR and Admin Executive who can help support through the next phase of growth and development roadmap. Job Description / Duties:    Manage full spectrum of General Human Resource matters   Design and create learning resources, training materials and e-contents   Implement and execute training plans and conduct trainings as well as post-training evaluations   Handle internal talent acquisition and other recruitment related duties   Administer work pass application, renewal and etc   Ensure the organisation in complying with local relevant regulations   Handle General Administrative Duties   Provide support to the various departments   Ad-hoc duties as assigned  Requirements:    Minimum Diploma / Degree in Human Resource or Business - related fields   Minimum 3 years of relevant experience   Experience in Staffing / Recruitment industry will be added advantage  Interested candidates who wish to apply for the advertised position, please click APPLY NOW or email an updated copy of your resume/cv. We regret that only shortlisted candidate will be notified. Email Address: hr@recruitpedia.sg",
-            "datePosted": "2023-03-28",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 4500,
-                "minValue": 2800,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/accounting/senior-human-resource-admin-executive-recruitpedia-0de5665dc0a0d8e37429f25501b4b4ac?source=MCF&event=Search",
-            "uuid": "f7fe5ebc-b8d5-4637-aa93-259c419640a2"
-        },
-        {
-            "dueDate": "2023-04-17",
-            "jobTitle": "Cloud Engineer (PERM)",
-            "skills": [
-                "Troubleshooting",
-                "Kubernetes",
-                "Azure",
-                "Cloud Computing",
-                "Architect",
-                "IT infrastructure",
-                "Agile",
-                "Scripting",
-                "Amazon Web Services",
-                "Compliance",
-                "Networking",
-                "Python",
-                "Servers",
-                "Docker",
-                "GCP",
-                "Infrastructure",
-                "Ansible",
-                "Linux"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": null
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/8f102815b85be9e9a8f4e27124b80a3a/talentsis.png",
-                "name": "TALENTSIS PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Responsibilities:    Define, deploy and manage cloud-based workloads, security and compliance controls.   Conduct mass training and briefings for application teams to help them on-board applications and services to the cloud.   Monitor, analyse and identify infrastructure for vulnerabilities, and applying appropriate mitigations and resolution.   Regularly review existing services and keeping up to date with industry trends and new cloud offerings, to prepare proposals and recommendations for enhancements and new capabilities.  Requirements:    Diploma / Degree or its equivalent with proven technical knowledge and expertise.   Any AWS / Azure / GCP / Nutanix certification will be advantageous   Knowledge of Terraform is preferred but not required.  (EA Reg No: 20C0312)",
-            "datePosted": "2023-03-27",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 5200,
-                "minValue": 3000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/cloud-engineer-talentsis-0f569e10c45a2a4e024976de6753e1ec?source=MCF&event=Search",
-            "uuid": "5bfedeeb-bd72-4df6-8e83-963382572d6e"
-        },
-        {
-            "dueDate": "2023-04-27",
-            "jobTitle": "CICS and MQ Systems Programmer",
-            "skills": [
-                "REXX",
-                "COBOL",
-                "Troubleshooting",
-                "Process Automation",
-                "Mainframe",
-                "IBM Mainframe",
-                "JCL",
-                "Technology Leadership",
-                "Tuning",
-                "Top Secret",
-                "Communication Skills",
-                "DB2",
-                "CICS",
-                "System Architecture",
-                "Audit",
+                "Geometry",
+                "Design Management",
                 "Technical Support"
             ],
             "location": {
                 "country": "SG",
                 "locality": "Singapore",
-                "address": "PRUDENTIAL TOWER, 30 CECIL STREET"
+                "address": "OXLEY @ RAFFLES, 30 RAFFLES PLACE"
             },
             "company": {
-                "logo": null,
-                "name": "ITCAN PTE. LIMITED"
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/4f6448374dac48f46835759cdc627626/phaidon-international.jpg",
+                "name": "PHAIDON INTERNATIONAL (SINGAPORE) PTE. LTD."
             },
             "jobType": [
                 "FULL_TIME"
             ],
-            "description": "Seeking a highly skilled and experienced CICS and MQ Systems Programmer to be responsible for providing technical support for IBM's CICS and MQ software.     Key Requirements:   •        At least 10-15 years of experience working with CICS and MQ in a z/OS environment including experience with REXX, COBOL, JCL, TSO/ISPF  •        Install, configure, and upgrade CICS and MQ software   •        Monitor CICS and MQ system performance and troubleshoot issues   •        Work with application teams to ensure that applications are designed to perform optimally on CICS and MQ   •        Perform system tuning to ensure CICS and MQ is running optimally  •        Provide technical troubleshooting and support for CICS and MQ including engagement of IBM and vendors for problem resolution and determination  •        Familiarity and support of 3rd party software e.g.  Omegamon, CICS PA, Fault Analyzer, APA etc  •        Provide process automation support and maintain SOP documentation  •        Support backup/recovery and disaster/recovery planning and testing  •        Support periodic system configuration reviews and audit reviews  •        Strong communication skills and the ability to work collaboratively in a team environment •        Any ad-hoc duties assigned / required. ",
-            "datePosted": "2023-03-28",
+            "description": "A global infrastructure consultancy firm to look for a Senior / Principal / Associate level Track Alignment Engineer in Singapore. The incumbent will be designing and maintaining the alignment of railroad tracks in accordance with industry standards and regulations. This includes the preparation of alignment plans, the use of surveying equipment, and collaboration with other engineers and stakeholders to ensure safe and efficient rail transport.  Responsibilities:    Develop and maintain track alignment plans using CAD software and other tools   Conduct field surveys to gather data on existing track alignment and identify areas requiring improvement   Collaborate with other engineers, stakeholders, and contractors to develop project scopes, timelines, and budgets   Provide technical expertise on the design and construction of track alignment and related infrastructure, such as rail switches and crossings   Analyze track geometry data to identify trends and potential issues, and recommend corrective actions as necessary   Develop and maintain documentation related to track alignment plans, surveys, and inspections   Participate in site inspections, construction progress meetings, and other related activities   Provide technical support and training to other engineers and field personnel as needed   Maintain knowledge of industry trends, technology, and best practices related to track alignment and railroad engineering   Qualifications:    Bachelor's degree in Civil Engineering or Structural Engineering or other related field   5+ years of railway track infrastructure projects alignment design experience (plain line, switch ; crossing)   Expertise in the use of railway software packages such as Microstation, Bentley OpenRail Autodesk Civil 3D)   Ability to develop and design 3D track alignments for railway or mass rapid transit system.   Competency on modelling ability in GIS and BIM is preferred.   Good knowledge of railway operation practices, permanent way and systems (e.g. drainage trackform, third rail and etc).   If you are interested, please apply with your latest CV or reach out to me directly at keith.ng@lviassociates.com. Only shortlisted candidates will be contacted.",
+            "datePosted": "2023-03-30",
             "salaryRange": {
                 "currency": "SGD",
-                "maxValue": 6900,
-                "minValue": 5000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/cics-mq-systems-programmer-itcan-2d74541b9d91322d54a4c8479607f7cd?source=MCF&event=Search",
-            "uuid": "06ef71fe-4bc1-433b-80b4-c5701ca2d207"
-        },
-        {
-            "dueDate": "2023-04-11",
-            "jobTitle": "Chef",
-            "skills": [
-                "Recipes",
-                "Leadership",
-                "Ingredients",
-                "Food Safety",
-                "Cooking",
-                "Housekeeping",
-                "Food Quality",
-                "Inventory",
-                "Sanitation",
-                "Compliance",
-                "Baking",
-                "Time Management",
-                "Culinary Skills",
-                "Pastry",
-                "Japanese"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": null
-            },
-            "company": {
-                "logo": null,
-                "name": "K.S GROUP HOLDINGS PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "   Collaborate with kitchen management on menu items   Attend all staff meetings   Prep kitchen before meal times   Prepare menu items as ordered   Work in a safe and efficient manner   Ensure proper preparation of all food to be served   Assist head chef with large projects when requested   Maintain a clean kitchen at all times ",
-            "datePosted": "2023-03-28",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 3300,
-                "minValue": 2900,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/chef-ks-group-holdings-2f352d7ea8dba8e708de8bbb7353ea76?source=MCF&event=Search",
-            "uuid": "2d2f8f0d-e52d-42d7-b23f-ca1bfc3b0094"
-        },
-        {
-            "dueDate": "2023-04-27",
-            "jobTitle": "Assistant Retail Supervisor",
-            "skills": [
-                "Customer Service Oriented",
-                "Troubleshooting",
-                "Trend",
-                "Housekeeping",
-                "Customer Support",
-                "Interpersonal Skills",
-                "Customer Care",
-                "Credit Cards",
-                "Selling",
-                "Merchandising",
-                "Inventory Management",
-                "Selling Skills",
-                "Team Player",
-                "Customer Service",
-                "Scheduling",
-                "Sourcing"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": null
-            },
-            "company": {
-                "logo": null,
-                "name": "VENUS BEAUTY PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "   Supervising a team of retail assistants to ensure smooth operation   Responsible for the sales of your category of products   Handle inventory management, housekeeping and merchandising   Demonstrate outstanding customer service and selling skills, keeping the selling floor stocked with merchandise, assisting in display of merchandise or organizing the selling floor and stock areas.   Process payments by totaling purchases; processing cash or other credit cards   Must also be able to deal with customer refunds courteously and professionally  Requirement: Willing to work on roster based on retail hours. Team player with excellent communication and interpersonal skills Working hours:    6 days roster based (retail hour 10am to 10pm)   1 weekday off  Benefits: 1. Training will be provided. 2. Commission. Estimated about S$500 and above. Commission will be given based on personal sales 3. Annual Bonus 4. Annual leave and medical leave 5.Grooming allowance",
-            "datePosted": "2023-03-28",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 4500,
-                "minValue": 3100,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/sales/assistant-retail-supervisor-venus-beauty-35eb74d9d85f9dea1b18a8ffe921dbe2?source=MCF&event=Search",
-            "uuid": "2bf2781a-737e-4210-a5dd-d446ea9a05ff"
-        },
-        {
-            "dueDate": "2023-04-27",
-            "jobTitle": "Admin Co-ordinator #SGUnited Jobs",
-            "skills": [
-                "Microsoft Office",
-                "Administration",
-                "Selling",
-                "MS Office",
-                "PowerPoint",
-                "Office Administration",
-                "Compliance",
-                "Administrative Support",
-                "Excel",
-                "Team Player",
-                "Customer Service",
-                "Scheduling"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "ALLSWORTH PARK, 363 HOLLAND ROAD"
-            },
-            "company": {
-                "logo": null,
-                "name": "ABUNDANT LIFE PLANNERS PTE LTD"
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "1. Assist with general office administration ; any other duties as assigned by the manager or director 2. Prepare monthly sales reports ; meeting slides 3. Handling of documents ; forms for signature ; submission 4. Incoming ; outgoing mails 5. Update of sales reports for contests / challenges 6. Handling of customers' calls ; enquiries 7. Creating powerpoint slides for meetings, trainings or webinars 8. Reception duties",
-            "datePosted": "2023-03-28",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 3000,
-                "minValue": 2500,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/admin/admin-co-ordinator-sgunited-jobs-abundant-life-planners-376eaaf0c875f11f14ae0d32b0083634?source=MCF&event=Search",
-            "uuid": "17105dec-617b-4bef-9f67-6a6bce46f1ab"
-        },
-        {
-            "dueDate": "2023-04-27",
-            "jobTitle": "Warehouse Assistants - FSC",
-            "skills": [
-                "Warehousing",
-                "Microsoft Office",
-                "Housekeeping",
-                "Inventory",
-                "Arranging",
-                "Unloading",
-                "Vehicles",
-                "Physically Fit",
-                "Freight",
-                "Transportation",
-                "Occupational Health",
-                "Shipping"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": null
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/f071e1837d78b8428ba5cb15603d7583/qxpress.png",
-                "name": "QXPRESS PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "We are an e-commerce logistics fulfilment company based in Toh Guan Road, Jurong. We are expanding and looking to hire a full-time Warehouse Assistant. Responsibilities: • Duties include in-housing - inspecting, sorting, picking and packing,    arranging and  scanning. • Complete tasks such as loading, unloading, sorting, picking, stocking,    staging and transportation of goods according to instructions • Load and unload materials to and from designated storage area, such    as racks, shelves or vehicles. • Verify computations against physical count of stock. • Maintains condition of work area • Performs other duties as assigned. • Must be able to work in warehouse environment • Must have the right attitude, be helpful, proactive, responsible and    willing to learn. Criteria: • Minimum 1 year of warehouse assistant experience • Not compulsory to have forklift license but if you do, you will be    entitled to forklift  allowance. • Long term full-time employment only! Remuneration Package: • Probation: $1400 (WP) $1800 (SG) • After Probation $1500 (WP), $2000 (SG) • Attendance Incentive: $200 monthly for good attendance! (No     lateness or absences) • Performance Incentive: $100 monthly depends on performance    appraisal • $4.25 forklift allowance per working day (minimum $100/mth, for     forklift license holders   only) • $10 meal allowance for overtime exceeding 2hrs • Tenure Allowance (paid monthly) after working 1year, 2year ;    3year! (Up to $500/mth) • Staff promoted to Supervisor will be entitled to supervisor allowance    of  $12 per work day. Other information: • 12 days annual leave • 14 days sick leave/60 days hospitalization Working Hours: 5.5 days Your permanent work location will be at either Toh Guan or Keppel Rd. • Mon to Fri - 8AM to 5PM • Saturday - 8AM to 12PM Please submit your updated resume through the Apply Now link!",
-            "datePosted": "2023-03-28",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 2000,
-                "minValue": 1800,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/logistics/warehouse-assistants-fsc-qxpress-1f24a436ed3672f4621440a92d50723d?source=MCF&event=Search",
-            "uuid": "1266f70c-c717-4d58-811b-f968a57808e8"
-        },
-        {
-            "dueDate": "2023-04-27",
-            "jobTitle": "MBA Programme Coordinator",
-            "skills": [
-                "Work Autonomously",
-                "Outlook",
-                "Service Orientation",
-                "Talent Acquisition",
-                "Autonomy",
-                "Teaching",
-                "Inventory",
-                "Team Spirit",
-                "Business Objects",
-                "Attention to Detail",
-                "Wellbeing",
-                "Programme Management",
-                "Customer Service",
-                "Disposition",
-                "PeopleSoft"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "1 AYER RAJAH AVENUE"
-            },
-            "company": {
-                "logo": null,
-                "name": "INSEAD"
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "As one of the world’s leading and largest graduate business schools, INSEAD brings together people, cultures and ideas to change lives and to transform organisations. A global perspective and cultural diversity are reflected in all aspects of our research and teaching. With a presence in Europe (France), Asia (Singapore), the Middle East (Abu Dhabi), and North America (San Francisco), INSEAD’s business education and research spans four continents. Within the MBA Programme Management team, the post holder is responsible for ensuring smooth programme delivery on Academic matters and is directly involved in coordination of tasks/activities with the MBA Class officers. The post holder is also in charge of managing the exit language requirement for students and oversees the Business Foundations Programme for new admits. S/he will liaise closely with the Academic Manager and with the Programme Management teams on both the Europe ; Asia campus. Main Responsibilities    MBA Registrar; In charge of managing all MBA Registrar matters for the alumni and current students. This includes certification, transcripts, diploma issuance as well as verification to recruiters, employers, universities and related requests.   Exit language requirement; The post holder will manage exit language requirement for incoming and current students including those who have completed the studies but not yet cleared the exit language requirement while working with Admissions colleagues and external language provider.   MBA Business Foundations programme; Runs and oversees the whole organisation of the programme from the registration and course enrollment to running the logistics for the programme either in person or online for both classes.   Administrative and logistical assistance to the MBA team and the MBA Academic Manager including, but not limited to, overseeing all presentation logistics for the team and contributing to smooth running of key events (such as MBA Launch weeks, graduations, exams – for example ID badges and amphi nametags preparation for all incoming students, ordering of invigilators for exams, grade distribution post-exams, preparation of diplomas for graduating students, etc).   Assistance to MBA Participants; answers participants enquiries, provide certifications, campus tours, tracking and updating of online materials seen by students, assistance and advice to students on the Singapore Student pass application process.   Oversees and manage inventory requirement for the team; for example, diploma holders, diploma papers, transcript papers, certification letters, exam booklets, etc.  The ideal candidate should possess the following skills:    Diploma or equivalent   2 to 3 years of experience working in a customer service and international environment.   Fluency in both written and spoken English   Strong IT skills: Solid Word, Excel and PowerPoint skills are a must; Knowledge of Outlook, web navigation, Peoplesoft, Business Objects, Canvas will be a plus   Excellent customer service orientation, organizational and planning skills   Excellent team spirit with the ability to work autonomously   Meticulous attention to detail  To be considered for this role please send your CV to the Talent Acquisition Specialist at recruit.sg@insead.edu quoting reference HR4. We regret that only shortlisted candidates will be contacted. ",
-            "datePosted": "2023-03-28",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 3800,
-                "minValue": 3200,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/admin/mba-programme-coordinator-insead-21d8d845290064c10fb4c931f2b5479e?source=MCF&event=Search",
-            "uuid": "88309a9b-b492-42eb-893d-9d6a7d635adf"
-        },
-        {
-            "dueDate": "2023-04-11",
-            "jobTitle": "Avaloq Release Manager",
-            "skills": [
-                "Science Education",
-                "Microsoft Excel",
-                "Written English",
-                "Customer Experience",
-                "Analog",
-                "Release Management",
-                "Task Completion",
-                "Agile",
-                "Private Banking",
-                "Business Strategy",
-                "Systems Analysis",
-                "Project Management",
-                "Windows",
-                "Software Development",
-                "Incident Management"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "CENTENNIAL TOWER, 3 TEMASEK AVENUE"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/533e3a6ce4853b46b93bb2b0b5769645/hays-specialist-recruitment.png",
-                "name": "LGT BANK (SINGAPORE) LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "LGT Private Banking is a leading international private bank and independent family-owned business. Our thinking is long-term, and we strive to innovate. In recent years, we have grown strongly - in Europe and in Asia. To ensure we remain successful, one factor is crucial: digitalization. It is a key strategic priority in the coming years. We want to combine the best of the analog and digital worlds, in interdisciplinary and agile teams. Our goal: to create a truly personal customer experience thanks to state-of-the-art services.  Job Description Do you want to help us continue our success story? As part of an interdisciplinary, agile team that drives innovation at LGT, you have the opportunity to actively shape our future by executing our business strategy on digitalization. Over the next few years, we want to combine the best of the analog and digital worlds to create a truly personal client experience with cutting-edge digital services and products.  As an Avaloq Release Manager, you will be able to contribute to the further development in the international environment at LGT and take on the following tasks:       Monitor and control the daily installation and deployment processes in the Avaloq environment   Coordination between support units and other operational teams    Support in incident management processes    Identifying potential for improvement    Collaboration in projects    You will be working in product oriented agile delivery teams with key stakeholders in APAC and EMEA. The international setup offers you to work remotely and in co-location spaces. Your line team is mainly located in Singapore.  Requirements    Completed computer science education    Profound knowledge in the operation of complex application environments    Minimum 3 years experience in Avaloq (Certification)   Experience in Avaloq ADAI (Avaloq Database Automatisation ; Integration) tooling is an advantage   Good understanding of technical contexts    Quality awareness and autonomous way of working    Good command of spoken and written English    Ability to work in a team, quick comprehension and willingness to work outside of block hours if necessary (maintenance windows, releases, special projects)    Experience in the Banking/Financial industry would be an added advantage   What we offer LGT's success is based on its core values, the Group-wide and partnership-based cooperation of entrepreneurial teams and a flat hierarchy with short decision-making paths. LGT's continued growth opens up long-term personal and professional development opportunities in a challenging and dynamic environment.  Help shape LGT and become part of a family – not just a company.  Contact information Sounds like what you’ve been looking for? Then apply online now. We are looking forward to hearing from you and will be to to answer your questions or give you further information.   ",
-            "datePosted": "2023-03-28",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 14000,
+                "maxValue": 12000,
                 "minValue": 7000,
                 "payPeriod": "MONTH"
             },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/banking-finance/avaloq-release-manager-lgt-bank-3eea15413e71acc9983beda4de5ae116?source=MCF&event=Search",
-            "uuid": "c0836d11-a5e4-454b-87bc-09a68c1c4dae"
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/building-construction/senior-principal-associate-track-alignment-engineer-phaidon-international-419d3323bfc12575b86802e756812c52?source=MCF&event=Search",
+            "uuid": "d9a62f1a-a8b4-4fda-80ad-b7d4701bd688"
         },
         {
-            "dueDate": "2023-04-27",
-            "jobTitle": "Assistant Officer (IC)",
+            "dueDate": "2023-04-29",
+            "jobTitle": "CAD Drafter",
             "skills": [
-                "coordinate and communicate effectively",
-                "Microsoft PowerPoint",
-                "Accounts Payable",
-                "Tracking",
-                "Troubleshooting",
-                "Coordinate external vendors",
+                "Pharmaceutical Industry",
+                "Revit",
+                "Missions",
                 "Microsoft Excel",
-                "coordinate with clients",
-                "Housekeeping",
-                "Office Management",
-                "Administration",
-                "Office Administration",
-                "Transportation",
-                "Administrative Support",
-                "Invoice Processing",
-                "Shipping",
-                "pricing review",
-                "monitored costs"
+                "Construction",
+                "Concept Design",
+                "Ability To Work Independently",
+                "BIM",
+                "Interpersonal Skills",
+                "Drawing",
+                "Building Services",
+                "3D",
+                "AutoCAD",
+                "Civil Engineering",
+                "CAD"
             ],
             "location": {
                 "country": "SG",
                 "locality": "Singapore",
-                "address": "INTERNATIONAL PLAZA, 10 ANSON ROAD"
+                "address": "31 INTERNATIONAL BUSINESS PARK"
             },
             "company": {
-                "logo": null,
-                "name": "STAFFLINK SERVICES PRIVATE LIMITED"
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/ecb67a66c0a8da406eadffc4d2365837/cavasia.jpg",
+                "name": "CAVASIA PTE. LTD."
             },
             "jobType": [
                 "FULL_TIME"
             ],
-            "description": "   MNC   AWS + VB   Monday to Friday 7: 55 AM to 4: 55 PM   Working Location: Tuas   Islandwide Transport Provided   Candidates with no experience are welcome to apply, training will be provided  Responsibilities:    Generate shipping documents, arrange ; track shipments.   Coordinate with buyer/planner/supplier/forwarder/courier to ensure on time delivery of goods.   Process ; verify forwarder invoices to Finance for payment.   Assist in troubleshooting and claims.   Monitor and review logistics costs ; forwarder services to optimize transportation solution.  Requirements    Min Diploma and above.   Knowledge of import/export regulations will be an added advantage.  HOW TO APPLY: Interested applicants, please click on “Apply Now”.  We regret only shortlisted candidates will be notified.  Stafflink Services Pte Ltd EA Licence No.: 04C4294 EA Personnel: Chua Xue Min (Joesefyn) EA Personnel Reg. No.: R23113090",
-            "datePosted": "2023-03-28",
+            "description": "As CAD Drafter, you will provides drafting and design support for engineering departments by assuming full drafting and/or some design responsibility for assigned projects. May have responsibility for CAD deliverables to the customer, layout/packaging coordination, release coordination (using EPIC), and CAD studies.  What you will do:    Documentation Management with Main-contractor and Sub-contractor, keep the drawing organized on a project basis.   Verify the drawings submitted and generated comply with either internal CAD standard or client project specific CAD standard.   Responsible for bill of quantity and material take off and costing during project tender stage a nd execution as the case may be. To provide support for tender and material ordering.   Assist on design works (e.g sizing of ductwork as per guideline) and space management   Where required, perform site verification of install works to ensure setting out and installation are properly done as per approved drawing   Co-ordinate with client CAD department   Sub-contractor drawing management  What we look for:    Degree/Diploma   Minimum 3 years working experience with BIM modelling software – REVIT Autodesk within multiple trade construction projects preferable in the semiconductor or pharmaceutical industry   Committed to complete given tasks on time, ability to work independently and taking ownerships and responsibilities on tasks that had been assigned to you   Self-motivated and open minded with passion to challenge status quo and drive for continuous improvement   Process good communication and interpersonal skills  Diversity ; Inclusion Our dedication to diversity and inclusion starts with our values. We lead with integrity and purpose, focusing on the future and aligning with our customers’ vision for success. Our High-Performance Culture ensures that we have the best talent that is highly engaged and eager to innovate. ​​​​​​ Our D;I mission elevates each employee’s responsibility to contribute to our culture. It’s through these contributions that we’ll drive the mindsets and behaviors we need to power our customers’ missions. You have the power. You have the voice. You have the culture in your hands.",
+            "datePosted": "2023-03-30",
             "salaryRange": {
                 "currency": "SGD",
-                "maxValue": 3000,
-                "minValue": 2500,
+                "maxValue": 5500,
+                "minValue": 3000,
                 "payPeriod": "MONTH"
             },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/logistics/assistant-officer-stafflink-services-3fe849e1ba405ec84ef68a780e892f03?source=MCF&event=Search",
-            "uuid": "661b1f74-ba5d-4e89-b7e5-f2e62a70090a"
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/architecture/cad-drafter-cavasia-59dc186e50a67450df69e0dee6e1cf46?source=MCF&event=Search",
+            "uuid": "58477018-3d13-46f2-bdbf-97bb347273a5"
+        },
+        {
+            "dueDate": "2023-04-29",
+            "jobTitle": "BIM Manager",
+            "skills": [
+                "Revit",
+                "Management Skills",
+                "Producing",
+                "Leadership",
+                "Microsoft Office",
+                "Construction",
+                "Quality Control",
+                "BIM",
+                "Architectural",
+                "Drawing",
+                "Electrical",
+                "3D",
+                "Structural Engineering",
+                "Project Management",
+                "Construction Drawings",
+                "Communication Skills",
+                "AutoCAD",
+                "Civil Engineering",
+                "Mechanical Engineering",
+                "Navisworks"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": null
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/26e0a05f756d2f7f0eed7130db69c743/arth-design-build.png",
+                "name": "ARTH DESIGN BUILD PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Responsibilities    Develop and maintain BIM Execution Plan   Maintain productive relationship with customers and Internal team.   Ensure projects scope, schedule is being tracked and executed till the completion stage.   Conversant in using any of the 4D BIM and 5D BIM software such as Navisworks Manage, Solibri Office, Synchro Pro, Fuzor, CostX, Cubicost, etc. for both 4D BIM and 5D BIM related deliverables.   Conversant in using one of the BIM coordination software such as Navisworks Manage, Solibri Office, VRCollab, Navigator, etc. for clash detection analysis.   Generate and implementation of Revit models at all phases of the projects, using both company or client standards and developing new templates when required   Understanding and proactively implementing the required LOD, and CoBie data at each of the project stages, as per project-specific requirements   Perform model audits and create optimization strategies to keep our project teams productive.   Attend and chair VDC and technical meetings with Clients, Consultants and Sub-contractors and prepare necessary documentation.   Perform quality control on all models provided by BIM coordinators/authors on the project   Works closely with project team in coordinating, organizing and producing of construction drawings and documentations using BIM Technologies   Coordinate and collaborate with all parties within the Contract and interfacing contracts’ BIM Managers and / or BIM Coordinators.   Establish, implement, and facilitate clash detection analysis to identify, resolve and validate all design and construction conflicts within the Contract and Interfacing Parties.   Update, manage, monitor, and track all model changes.   Ensure models / drawings accuracy based on BIM standards and BIM project workflow criteria / checklist.   Explore innovation and encourage the use of advanced tools / technologies to expand the use of BIM within the company.  Requirements    Degree or Diploma in Electrical, Mechanical or Building Services, Architectural or Structural Engineering with at least 8 years of working experience in construction, design, BIM modelling, BIM implementation management and / or coordination (services).   Preferably with at least 6 years of BIM experience as a BIM Manager role in project related BIM management and / or services coordination in a design engineering or construction firm for a large project and has completed one full project cycle at design phase or construction phase.   6+ years of professional experience in leading building projects   In-depth experience within a work-sharing environment (CDE) and demonstrate experience using 3D coordination software.   Expert knowledge with proven practical application of Revit Architecture and integration with the Autodesk Suite.   Formally trained in BCA Academy’s Specialist Diploma in Building Information Modelling (BIM) with any BIM authoring software certification certified by software vendor’s authorise training provider. A certified Digital Delivery Lead would be an advantage.   Ability to communicate effectively with construction field personnel, architects, engineers and subcontractors.   Knowledge of Civil 3D, 4D/5D will be an added advantage.   Must be capable of directing the work of others, maintaining tight timeframes, and working constructively with the clients.   The individual should have excellent leadership and communication skills   Good interpersonal and written skills   Positive working attitude and ability to work in a fast-paced environment ",
+            "datePosted": "2023-03-30",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 8500,
+                "minValue": 6000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/building-construction/bim-manager-arth-design-build-f8e034686bd47be2bc512946299ee111?source=MCF&event=Search",
+            "uuid": "61b71420-b740-4f6d-b616-92800388fc29"
+        },
+        {
+            "dueDate": "2023-04-29",
+            "jobTitle": "IT Specialist",
+            "skills": [
+                "Outlook",
+                "Mac",
+                "Troubleshooting",
+                "Microsoft Office",
+                "Windows 10",
+                "Ability To Work Independently",
+                "Active Directory",
+                "Networking",
+                "Customer Satisfaction",
+                "ITIL",
+                "Customer Service",
+                "Network Security",
+                "VPN",
+                "Service Delivery",
+                "Technical Support"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "ROYAL MERUKH S.E.A, 21 MERCHANT ROAD"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/e5b15881ae5101f1192388b04cf5fb13/gensler-singapore.jpg",
+                "name": "GENSLER SINGAPORE PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "At Gensler, we design for people. We leverage our global perspective and local presence to innovate at every scale. We’re not just designers. We’re tinkerers, craftspeople, visionaries, innovators and thought leaders. Fueled by passion and entrepreneurial spirit, our people bring new ideas to solve challenging problems. Whether you’re into sketching new ideas, hacking a building or growing client relationships in global markets, there’s something here for everyone. Our depth of expertise spans disciplines—from aviation and transportation to education, hospitality, retail, technology and more. At our core we embody an entrepreneurial spirit, always looking ahead for new ways to innovate and add to our clients' success. We share the belief that design has the power to transform organizations and change lives; whether we’re refreshing a retailer’s brand, planning a new urban district or designing a super tall building. Our work reflects an enduring commitment to sustainability, and we believe that a diversity of voices and cultures is one of the most powerful strategic tools for securing lasting competitive advantage. As the world’s largest design firm, Gensler has a unique obligation and opportunity to focus on sustainability in the built environment. We deepened our commitment to combat the impact on climate change in the built environment when we launched Gensler Cities Climate Challenge (GC3) in 2019. This is our pledge to meet an ambitious goal: the elimination of all greenhouse gases from our work by 2030. Your Role As an IT Support Specialist, you will provide first-line response to end user incidents received via service desk requests and office operational requirements. You will generally focus on the day-to-day support of the Singapore and Sydney office but must continually collaborate and communicate with the larger distributed team of support staff across the region and globe. This position requires a self-starter and a skilled communicator (written and verbal) who can effectively manage and prioritize support tasks in a dynamic team.  The individual within this team needs to have a high sense of ownership, collaboration, and excellent customer service.  This position is focused on rapid service, timely technical support and highest quality of customer satisfaction, with a friendly and helpful attitude. Successful administrators are open, empathetic, and can apply a broad range of basic technology knowledge. What You Will Do    Effectively communicate and work with team members from general end users to high level managers and Principals   Determine most effective problem resolution to minimize technical downtime (including network, connection and WIFI issues)   Provide first and second level support for Windows and Mac client computers, MS Office 365 applications including Outlook and Teams   Provide installation, maintenance and ensure operation of all devices including desktop/laptop computers, printers and peripherals installed within the regional IT infrastructure   Provide installation and basic troubleshooting of core 2D and 3D drafting products including Revit, AutoCAD, 3ds Max as well as other graphics design and rendering software such as SketchUp, Rhino, and Adobe Creative Cloud products   Support remote users accessing virtual desktop infrastructure and VPN connections   Administer user accounts and security controls within Active Directory   Image laptops and desktops during initial deployment, maintenance and end of life replacements   Comply with vendor specific maintenance and repair procedures   Support AV equipment and web conferencing functions   Maintain current knowledge of desktop computing technology, applicable software tools and networking technologies used by Gensler. Develop and expand knowledge of these technologies over time   Conduct new hire IT orientations to support familiarity with Gensler IT protocols, policies and procedures   Develop rapport with staff to understand their technology skills and tailor hands on support accordingly   Maintain ethical and professional behavior in dealing with users, department associates, and other departments' personnel. Adhere to all software licensing restrictions   Multitask in a fast-paced environment, while maintaining an emphasis on detail and quality  Your Qualifications    Bachelor’s in Computer Engineering, Computer Science, or related field preferred, or equivalent experience or military training   3-5 years of prior related experience, a background in the architecture or engineering industry is a plus   Strong knowledge and experience with Windows 10; Microsoft Office 365 (SharePoint, OneDrive, Teams, Outlook); Mac, Microsoft Active Directory   Knowledge of basic networking concepts and desktop troubleshooting   Ability to disconnect, lift and move PC's and Monitors (50 lbs) to new desks, maneuver under counters and in tight spots to run cables and wires for PCs   Knowledge of iPhone and Android mobile phones   Ability to work independently or in a team   Must have strong troubleshooting abilities and excellent organizational, time management, and service delivery skills   Participate in occasional off-hours and weekend support of system upgrades and initiatives  Qualifications Considered a Plus:    CompTIA A+ Certification in desktop support or similar   Certification in Cisco, Windows Desktop or Server, Mac, VMWare, ITIL considered a plus   Familiarity with using design tools like Adobe Creative Cloud and Autodesk products (ex. Revit, AutoCAD, etc.)   Knowledge and experience with Mac OS X in a corporate environment   Experience working with geographically diverse operations  Life at Gensler Gensler Asia-Pacific and Middle East is committed to Diversity, Equity and Inclusion through our Five Strategies. In partnership with our clients, we strive to create a just and equitable future for our communities and our colleagues. We celebrate our diversity and are focused on creating an inclusive workplace environment for all. As a people-first organization, we are as committed to enjoying life as we are to delivering best-in-class design. From internal design competitions to research grants to “Well-being Week,” our offices reflect our people’s diverse interests. We encourage every person at Gensler to lead a healthy and balanced life. Our comprehensive benefits include medical, dental, vision, disability and wellness programs. We also offer profit sharing and twice annual bonus opportunities. As part of the firm’s commitment to licensure and professional development, Gensler offers reimbursement for certain professional licenses and associated renewals and exam fees. In addition, we reimburse tuition for certain eligible programs or classes. We view our professional development programs as strategic investments in our future.",
+            "datePosted": "2023-03-30",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 6000,
+                "minValue": 3800,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/specialist-gensler-singapore-65f829587ba1d0c245d18ca838d5958f?source=MCF&event=Search",
+            "uuid": "511664d7-9588-40df-aedf-2c8e45038e79"
         }
     ]
 }
