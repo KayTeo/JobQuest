@@ -1,238 +1,20 @@
 {
     "jobs": [
         {
-            "dueDate": "2023-04-12",
-            "jobTitle": "Chef",
+            "dueDate": "2023-04-18",
+            "jobTitle": "\"#SGUnitedJobs\"Job Title: Customer Service Officer (Call Center)",
             "skills": [
-                "Recipes",
-                "Leadership",
-                "Ingredients",
-                "Food Safety",
-                "Cooking",
-                "Housekeeping",
-                "Food Quality",
-                "Inventory",
-                "Sanitation",
-                "Compliance",
-                "Baking",
-                "Time Management",
-                "Culinary Skills",
-                "Pastry",
-                "Japanese"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": null
-            },
-            "company": {
-                "logo": null,
-                "name": "YOU MEN H.K. ROAST GOURMET"
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "   Collaborate with kitchen management on menu items   Attend all staff meetings   Prep kitchen before meal times   Prepare menu items as ordered   Ensure proper preparation of all food to be served   Assist head chef with large projects when requested   Maintain a clean kitchen at all times   Work in a safe and efficient manner   Multiple Shift ",
-            "datePosted": "2023-03-29",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 5000,
-                "minValue": 3500,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/chef-men-hk-roast-gourmet-ba081836acc398798ea7ed3cca5996ba?source=MCF&event=Search",
-            "uuid": "e3f41d2d-48f9-4a88-9311-e55c7f1a13c9"
-        },
-        {
-            "dueDate": "2023-04-12",
-            "jobTitle": "Chef",
-            "skills": [
-                "Recipes",
-                "Leadership",
-                "Ingredients",
-                "Food Safety",
-                "Restaurants",
-                "Cooking",
-                "Housekeeping",
-                "Food Quality",
-                "Inventory",
-                "Sanitation",
-                "Raw Materials",
-                "Compliance",
-                "Baking",
-                "Time Management",
-                "Culinary Skills",
-                "Catering",
-                "Pastry",
-                "Food Service",
-                "Japanese"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": null
-            },
-            "company": {
-                "logo": null,
-                "name": "SMOKE BRAINY"
-            },
-            "jobType": [
-                "PART_TIME",
-                "FULL_TIME"
-            ],
-            "description": "We are a local branded F;B cafe looking to recruit fusion chef that can create local dishes Chinese or Malay cusine and western food. If you are good in using sambal chili will be added advan . If you are talented but lack exposure , support this will be a good platform to express. Give yourself a opportunity to speak to us, you never know what lies ahead in your future.",
-            "datePosted": "2023-03-29",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 3500,
-                "minValue": 2200,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/chef-smoke-brainy-021c5578b3f0b0c32c84e30e80c105ae?source=MCF&event=Search",
-            "uuid": "b3e3205b-00d4-4d92-8c9a-0506c99ffaf0"
-        },
-        {
-            "dueDate": "2023-04-12",
-            "jobTitle": "Sous Chef",
-            "skills": [
-                "Recipes",
-                "Leadership",
-                "Ingredients",
-                "Quality Control",
-                "Food Safety",
-                "Cooking",
-                "Workplace Safety",
-                "Food Quality",
-                "Inventory",
-                "Restaurant Management",
-                "Hospitality"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "Marina Bay Sands Singapore , 10 Bayfront Ave"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/e58bfebc91a17a2eec5d8937a9532d2f/marina-bay-sands.jpg",
-                "name": "MARINA BAY SANDS PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Job Scope    Support the Executive Chef/ Executive Sous Chef and the team ensuring smooth daily operations.   Maintain complete knowledge of scheduled menus of the kitchen / F;B outlets as well as the menu items preparation method/time, major ingredients, quality standards, taste, texture, serving temperature, portion size and presentation method.   Display uncompromising level of commitment and support to the Hygiene Manager and Executive Chef in order to achieve the highest level of food safety requirement in all kitchens applying “First in First out!” best kitchen practice.   Provide accurate recipes with appropriate training to the line cooks enabling them to deliver consistent food product.   Assist individuals with their job functions and on the job training when necessary to ensure optimum service to customers.   Estimate food consumption to schedule purchases and requisition of raw materials.   Minimize waste and spoilage to expenses in line with budget.   Prepare efficient daily work list and train line cooks to produce mise en place with sense of priority and time management.   Ensure a cooperative and professional rapport is maintained with all external controls, casino management, and front of the house team.   Foster and promote a cooperative working climate, maximizing productivity and employee morale.   Train and be a mentor figure to other Team Members.   Comply and ensure Marina Bay Sands (Las Vegas Sands Corporation) hygiene policies are strictly adhered to on a daily basis.   Work inside and continuously maneuver in and around all areas of the offices as well as the Kitchens.   Assist in daily ordering of ingredients thru the Ariba system.   Compile recipe cards for the restaurant.   Supervise stewarding staff and maintaining cleaning schedules.   Maintain cleanliness and tidiness in the kitchen, walk in fridge/freezer, dry store area, back area etc.  Job Requirements    Degree / Diploma / Certification in Culinary Arts or Management   7 years managerial experience in a high volume 4-5 star hotel, or similar cuisine and dining concept. The candidate should possess a comprehensive and diverse culinary background that suggests a well-developed set of skills in terms of being able to cope in a large, diverse kitchen ; fine-dining restaurant environment   Knowledge of Asian and Western cuisines, their preparation and service. Understanding of latest culinary concepts in a broad range of cuisines   Knowledge in using computer for administration work   Good knowledge on basic accounting and calculation of food costs   Excellent logistical, culinary and leadership skills   Able to instill safety and sanitation habits   Fluent in English, knowledge of additional languages is advantageous   Willing and able to work shift work   Have a well-groomed, professional appearance ",
-            "datePosted": "2023-03-13",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 7560,
-                "minValue": 5040,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/sous-chef-marina-bay-sands-b8eafcd410cd7001a097f237f6dfba1b?source=MCF&event=SuggestedJob",
-            "uuid": "3fe56453-7e26-4031-a682-20f9b0f58efa"
-        },
-        {
-            "dueDate": "2023-04-28",
-            "jobTitle": "CHEF",
-            "skills": [
-                "Recipes",
-                "Ingredients",
-                "Food Safety",
-                "Cooking",
-                "Food Quality",
-                "Inventory",
-                "Sanitation",
-                "Cutting Tools",
-                "Compliance",
-                "Good Communication Skills",
-                "Culinary Skills"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": null
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/fcf1ed412b9ce0fb63ff35d1f9ca316c/57-employment-agency.jpg",
-                "name": "SOQ PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Responsibilities    Set up workstations with all      needed ingredients and cooking equipment   Prepare ingredients to use in      cooking (chopping and peeling vegetables, cutting meat etc.)   Cook food in various utensils      or grillers   Check food while cooking to      stir or turn   Ensure great presentation by      dressing dishes before they are served   Keep a sanitized and orderly      environment in the kitchen   Ensure all food and other items      are stored properly   Check quality of ingredients   Monitor stock and place orders      when there are shortages  Requirements and skills    Proven experience as chef   Experience in using cutting      tools, cookware and bakeware   Knowledge of various cooking      procedures and methods (grilling, baking, boiling etc.)   Ability to follow all      sanitation procedures   Ability to work in a team   Very good communication skills   Excellent physical condition      and stamina ",
-            "datePosted": "2023-03-29",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 5000,
-                "minValue": 3000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/chef-soq-d6c73494ed149ed7b6894ece3aee4b00?source=MCF&event=Search",
-            "uuid": "93eb8000-67b5-4d86-af40-c8c7dca5096d"
-        },
-        {
-            "dueDate": "2023-04-28",
-            "jobTitle": "Commis Chef",
-            "skills": [
-                "Recipes",
-                "Ingredients",
-                "Food Safety",
-                "Restaurants",
-                "Cooking",
-                "Italian",
-                "Food Quality",
-                "Inventory",
-                "Sanitation",
-                "Raw Materials",
-                "Baking",
+                "Ability to Multitask",
+                "Written and Verbal Communication Abilities",
+                "Customer Service Oriented",
+                "Able To Multitask",
+                "Verbal Communication",
+                "Multitasking Skills",
+                "Administration",
+                "Verbal Skills",
                 "Customer Service",
-                "Occupational Health",
-                "Pastry",
-                "Japanese",
-                "Hospitality"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "Changi International Airport Terminal 1, 80 Airport Boulevard #03-09"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/6d3faff560bcd4d301bced42e2408f8a/aapc-services.png",
-                "name": "AAPC SERVICES PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Job Highlights    Be part of a global leader in Augmented Hospitality and Tourism.​   Discounts at over 3500 hotels globally and other discounts.   Excellent career and development opportunities.  Job Description Overview of Duties    Works as part of the kitchen team. Engaged in cooking, baking, pastry cooking or butchering duties.   This position involves food preparation and presentation with flair for breakfast, lunch and dinner for ala carte and buffet services.   Maintain a clean and hygienic work environment whilst ensuring a product of high quality and presentation standards.   Demonstrate commitment to customer service for internal and external customers.  Reporting Line    This position reports to Chef de Partie, Sous Chef and Executive Chef.  Main Responsibilities ; Duties    Prepare and present menu items showing variety and flair.   Ensure strict stock rotation and minimum wastage. Have stock control procedures implemented and maintained.   Prepare and ensures availability of mis en place as required.   Check that all cooked and pre-cooked foods are properly stored.   Order necessary food according to proposed business demands.   Consult with Executive Chef for guidance and authorisation of order.   Liaise with front of house staff regarding the availability of menu items, additions to the menu and any relevant changes.   Keeps all working areas clean and tidy. Ensure all equipment is maintained, serviced and cleaned.   Be familiar with other areas in the Kitchen so when called upon, assistance can be provided.   Assist and liaise with chef on duty as required.  Experience ; Skills    Possess Professional Certificate/NITEC and or Diploma.   Applicants with Pastry background will have an added advantage.   Minimum 3 years of related experience in Hospitality/Hotel/F;B Culinary operations.   Possess a valid WSQ Food Hygiene certificate. ",
-            "datePosted": "2023-03-29",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 3050,
-                "minValue": 2800,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/commis-chef-aapc-services-76a48640ec5b1725164d74ed1fbf0181?source=MCF&event=Search",
-            "uuid": "da9fdc43-eead-40f1-b362-ba0f251c8075"
-        },
-        {
-            "dueDate": "2023-04-28",
-            "jobTitle": "Sous Chef",
-            "skills": [
-                "Recipes",
-                "Leadership",
-                "Ingredients",
-                "Quality Control",
-                "Food Safety",
-                "Cooking",
-                "Food Quality",
-                "Inventory",
-                "Purchasing",
-                "Sanitation",
-                "Inventory Control",
-                "Good Communication Skills",
-                "HACCP",
-                "Disposition",
-                "Scheduling",
-                "Audit"
+                "Customer Orientation",
+                "Call Center"
             ],
             "location": {
                 "country": "SG",
@@ -241,384 +23,215 @@
             },
             "company": {
                 "logo": null,
-                "name": "LE MATIN PTE. LTD."
+                "name": "NOBILITY PLACEMENT SERVICES PTE. LTD."
             },
             "jobType": [
                 "FULL_TIME"
             ],
-            "description": "As the Chef de Partie, you will use your skills to amaze the patrons of our establishment with excellent cooking according to our Head Chef’s recipes and specifications, and your work will be an important factor to our customers’ satisfaction.  In your role, you will assist Head Chef with Menu planning, inventory control, scheduling, ordering of kitchen supplies, and also be a mentor to your team members, building them up with the necessary skills to bring them to the next level.  To succeed in the role, you possess a friendly disposition, good communication skills and be able to work in a team. Due to the nature of the job, you will be required to work in a shift pattern to cover early mornings and late evenings.  Requirements ·  Minimum 2 years’ experience in culinary (western and local cuisine preferred) ·  Food Handling Certificate (Preferred)  Performance (Soft / Core) ·  Able to work well in a team setting ·  Has high level of initiative, hardworking and willing to work in a fast-paced environment",
-            "datePosted": "2023-03-29",
+            "description": "Job Requirements • Diploma / Degree in IT or Business or related discipline. • Must have minimum 1 year of call center experience. • Must know how to hadle incoming contacts( via Calls, Emails, digital platforms, Call-Back Requests). • Must have an ability to multi task and take on Customer Administration functions as well as CSO frontline role. • Excellent written and verbal communication skills. ",
+            "datePosted": "2023-03-28",
             "salaryRange": {
                 "currency": "SGD",
-                "maxValue": 4000,
+                "maxValue": 3000,
+                "minValue": 2000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/customer-service/sgunitedjobsjob-title-customer-service-officer-nobility-placement-services-248c51497b092ea58ef1d0108e0c7aee?source=MCF&event=Search",
+            "uuid": "517a7a87-20de-4e67-abd5-ccef4018cdeb"
+        },
+        {
+            "dueDate": "2023-04-04",
+            "jobTitle": "Recruitment Executive",
+            "skills": [
+                "Microsoft Excel",
+                "Social Media",
+                "Telemarketing",
+                "Legislation",
+                "Interpersonal Skills",
+                "Arranging",
+                "Job Descriptions",
+                "Recruiting",
+                "Communication Skills",
+                "Career Counseling",
+                "Human Resources",
+                "Screening",
+                "Scheduling",
+                "Sourcing",
+                "Able To Work Independently"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "The Signature , 51 Changi Business Park Central 2"
+            },
+            "company": {
+                "logo": null,
+                "name": "THE RESPONSIBLE PEOPLE PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Job Description ; Requirements Our company is looking for driven individuals that are keen to learn and progress their career to the next level. The Recruitment executive at our company will be expected to spearhead the recruitment process and assist in career counseling. If you think you have what it takes to grow with us, apply now!  Benefits: - Attractive base salary and performance-based bonuses - Structured and Comprehensive Guidance - Work from home during the heightened measures period - Great work-life balance with monthly team bonding activities  Job Responsibilities: - Conduct hiring process which includes sourcing, screening, and interviewing potential candidates - Oversee interviews and use online assessment tools to filter suitable candidates - Brainstorming creative ideas to expand the company’s outreach towards a greater talent pool - Provide career counseling whenever necessary - Ad-Hoc Admin tasks to streamline the recruitment process  Requirements: - Minimum Education background of Diploma, A-Levels, or Degree - Confidence in recruitment - Excellent interpersonal and communication skills",
+            "datePosted": "2023-03-28",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 5000,
                 "minValue": 3000,
                 "payPeriod": "MONTH"
             },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/sous-chef-le-matin-35423730893a7d04fd8b009a302240ca?source=MCF&event=Search",
-            "uuid": "27805eae-f5e5-46b4-a885-f797a8c0b435"
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/consulting/recruitment-executive-responsible-people-3c9e0babb7c0d223fe553b6e63164ae3?source=MCF&event=Search",
+            "uuid": "b1b5ab5d-513a-46dc-984f-2184e45534e2"
         },
         {
-            "dueDate": "2023-04-28",
-            "jobTitle": "SOUS CHEF/JUNIOR SOUS CHEF",
+            "dueDate": "2023-04-27",
+            "jobTitle": "Digital Sales Representative",
             "skills": [
-                "Creative",
-                "running the kitchen",
-                "managing a kitchen",
-                "Kitchen",
-                "Housekeeping",
-                "Food Quality",
-                "industry standards",
-                "Supervision",
-                "kitchen support",
-                "worked in a kitchen",
-                "Culinary Skills",
-                "Culinary",
-                "Production follow up",
-                "On time"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": null
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/6201b5bd582a0ebbdbfa7d98f628282e/art-food-singapore.jpg",
-                "name": "ART & FOOD SINGAPORE PTE. LTD."
-            },
-            "jobType": [
-                "CONTRACTOR",
-                "FULL_TIME"
-            ],
-            "description": "   Manage the operations and profitability for Fine Dining Concept.   Manage Kitchen operations and dining experience for the business.   Manage import and export of all produce and materials for the business.   Ensure the freshness of produce received and served for the business at all times.   To set a high standard of careful and meticulous food quality equal if not exceeding the high standards of French fine dining.   To ensure hygiene and cleanliness of the food and kitchen operations at or above industry standards.   Manage and supervise kitchen assistants and incumbent chefs in their roles and responsibilities.   To curate and create cooked food menu for the Restaurant.   Assist and support any other relevant business duties and responsibilities as and when assigned by the Head/Executive Chef and Owners.   Ability to work with minimum supervision   Humble and willing to learn and grow together   Good working attitude   Interested candidates please write in to benisingapore70@gmail.com now",
-            "datePosted": "2023-03-29",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 4500,
-                "minValue": 2500,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/customer-service/sous-chef-junior-sous-chef-art-food-singapore-4686df78769acab361045a6eb29462d0?source=MCF&event=Search",
-            "uuid": "78a1ed61-441d-433d-8ea3-8af4e360a364"
-        },
-        {
-            "dueDate": "2023-04-28",
-            "jobTitle": "Chef De Partie/Commis Chef",
-            "skills": [
-                "Recipes",
-                "Ingredients",
-                "Quality Control",
-                "Food Safety",
-                "Restaurants",
-                "Cooking",
-                "Food Quality",
-                "Inventory",
-                "Sanitation",
-                "Food Industry"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": null
-            },
-            "company": {
-                "logo": null,
-                "name": "INTER ISLAND CONSULTING PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Working hours: 48 hours per week (6 days) Working Location: North  Job responsibilities:    Respect job duties assigned during shift   Exercise complete understanding of orders from Sous Chef   Listen and understand Sous Chef’s recommendations and corrections   Exercise personal hygiene through clean uniforms and grooming   Work in absolute cleanliness and adhere to kitchen hygiene standard   Report defects of kitchen equipment   Follow procurement goods receiving SOP and storage practices   Follow the daily production list strictly when preparing food items   Respect the shelf life of all food production and label accordingly to Standard Operating Procedure   Minimized wastage of goods through good practice of First In First Out   Follow the cleaning charts to ensure cleaning and maintenance are done accordingly   Able to prepare/perfectly cook all food items according to standard recipes   Establish good working relations with team members   Requirement:    Minimum culinary certificate or equivalent with minimum 2 years of relevant experience   Possess positive attitude towards task assigned   Eager to learn and progress   Ability to transfer what has been learnt/taught and to practice effectively   Punctual for work and well disciplined   Registration No: R1327526 INTER ISLAND CONSULTING PTE LTD (Co Reg: 201026915R/ EA License: 11C3031) Please send your updated resume by clicking “Apply”. Only shortlisted candidates will be notified.",
-            "datePosted": "2023-03-29",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 3200,
-                "minValue": 2600,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/chef-de-partie-commis-chef-inter-island-consulting-3a73fdf2a103ea3f187f7707e55444d2?source=MCF&event=Search",
-            "uuid": "b7267f8c-07ae-46c0-abb4-b91c91d4fc35"
-        },
-        {
-            "dueDate": "2023-04-19",
-            "jobTitle": "Head Chef",
-            "skills": [
-                "Recipes",
-                "Leadership",
-                "Ingredients",
-                "Food Safety",
-                "Cooking",
-                "Food Quality",
-                "Inventory",
-                "Sanitation",
+                "Lead Generation",
+                "Calling clients",
+                "Verbal Communication",
+                "Customer Relationships",
+                "Selling",
+                "Sales Process",
+                "Strategy",
+                "Solution Selling",
+                "People Development",
+                "Self Starter",
+                "Excellent Written Communication Skills",
                 "Time Management",
-                "Nutrition",
-                "Directing",
-                "Food Service"
+                "SaaS",
+                "Building Relationships",
+                "Customer Service",
+                "Profit Analysis"
             ],
             "location": {
                 "country": "SG",
                 "locality": "Singapore",
-                "address": "380 EAST COAST ROAD"
+                "address": "6 RAFFLES QUAY"
             },
             "company": {
-                "logo": null,
-                "name": "MAD PEOPLE PTE. LTD."
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/a26351de7815b5fbc1ac9ee37280fb9f/cloudgo.png",
+                "name": "CLOUDGO PTE. LTD."
             },
             "jobType": [
                 "FULL_TIME"
             ],
-            "description": "Job brief: We are looking for an experienced and qualified Head Chef to organize the kitchen’s activities. You will be the first in command in the facilities and will create and inspect dishes before they arrive at the customers ensuring high quality and contentment.  Responsibilities - Control and direct the food preparation process and any other relative activities - Come out with new menu ideas - Quality check to making sure that products meet a set of standards - Monitor food stock and place orders - Remedy any problems or defects - Be fully in charge of hiring, managing and training kitchen staff - Oversee the work of subordinates - Comply with nutrition and sanitation regulations and safety standards - Foster a climate of cooperation and respect between co-workers  Requirements: - Proven experience as Chef or a Cook - Hands-on experience with various kitchen equipment  - Leadership skills - Ability to remain calm and undertake various tasks - Excellent time management abilities - Up-to-date knowledge of cooking techniques and recipes - Familiarity with food hygiene and safety regulations - Degree in Culinary science or related certificate",
-            "datePosted": "2023-03-29",
+            "description": "Role purpose CloudGo is a digital consulting company that solves business problems with digital workflows that matter. We are one of ServiceNow’s leading Elite partners, and due to our rapid growth, we need a highly motivated individual to join us as a Digital Sales Representative to grow our business. This is a full-time role with a focus on building our commercial and enterprise pipeline and customer base. A background in of inside sales and/or selling services for SaaS platforms will be an advantage, as that will be your responsibility here. This is a great opportunity to grow your career into field sales! Half of your work will be outbound: introducing CloudGo to existing ServiceNow customers, building relationships with ServiceNow and other key partners, and introducing ServiceNow to other net new logos. You will need to be comfortable calling on a range of stakeholders, from IT to finance, HR and customer service. You have probably come from an inside sales background so aren’t afraid of the work but want to grow into a field sales role to start building relationships and leading the strategy for specific accounts. The other half will be closing our smaller run-rate deals in partnership with our enterprise account teams. You’ll do well if you have a solution selling or customer-centric selling background, with excellent written and verbal communication and influence skills, a history or exceeding sales targets, and a hunger to grow. You will be given direction on where you’re going, not micromanagement so you need to be comfortable with being a self-starter. CloudGo hires for culture first – our people are global go-getters, we look to the long term, we solve for the customer, and we value open, honest, early communication. We believe we don’t exist without exceptional people, so we respect and value them. We pay fair base and at-risk components based on experience and the market, with uncapped overachievement potential. You will be reporting to our group head of sales, so if you think this sounds like somewhere you want to grow, then come and talk to us. Key Responsibilities · To meet or exceed individual KPI’s based on outbound call volume and new meetings/leads. · Actively promote CloudGo’s ServiceNow solutions products and services to prospects, customers and partners via a range of channels. · Follow up on leads generated from relationships, partnerships, marketing or other sources. · Build and develop customer relationships with customers, prospects and partners. · Handle entire inside sales process from lead generation to presentation to proposal, with support and coaching from your manager. You may need to work with some field sales reps to close deals, but you will own the entire sales cycle yourself for smaller deals. · Develop and maintain in-depth knowledge of products and services, industry trends, and competition. · Maintain current and accurate account and contact information, as well as lead and opportunity status and activity in our CRM Skills and Competencies · Minimum 2 years field sales or inside sales experience preferably in services for software or technology, focused on commercial and enterprise business · Need a solid understanding of SaaS concepts and be comfortable discussing technology with customers · Demonstrate effectiveness through weekly reports to track performance and results · Be able to operate successfully in a rapidly changing, ambiguous and less defined environment. · Outstanding time management and organizational skills. · Demonstrated ability to be proactive and take the initiative to get things done · Ability to manage multiple tasks at once (flexible and self-sufficient) · Positive attitude, wiling to learn, self-motivated and persistent",
+            "datePosted": "2023-03-28",
             "salaryRange": {
                 "currency": "SGD",
-                "maxValue": 5500,
+                "maxValue": 8000,
                 "minValue": 5000,
                 "payPeriod": "MONTH"
             },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/head-chef-mad-people-2cfc4fb63406ac8d62eb198d37baa9d4?source=MCF&event=Search",
-            "uuid": "d2ac7d34-6067-47f2-bb78-89c9c3a6c51b"
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/digital-sales-representative-cloudgo-3e868e9695ae64637d19d99c384a69f5?source=MCF&event=Search",
+            "uuid": "2d021cac-a824-4a3e-ac49-5e7f0f6cadd8"
         },
         {
-            "dueDate": "2023-04-28",
-            "jobTitle": "lead chef",
+            "dueDate": "2023-04-27",
+            "jobTitle": "Regional Specialist (Digital Campaign)",
             "skills": [
-                "Recipes",
-                "Ingredients",
-                "Microsoft Office",
-                "Food Safety",
-                "Cooking",
-                "Food Quality",
-                "Inventory",
-                "Sanitation",
-                "Payroll",
-                "Restaurant Management",
-                "Climate",
-                "Prevention",
-                "Nutrition",
-                "Directing"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": null
-            },
-            "company": {
-                "logo": null,
-                "name": "BAGUS RIA PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Job Description We are looking for an experienced and qualified Senior Chef to organize the kitchen’s activities. You will be the first in command in the facilities and will create and inspect dishes before they arrive at the customers ensuring high quality and contentment.    Check freshness of food and ingredients   Supervise and coordinate activities of cooks and other food preparation workers   Develop recipes and determine how to present the food   Plan menus and ensure uniform serving sizes and quality of meals   Inspect supplies, equipment, and work areas for cleanliness and functionality   Control and direct the food preparation process and any other relative activities   Construct menus with new or existing culinary creations ensuring the variety and quality of the servings   Approve and “polish” dishes before they reach the customer   Plan orders of equipment or ingredients according to identified shortages  Requirements    Proven min 2 years to 5 years experience as a chef   Exceptional proven ability of kitchen management   Ability in dividing responsibilities and monitoring progress   Outstanding communication and leadership skills   Up-to-date with culinary trends and optimized kitchen processes ",
-            "datePosted": "2023-03-29",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 6000,
-                "minValue": 4000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/lead-chef-bagus-ria-86fe49497add6f09d2297d30bd8922a6?source=MCF&event=Search",
-            "uuid": "2d94a1f4-cf94-4fd2-9513-cfda0292a8b6"
-        },
-        {
-            "dueDate": "2023-04-28",
-            "jobTitle": "Commis Chef",
-            "skills": [
-                "Recipes",
-                "Ingredients",
-                "Food Safety",
-                "Restaurants",
-                "Cooking",
-                "Italian",
-                "Food Quality",
-                "Inventory",
-                "Sanitation",
-                "Raw Materials",
-                "French",
-                "Team Player",
-                "Occupational Health",
-                "Japanese",
-                "Hospitality"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "SERANGOON GARDEN ESTATE, 7 MAJU AVENUE"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/52ec8c6fe951bd9a6881f329d5c048cc/plonk.jpg",
-                "name": "PLONK PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Demi or Commis Chef is required on a FT basis at our fantastic Melbourne-style restaurant.  Come and join our dynamic team and enjoy the benefits of working together collaboratively and constantly sharing cooking skills.  We pride ourselves on freshly cooked meals that keep our customers coming back for over 10 years now. ",
-            "datePosted": "2023-03-29",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 2400,
-                "minValue": 1800,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/commis-chef-plonk-c6888fa7d5b2aece10e98ec78673425e?source=MCF&event=Search",
-            "uuid": "426f0f2e-414a-4cf6-b1af-effbf2d12f23"
-        },
-        {
-            "dueDate": "2023-04-28",
-            "jobTitle": "Demi Chef",
-            "skills": [
-                "Recipes",
-                "Ingredients",
-                "Food Safety",
-                "Restaurants",
-                "Cooking",
-                "Food Quality",
-                "Inventory",
-                "Counseling",
-                "Sanitation",
-                "Estimates",
-                "HACCP",
-                "Excess",
-                "Assembly",
+                "Management Skills",
+                "Marketing Strategy",
+                "Wealth",
+                "Private Banking",
+                "Email Marketing",
+                "B2B",
+                "Retail Banking",
+                "Digital Marketing",
+                "Presentation Skills",
+                "Fixed Income",
                 "Scheduling",
-                "Food Service",
-                "Safety Training"
+                "UX",
+                "Mutual Funds",
+                "Equities",
+                "Africa"
             ],
             "location": {
                 "country": "SG",
                 "locality": "Singapore",
-                "address": null
+                "address": "ALEXANDRA TECHNOPARK, 438B ALEXANDRA ROAD"
             },
             "company": {
-                "logo": null,
-                "name": "BENJAMIN BARKER AUST PTE. LTD."
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/ae50e245e0641c3d01ef32a23a3d53ea/epson-singapore.jpg",
+                "name": "EPSON SINGAPORE PTE LTD"
             },
             "jobType": [
                 "FULL_TIME"
             ],
-            "description": "Demi Chef  Job Summary: Prepares food for clients. Helps devise new methods of cooking and new menu items. Streamlines work from back of house to front of house.  Demi Chef Job Duties:    Cleans food preparation areas as determined by law and company policy   Prepares foods to the specifications of the menu   Makes adjustments to food items to accommodate guests with allergies or specific diet concerns   Acts as liaison to front-of-house employees to ensure proper food service temperature   Seasons food according to recipes or company needs   Orders ingredients and spices as needed   Operates various kitchen appliance such as a blender, oven, grill, or stand mixer   Portions, arranges, and garnishes food based on client preference   Assists other cooks during the food assembly process   Devises new recipes   Estimates expected food consumption and organises preparation   Keeps records and accounts of food purchases   Prepares any necessary sauces or accompaniments before meal service begins   Stays open until the last customer leaves   Offers a creative menu to compete with other local restaurants   Cleans up after business hours  In addition to these duties the Employee may be required to perform other tasks that from time to time may be assigned or delegated to the Employee by the Company.",
-            "datePosted": "2023-03-29",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 3500,
-                "minValue": 2300,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/demi-chef-benjamin-barker-aust-bff7c64b18a10b3b0529e7ac11741b2f?source=MCF&event=Search",
-            "uuid": "ecbe6cd9-c77e-497a-9467-f1a268a6af1b"
-        },
-        {
-            "dueDate": "2023-04-02",
-            "jobTitle": "Executive Chef",
-            "skills": [
-                "Recipes",
-                "Menu Development",
-                "Food",
-                "Leadership",
-                "Ingredients",
-                "Quality Control",
-                "Food Safety",
-                "Restaurants",
-                "Food Quality",
-                "Inventory",
-                "Job Descriptions",
-                "Purchasing",
-                "Sanitation",
-                "Food & Beverage",
-                "Communication Skills",
-                "daily operations",
-                "Culinary Skills",
-                "Catering",
-                "Food Service",
-                "Management"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "Gain City Megastore @ Sungei Kadut, 71 Sungei Kadut Drive Singapore"
-            },
-            "company": {
-                "logo": null,
-                "name": "HAPPY GO LUCKY F&B PTE. LTD."
-            },
-            "jobType": [
-                "CONTRACTOR",
-                "FULL_TIME"
-            ],
-            "description": "Job Descriptions: · Ensure smooth daily operations of the restaurants / cafes / food courts · Maintain the quality of food / dishes served · Maintain safety and cleanliness of the kitchens · Responsible for marketing promotion activities and menu designs · Management of a small team of junior chef / cook  Requirements: · At least 8 years relevant experience in Western / Fusion cuisine · Strong interpersonal and communication skills · Strong management of food cost skill",
-            "datePosted": "2023-03-03",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 6000,
-                "minValue": 4000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/executive-chef-happy-go-lucky-fb-d527f9b675c86b756e766f4ba9ab7b34?source=MCF&event=SuggestedJob",
-            "uuid": "91b1231d-ce0d-4041-958d-93a58b0df0c1"
-        },
-        {
-            "dueDate": "2023-04-28",
-            "jobTitle": "ASSISTANT CHEF/CHEF",
-            "skills": [
-                "Recipes",
-                "Ingredients",
-                "Food Safety",
-                "Restaurants",
-                "Cooking",
-                "Appraisals",
-                "Quality Assurance",
-                "Housekeeping",
-                "Workplace Safety",
-                "Food Quality",
-                "Inventory",
-                "Sanitation",
-                "Compliance",
-                "Team Management",
-                "Concept Development",
-                "People Management"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": null
-            },
-            "company": {
-                "logo": null,
-                "name": "EBISU PRIVATE LIMITED"
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Position Purpose • Lead the kitchen operation team to prepare and deliver quality menu in accordance to concept offering • Oversee the implementation of processes and guidelines in Kitchen Operations • Train ; develop kitchen staff in the preparation of all meals to the highest quality standards • Position kitchen staff according to operation needs to maximize kitchen efficiencies • Manage quality and level of kitchen inventory as well as products delivered from suppliers • Understand food cost models and how these impact the profitability of the restaurants Responsibilities • Menu Execution and Delivery • Understand food cost models and how these impact profitability of restaurants • Supervise stations to deliver orders in accordance to defined cooking processes, recipe and health ; safety standard • Conduct final check on finished product to ensure that food quality and presentation are in accordance to specifications of the menu • Kitchen Processes and Concept Development • Manage kitchen inventory levels and quality by placing orders for all food and kitchen supplies based on projected store demand endorsed by chef; and upon delivery, check to ensure quality of delivered supplies • To support the projection and ordering of food and kitchen supplies by providing inventory report detailing usage ; stock level, wastage and product shelf life while considering sales pattern and kitchen storage capacity • Oversee the setting up and cleaning of stations by staff • Oversee workflow for stations to ensure that processes adhered to specifications and guide line and to provide recommendations to improve efficiency • Quality Assurance ; Control • Investigate causes and reasons for customer complaints pertaining to food quality • Oversee operations to ensure compliance with all safety procedures and guidelines • Oversee preparation of all food in accordance to SOPs to ensure and maintain consistent food quality • Oversee overall kitchen cleanliness and sanitary conditions and to ensure all kitchen equipment are in good working condition • Take corrective actions to resolve unsafe and/or non-compliant conditions and behaviors regarding personal and food safety • People Management • Lead team by providing guidance, support and motivation • Conduct induction for new hires to provide them with the necessary skills and information to carry out roles and functions • Train and develop kitchen and kaiten staffs in the preparation of all meals to the highest quality standards while adhering to SOPs and workplace safety practices • Carry out team management activities, including and not limited to appraisals, handling disciplinary issues and holding communication sessions in conjunction with immediate supervisor • Carry out team management conversation with team members, including and not limited to doing appraisals and personal improvement plans in conjunction with immediate supervisor",
-            "datePosted": "2023-03-29",
+            "description": "Job Summary    B2B Digital Campaign Specialist for the ASEAN region, preferably with Pardot experience.   The Digital Campaign Specialist is key in helping to shape the digital marketing strategy for our company, proving the success of digital marketing campaigns and making optimisation efforts across all digital channels.   The ideal candidate should have a strong track record and passion for digital marketing, and will be able to show business outcomes achieved in a well-executed digital marketing strategy.  Key Accountabilities    Organise and manage timelines for the projects   Manage internal Business Unit stakeholders to ensure clarity of communication throughout campaigns   Ensure the digital campaign structures are complete, while adapting offline marketing collaterals and/or assets to digital format with strong design and UX elements  Key Job Requirements Job / Skills Competencies:    Work closely with digital manager to strategise and manage digital marketing campaigns for the Southeast Asia to drive traffic, engagement and lead generations   Deep understanding of owned, earned and paid media methodologies and ability to apply in 360 campaign approach   Proven ability to work on multiple projects, digital marketing campaigns and on sales strategies with expected outcome   Experience in digital campaign analysis   Outstanding digital, innovative ; creative mindset   Strong analytical and data-driven capabilities   Strong team player with ability to understand, share and explain digital requirements   Monitoring current and future digital marketing trends   Independent and autonomous   Excellent English communication and presentation skills  Critical Work Experience:    Minimum 3-5 years of digital marketing experience in both B2B and B2C environments   Prior experience setting up and managing Google DataStudio Dashboards   Prior experience setting up and managing email campaign workflows on Pardot or other email marketing tools  Qualifications:    Degree in IT or Marketing ",
+            "datePosted": "2023-03-28",
             "salaryRange": {
                 "currency": "SGD",
                 "maxValue": 5800,
-                "minValue": 2900,
+                "minValue": 3000,
                 "payPeriod": "MONTH"
             },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/assistant-chef-chef-ebisu-3dd631fbf77dd17bbb23fbcb6fe3106b?source=MCF&event=Search",
-            "uuid": "d83a3cf6-5c45-4b4c-89ab-4765696bc02d"
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/advertising/regional-specialist-epson-singapore-69e439ee414fc81f05c339e7a10c96a8?source=MCF&event=Search",
+            "uuid": "3de56110-bf83-4adb-a162-2500673fd264"
         },
         {
-            "dueDate": "2023-04-28",
-            "jobTitle": "Chef de Partie",
+            "dueDate": "2023-04-27",
+            "jobTitle": "Functional Consultant",
             "skills": [
-                "Recipes",
-                "Leadership",
-                "Ingredients",
-                "Quality Control",
-                "Food Safety",
-                "Cooking",
-                "Food Quality",
+                "business objectives",
+                "Integration",
+                "IT Service Management",
+                "Business Intelligence",
+                "Technical Analysis",
+                "Process Improvement",
+                "Customer Service Management",
+                "HTML",
+                "Information Technology",
+                "Thought Leadership",
+                "Enterprise Software",
+                "SAP R3",
+                "Consulting",
+                "ITIL",
+                "Business Process",
+                "Project Delivery"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "6 RAFFLES QUAY"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/a26351de7815b5fbc1ac9ee37280fb9f/cloudgo.png",
+                "name": "CLOUDGO PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "The Functional Consultant is required to work with customers and learn the business problems that need to be addressed and through applying technical analysis, recommend a solution. Is an expert with ServiceNow processes and capable of delivering advice when required. Working closely with the pre-sales team is involved in delivering documentation through all stages of a project’s lifecycle. Key Responsibilities · Work closely with a customer to understand their requirements and our solutions to address those needs. · Understand business objectives, projects, and problem statements of our prospects and customer. · Lead business process definition, re-engineering, and process improvement workshops during the Examine Phase of customer engagements. · Develop required documentation such as workshop agendas, workshop presentations, process design documents, use cases, responsibilities documents. · Identify areas of process effectiveness and recommend solutions that detail pros, cons, and risks. · Align and represent industry practices and recommend solutions to meet business objectives. · Present proposals including the ServiceNow product and services. · Identify and contribute to the creation of best practices, white papers, workshops, etc. · Contribute to the continual improvement of Delivery and Advisory Services processes as well as the maturing of the different portfolios, capabilities, expertise, and best practices in consideration of customer needs and requirements. · Ensure all time is recorded accurately and keep the calendar up to date with scheduled activities. · Completing, developing, and improving required documentation such as process flow diagrams, workshop agendas, presentations, gap analysis reports. · Ability to influence and consult while providing thought leadership to sponsors in solving business processes and/or technical problems during project delivery. · Assist delivery teams in resolving critical path issues and challenges during engagements. · Supporting specific sales activities when required. · Alliance with the Sales team, Solution Consultants, conduct transition briefings - communicate commitments and expectations in preparation for engagements. Basic requirements · ServiceNow Pre-Sales Accreditations in IT Service Management and at least two (2) other product lines. · Highly motivated · 3+ years of experience in service management, service delivery, or a related field such as IT Project Management, Human Resources, Security Operations, and Customer Service Management. · ITIL V3/4 Foundations desirable · Degree or equivalent, preferably in Computer Science or Information Technology, and proven experience in technical consulting roles Professional qualifications and education requirements · Enterprise consulting experience, including implementation experience with one or more common enterprise software solutions filling positions of increasing responsibility and management of program teams · Proven ability to communicate with all levels of the organization including mid-level management Please click on the link below if you are looking for a role but would require us to sponsor your visa. Link: CloudGo - Functional Consultant in Singapore (cloudgoservices.com)",
+            "datePosted": "2023-03-28",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 9000,
+                "minValue": 7000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/functional-consultant-cloudgo-74af26220a5424d7b602ac4c1171ae56?source=MCF&event=Search",
+            "uuid": "b6a83640-2bcc-43a8-9e49-c8013d8aecf7"
+        },
+        {
+            "dueDate": "2023-04-27",
+            "jobTitle": "Sales Assistant",
+            "skills": [
+                "Sales",
+                "Visual Merchandising",
+                "Housekeeping",
+                "Interpersonal Skills",
                 "Inventory",
-                "Sanitation",
-                "Inventory Control",
-                "Good Communication Skills",
-                "Assembly",
-                "Disposition",
-                "Scheduling",
-                "Hospitality"
+                "Retail Sales",
+                "Administration",
+                "Selling",
+                "Physically Fit",
+                "Cashiering",
+                "Presentation Skills",
+                "Customer Satisfaction",
+                "Team Player",
+                "Customer Service",
+                "Pricing"
             ],
             "location": {
                 "country": "SG",
@@ -627,42 +240,88 @@
             },
             "company": {
                 "logo": null,
-                "name": "BENJAMIN BARKER AUST PTE. LTD."
+                "name": "VENUS BEAUTY SERVICES PTE. LTD."
             },
             "jobType": [
                 "FULL_TIME"
             ],
-            "description": "As the Chef de Partie at The Assembly Ground, you will use your skills to amaze the patrons of our establishment with excellent cooking according to our Head Chef’s recipes and specifications, and your work will be an important factor to our customers’ satisfaction.  In your role, you will assist Head Chef with Menu planning, inventory control, scheduling, ordering of kitchen supplies, and also be a mentor to your team members, building them up with the necessary skills to bring them to the next level.  To succeed in the role, you possess a friendly disposition, good communication skills and be able to work in a team. Due to the nature of the job, you will be required to work in a shift pattern to cover early mornings and late evenings.  Requirements · Minimum 2 years’ experience in culinary (western and local cuisine preferred) · Food Handling Certificate (Preferred)  Performance (Soft / Core) · Able to work well in a team setting · Has high level of initiative, hardworking and willing to work in a fast-paced environment",
-            "datePosted": "2023-03-29",
+            "description": "A talented individual who will bring her sales talent, and passion to our company. Has to be service-oriented, has superb presentation skills, and will always maintain a professional image.    Provides excellent customer service   Makes appropriate recommendations when required   Housekeeping, replenishing stocks   Manage merchandise and assist in visual displays when needed   Ensure that the image of the Company is portrayed positively at all times   Requirement:   Willing to work on roster based on retail hours.   Team player with excellent communication and interpersonal skills  Working hours:    6 days roster based (retail hour 10am to 10pm)   1 weekday off  Benefits: 1. Training will be provided. 2. Commission. Estimated about S$500 and above. Commission will be given based on personal sales 3. Annual Bonus 4. Annual leave and medical leave 5. Grooming allowance",
+            "datePosted": "2023-03-28",
             "salaryRange": {
                 "currency": "SGD",
-                "maxValue": 3500,
-                "minValue": 2500,
+                "maxValue": 2800,
+                "minValue": 2000,
                 "payPeriod": "MONTH"
             },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/chef-de-partie-benjamin-barker-aust-417eb99ea56088478ae8c99652c437d2?source=MCF&event=Search",
-            "uuid": "a84a3b93-bbf2-48d1-9113-4ce0db1672f6"
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/sales/sales-assistant-venus-beauty-services-7562c9aec8c07f381f449cb71356dd31?source=MCF&event=Search",
+            "uuid": "adbcb7c8-477f-47d1-9b9e-af1845be5655"
         },
         {
-            "dueDate": "2023-04-28",
-            "jobTitle": "CHEF",
+            "dueDate": "2023-04-27",
+            "jobTitle": "Manager, Facilities Management",
             "skills": [
-                "Recipes",
-                "Ingredients",
-                "Food Safety",
-                "Restaurants",
-                "Cooking",
-                "Appraisals",
-                "Quality Assurance",
+                "Fire Safety",
+                "Facilities Operations",
+                "Facilities Environmental",
+                "Management Skills",
+                "Sustainability",
+                "Preventive Maintenance",
+                "Change Management",
                 "Housekeeping",
-                "Workplace Safety",
-                "Food Quality",
-                "Inventory",
-                "Sanitation",
-                "Compliance",
-                "Team Management",
-                "Concept Development",
-                "People Management"
+                "Property",
+                "Invoicing",
+                "Electrical",
+                "Building Services",
+                "Facilities & Maintenance",
+                "MS Office",
+                "Writing",
+                "Team Player",
+                "Facilities Engineering",
+                "Health & Safety",
+                "Facilities Management"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "SINGAPORE EXPO, 1 EXPO DRIVE"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/b0d1a0fba822cfbc2828606bd5fac602/constellar-venues.png",
+                "name": "CONSTELLAR VENUES PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "In this role, you will    To ensure that Singapore Expo operate to good standards in line with the mission statement and values of the company. To manage waste recycling efforts to achieve sustainability goals.   To ensure that the facilities team under his charge response appropriately and promptly to incidents and emergencies.   To monitor the service providers’ performance to ensure standards and requirements are achieved and aligned.   To assist the Head, Engineering; Facilities Management in monitoring the budget allocated for repair and maintenance works, utilities usage ; billing, license agreement, etc.   To assist the department in collating data and occurrences related to building services, cleaning, housekeeping, carpark system and operation for life cycle trending.   To ensure that the contract services related to landscaping, pest control, carpark, etc are carried out in accordance with the schedule planned.   To oversee the operations, service and maintenance of the Electronic Parking System (EPS) and arrange for repair and rectification works for any faults and damages.  To help you succeed in this role, you should have    Minimum 4 - 5 years of relevant experience with recognized degree in Engineering, Building, Estates or Construction   Understanding of local regulations, standards and ordinances on Facilities operations and maintenance   Self-driven, resourceful team player with good analytical, communication, writing and interpersonal and change management skills   Be able to work outdoors and be exposed to various environmental factors such as, but not limited to fatigue, noise, dust, and be able to access all areas of the property including those at height   Proficiency in MS Office applications, relevant Singapore Standards, Codes of Practices, and regulatory guidelines   Independent and able to work cohesively with staff at all level. Ability to thrive in a fast-pace and rapid growth environment ",
+            "datePosted": "2023-03-28",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 7000,
+                "minValue": 5000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/manager-facilities-management-constellar-venues-947c45d04cb8b7a4eead6c4c2c7803bb?source=MCF&event=Search",
+            "uuid": "7b64e72d-a7a9-485a-8666-07a767f75651"
+        },
+        {
+            "dueDate": "2023-04-11",
+            "jobTitle": "Piping Material Engineer",
+            "skills": [
+                "Materials Science",
+                "Construction",
+                "MS Office",
+                "Interpreting",
+                "Weight",
+                "FPSO",
+                "Piping",
+                "AutoCAD",
+                "Regulatory Requirements",
+                "Laboratory",
+                "Manufacturing",
+                "Layout",
+                "Commissioning",
+                "Mechanical Engineering",
+                "Technical Support"
             ],
             "location": {
                 "country": "SG",
@@ -670,127 +329,43 @@
                 "address": null
             },
             "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/5214946d16cb0df74a4887f71af4008f/r-e-s-enterprises.jpg",
-                "name": "R E & S ENTERPRISES PTE LTD"
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/04a14962dcd9f89fbbd53df4c3257bad/peak-ocean.jpg",
+                "name": "PEAK OCEAN PTE. LTD."
             },
             "jobType": [
-                "FULL_TIME"
+                "CONTRACTOR"
             ],
-            "description": "Position Purpose • Lead the kitchen operation team to prepare and deliver quality menu in accordance to concept offering • Oversee the implementation of processes and guidelines in Kitchen Operations • Train ; develop kitchen staff in the preparation of all meals to the highest quality standards • Position kitchen staff according to operation needs to maximize kitchen efficiencies • Manage quality and level of kitchen inventory as well as products delivered from suppliers • Understand food cost models and how these impact the profitability of the restaurants Responsibilities • Menu Execution and Delivery • Understand food cost models and how these impact profitability of restaurants • Supervise stations to deliver orders in accordance to defined cooking processes, recipe and health ; safety standard • Conduct final check on finished product to ensure that food quality and presentation are in accordance to specifications of the menu • Kitchen Processes and Concept Development • Manage kitchen inventory levels and quality by placing orders for all food and kitchen supplies based on projected store demand endorsed by chef; and upon delivery, check to ensure quality of delivered supplies • To support the projection and ordering of food and kitchen supplies by providing inventory report detailing usage ; stock level, wastage and product shelf life while considering sales pattern and kitchen storage capacity • Oversee the setting up and cleaning of stations by staff • Oversee workflow for stations to ensure that processes adhered to specifications and guide line and to provide recommendations to improve efficiency • Quality Assurance ; Control • Investigate causes and reasons for customer complaints pertaining to food quality • Oversee operations to ensure compliance with all safety procedures and guidelines • Oversee preparation of all food in accordance to SOPs to ensure and maintain consistent food quality • Oversee overall kitchen cleanliness and sanitary conditions and to ensure all kitchen equipment are in good working condition • Take corrective actions to resolve unsafe and/or non-compliant conditions and behaviors regarding personal and food safety • People Management • Lead team by providing guidance, support and motivation • Conduct induction for new hires to provide them with the necessary skills and information to carry out roles and functions • Train and develop kitchen and kaiten staffs in the preparation of all meals to the highest quality standards while adhering to SOPs and workplace safety practices • Carry out team management activities, including and not limited to appraisals, handling disciplinary issues and holding communication sessions in conjunction with immediate supervisor • Carry out team management conversation with team members, including and not limited to doing appraisals and personal improvement plans in conjunction with immediate supervisor",
-            "datePosted": "2023-03-29",
+            "description": "JOB PURPOSE: To independently handle the piping material activities, prepare, manage, and produce the critical engineering deliverables for the assigned project (that may include short-term assignment to Construction, Commissioning, and Offshore) effectively and efficiently according to the specified technical requirements, timelines, and within budget, and deal independently with and resolve all the issues of the project, and provide guidance to the assigned members.  RESPONSIBILITIES:    Works independently to perform the assigned task and develops a solution to technical/engineering and related problems by analyzing the issue or data, interpreting the analysis, and evaluating various options/measures using experience, precedents, and professional references with minimal or no supervision or guidance.   Understands technical requirements of project specifications and standards, local statutory and regulatory requirements, Classification society requirements, and applicable codes and standard industry practices to carry out the piping activities and prepare piping deliverables for assigned projects.   Carries out the pipe wall thickness calculations using applicable design code. Prepares the piping material specification and valve specification by using and modifying the MODEC corporate specifications suitably to match the project-specific requirements.   Prepares piping insulation specification, and flange management specification (bolt torquing and tensioning) by using the MODEC corporate specifications and modifying these to meet the project requirement.   Prepares bill of materials for piping bulk items (like pipe, flanges, and fittings), valves, piping specialty items, gaskets, stud bolts and nuts, and pipe support materials. Provides piping unit weight inputs for weight control reports.   Prepares data sheets for process-critical and non-critical piping specialty items obtaining the process parameters required for the design and manufacturing of process-critical items.   Prepares requisitions for piping bulk items, valves, piping specialty items, gaskets, stud bolts and nuts, spring supports, cargo tank heating coil (marine), valve remote control system (marine) and performs a technical evaluation of bids received from various suppliers to ensure shortlisted vendors meet technical requirements as per project specifications, and provides an assessment on technically acceptable bids for Buyer to follow up tender evaluation further to conclude and award the purchaser order.   Conducts kick-off meetings with successful suppliers to ensure a clear understanding of the scope of supply, technical requirements, documentation, and delivery conditions to enable the supplier to execute the work strictly as per the purchase order, reviews supplier drawings and documents, and shares the relevant data with engineering contractor to get it incorporated in piping layout design.   Works closely with suppliers and contractors concerned to resolve technical issues and visits supplier’s manufacturing facilities to witness the FAT, where necessary.   Provides technical support and advice to construction yard and commissioning work at the site. Where necessary, provides off-site support and guidance.   Supports the Lead Piping Engineer and assists in preparing lessons learned during the course of execution of the project for further processing through MIMS.   Shares the knowledge and experience with team members and guides the engineers in carrying out the assigned task the right a correctively.   Reports Functionally to the Piping Section Lead and Operationally to Lead Piping Engineer on matters related to the assigned project.   Closely interacts and assists Lead Piping Engineer in co-coordinating with other disciplines, engineering contractors, and Construction and Commissioning team.   Deals with internal stakeholders on technical matters.  REQUIREMENTS:    Bachelor in Mechanical Engineering or Master of Engineering. Alternatively Diploma in Mechanical Engineering with relevant years of experience.   Minimum 15 years of relevant working experience in piping engineering in the oil and gas sector, preferably in FPSO or Offshore processing facilities for graduates or a minimum of 12 years of relevant working experience for diploma holders. For a Masters’s degree holder, a minimum of 10 years of relevant working experience is required.   Knowledge in MS Office, AutoCAD, E3D, Naviswork, Caesar II ",
+            "datePosted": "2023-03-28",
             "salaryRange": {
                 "currency": "SGD",
-                "maxValue": 8000,
-                "minValue": 4000,
+                "maxValue": 10000,
+                "minValue": 7500,
                 "payPeriod": "MONTH"
             },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/chef-r-e-s-enterprises-12358d23546d3028eee8ee8c1340c6ab?source=MCF&event=Search",
-            "uuid": "8bc55b41-834a-4901-9e8b-045e7753f7df"
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/piping-material-engineer-peak-ocean-be59a98def26349b27b6fbd8491b9e64?source=MCF&event=Search",
+            "uuid": "a500a110-71b9-47cd-bff1-a4f4d43853da"
         },
         {
-            "dueDate": "2023-04-28",
-            "jobTitle": "CHEF",
+            "dueDate": "2023-04-27",
+            "jobTitle": "Business Development Manager [Main Contactor| West] 2894",
             "skills": [
-                "Recipes",
-                "Ingredients",
-                "Food Safety",
-                "Restaurants",
-                "Cooking",
-                "Appraisals",
-                "Quality Assurance",
-                "Housekeeping",
-                "Workplace Safety",
-                "Food Quality",
-                "Inventory",
-                "Sanitation",
-                "Compliance",
-                "Team Management",
-                "Concept Development",
-                "People Management"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": null
-            },
-            "company": {
-                "logo": null,
-                "name": "KABE NO ANA PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Position Purpose • Lead the kitchen operation team to prepare and deliver quality menu in accordance to concept offering • Oversee the implementation of processes and guidelines in Kitchen Operations • Train ; develop kitchen staff in the preparation of all meals to the highest quality standards • Position kitchen staff according to operation needs to maximize kitchen efficiencies • Manage quality and level of kitchen inventory as well as products delivered from suppliers • Understand food cost models and how these impact the profitability of the restaurants Responsibilities • Menu Execution and Delivery • Understand food cost models and how these impact profitability of restaurants • Supervise stations to deliver orders in accordance to defined cooking processes, recipe and health ; safety standard • Conduct final check on finished product to ensure that food quality and presentation are in accordance to specifications of the menu • Kitchen Processes and Concept Development • Manage kitchen inventory levels and quality by placing orders for all food and kitchen supplies based on projected store demand endorsed by chef; and upon delivery, check to ensure quality of delivered supplies • To support the projection and ordering of food and kitchen supplies by providing inventory report detailing usage ; stock level, wastage and product shelf life while considering sales pattern and kitchen storage capacity • Oversee the setting up and cleaning of stations by staff • Oversee workflow for stations to ensure that processes adhered to specifications and guide line and to provide recommendations to improve efficiency • Quality Assurance ; Control • Investigate causes and reasons for customer complaints pertaining to food quality • Oversee operations to ensure compliance with all safety procedures and guidelines • Oversee preparation of all food in accordance to SOPs to ensure and maintain consistent food quality • Oversee overall kitchen cleanliness and sanitary conditions and to ensure all kitchen equipment are in good working condition • Take corrective actions to resolve unsafe and/or non-compliant conditions and behaviors regarding personal and food safety • People Management • Lead team by providing guidance, support and motivation • Conduct induction for new hires to provide them with the necessary skills and information to carry out roles and functions • Train and develop kitchen and kaiten staffs in the preparation of all meals to the highest quality standards while adhering to SOPs and workplace safety practices • Carry out team management activities, including and not limited to appraisals, handling disciplinary issues and holding communication sessions in conjunction with immediate supervisor • Carry out team management conversation with team members, including and not limited to doing appraisals and personal improvement plans in conjunction with immediate supervisor",
-            "datePosted": "2023-03-29",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 6200,
-                "minValue": 3100,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/chef-kabe-ana-b8aa7637c190b21b95a0b07a048bc465?source=MCF&event=Search",
-            "uuid": "7f7a410e-2146-4bb2-842c-8fd4f15f432e"
-        },
-        {
-            "dueDate": "2023-04-28",
-            "jobTitle": "CHEF",
-            "skills": [
-                "Recipes",
-                "Ingredients",
-                "Food Safety",
-                "Restaurants",
-                "Cooking",
-                "Appraisals",
-                "Quality Assurance",
-                "Housekeeping",
-                "Workplace Safety",
-                "Food Quality",
-                "Inventory",
-                "Sanitation",
-                "Compliance",
-                "Team Management",
-                "Concept Development",
-                "People Management"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": null
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/5214946d16cb0df74a4887f71af4008f/r-e-s-enterprises.jpg",
-                "name": "R E & S ENTERPRISES PTE LTD"
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Position Purpose • Lead the kitchen operation team to prepare and deliver quality menu in accordance to concept offering • Oversee the implementation of processes and guidelines in Kitchen Operations • Train ; develop kitchen staff in the preparation of all meals to the highest quality standards • Position kitchen staff according to operation needs to maximize kitchen efficiencies • Manage quality and level of kitchen inventory as well as products delivered from suppliers • Understand food cost models and how these impact the profitability of the restaurants Responsibilities • Menu Execution and Delivery • Understand food cost models and how these impact profitability of restaurants • Supervise stations to deliver orders in accordance to defined cooking processes, recipe and health ; safety standard • Conduct final check on finished product to ensure that food quality and presentation are in accordance to specifications of the menu • Kitchen Processes and Concept Development • Manage kitchen inventory levels and quality by placing orders for all food and kitchen supplies based on projected store demand endorsed by chef; and upon delivery, check to ensure quality of delivered supplies • To support the projection and ordering of food and kitchen supplies by providing inventory report detailing usage ; stock level, wastage and product shelf life while considering sales pattern and kitchen storage capacity • Oversee the setting up and cleaning of stations by staff • Oversee workflow for stations to ensure that processes adhered to specifications and guide line and to provide recommendations to improve efficiency • Quality Assurance ; Control • Investigate causes and reasons for customer complaints pertaining to food quality • Oversee operations to ensure compliance with all safety procedures and guidelines • Oversee preparation of all food in accordance to SOPs to ensure and maintain consistent food quality • Oversee overall kitchen cleanliness and sanitary conditions and to ensure all kitchen equipment are in good working condition • Take corrective actions to resolve unsafe and/or non-compliant conditions and behaviors regarding personal and food safety • People Management • Lead team by providing guidance, support and motivation • Conduct induction for new hires to provide them with the necessary skills and information to carry out roles and functions • Train and develop kitchen and kaiten staffs in the preparation of all meals to the highest quality standards while adhering to SOPs and workplace safety practices • Carry out team management activities, including and not limited to appraisals, handling disciplinary issues and holding communication sessions in conjunction with immediate supervisor • Carry out team management conversation with team members, including and not limited to doing appraisals and personal improvement plans in conjunction with immediate supervisor",
-            "datePosted": "2023-03-29",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 8000,
-                "minValue": 4000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/chef-r-e-s-enterprises-41dec36b1eaf8a16046d2bb8eb95d272?source=MCF&event=Search",
-            "uuid": "3e924b2a-0112-4c54-9ea9-a549bc45efe8"
-        },
-        {
-            "dueDate": "2023-04-28",
-            "jobTitle": "Sous Chef",
-            "skills": [
-                "Recipes",
+                "Market Research",
+                "Sales",
                 "Leadership",
-                "Ingredients",
-                "Quality Control",
-                "Cooking",
-                "Italian",
-                "Inventory",
-                "Purchasing",
-                "Food Styling",
-                "French",
-                "Food Security",
-                "Japanese"
+                "Construction",
+                "Interpersonal Skills",
+                "Customer Relationships",
+                "Architects",
+                "Market Analysis",
+                "Strategy",
+                "Networking",
+                "Market Intelligence",
+                "Communication Skills",
+                "Consulting",
+                "Team Player",
+                "Civil Engineering",
+                "Business Development"
             ],
             "location": {
                 "country": "SG",
@@ -798,75 +373,202 @@
                 "address": null
             },
             "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/6201b5bd582a0ebbdbfa7d98f628282e/art-food-singapore.jpg",
-                "name": "ART & FOOD SINGAPORE PTE. LTD."
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/d162667fbe1365aa541016a407de7ae4/supreme-hr-advisory.jpg",
+                "name": "THE SUPREME HR ADVISORY PTE. LTD."
             },
             "jobType": [
-                "CONTRACTOR",
                 "FULL_TIME"
             ],
-            "description": "JOB RESPONSIBILITIES    Manage the operations and profitability for Fine Dining Concept/Japanaese Italian Fusion.   Manage kitchen operations and dining experience for the business.   Manage import and export of all produce and materials for the business.   Ensure the freshness of produce received and served for the business at all times.   To set a high standard of careful and meticulous food quality equal if not exceeding the high standards of French fine dining.   To ensure hygiene and cleanliness of the food and kitchen operations at or above industry standards.   Manage and supervise kitchen assistants and incumbent chefs in their roles and responsibilities.   To curate and create cooked food menu for the Restaurant.   Hire and train cooking staff   Assist and support any other relevant business duties and responsibilities as and when assigned by the Owners.  REQUIREMENTS    Ability to work with minimum supervision   Humble and willing to learn and share to grow together   Good working attitude/helpful.    Interested applicants, please email your resume to: benisingapore70@gmail.com",
-            "datePosted": "2023-03-29",
+            "description": "   Singapore Based   Attractive Salary Package   Company Benefits ; Incentives   Career Progression Opportunities  Interested applicants can also send your resume to  Brandon at +65 9460 8816  and allow our Consultant to match you with our Clients.  The Supreme HR Advisory Pte Ltd EA License No: 14C7279 EA Personnel: Brandon Lim Yeu Li EA Personnel No: R21102894  Responsibilities    Exposure with developers ; institutional developers.   Comprehensive exposure to local consultants, architects and engineers.   Conversant with different type of contracting procedures.   Able to handle business development on their own.   Build and maintain strong customer relationships while supporting the tender and business development team, project clients and consultants in their tender bids.   Coordinate with tender department and HQ in scope of work and project executions and responding to requests, clarifications, and resolving any issues promptly and diligently.   Coordinate with tender team to manage proposal response process, including detailed tender/ bid requirements.   Initiate customer visits and processing of various sales proposal, quotations and contracts.   Manage relationship with existing and potential clients to develop new opportunities and advance organisation’s business interests.   Business development experience in the contract market with high-end architects, consultants and end-user clients.   Take charge of client acquisition and create new business opportunities to maintain the company’s relevance and competitive edge.   Conduct the necessary market analysis to identify potential working partners for targeted projects.   Communicate with the potential clients, consulting firms etc. to collect the information of targeted projects.   To perform market research and identify prospective local projects leads.   Resourceful and possess good market intelligence on potential upcoming projects.   Conversant with local authorities’ requirements and engineering standards.   Good working knowledge of general construction, especially in large and heavy civil engineering project. ",
+            "datePosted": "2023-03-28",
             "salaryRange": {
                 "currency": "SGD",
-                "maxValue": 5000,
-                "minValue": 3200,
+                "maxValue": 9000,
+                "minValue": 7000,
                 "payPeriod": "MONTH"
             },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/sous-chef-art-food-singapore-4655757a1d82752b76a8b843739ffbf1?source=MCF&event=Search",
-            "uuid": "b558f560-48d4-4a6e-8e22-a8069f162903"
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/building-construction/business-development-manager-main-contactor-west-2894-supreme-hr-advisory-eb262ac9648b7d1826ab38fa907977e1?source=MCF&event=Search",
+            "uuid": "41a32be1-d3a0-4e0a-8ccb-c41f8a3a342b"
         },
         {
-            "dueDate": "2023-04-28",
-            "jobTitle": "Head Chef",
+            "dueDate": "2023-04-27",
+            "jobTitle": "Human Resource and Administrative Executive (No Need Experience)",
             "skills": [
-                "running the kitchen",
-                "Leadership",
-                "Ingredients",
                 "Able To Multitask",
-                "managing a kitchen",
-                "Food Safety",
-                "Kitchen",
-                "Restaurants",
-                "Cooking",
-                "Food Quality",
+                "Microsoft Office",
+                "Microsoft Excel",
+                "Talent Acquisition",
                 "Inventory",
-                "Estimates",
-                "Cutting Tools",
-                "Team Leading",
-                "kitchen support",
-                "worked in a kitchen",
-                "Assembling",
-                "Assembly",
-                "Scheduling",
-                "Cost Control"
+                "Administration",
+                "Payroll",
+                "Accounting",
+                "Grants",
+                "HR Policies",
+                "Human Resource",
+                "Administrative Support",
+                "Human Resources",
+                "Performance Management"
             ],
             "location": {
                 "country": "SG",
                 "locality": "Singapore",
-                "address": null
+                "address": "PAYA LEBAR SQUARE, 60 PAYA LEBAR ROAD"
             },
             "company": {
-                "logo": null,
-                "name": "CAMO CAFE & BAR PTE. LTD."
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/603389bcb4e32f1db1e4eca7471e0d92/recruitpedia.jpg",
+                "name": "RECRUITPEDIA PTE. LTD."
+            },
+            "jobType": [
+                "OTHER",
+                "FULL_TIME"
+            ],
+            "description": "We are a centrally located boutique recruitment firm experiencing strong growth. As the company scales, we are looking to bring on a HR and Admin Executive who can help support through the next phase of growth and development roadmap. Job Description / Duties:    Responsible for all General Human Resource matters   Involved in designing and creating learning resources, training materials and e-contents   Market information search and data/report compilation   In charge of ensuring smooth day to day business operations   Handle General Administrative Duties   Provide support to the various departments   Assist in internal talent acquisition and recruitment related duties   Any other ad-hoc duties assigned by the supervisor  Requirements:    Minimum Diploma /Degree   Good in Microsoft Excel   Able to cope in a fast-moving environment and work independently under minimal supervision   Meticulous, highly organized and able to multi-task  Interested candidates who wish to apply for the advertised position, please click APPLY NOW or email an updated copy of your resume/cv. We regret that only shortlisted candidate will be notified. Email Address: hr@recruitpedia.sg",
+            "datePosted": "2023-03-28",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 4000,
+                "minValue": 2200,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/admin/human-resource-administrative-executive-recruitpedia-029ff7d70bf4b7e86bf2171a50a40950?source=MCF&event=Search",
+            "uuid": "6dde5bc4-bd7d-497c-a7e0-34577f33c97c"
+        },
+        {
+            "dueDate": "2023-04-27",
+            "jobTitle": "Senior Human Resource and Admin Executive",
+            "skills": [
+                "Coaching",
+                "Employer Branding",
+                "Microsoft Excel",
+                "Talent Acquisition",
+                "Change Management",
+                "Succession Planning",
+                "Administration",
+                "Payroll",
+                "Grants",
+                "HR Policies",
+                "Accountability",
+                "Human Resource",
+                "Organizational Effectiveness",
+                "Human Resources",
+                "Performance Management"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "PAYA LEBAR SQUARE, 60 PAYA LEBAR ROAD"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/603389bcb4e32f1db1e4eca7471e0d92/recruitpedia.jpg",
+                "name": "RECRUITPEDIA PTE. LTD."
             },
             "jobType": [
                 "FULL_TIME"
             ],
-            "description": "Responsibilities:    Assisting Executive Chef in the daily operations of the kitchen   Responsible for kitchen management including profit ; loss and budget / cost control   Planning, scheduling, preparing, cooking and serving meals   Designing new recipes, planning menu and selecting plate presentation   Maintain promptness, freshness and quality of dishes   Obtaining feedback on food and service quality, and handling customer problems and complaints   Roster planning and manpower deployment of kitchen team   Leading team of cooks in the preparation, cooking, garnishing and presentation of meals   Reviewing staffing levels to meet service, operational and financial objectives   Setting and monitoring performance standards for staff   Performing administrative tasks, taking stock of food and equipment supplies   Any other ad-hoc duties as assigned by the Company  Job Requirements:    Able to perform work on weekend/public holiday   PC literate, well organized and self-motivated   Have initiative and hardworking with positive attitude to learn and contribute   Possess good communication and interpersonal skills   Bilingual in English and Mandarin to communicate with customers ",
-            "datePosted": "2023-03-29",
+            "description": "We are a centrally located boutique recruitment firm experiencing strong growth. As the company scales, we are looking to bring on a Senior HR and Admin Executive who can help support through the next phase of growth and development roadmap. Job Description / Duties:    Manage full spectrum of General Human Resource matters   Design and create learning resources, training materials and e-contents   Implement and execute training plans and conduct trainings as well as post-training evaluations   Handle internal talent acquisition and other recruitment related duties   Administer work pass application, renewal and etc   Ensure the organisation in complying with local relevant regulations   Handle General Administrative Duties   Provide support to the various departments   Ad-hoc duties as assigned  Requirements:    Minimum Diploma / Degree in Human Resource or Business - related fields   Minimum 3 years of relevant experience   Experience in Staffing / Recruitment industry will be added advantage  Interested candidates who wish to apply for the advertised position, please click APPLY NOW or email an updated copy of your resume/cv. We regret that only shortlisted candidate will be notified. Email Address: hr@recruitpedia.sg",
+            "datePosted": "2023-03-28",
             "salaryRange": {
                 "currency": "SGD",
                 "maxValue": 4500,
-                "minValue": 4000,
+                "minValue": 2800,
                 "payPeriod": "MONTH"
             },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/head-chef-camo-cafe-bar-19f2f351c8ae6508793468265c9b470c?source=MCF&event=Search",
-            "uuid": "6b4cbc80-a30f-4fd8-ba33-1a0b36c0bf52"
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/accounting/senior-human-resource-admin-executive-recruitpedia-0de5665dc0a0d8e37429f25501b4b4ac?source=MCF&event=Search",
+            "uuid": "f7fe5ebc-b8d5-4637-aa93-259c419640a2"
         },
         {
-            "dueDate": "2023-04-06",
-            "jobTitle": "CHEF",
+            "dueDate": "2023-04-17",
+            "jobTitle": "Cloud Engineer (PERM)",
+            "skills": [
+                "Troubleshooting",
+                "Kubernetes",
+                "Azure",
+                "Cloud Computing",
+                "Architect",
+                "IT infrastructure",
+                "Agile",
+                "Scripting",
+                "Amazon Web Services",
+                "Compliance",
+                "Networking",
+                "Python",
+                "Servers",
+                "Docker",
+                "GCP",
+                "Infrastructure",
+                "Ansible",
+                "Linux"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": null
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/8f102815b85be9e9a8f4e27124b80a3a/talentsis.png",
+                "name": "TALENTSIS PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Responsibilities:    Define, deploy and manage cloud-based workloads, security and compliance controls.   Conduct mass training and briefings for application teams to help them on-board applications and services to the cloud.   Monitor, analyse and identify infrastructure for vulnerabilities, and applying appropriate mitigations and resolution.   Regularly review existing services and keeping up to date with industry trends and new cloud offerings, to prepare proposals and recommendations for enhancements and new capabilities.  Requirements:    Diploma / Degree or its equivalent with proven technical knowledge and expertise.   Any AWS / Azure / GCP / Nutanix certification will be advantageous   Knowledge of Terraform is preferred but not required.  (EA Reg No: 20C0312)",
+            "datePosted": "2023-03-27",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 5200,
+                "minValue": 3000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/cloud-engineer-talentsis-0f569e10c45a2a4e024976de6753e1ec?source=MCF&event=Search",
+            "uuid": "5bfedeeb-bd72-4df6-8e83-963382572d6e"
+        },
+        {
+            "dueDate": "2023-04-27",
+            "jobTitle": "CICS and MQ Systems Programmer",
+            "skills": [
+                "REXX",
+                "COBOL",
+                "Troubleshooting",
+                "Process Automation",
+                "Mainframe",
+                "IBM Mainframe",
+                "JCL",
+                "Technology Leadership",
+                "Tuning",
+                "Top Secret",
+                "Communication Skills",
+                "DB2",
+                "CICS",
+                "System Architecture",
+                "Audit",
+                "Technical Support"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "PRUDENTIAL TOWER, 30 CECIL STREET"
+            },
+            "company": {
+                "logo": null,
+                "name": "ITCAN PTE. LIMITED"
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Seeking a highly skilled and experienced CICS and MQ Systems Programmer to be responsible for providing technical support for IBM's CICS and MQ software.     Key Requirements:   •        At least 10-15 years of experience working with CICS and MQ in a z/OS environment including experience with REXX, COBOL, JCL, TSO/ISPF  •        Install, configure, and upgrade CICS and MQ software   •        Monitor CICS and MQ system performance and troubleshoot issues   •        Work with application teams to ensure that applications are designed to perform optimally on CICS and MQ   •        Perform system tuning to ensure CICS and MQ is running optimally  •        Provide technical troubleshooting and support for CICS and MQ including engagement of IBM and vendors for problem resolution and determination  •        Familiarity and support of 3rd party software e.g.  Omegamon, CICS PA, Fault Analyzer, APA etc  •        Provide process automation support and maintain SOP documentation  •        Support backup/recovery and disaster/recovery planning and testing  •        Support periodic system configuration reviews and audit reviews  •        Strong communication skills and the ability to work collaboratively in a team environment •        Any ad-hoc duties assigned / required. ",
+            "datePosted": "2023-03-28",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 6900,
+                "minValue": 5000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/cics-mq-systems-programmer-itcan-2d74541b9d91322d54a4c8479607f7cd?source=MCF&event=Search",
+            "uuid": "06ef71fe-4bc1-433b-80b4-c5701ca2d207"
+        },
+        {
+            "dueDate": "2023-04-11",
+            "jobTitle": "Chef",
             "skills": [
                 "Recipes",
                 "Leadership",
@@ -879,7 +581,7 @@
                 "Sanitation",
                 "Compliance",
                 "Baking",
-                "Finish",
+                "Time Management",
                 "Culinary Skills",
                 "Pastry",
                 "Japanese"
@@ -887,26 +589,281 @@
             "location": {
                 "country": "SG",
                 "locality": "Singapore",
-                "address": "RITZ @ FARRER, 142 RACE COURSE ROAD"
+                "address": null
             },
             "company": {
                 "logo": null,
-                "name": "OCEANDA PTE. LTD."
+                "name": "K.S GROUP HOLDINGS PTE. LTD."
             },
             "jobType": [
-                "CONTRACTOR",
                 "FULL_TIME"
             ],
-            "description": "Chef Job Description As a chef you will be responsible for everything that goes on in your employer’s kitchen. Not only will you be required to oversee all dishes from start to finish, you are also tasked with hiring and firing employees, meeting health and safety standards and dreaming up new recipes for the restaurant you work in. If you love to cook, enjoy being creative and relish the challenges that come with responsibility, read on to learn more about becoming a chef.  REQUIREMENTS · A candidate who wants to become a chef must acquire on the job training which is most important for career progress and advancement in the path of becoming a chef. · A chef must possess a lot of stamina and will power to be able to stand for long hours and work for extended hours too in order to experiment in creating new dishes. · The candidate should also possess good knowledge of food products and their availability in order to plan cuisine accordingly. · A chef should have good organizing, supervising and time management skills to be able to oversee all the activities that take place in the kitchen in a proper manner.",
-            "datePosted": "2023-03-23",
+            "description": "   Collaborate with kitchen management on menu items   Attend all staff meetings   Prep kitchen before meal times   Prepare menu items as ordered   Work in a safe and efficient manner   Ensure proper preparation of all food to be served   Assist head chef with large projects when requested   Maintain a clean kitchen at all times ",
+            "datePosted": "2023-03-28",
             "salaryRange": {
                 "currency": "SGD",
-                "maxValue": 5000,
-                "minValue": 3000,
+                "maxValue": 3300,
+                "minValue": 2900,
                 "payPeriod": "MONTH"
             },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/general-work/chef-oceanda-6b83f912e299b552b6503b5cd53c4ed8?source=MCF&event=Search",
-            "uuid": "63665279-1379-4901-b80d-ff61ba9a2821"
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/chef-ks-group-holdings-2f352d7ea8dba8e708de8bbb7353ea76?source=MCF&event=Search",
+            "uuid": "2d2f8f0d-e52d-42d7-b23f-ca1bfc3b0094"
+        },
+        {
+            "dueDate": "2023-04-27",
+            "jobTitle": "Assistant Retail Supervisor",
+            "skills": [
+                "Customer Service Oriented",
+                "Troubleshooting",
+                "Trend",
+                "Housekeeping",
+                "Customer Support",
+                "Interpersonal Skills",
+                "Customer Care",
+                "Credit Cards",
+                "Selling",
+                "Merchandising",
+                "Inventory Management",
+                "Selling Skills",
+                "Team Player",
+                "Customer Service",
+                "Scheduling",
+                "Sourcing"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": null
+            },
+            "company": {
+                "logo": null,
+                "name": "VENUS BEAUTY PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "   Supervising a team of retail assistants to ensure smooth operation   Responsible for the sales of your category of products   Handle inventory management, housekeeping and merchandising   Demonstrate outstanding customer service and selling skills, keeping the selling floor stocked with merchandise, assisting in display of merchandise or organizing the selling floor and stock areas.   Process payments by totaling purchases; processing cash or other credit cards   Must also be able to deal with customer refunds courteously and professionally  Requirement: Willing to work on roster based on retail hours. Team player with excellent communication and interpersonal skills Working hours:    6 days roster based (retail hour 10am to 10pm)   1 weekday off  Benefits: 1. Training will be provided. 2. Commission. Estimated about S$500 and above. Commission will be given based on personal sales 3. Annual Bonus 4. Annual leave and medical leave 5.Grooming allowance",
+            "datePosted": "2023-03-28",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 4500,
+                "minValue": 3100,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/sales/assistant-retail-supervisor-venus-beauty-35eb74d9d85f9dea1b18a8ffe921dbe2?source=MCF&event=Search",
+            "uuid": "2bf2781a-737e-4210-a5dd-d446ea9a05ff"
+        },
+        {
+            "dueDate": "2023-04-27",
+            "jobTitle": "Admin Co-ordinator #SGUnited Jobs",
+            "skills": [
+                "Microsoft Office",
+                "Administration",
+                "Selling",
+                "MS Office",
+                "PowerPoint",
+                "Office Administration",
+                "Compliance",
+                "Administrative Support",
+                "Excel",
+                "Team Player",
+                "Customer Service",
+                "Scheduling"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "ALLSWORTH PARK, 363 HOLLAND ROAD"
+            },
+            "company": {
+                "logo": null,
+                "name": "ABUNDANT LIFE PLANNERS PTE LTD"
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "1. Assist with general office administration ; any other duties as assigned by the manager or director 2. Prepare monthly sales reports ; meeting slides 3. Handling of documents ; forms for signature ; submission 4. Incoming ; outgoing mails 5. Update of sales reports for contests / challenges 6. Handling of customers' calls ; enquiries 7. Creating powerpoint slides for meetings, trainings or webinars 8. Reception duties",
+            "datePosted": "2023-03-28",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 3000,
+                "minValue": 2500,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/admin/admin-co-ordinator-sgunited-jobs-abundant-life-planners-376eaaf0c875f11f14ae0d32b0083634?source=MCF&event=Search",
+            "uuid": "17105dec-617b-4bef-9f67-6a6bce46f1ab"
+        },
+        {
+            "dueDate": "2023-04-27",
+            "jobTitle": "Warehouse Assistants - FSC",
+            "skills": [
+                "Warehousing",
+                "Microsoft Office",
+                "Housekeeping",
+                "Inventory",
+                "Arranging",
+                "Unloading",
+                "Vehicles",
+                "Physically Fit",
+                "Freight",
+                "Transportation",
+                "Occupational Health",
+                "Shipping"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": null
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/f071e1837d78b8428ba5cb15603d7583/qxpress.png",
+                "name": "QXPRESS PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "We are an e-commerce logistics fulfilment company based in Toh Guan Road, Jurong. We are expanding and looking to hire a full-time Warehouse Assistant. Responsibilities: • Duties include in-housing - inspecting, sorting, picking and packing,    arranging and  scanning. • Complete tasks such as loading, unloading, sorting, picking, stocking,    staging and transportation of goods according to instructions • Load and unload materials to and from designated storage area, such    as racks, shelves or vehicles. • Verify computations against physical count of stock. • Maintains condition of work area • Performs other duties as assigned. • Must be able to work in warehouse environment • Must have the right attitude, be helpful, proactive, responsible and    willing to learn. Criteria: • Minimum 1 year of warehouse assistant experience • Not compulsory to have forklift license but if you do, you will be    entitled to forklift  allowance. • Long term full-time employment only! Remuneration Package: • Probation: $1400 (WP) $1800 (SG) • After Probation $1500 (WP), $2000 (SG) • Attendance Incentive: $200 monthly for good attendance! (No     lateness or absences) • Performance Incentive: $100 monthly depends on performance    appraisal • $4.25 forklift allowance per working day (minimum $100/mth, for     forklift license holders   only) • $10 meal allowance for overtime exceeding 2hrs • Tenure Allowance (paid monthly) after working 1year, 2year ;    3year! (Up to $500/mth) • Staff promoted to Supervisor will be entitled to supervisor allowance    of  $12 per work day. Other information: • 12 days annual leave • 14 days sick leave/60 days hospitalization Working Hours: 5.5 days Your permanent work location will be at either Toh Guan or Keppel Rd. • Mon to Fri - 8AM to 5PM • Saturday - 8AM to 12PM Please submit your updated resume through the Apply Now link!",
+            "datePosted": "2023-03-28",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 2000,
+                "minValue": 1800,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/logistics/warehouse-assistants-fsc-qxpress-1f24a436ed3672f4621440a92d50723d?source=MCF&event=Search",
+            "uuid": "1266f70c-c717-4d58-811b-f968a57808e8"
+        },
+        {
+            "dueDate": "2023-04-27",
+            "jobTitle": "MBA Programme Coordinator",
+            "skills": [
+                "Work Autonomously",
+                "Outlook",
+                "Service Orientation",
+                "Talent Acquisition",
+                "Autonomy",
+                "Teaching",
+                "Inventory",
+                "Team Spirit",
+                "Business Objects",
+                "Attention to Detail",
+                "Wellbeing",
+                "Programme Management",
+                "Customer Service",
+                "Disposition",
+                "PeopleSoft"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "1 AYER RAJAH AVENUE"
+            },
+            "company": {
+                "logo": null,
+                "name": "INSEAD"
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "As one of the world’s leading and largest graduate business schools, INSEAD brings together people, cultures and ideas to change lives and to transform organisations. A global perspective and cultural diversity are reflected in all aspects of our research and teaching. With a presence in Europe (France), Asia (Singapore), the Middle East (Abu Dhabi), and North America (San Francisco), INSEAD’s business education and research spans four continents. Within the MBA Programme Management team, the post holder is responsible for ensuring smooth programme delivery on Academic matters and is directly involved in coordination of tasks/activities with the MBA Class officers. The post holder is also in charge of managing the exit language requirement for students and oversees the Business Foundations Programme for new admits. S/he will liaise closely with the Academic Manager and with the Programme Management teams on both the Europe ; Asia campus. Main Responsibilities    MBA Registrar; In charge of managing all MBA Registrar matters for the alumni and current students. This includes certification, transcripts, diploma issuance as well as verification to recruiters, employers, universities and related requests.   Exit language requirement; The post holder will manage exit language requirement for incoming and current students including those who have completed the studies but not yet cleared the exit language requirement while working with Admissions colleagues and external language provider.   MBA Business Foundations programme; Runs and oversees the whole organisation of the programme from the registration and course enrollment to running the logistics for the programme either in person or online for both classes.   Administrative and logistical assistance to the MBA team and the MBA Academic Manager including, but not limited to, overseeing all presentation logistics for the team and contributing to smooth running of key events (such as MBA Launch weeks, graduations, exams – for example ID badges and amphi nametags preparation for all incoming students, ordering of invigilators for exams, grade distribution post-exams, preparation of diplomas for graduating students, etc).   Assistance to MBA Participants; answers participants enquiries, provide certifications, campus tours, tracking and updating of online materials seen by students, assistance and advice to students on the Singapore Student pass application process.   Oversees and manage inventory requirement for the team; for example, diploma holders, diploma papers, transcript papers, certification letters, exam booklets, etc.  The ideal candidate should possess the following skills:    Diploma or equivalent   2 to 3 years of experience working in a customer service and international environment.   Fluency in both written and spoken English   Strong IT skills: Solid Word, Excel and PowerPoint skills are a must; Knowledge of Outlook, web navigation, Peoplesoft, Business Objects, Canvas will be a plus   Excellent customer service orientation, organizational and planning skills   Excellent team spirit with the ability to work autonomously   Meticulous attention to detail  To be considered for this role please send your CV to the Talent Acquisition Specialist at recruit.sg@insead.edu quoting reference HR4. We regret that only shortlisted candidates will be contacted. ",
+            "datePosted": "2023-03-28",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 3800,
+                "minValue": 3200,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/admin/mba-programme-coordinator-insead-21d8d845290064c10fb4c931f2b5479e?source=MCF&event=Search",
+            "uuid": "88309a9b-b492-42eb-893d-9d6a7d635adf"
+        },
+        {
+            "dueDate": "2023-04-11",
+            "jobTitle": "Avaloq Release Manager",
+            "skills": [
+                "Science Education",
+                "Microsoft Excel",
+                "Written English",
+                "Customer Experience",
+                "Analog",
+                "Release Management",
+                "Task Completion",
+                "Agile",
+                "Private Banking",
+                "Business Strategy",
+                "Systems Analysis",
+                "Project Management",
+                "Windows",
+                "Software Development",
+                "Incident Management"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "CENTENNIAL TOWER, 3 TEMASEK AVENUE"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/533e3a6ce4853b46b93bb2b0b5769645/hays-specialist-recruitment.png",
+                "name": "LGT BANK (SINGAPORE) LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "LGT Private Banking is a leading international private bank and independent family-owned business. Our thinking is long-term, and we strive to innovate. In recent years, we have grown strongly - in Europe and in Asia. To ensure we remain successful, one factor is crucial: digitalization. It is a key strategic priority in the coming years. We want to combine the best of the analog and digital worlds, in interdisciplinary and agile teams. Our goal: to create a truly personal customer experience thanks to state-of-the-art services.  Job Description Do you want to help us continue our success story? As part of an interdisciplinary, agile team that drives innovation at LGT, you have the opportunity to actively shape our future by executing our business strategy on digitalization. Over the next few years, we want to combine the best of the analog and digital worlds to create a truly personal client experience with cutting-edge digital services and products.  As an Avaloq Release Manager, you will be able to contribute to the further development in the international environment at LGT and take on the following tasks:       Monitor and control the daily installation and deployment processes in the Avaloq environment   Coordination between support units and other operational teams    Support in incident management processes    Identifying potential for improvement    Collaboration in projects    You will be working in product oriented agile delivery teams with key stakeholders in APAC and EMEA. The international setup offers you to work remotely and in co-location spaces. Your line team is mainly located in Singapore.  Requirements    Completed computer science education    Profound knowledge in the operation of complex application environments    Minimum 3 years experience in Avaloq (Certification)   Experience in Avaloq ADAI (Avaloq Database Automatisation ; Integration) tooling is an advantage   Good understanding of technical contexts    Quality awareness and autonomous way of working    Good command of spoken and written English    Ability to work in a team, quick comprehension and willingness to work outside of block hours if necessary (maintenance windows, releases, special projects)    Experience in the Banking/Financial industry would be an added advantage   What we offer LGT's success is based on its core values, the Group-wide and partnership-based cooperation of entrepreneurial teams and a flat hierarchy with short decision-making paths. LGT's continued growth opens up long-term personal and professional development opportunities in a challenging and dynamic environment.  Help shape LGT and become part of a family – not just a company.  Contact information Sounds like what you’ve been looking for? Then apply online now. We are looking forward to hearing from you and will be to to answer your questions or give you further information.   ",
+            "datePosted": "2023-03-28",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 14000,
+                "minValue": 7000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/banking-finance/avaloq-release-manager-lgt-bank-3eea15413e71acc9983beda4de5ae116?source=MCF&event=Search",
+            "uuid": "c0836d11-a5e4-454b-87bc-09a68c1c4dae"
+        },
+        {
+            "dueDate": "2023-04-27",
+            "jobTitle": "Assistant Officer (IC)",
+            "skills": [
+                "coordinate and communicate effectively",
+                "Microsoft PowerPoint",
+                "Accounts Payable",
+                "Tracking",
+                "Troubleshooting",
+                "Coordinate external vendors",
+                "Microsoft Excel",
+                "coordinate with clients",
+                "Housekeeping",
+                "Office Management",
+                "Administration",
+                "Office Administration",
+                "Transportation",
+                "Administrative Support",
+                "Invoice Processing",
+                "Shipping",
+                "pricing review",
+                "monitored costs"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "INTERNATIONAL PLAZA, 10 ANSON ROAD"
+            },
+            "company": {
+                "logo": null,
+                "name": "STAFFLINK SERVICES PRIVATE LIMITED"
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "   MNC   AWS + VB   Monday to Friday 7: 55 AM to 4: 55 PM   Working Location: Tuas   Islandwide Transport Provided   Candidates with no experience are welcome to apply, training will be provided  Responsibilities:    Generate shipping documents, arrange ; track shipments.   Coordinate with buyer/planner/supplier/forwarder/courier to ensure on time delivery of goods.   Process ; verify forwarder invoices to Finance for payment.   Assist in troubleshooting and claims.   Monitor and review logistics costs ; forwarder services to optimize transportation solution.  Requirements    Min Diploma and above.   Knowledge of import/export regulations will be an added advantage.  HOW TO APPLY: Interested applicants, please click on “Apply Now”.  We regret only shortlisted candidates will be notified.  Stafflink Services Pte Ltd EA Licence No.: 04C4294 EA Personnel: Chua Xue Min (Joesefyn) EA Personnel Reg. No.: R23113090",
+            "datePosted": "2023-03-28",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 3000,
+                "minValue": 2500,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/logistics/assistant-officer-stafflink-services-3fe849e1ba405ec84ef68a780e892f03?source=MCF&event=Search",
+            "uuid": "661b1f74-ba5d-4e89-b7e5-f2e62a70090a"
         }
     ]
 }

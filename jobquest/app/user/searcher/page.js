@@ -50,17 +50,18 @@ export default function SearcherPage() {
     const [loadingJobs, setLoadingJobs] = useState(false);
     const router = useRouter();
     const userData = use(getUserData(userID));
-    if (!userData.searcherBoolean) {
-        router.push("user/searcher/setup");
-    }
 
     async function handleSubmit(e) {
         e.preventDefault();
-        const keywords = e.target.keywords.value;
-        setLoadingJobs(true);
-        const data = await getJobData(userID, keywords);
-        setJobsData(data.jobs);
-        setLoadingJobs(false);
+        if (!userData.searcherBoolean) {
+            router.push("user/searcher/setup");
+        } else {
+            const keywords = e.target.keywords.value;
+            setLoadingJobs(true);
+            const data = await getJobData(userID, keywords);
+            setJobsData(data.jobs);
+            setLoadingJobs(false);
+        }
     }
 
     return (
