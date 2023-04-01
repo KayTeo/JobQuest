@@ -109,7 +109,7 @@ export default function SignInPage() {
                             id="email"
                             name="email"
                             //pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$"
-                            //required
+                            required
                         />
                         <label
                             className="font-semibold text-white"
@@ -122,7 +122,7 @@ export default function SignInPage() {
                             type="text"
                             id="username"
                             name="username"
-                            //required
+                            required
                         />
                         <label
                             className="font-semibold text-white"
@@ -132,11 +132,11 @@ export default function SignInPage() {
                         </label>
                         <input
                             className="rounded-lg px-2 text-xl"
-                            type="text"
+                            type="password"
                             id="password"
                             name="password"
                             //pattern="^(?=.*[A-Za-z])(?=.*\d)(?=.*[@$!%*#?&])[A-Za-z\d@$!%*#?&]{8,}$"
-                            //required
+                            required
                         />
                         <label
                             className="font-semibold text-white"
@@ -146,11 +146,11 @@ export default function SignInPage() {
                         </label>
                         <input
                             className="rounded-lg px-2 text-xl"
-                            type="text"
+                            type="password"
                             id="cfmpassword"
                             name="cfmpassword"
                             //pattern="^(?=.*[A-Za-z])(?=.*\d)(?=.*[@$!%*#?&])[A-Za-z\d@$!%*#?&]{8,}$"
-                            //required
+                            required
                         />
                     </div>
                     <button

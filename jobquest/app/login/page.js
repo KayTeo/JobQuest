@@ -58,6 +58,7 @@ export default function LogInPage() {
                             type="text"
                             id="email"
                             name="username"
+                            required
                         />
                         <label
                             className="font-semibold text-white"
@@ -67,9 +68,10 @@ export default function LogInPage() {
                         </label>
                         <input
                             className="rounded-lg px-2 text-xl"
-                            type="text"
+                            type="password"
                             id="password"
                             name="password"
+                            required
                         />
                     </div>
                     <button

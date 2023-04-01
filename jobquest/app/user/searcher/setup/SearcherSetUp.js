@@ -146,6 +146,7 @@ export default function SearcherSetUp({ userID, userData }) {
                                     id={e.id}
                                     className="rounded-xl border border-black p-1"
                                     defaultValue={filled ? filled : ""}
+                                    required
                                 >
                                     <option
                                         disabled
@@ -172,7 +173,8 @@ export default function SearcherSetUp({ userID, userData }) {
                             defaultValue={userData ? userData.minSalary : ""}
                             min="0"
                             max="20000"
-                            className="rounded-xl border border-black p-1 required:border-red-500 out-of-range:border-red-500"
+                            className="rounded-xl border border-black p-1 out-of-range:border-red-500"
+                            required
                         ></input>
                     </div>
                 </div>
@@ -185,7 +187,6 @@ export default function SearcherSetUp({ userID, userData }) {
                             ref={skillsInputRef}
                             type="text"
                             id="skill"
-                            name="skill"
                             className="w-36 rounded-xl border border-black p-1"
                         ></input>
                         <button

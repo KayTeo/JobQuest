@@ -65,6 +65,7 @@ export default function PostModal({ userID, setIsOpen }) {
                         name="title"
                         placeholder="Insert Title"
                         className="rounded-xl border border-black p-1"
+                        required
                     ></input>
                 </section>
                 <section className="flex flex-col gap-1">
@@ -76,6 +77,7 @@ export default function PostModal({ userID, setIsOpen }) {
                         rows="8"
                         placeholder="Insert Your Message..."
                         className="rounded-xl border border-black p-1"
+                        required
                     ></textarea>
                 </section>
                 <section className="flex items-center justify-between">

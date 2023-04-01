@@ -76,6 +76,7 @@ export default function CommentModal({ setIsOpen, userID, postID }) {
                         rows="8"
                         placeholder="Insert Your Message..."
                         className="rounded-xl border border-black p-1"
+                        required
                     ></textarea>
                 </section>
                 <section className="flex items-center justify-between">

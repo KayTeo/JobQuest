@@ -278,8 +278,13 @@
                 "minValue": 2500,
                 "payPeriod": "MONTH"
             },
+<<<<<<< Updated upstream
             "jobLink": "https://www.mycareersfuture.gov.sg/job/building-construction/assistant-engineer-v-top-4c6049a41cd33ac296f3d166149a3392?source=MCF&event=Search",
             "uuid": "3e027483-5558-4726-8b9b-6d1ef772a11b"
+=======
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/customer-service/sgunitedjobsjob-title-customer-service-officer-nobility-placement-services-248c51497b092ea58ef1d0108e0c7aee?source=MCF&event=Search",
+            "uuid": "758c1723-f746-47ff-8146-7311296561b6"
+>>>>>>> Stashed changes
         },
         {
             "dueDate": "2023-04-30",
@@ -619,13 +624,19 @@
                 "minValue": 3000,
                 "payPeriod": "MONTH"
             },
+<<<<<<< Updated upstream
             "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/dimension-controller-asian-sealand-offshore-marine-20ffd05286cdb3ec7de0247be88cff6b?source=MCF&event=Search",
             "uuid": "079147f0-b78c-4286-bc6e-7a51da5a1dbf"
+=======
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/consulting/recruitment-executive-responsible-people-3c9e0babb7c0d223fe553b6e63164ae3?source=MCF&event=Search",
+            "uuid": "ce109fd2-24bf-4e44-babc-f1bd1f43c558"
+>>>>>>> Stashed changes
         },
         {
             "dueDate": "2023-04-29",
             "jobTitle": "Senior/Principal/Associate Track Alignment Engineer",
             "skills": [
+<<<<<<< Updated upstream
                 "Switches",
                 "Construction",
                 "BIM",
@@ -637,6 +648,373 @@
                 "Civil Engineering",
                 "Geometry",
                 "Design Management",
+=======
+                "Lead Generation",
+                "Calling clients",
+                "Verbal Communication",
+                "Customer Relationships",
+                "Selling",
+                "Sales Process",
+                "Strategy",
+                "Solution Selling",
+                "People Development",
+                "Self Starter",
+                "Excellent Written Communication Skills",
+                "Time Management",
+                "SaaS",
+                "Building Relationships",
+                "Customer Service",
+                "Profit Analysis"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "6 RAFFLES QUAY"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/a26351de7815b5fbc1ac9ee37280fb9f/cloudgo.png",
+                "name": "CLOUDGO PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Role purpose CloudGo is a digital consulting company that solves business problems with digital workflows that matter. We are one of ServiceNow’s leading Elite partners, and due to our rapid growth, we need a highly motivated individual to join us as a Digital Sales Representative to grow our business. This is a full-time role with a focus on building our commercial and enterprise pipeline and customer base. A background in of inside sales and/or selling services for SaaS platforms will be an advantage, as that will be your responsibility here. This is a great opportunity to grow your career into field sales! Half of your work will be outbound: introducing CloudGo to existing ServiceNow customers, building relationships with ServiceNow and other key partners, and introducing ServiceNow to other net new logos. You will need to be comfortable calling on a range of stakeholders, from IT to finance, HR and customer service. You have probably come from an inside sales background so aren’t afraid of the work but want to grow into a field sales role to start building relationships and leading the strategy for specific accounts. The other half will be closing our smaller run-rate deals in partnership with our enterprise account teams. You’ll do well if you have a solution selling or customer-centric selling background, with excellent written and verbal communication and influence skills, a history or exceeding sales targets, and a hunger to grow. You will be given direction on where you’re going, not micromanagement so you need to be comfortable with being a self-starter. CloudGo hires for culture first – our people are global go-getters, we look to the long term, we solve for the customer, and we value open, honest, early communication. We believe we don’t exist without exceptional people, so we respect and value them. We pay fair base and at-risk components based on experience and the market, with uncapped overachievement potential. You will be reporting to our group head of sales, so if you think this sounds like somewhere you want to grow, then come and talk to us. Key Responsibilities · To meet or exceed individual KPI’s based on outbound call volume and new meetings/leads. · Actively promote CloudGo’s ServiceNow solutions products and services to prospects, customers and partners via a range of channels. · Follow up on leads generated from relationships, partnerships, marketing or other sources. · Build and develop customer relationships with customers, prospects and partners. · Handle entire inside sales process from lead generation to presentation to proposal, with support and coaching from your manager. You may need to work with some field sales reps to close deals, but you will own the entire sales cycle yourself for smaller deals. · Develop and maintain in-depth knowledge of products and services, industry trends, and competition. · Maintain current and accurate account and contact information, as well as lead and opportunity status and activity in our CRM Skills and Competencies · Minimum 2 years field sales or inside sales experience preferably in services for software or technology, focused on commercial and enterprise business · Need a solid understanding of SaaS concepts and be comfortable discussing technology with customers · Demonstrate effectiveness through weekly reports to track performance and results · Be able to operate successfully in a rapidly changing, ambiguous and less defined environment. · Outstanding time management and organizational skills. · Demonstrated ability to be proactive and take the initiative to get things done · Ability to manage multiple tasks at once (flexible and self-sufficient) · Positive attitude, wiling to learn, self-motivated and persistent",
+            "datePosted": "2023-03-28",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 8000,
+                "minValue": 5000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/digital-sales-representative-cloudgo-3e868e9695ae64637d19d99c384a69f5?source=MCF&event=Search",
+            "uuid": "4316f362-452e-4fff-99fd-707c6ca21ed3"
+        },
+        {
+            "dueDate": "2023-04-27",
+            "jobTitle": "Regional Specialist (Digital Campaign)",
+            "skills": [
+                "Management Skills",
+                "Marketing Strategy",
+                "Wealth",
+                "Private Banking",
+                "Email Marketing",
+                "B2B",
+                "Retail Banking",
+                "Digital Marketing",
+                "Presentation Skills",
+                "Fixed Income",
+                "Scheduling",
+                "UX",
+                "Mutual Funds",
+                "Equities",
+                "Africa"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "ALEXANDRA TECHNOPARK, 438B ALEXANDRA ROAD"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/ae50e245e0641c3d01ef32a23a3d53ea/epson-singapore.jpg",
+                "name": "EPSON SINGAPORE PTE LTD"
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Job Summary    B2B Digital Campaign Specialist for the ASEAN region, preferably with Pardot experience.   The Digital Campaign Specialist is key in helping to shape the digital marketing strategy for our company, proving the success of digital marketing campaigns and making optimisation efforts across all digital channels.   The ideal candidate should have a strong track record and passion for digital marketing, and will be able to show business outcomes achieved in a well-executed digital marketing strategy.  Key Accountabilities    Organise and manage timelines for the projects   Manage internal Business Unit stakeholders to ensure clarity of communication throughout campaigns   Ensure the digital campaign structures are complete, while adapting offline marketing collaterals and/or assets to digital format with strong design and UX elements  Key Job Requirements Job / Skills Competencies:    Work closely with digital manager to strategise and manage digital marketing campaigns for the Southeast Asia to drive traffic, engagement and lead generations   Deep understanding of owned, earned and paid media methodologies and ability to apply in 360 campaign approach   Proven ability to work on multiple projects, digital marketing campaigns and on sales strategies with expected outcome   Experience in digital campaign analysis   Outstanding digital, innovative ; creative mindset   Strong analytical and data-driven capabilities   Strong team player with ability to understand, share and explain digital requirements   Monitoring current and future digital marketing trends   Independent and autonomous   Excellent English communication and presentation skills  Critical Work Experience:    Minimum 3-5 years of digital marketing experience in both B2B and B2C environments   Prior experience setting up and managing Google DataStudio Dashboards   Prior experience setting up and managing email campaign workflows on Pardot or other email marketing tools  Qualifications:    Degree in IT or Marketing ",
+            "datePosted": "2023-03-28",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 5800,
+                "minValue": 3000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/advertising/regional-specialist-epson-singapore-69e439ee414fc81f05c339e7a10c96a8?source=MCF&event=Search",
+            "uuid": "9a2e2e3f-1fd4-473e-bc3b-cbdf3d0623fb"
+        },
+        {
+            "dueDate": "2023-04-27",
+            "jobTitle": "Functional Consultant",
+            "skills": [
+                "business objectives",
+                "Integration",
+                "IT Service Management",
+                "Business Intelligence",
+                "Technical Analysis",
+                "Process Improvement",
+                "Customer Service Management",
+                "HTML",
+                "Information Technology",
+                "Thought Leadership",
+                "Enterprise Software",
+                "SAP R3",
+                "Consulting",
+                "ITIL",
+                "Business Process",
+                "Project Delivery"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "6 RAFFLES QUAY"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/a26351de7815b5fbc1ac9ee37280fb9f/cloudgo.png",
+                "name": "CLOUDGO PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "The Functional Consultant is required to work with customers and learn the business problems that need to be addressed and through applying technical analysis, recommend a solution. Is an expert with ServiceNow processes and capable of delivering advice when required. Working closely with the pre-sales team is involved in delivering documentation through all stages of a project’s lifecycle. Key Responsibilities · Work closely with a customer to understand their requirements and our solutions to address those needs. · Understand business objectives, projects, and problem statements of our prospects and customer. · Lead business process definition, re-engineering, and process improvement workshops during the Examine Phase of customer engagements. · Develop required documentation such as workshop agendas, workshop presentations, process design documents, use cases, responsibilities documents. · Identify areas of process effectiveness and recommend solutions that detail pros, cons, and risks. · Align and represent industry practices and recommend solutions to meet business objectives. · Present proposals including the ServiceNow product and services. · Identify and contribute to the creation of best practices, white papers, workshops, etc. · Contribute to the continual improvement of Delivery and Advisory Services processes as well as the maturing of the different portfolios, capabilities, expertise, and best practices in consideration of customer needs and requirements. · Ensure all time is recorded accurately and keep the calendar up to date with scheduled activities. · Completing, developing, and improving required documentation such as process flow diagrams, workshop agendas, presentations, gap analysis reports. · Ability to influence and consult while providing thought leadership to sponsors in solving business processes and/or technical problems during project delivery. · Assist delivery teams in resolving critical path issues and challenges during engagements. · Supporting specific sales activities when required. · Alliance with the Sales team, Solution Consultants, conduct transition briefings - communicate commitments and expectations in preparation for engagements. Basic requirements · ServiceNow Pre-Sales Accreditations in IT Service Management and at least two (2) other product lines. · Highly motivated · 3+ years of experience in service management, service delivery, or a related field such as IT Project Management, Human Resources, Security Operations, and Customer Service Management. · ITIL V3/4 Foundations desirable · Degree or equivalent, preferably in Computer Science or Information Technology, and proven experience in technical consulting roles Professional qualifications and education requirements · Enterprise consulting experience, including implementation experience with one or more common enterprise software solutions filling positions of increasing responsibility and management of program teams · Proven ability to communicate with all levels of the organization including mid-level management Please click on the link below if you are looking for a role but would require us to sponsor your visa. Link: CloudGo - Functional Consultant in Singapore (cloudgoservices.com)",
+            "datePosted": "2023-03-28",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 9000,
+                "minValue": 7000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/functional-consultant-cloudgo-74af26220a5424d7b602ac4c1171ae56?source=MCF&event=Search",
+            "uuid": "918425fc-8171-451c-b137-3317f51298ac"
+        },
+        {
+            "dueDate": "2023-04-27",
+            "jobTitle": "Sales Assistant",
+            "skills": [
+                "Sales",
+                "Visual Merchandising",
+                "Housekeeping",
+                "Interpersonal Skills",
+                "Inventory",
+                "Retail Sales",
+                "Administration",
+                "Selling",
+                "Physically Fit",
+                "Cashiering",
+                "Presentation Skills",
+                "Customer Satisfaction",
+                "Team Player",
+                "Customer Service",
+                "Pricing"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": null
+            },
+            "company": {
+                "logo": null,
+                "name": "VENUS BEAUTY SERVICES PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "A talented individual who will bring her sales talent, and passion to our company. Has to be service-oriented, has superb presentation skills, and will always maintain a professional image.    Provides excellent customer service   Makes appropriate recommendations when required   Housekeeping, replenishing stocks   Manage merchandise and assist in visual displays when needed   Ensure that the image of the Company is portrayed positively at all times   Requirement:   Willing to work on roster based on retail hours.   Team player with excellent communication and interpersonal skills  Working hours:    6 days roster based (retail hour 10am to 10pm)   1 weekday off  Benefits: 1. Training will be provided. 2. Commission. Estimated about S$500 and above. Commission will be given based on personal sales 3. Annual Bonus 4. Annual leave and medical leave 5. Grooming allowance",
+            "datePosted": "2023-03-28",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 2800,
+                "minValue": 2000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/sales/sales-assistant-venus-beauty-services-7562c9aec8c07f381f449cb71356dd31?source=MCF&event=Search",
+            "uuid": "fb407c50-dd8c-4717-a5af-1f7678143216"
+        },
+        {
+            "dueDate": "2023-04-11",
+            "jobTitle": "Piping Material Engineer",
+            "skills": [
+                "Materials Science",
+                "Construction",
+                "MS Office",
+                "Interpreting",
+                "Weight",
+                "FPSO",
+                "Piping",
+                "AutoCAD",
+                "Regulatory Requirements",
+                "Laboratory",
+                "Manufacturing",
+                "Layout",
+                "Commissioning",
+                "Mechanical Engineering",
+                "Technical Support"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": null
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/04a14962dcd9f89fbbd53df4c3257bad/peak-ocean.jpg",
+                "name": "PEAK OCEAN PTE. LTD."
+            },
+            "jobType": [
+                "CONTRACTOR"
+            ],
+            "description": "JOB PURPOSE: To independently handle the piping material activities, prepare, manage, and produce the critical engineering deliverables for the assigned project (that may include short-term assignment to Construction, Commissioning, and Offshore) effectively and efficiently according to the specified technical requirements, timelines, and within budget, and deal independently with and resolve all the issues of the project, and provide guidance to the assigned members.  RESPONSIBILITIES:    Works independently to perform the assigned task and develops a solution to technical/engineering and related problems by analyzing the issue or data, interpreting the analysis, and evaluating various options/measures using experience, precedents, and professional references with minimal or no supervision or guidance.   Understands technical requirements of project specifications and standards, local statutory and regulatory requirements, Classification society requirements, and applicable codes and standard industry practices to carry out the piping activities and prepare piping deliverables for assigned projects.   Carries out the pipe wall thickness calculations using applicable design code. Prepares the piping material specification and valve specification by using and modifying the MODEC corporate specifications suitably to match the project-specific requirements.   Prepares piping insulation specification, and flange management specification (bolt torquing and tensioning) by using the MODEC corporate specifications and modifying these to meet the project requirement.   Prepares bill of materials for piping bulk items (like pipe, flanges, and fittings), valves, piping specialty items, gaskets, stud bolts and nuts, and pipe support materials. Provides piping unit weight inputs for weight control reports.   Prepares data sheets for process-critical and non-critical piping specialty items obtaining the process parameters required for the design and manufacturing of process-critical items.   Prepares requisitions for piping bulk items, valves, piping specialty items, gaskets, stud bolts and nuts, spring supports, cargo tank heating coil (marine), valve remote control system (marine) and performs a technical evaluation of bids received from various suppliers to ensure shortlisted vendors meet technical requirements as per project specifications, and provides an assessment on technically acceptable bids for Buyer to follow up tender evaluation further to conclude and award the purchaser order.   Conducts kick-off meetings with successful suppliers to ensure a clear understanding of the scope of supply, technical requirements, documentation, and delivery conditions to enable the supplier to execute the work strictly as per the purchase order, reviews supplier drawings and documents, and shares the relevant data with engineering contractor to get it incorporated in piping layout design.   Works closely with suppliers and contractors concerned to resolve technical issues and visits supplier’s manufacturing facilities to witness the FAT, where necessary.   Provides technical support and advice to construction yard and commissioning work at the site. Where necessary, provides off-site support and guidance.   Supports the Lead Piping Engineer and assists in preparing lessons learned during the course of execution of the project for further processing through MIMS.   Shares the knowledge and experience with team members and guides the engineers in carrying out the assigned task the right a correctively.   Reports Functionally to the Piping Section Lead and Operationally to Lead Piping Engineer on matters related to the assigned project.   Closely interacts and assists Lead Piping Engineer in co-coordinating with other disciplines, engineering contractors, and Construction and Commissioning team.   Deals with internal stakeholders on technical matters.  REQUIREMENTS:    Bachelor in Mechanical Engineering or Master of Engineering. Alternatively Diploma in Mechanical Engineering with relevant years of experience.   Minimum 15 years of relevant working experience in piping engineering in the oil and gas sector, preferably in FPSO or Offshore processing facilities for graduates or a minimum of 12 years of relevant working experience for diploma holders. For a Masters’s degree holder, a minimum of 10 years of relevant working experience is required.   Knowledge in MS Office, AutoCAD, E3D, Naviswork, Caesar II ",
+            "datePosted": "2023-03-28",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 10000,
+                "minValue": 7500,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/piping-material-engineer-peak-ocean-be59a98def26349b27b6fbd8491b9e64?source=MCF&event=Search",
+            "uuid": "98d516da-3d47-411c-a393-99bd7b64a087"
+        },
+        {
+            "dueDate": "2023-04-27",
+            "jobTitle": "Business Development Manager [Main Contactor| West] 2894",
+            "skills": [
+                "Market Research",
+                "Sales",
+                "Leadership",
+                "Construction",
+                "Interpersonal Skills",
+                "Customer Relationships",
+                "Architects",
+                "Market Analysis",
+                "Strategy",
+                "Networking",
+                "Market Intelligence",
+                "Communication Skills",
+                "Consulting",
+                "Team Player",
+                "Civil Engineering",
+                "Business Development"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": null
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/d162667fbe1365aa541016a407de7ae4/supreme-hr-advisory.jpg",
+                "name": "THE SUPREME HR ADVISORY PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "   Singapore Based   Attractive Salary Package   Company Benefits ; Incentives   Career Progression Opportunities  Interested applicants can also send your resume to  Brandon at +65 9460 8816  and allow our Consultant to match you with our Clients.  The Supreme HR Advisory Pte Ltd EA License No: 14C7279 EA Personnel: Brandon Lim Yeu Li EA Personnel No: R21102894  Responsibilities    Exposure with developers ; institutional developers.   Comprehensive exposure to local consultants, architects and engineers.   Conversant with different type of contracting procedures.   Able to handle business development on their own.   Build and maintain strong customer relationships while supporting the tender and business development team, project clients and consultants in their tender bids.   Coordinate with tender department and HQ in scope of work and project executions and responding to requests, clarifications, and resolving any issues promptly and diligently.   Coordinate with tender team to manage proposal response process, including detailed tender/ bid requirements.   Initiate customer visits and processing of various sales proposal, quotations and contracts.   Manage relationship with existing and potential clients to develop new opportunities and advance organisation’s business interests.   Business development experience in the contract market with high-end architects, consultants and end-user clients.   Take charge of client acquisition and create new business opportunities to maintain the company’s relevance and competitive edge.   Conduct the necessary market analysis to identify potential working partners for targeted projects.   Communicate with the potential clients, consulting firms etc. to collect the information of targeted projects.   To perform market research and identify prospective local projects leads.   Resourceful and possess good market intelligence on potential upcoming projects.   Conversant with local authorities’ requirements and engineering standards.   Good working knowledge of general construction, especially in large and heavy civil engineering project. ",
+            "datePosted": "2023-03-28",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 9000,
+                "minValue": 7000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/building-construction/business-development-manager-main-contactor-west-2894-supreme-hr-advisory-eb262ac9648b7d1826ab38fa907977e1?source=MCF&event=Search",
+            "uuid": "e7fa9fb7-ab16-4c73-9246-6efb3d9acc9e"
+        },
+        {
+            "dueDate": "2023-04-27",
+            "jobTitle": "Senior Human Resource and Admin Executive",
+            "skills": [
+                "Coaching",
+                "Employer Branding",
+                "Microsoft Excel",
+                "Talent Acquisition",
+                "Change Management",
+                "Succession Planning",
+                "Administration",
+                "Payroll",
+                "Grants",
+                "HR Policies",
+                "Accountability",
+                "Human Resource",
+                "Organizational Effectiveness",
+                "Human Resources",
+                "Performance Management"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "PAYA LEBAR SQUARE, 60 PAYA LEBAR ROAD"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/603389bcb4e32f1db1e4eca7471e0d92/recruitpedia.jpg",
+                "name": "RECRUITPEDIA PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "We are a centrally located boutique recruitment firm experiencing strong growth. As the company scales, we are looking to bring on a Senior HR and Admin Executive who can help support through the next phase of growth and development roadmap. Job Description / Duties:    Manage full spectrum of General Human Resource matters   Design and create learning resources, training materials and e-contents   Implement and execute training plans and conduct trainings as well as post-training evaluations   Handle internal talent acquisition and other recruitment related duties   Administer work pass application, renewal and etc   Ensure the organisation in complying with local relevant regulations   Handle General Administrative Duties   Provide support to the various departments   Ad-hoc duties as assigned  Requirements:    Minimum Diploma / Degree in Human Resource or Business - related fields   Minimum 3 years of relevant experience   Experience in Staffing / Recruitment industry will be added advantage  Interested candidates who wish to apply for the advertised position, please click APPLY NOW or email an updated copy of your resume/cv. We regret that only shortlisted candidate will be notified. Email Address: hr@recruitpedia.sg",
+            "datePosted": "2023-03-28",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 4500,
+                "minValue": 2800,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/accounting/senior-human-resource-admin-executive-recruitpedia-0de5665dc0a0d8e37429f25501b4b4ac?source=MCF&event=Search",
+            "uuid": "fc2f93b7-ce8f-4fb8-9027-4180d1c920a1"
+        },
+        {
+            "dueDate": "2023-04-17",
+            "jobTitle": "Cloud Engineer (PERM)",
+            "skills": [
+                "Troubleshooting",
+                "Kubernetes",
+                "Azure",
+                "Cloud Computing",
+                "Architect",
+                "IT infrastructure",
+                "Agile",
+                "Scripting",
+                "Amazon Web Services",
+                "Compliance",
+                "Networking",
+                "Python",
+                "Servers",
+                "Docker",
+                "GCP",
+                "Infrastructure",
+                "Ansible",
+                "Linux"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": null
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/8f102815b85be9e9a8f4e27124b80a3a/talentsis.png",
+                "name": "TALENTSIS PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Responsibilities:    Define, deploy and manage cloud-based workloads, security and compliance controls.   Conduct mass training and briefings for application teams to help them on-board applications and services to the cloud.   Monitor, analyse and identify infrastructure for vulnerabilities, and applying appropriate mitigations and resolution.   Regularly review existing services and keeping up to date with industry trends and new cloud offerings, to prepare proposals and recommendations for enhancements and new capabilities.  Requirements:    Diploma / Degree or its equivalent with proven technical knowledge and expertise.   Any AWS / Azure / GCP / Nutanix certification will be advantageous   Knowledge of Terraform is preferred but not required.  (EA Reg No: 20C0312)",
+            "datePosted": "2023-03-27",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 5200,
+                "minValue": 3000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/cloud-engineer-talentsis-0f569e10c45a2a4e024976de6753e1ec?source=MCF&event=Search",
+            "uuid": "931a8aac-ea5d-49f5-9626-988b147419f6"
+        },
+        {
+            "dueDate": "2023-04-27",
+            "jobTitle": "CICS and MQ Systems Programmer",
+            "skills": [
+                "REXX",
+                "COBOL",
+                "Troubleshooting",
+                "Process Automation",
+                "Mainframe",
+                "IBM Mainframe",
+                "JCL",
+                "Technology Leadership",
+                "Tuning",
+                "Top Secret",
+                "Communication Skills",
+                "DB2",
+                "CICS",
+                "System Architecture",
+                "Audit",
+>>>>>>> Stashed changes
                 "Technical Support"
             ],
             "location": {
@@ -655,12 +1033,230 @@
             "datePosted": "2023-03-30",
             "salaryRange": {
                 "currency": "SGD",
+<<<<<<< Updated upstream
                 "maxValue": 12000,
                 "minValue": 7000,
                 "payPeriod": "MONTH"
             },
             "jobLink": "https://www.mycareersfuture.gov.sg/job/building-construction/senior-principal-associate-track-alignment-engineer-phaidon-international-419d3323bfc12575b86802e756812c52?source=MCF&event=Search",
             "uuid": "d9a62f1a-a8b4-4fda-80ad-b7d4701bd688"
+=======
+                "maxValue": 6900,
+                "minValue": 5000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/cics-mq-systems-programmer-itcan-2d74541b9d91322d54a4c8479607f7cd?source=MCF&event=Search",
+            "uuid": "0ac7e5b9-5346-4e49-96b7-b0612a35f730"
+        },
+        {
+            "dueDate": "2023-04-11",
+            "jobTitle": "Chef",
+            "skills": [
+                "Recipes",
+                "Leadership",
+                "Ingredients",
+                "Food Safety",
+                "Cooking",
+                "Housekeeping",
+                "Food Quality",
+                "Inventory",
+                "Sanitation",
+                "Compliance",
+                "Baking",
+                "Time Management",
+                "Culinary Skills",
+                "Pastry",
+                "Japanese"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": null
+            },
+            "company": {
+                "logo": null,
+                "name": "K.S GROUP HOLDINGS PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "   Collaborate with kitchen management on menu items   Attend all staff meetings   Prep kitchen before meal times   Prepare menu items as ordered   Work in a safe and efficient manner   Ensure proper preparation of all food to be served   Assist head chef with large projects when requested   Maintain a clean kitchen at all times ",
+            "datePosted": "2023-03-28",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 3300,
+                "minValue": 2900,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/chef-ks-group-holdings-2f352d7ea8dba8e708de8bbb7353ea76?source=MCF&event=Search",
+            "uuid": "79427f13-8c9d-4cc8-ae57-f42abd54166b"
+        },
+        {
+            "dueDate": "2023-04-27",
+            "jobTitle": "Admin Co-ordinator #SGUnited Jobs",
+            "skills": [
+                "Microsoft Office",
+                "Administration",
+                "Selling",
+                "MS Office",
+                "PowerPoint",
+                "Office Administration",
+                "Compliance",
+                "Administrative Support",
+                "Excel",
+                "Team Player",
+                "Customer Service",
+                "Scheduling"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "ALLSWORTH PARK, 363 HOLLAND ROAD"
+            },
+            "company": {
+                "logo": null,
+                "name": "ABUNDANT LIFE PLANNERS PTE LTD"
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "1. Assist with general office administration ; any other duties as assigned by the manager or director 2. Prepare monthly sales reports ; meeting slides 3. Handling of documents ; forms for signature ; submission 4. Incoming ; outgoing mails 5. Update of sales reports for contests / challenges 6. Handling of customers' calls ; enquiries 7. Creating powerpoint slides for meetings, trainings or webinars 8. Reception duties",
+            "datePosted": "2023-03-28",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 3000,
+                "minValue": 2500,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/admin/admin-co-ordinator-sgunited-jobs-abundant-life-planners-376eaaf0c875f11f14ae0d32b0083634?source=MCF&event=Search",
+            "uuid": "005b55cc-c8ac-42d7-8b56-7424601957f2"
+        },
+        {
+            "dueDate": "2023-04-27",
+            "jobTitle": "Warehouse Assistants - FSC",
+            "skills": [
+                "Warehousing",
+                "Microsoft Office",
+                "Housekeeping",
+                "Inventory",
+                "Arranging",
+                "Unloading",
+                "Vehicles",
+                "Physically Fit",
+                "Freight",
+                "Transportation",
+                "Occupational Health",
+                "Shipping"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": null
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/f071e1837d78b8428ba5cb15603d7583/qxpress.png",
+                "name": "QXPRESS PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "We are an e-commerce logistics fulfilment company based in Toh Guan Road, Jurong. We are expanding and looking to hire a full-time Warehouse Assistant. Responsibilities: • Duties include in-housing - inspecting, sorting, picking and packing,    arranging and  scanning. • Complete tasks such as loading, unloading, sorting, picking, stocking,    staging and transportation of goods according to instructions • Load and unload materials to and from designated storage area, such    as racks, shelves or vehicles. • Verify computations against physical count of stock. • Maintains condition of work area • Performs other duties as assigned. • Must be able to work in warehouse environment • Must have the right attitude, be helpful, proactive, responsible and    willing to learn. Criteria: • Minimum 1 year of warehouse assistant experience • Not compulsory to have forklift license but if you do, you will be    entitled to forklift  allowance. • Long term full-time employment only! Remuneration Package: • Probation: $1400 (WP) $1800 (SG) • After Probation $1500 (WP), $2000 (SG) • Attendance Incentive: $200 monthly for good attendance! (No     lateness or absences) • Performance Incentive: $100 monthly depends on performance    appraisal • $4.25 forklift allowance per working day (minimum $100/mth, for     forklift license holders   only) • $10 meal allowance for overtime exceeding 2hrs • Tenure Allowance (paid monthly) after working 1year, 2year ;    3year! (Up to $500/mth) • Staff promoted to Supervisor will be entitled to supervisor allowance    of  $12 per work day. Other information: • 12 days annual leave • 14 days sick leave/60 days hospitalization Working Hours: 5.5 days Your permanent work location will be at either Toh Guan or Keppel Rd. • Mon to Fri - 8AM to 5PM • Saturday - 8AM to 12PM Please submit your updated resume through the Apply Now link!",
+            "datePosted": "2023-03-28",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 2000,
+                "minValue": 1800,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/logistics/warehouse-assistants-fsc-qxpress-1f24a436ed3672f4621440a92d50723d?source=MCF&event=Search",
+            "uuid": "b08606a1-9242-4c63-90cb-0365cadafe58"
+        },
+        {
+            "dueDate": "2023-04-27",
+            "jobTitle": "MBA Programme Coordinator",
+            "skills": [
+                "Work Autonomously",
+                "Outlook",
+                "Service Orientation",
+                "Talent Acquisition",
+                "Autonomy",
+                "Teaching",
+                "Inventory",
+                "Team Spirit",
+                "Business Objects",
+                "Attention to Detail",
+                "Wellbeing",
+                "Programme Management",
+                "Customer Service",
+                "Disposition",
+                "PeopleSoft"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "1 AYER RAJAH AVENUE"
+            },
+            "company": {
+                "logo": null,
+                "name": "INSEAD"
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "As one of the world’s leading and largest graduate business schools, INSEAD brings together people, cultures and ideas to change lives and to transform organisations. A global perspective and cultural diversity are reflected in all aspects of our research and teaching. With a presence in Europe (France), Asia (Singapore), the Middle East (Abu Dhabi), and North America (San Francisco), INSEAD’s business education and research spans four continents. Within the MBA Programme Management team, the post holder is responsible for ensuring smooth programme delivery on Academic matters and is directly involved in coordination of tasks/activities with the MBA Class officers. The post holder is also in charge of managing the exit language requirement for students and oversees the Business Foundations Programme for new admits. S/he will liaise closely with the Academic Manager and with the Programme Management teams on both the Europe ; Asia campus. Main Responsibilities    MBA Registrar; In charge of managing all MBA Registrar matters for the alumni and current students. This includes certification, transcripts, diploma issuance as well as verification to recruiters, employers, universities and related requests.   Exit language requirement; The post holder will manage exit language requirement for incoming and current students including those who have completed the studies but not yet cleared the exit language requirement while working with Admissions colleagues and external language provider.   MBA Business Foundations programme; Runs and oversees the whole organisation of the programme from the registration and course enrollment to running the logistics for the programme either in person or online for both classes.   Administrative and logistical assistance to the MBA team and the MBA Academic Manager including, but not limited to, overseeing all presentation logistics for the team and contributing to smooth running of key events (such as MBA Launch weeks, graduations, exams – for example ID badges and amphi nametags preparation for all incoming students, ordering of invigilators for exams, grade distribution post-exams, preparation of diplomas for graduating students, etc).   Assistance to MBA Participants; answers participants enquiries, provide certifications, campus tours, tracking and updating of online materials seen by students, assistance and advice to students on the Singapore Student pass application process.   Oversees and manage inventory requirement for the team; for example, diploma holders, diploma papers, transcript papers, certification letters, exam booklets, etc.  The ideal candidate should possess the following skills:    Diploma or equivalent   2 to 3 years of experience working in a customer service and international environment.   Fluency in both written and spoken English   Strong IT skills: Solid Word, Excel and PowerPoint skills are a must; Knowledge of Outlook, web navigation, Peoplesoft, Business Objects, Canvas will be a plus   Excellent customer service orientation, organizational and planning skills   Excellent team spirit with the ability to work autonomously   Meticulous attention to detail  To be considered for this role please send your CV to the Talent Acquisition Specialist at recruit.sg@insead.edu quoting reference HR4. We regret that only shortlisted candidates will be contacted. ",
+            "datePosted": "2023-03-28",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 3800,
+                "minValue": 3200,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/admin/mba-programme-coordinator-insead-21d8d845290064c10fb4c931f2b5479e?source=MCF&event=Search",
+            "uuid": "eedeb303-f4ce-4cb5-98ae-b5309653c3a5"
+        },
+        {
+            "dueDate": "2023-04-11",
+            "jobTitle": "Avaloq Release Manager",
+            "skills": [
+                "Science Education",
+                "Microsoft Excel",
+                "Written English",
+                "Customer Experience",
+                "Analog",
+                "Release Management",
+                "Task Completion",
+                "Agile",
+                "Private Banking",
+                "Business Strategy",
+                "Systems Analysis",
+                "Project Management",
+                "Windows",
+                "Software Development",
+                "Incident Management"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "CENTENNIAL TOWER, 3 TEMASEK AVENUE"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/533e3a6ce4853b46b93bb2b0b5769645/hays-specialist-recruitment.png",
+                "name": "LGT BANK (SINGAPORE) LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "LGT Private Banking is a leading international private bank and independent family-owned business. Our thinking is long-term, and we strive to innovate. In recent years, we have grown strongly - in Europe and in Asia. To ensure we remain successful, one factor is crucial: digitalization. It is a key strategic priority in the coming years. We want to combine the best of the analog and digital worlds, in interdisciplinary and agile teams. Our goal: to create a truly personal customer experience thanks to state-of-the-art services.  Job Description Do you want to help us continue our success story? As part of an interdisciplinary, agile team that drives innovation at LGT, you have the opportunity to actively shape our future by executing our business strategy on digitalization. Over the next few years, we want to combine the best of the analog and digital worlds to create a truly personal client experience with cutting-edge digital services and products.  As an Avaloq Release Manager, you will be able to contribute to the further development in the international environment at LGT and take on the following tasks:       Monitor and control the daily installation and deployment processes in the Avaloq environment   Coordination between support units and other operational teams    Support in incident management processes    Identifying potential for improvement    Collaboration in projects    You will be working in product oriented agile delivery teams with key stakeholders in APAC and EMEA. The international setup offers you to work remotely and in co-location spaces. Your line team is mainly located in Singapore.  Requirements    Completed computer science education    Profound knowledge in the operation of complex application environments    Minimum 3 years experience in Avaloq (Certification)   Experience in Avaloq ADAI (Avaloq Database Automatisation ; Integration) tooling is an advantage   Good understanding of technical contexts    Quality awareness and autonomous way of working    Good command of spoken and written English    Ability to work in a team, quick comprehension and willingness to work outside of block hours if necessary (maintenance windows, releases, special projects)    Experience in the Banking/Financial industry would be an added advantage   What we offer LGT's success is based on its core values, the Group-wide and partnership-based cooperation of entrepreneurial teams and a flat hierarchy with short decision-making paths. LGT's continued growth opens up long-term personal and professional development opportunities in a challenging and dynamic environment.  Help shape LGT and become part of a family – not just a company.  Contact information Sounds like what you’ve been looking for? Then apply online now. We are looking forward to hearing from you and will be to to answer your questions or give you further information.   ",
+            "datePosted": "2023-03-28",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 14000,
+                "minValue": 7000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/banking-finance/avaloq-release-manager-lgt-bank-3eea15413e71acc9983beda4de5ae116?source=MCF&event=Search",
+            "uuid": "61a82312-69f5-4d08-93b0-0ac9e593d9b1"
+>>>>>>> Stashed changes
         },
         {
             "dueDate": "2023-04-29",
@@ -702,6 +1298,7 @@
                 "minValue": 3000,
                 "payPeriod": "MONTH"
             },
+<<<<<<< Updated upstream
             "jobLink": "https://www.mycareersfuture.gov.sg/job/architecture/cad-drafter-cavasia-59dc186e50a67450df69e0dee6e1cf46?source=MCF&event=Search",
             "uuid": "58477018-3d13-46f2-bdbf-97bb347273a5"
         },
@@ -795,6 +1392,10 @@
             },
             "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/specialist-gensler-singapore-65f829587ba1d0c245d18ca838d5958f?source=MCF&event=Search",
             "uuid": "511664d7-9588-40df-aedf-2c8e45038e79"
+=======
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/logistics/assistant-officer-stafflink-services-3fe849e1ba405ec84ef68a780e892f03?source=MCF&event=Search",
+            "uuid": "74b76b8e-d587-4531-9ba7-5e8efd1abe85"
+>>>>>>> Stashed changes
         }
     ]
 }
