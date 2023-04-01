@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import SearchBar from "../../../components/SearchBar";
+import SearchBar from "@/components/SearchBar";
 import Post from "./Post";
 import PostModal from "./PostModal";
 import { Dialog } from "@headlessui/react";

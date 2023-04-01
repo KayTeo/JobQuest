@@ -6,7 +6,7 @@ import { ArrowDownCircleIcon, XCircleIcon } from "@heroicons/react/20/solid";
 import { useState, useEffect, useMemo } from "react";
 import Skill from "@/components/Skill";
 import { useRouter } from "next/navigation";
-import GoogleMap from "../searcher/GoogleMap";
+import GoogleMap from "@/components/GoogleMap";
 import { Suspense } from "react";
 
 import firebase from "@/firebase/firebase-config";

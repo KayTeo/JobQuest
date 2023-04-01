@@ -2,7 +2,7 @@
 
 import WishEntry from "./WishEntry";
 import Link from "next/link";
-import SearchBar from "../../../components/SearchBar";
+import SearchBar from "@/components/SearchBar";
 import { useState } from "react";
 
 export default function WishList({ viewMode, userID, wishData }) {

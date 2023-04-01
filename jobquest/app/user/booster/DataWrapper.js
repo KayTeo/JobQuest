@@ -4,7 +4,7 @@ import { useState, useEffect } from "react";
 import Modal from "./Modal";
 import { Dialog } from "@headlessui/react";
 import { useRouter } from "next/navigation";
-import SearchBar from "../../../components/SearchBar";
+import SearchBar from "@/components/SearchBar";
 import BoosterJobEntry from "./BoosterJobEntry";
 
 export default function DataWrapper({

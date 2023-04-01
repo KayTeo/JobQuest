@@ -1,6 +1,6 @@
 "use client";
 
-import GoogleMap from "./GoogleMap";
+import GoogleMap from "@/components/GoogleMap";
 import { Suspense } from "react";
 import Skill from "@/components/Skill";
 import { BriefcaseIcon } from "@heroicons/react/24/outline";

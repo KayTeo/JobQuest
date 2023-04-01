@@ -3,7 +3,7 @@
 import { Dialog } from "@headlessui/react";
 import Modal from "./Modal";
 import TrackEntry from "./TrackEntry";
-import SearchBar from "../../../components/SearchBar";
+import SearchBar from "@/components/SearchBar";
 import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
 

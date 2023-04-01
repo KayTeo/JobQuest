@@ -3,11 +3,6 @@ const configuration = new Configuration({
     apiKey: "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",
 });
 
-export async function GET(request) {
-    console.log(request);
-    return new Response(JSON.stringify({ test: "Hello World", hi: "test" }));
-}
-
 export async function POST(request) {
     var resumeBoostData = {
         resumeData: {
