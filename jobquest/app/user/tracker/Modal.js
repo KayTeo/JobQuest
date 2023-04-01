@@ -58,31 +58,34 @@ export default function Modal({ setIsOpen, userID, defaultData }) {
             >
                 <div className="flex w-full flex-wrap justify-center gap-y-2 gap-x-5">
                     <div className="flex flex-col items-start">
-                        <label htmlFor="company">Company </label>
+                        <label htmlFor="company">Company:</label>
                         <input
                             name="company"
                             className="w-36 rounded-lg border border-black px-2 font-normal"
                             defaultValue={defaultData.company.name}
+                            required
                         ></input>
                     </div>
                     <div className="flex flex-col items-start">
-                        <label htmlFor="jobTitle">Job Title</label>
+                        <label htmlFor="jobTitle">Job Title:</label>
                         <input
                             name="jobTitle"
                             className="w-36 rounded-lg border border-black px-2 font-normal"
                             defaultValue={defaultData.jobTitle}
+                            required
                         ></input>
                     </div>
                     <div className="flex flex-col items-start">
-                        <label htmlFor="country">Country</label>
+                        <label htmlFor="country">Country:</label>
                         <input
                             name="country"
                             className="w-36 rounded-lg border border-black px-2 font-normal"
                             defaultValue={defaultData.location.locality}
+                            required
                         ></input>
                     </div>
                     <div className="flex flex-col items-start">
-                        <label htmlFor="address">Address</label>
+                        <label htmlFor="address">Address:</label>
                         <input
                             name="address"
                             className="w-36 rounded-lg border border-black px-2 font-normal"
@@ -90,25 +93,29 @@ export default function Modal({ setIsOpen, userID, defaultData }) {
                         ></input>
                     </div>
                     <div className="flex flex-col items-start">
-                        <label htmlFor="minPay">Minimum Pay</label>
+                        <label htmlFor="minPay">Minimum Pay:</label>
                         <input
                             name="minPay"
                             type="number"
-                            className="w-36 rounded-lg border border-black px-2 font-normal"
+                            className="w-36 rounded-lg border border-black px-2 font-normal out-of-range:border-red-500"
+                            min="0"
+                            max="20000"
                             defaultValue={defaultData.salaryRange.minValue}
                         ></input>
                     </div>
                     <div className="flex flex-col items-start">
-                        <label htmlFor="maxPay">Maximum Pay</label>
+                        <label htmlFor="maxPay">Maximum Pay:</label>
                         <input
                             name="maxPay"
                             type="number"
-                            className="w-36 rounded-lg border border-black px-2 font-normal"
+                            className="w-36 rounded-lg border border-black px-2 font-normal out-of-range:border-red-500"
+                            min="0"
+                            max="20000"
                             defaultValue={defaultData.salaryRange.maxValue}
                         ></input>
                     </div>
                     <div className="flex flex-col items-start">
-                        <label htmlFor="currency">Currency</label>
+                        <label htmlFor="currency">Currency:</label>
                         <input
                             name="currency"
                             className="w-36 rounded-lg border border-black px-2 font-normal"
@@ -116,7 +123,7 @@ export default function Modal({ setIsOpen, userID, defaultData }) {
                         ></input>
                     </div>
                     <div className="flex w-[85%] flex-col">
-                        <label htmlFor="description">Description</label>
+                        <label htmlFor="description">Description:</label>
                         <textarea
                             name="description"
                             className="h-[400px] resize-none rounded-lg border border-black px-2 font-normal"
@@ -124,7 +131,7 @@ export default function Modal({ setIsOpen, userID, defaultData }) {
                         ></textarea>
                     </div>
                     <div className="flex w-[85%] flex-col items-start">
-                        <label htmlFor="url">Url</label>
+                        <label htmlFor="url">Url:</label>
                         <input
                             name="url"
                             className="w-full rounded-lg border border-black px-2 font-normal"
@@ -135,9 +142,11 @@ export default function Modal({ setIsOpen, userID, defaultData }) {
             </form>
             <div className="flex w-full flex-col items-center justify-start gap-2 px-[7.5%]">
                 <div className="flex items-center justify-center gap-2">
-                    <h1>Skills:</h1>
+                    <label htmlFor="skills">Skills:</label>
                     <input
                         ref={skillsInputRef}
+                        name="skills"
+                        type="text"
                         className="w-36 rounded-lg border border-black px-1"
                     ></input>
                     <button

@@ -1,4 +1,6 @@
 export default function CommentPost({ postData }) {
+    const formattedPostContent = postData.content.split(/\r?\n/);
+
     return (
         <div className="flex h-[125px] w-full justify-between gap-3 rounded-xl bg-accent-100 px-3 py-4 text-xs shadow-lg md:h-[150px]">
             <div className="flex w-[100px] flex-col items-center justify-center gap-1">
@@ -19,12 +21,17 @@ export default function CommentPost({ postData }) {
             </div>
             <div className="flex w-[calc(100vw-100px)] flex-col justify-between gap-1 overflow-auto">
                 <main className="break-words md:text-sm">
-                    {postData.content}
+                    <section className="flex flex-col">
+                        {formattedPostContent.map((e) => (
+                            <div key={e}>{e}</div>
+                        ))}
+                    </section>
                 </main>
                 <div className="flex items-center justify-end text-[8px] font-light md:text-[10px]">
                     <section>
-                        {postData.datePublished ? postData.datePublished :
-                        postData.commentDate}
+                        {postData.datePublished
+                            ? postData.datePublished
+                            : postData.commentDate}
                     </section>
                 </div>
             </div>

@@ -32,7 +32,7 @@ export default function Modal({ setIsOpen, userID, defaultData }) {
 
     return (
         <Dialog.Panel className="flex w-[500px] flex-col items-center justify-center gap-5 rounded-xl border border-black bg-light-500 p-5 lg:w-[900px]">
-            <h1 className="text-2xl font-bold text-accent-500">Resume</h1>
+            <h1 className="text-2xl font-bold text-accent-500">Resume:</h1>
             <form
                 id="resumeForm"
                 onSubmit={handleSubmit}
@@ -40,7 +40,7 @@ export default function Modal({ setIsOpen, userID, defaultData }) {
                 className="flex w-full flex-wrap justify-center gap-x-5 gap-y-2 px-10 font-semibold"
             >
                 <div className="flex flex-col items-start">
-                    <label htmlFor="project">Project Experience</label>
+                    <label htmlFor="project">Project Experience:</label>
                     <textarea
                         name="project"
                         defaultValue={defaultData && defaultData.projectData}
@@ -48,7 +48,7 @@ export default function Modal({ setIsOpen, userID, defaultData }) {
                     />
                 </div>
                 <div className="flex flex-col items-start">
-                    <label htmlFor="work">Work Experience</label>
+                    <label htmlFor="work">Work Experience:</label>
                     <textarea
                         name="work"
                         defaultValue={defaultData && defaultData.workData}
@@ -56,7 +56,7 @@ export default function Modal({ setIsOpen, userID, defaultData }) {
                     />
                 </div>
                 <div className="flex flex-col items-start">
-                    <label htmlFor="cca">Co-Curriculars</label>
+                    <label htmlFor="cca">Co-Curricular Activities:</label>
                     <textarea
                         name="cca"
                         defaultValue={defaultData && defaultData.ccaData}
@@ -64,7 +64,7 @@ export default function Modal({ setIsOpen, userID, defaultData }) {
                     />
                 </div>
                 <div className="flex flex-col items-start">
-                    <label htmlFor="achievement">Achievements</label>
+                    <label htmlFor="achievement">Achievements:</label>
                     <textarea
                         name="achievement"
                         defaultValue={
@@ -74,7 +74,7 @@ export default function Modal({ setIsOpen, userID, defaultData }) {
                     />
                 </div>
                 <div className="flex flex-col items-start">
-                    <label htmlFor="skills">Skills</label>
+                    <label htmlFor="skills">Skills:</label>
                     <textarea
                         name="skills"
                         defaultValue={defaultData && defaultData.skillsData}

@@ -55,6 +55,7 @@ export default function TrackEntry({ data, userID }) {
     const [status, setStatus] = useState(data.status);
     const [expandCard, setExpandCard] = useState(false);
     const router = useRouter();
+    const formattedDescription = data.description.split(/\r?\n/);
 
     useEffect(() => {
         router.refresh();
@@ -156,13 +157,22 @@ export default function TrackEntry({ data, userID }) {
                             />
                         </svg>
                     )}
-                    <div className="h-5 w-[30%] overflow-hidden text-ellipsis whitespace-nowrap">
+                    <div
+                        className="h-5 w-[30%] overflow-hidden text-ellipsis whitespace-nowrap"
+                        title={data.company.name}
+                    >
                         {data.company.name}
                     </div>
-                    <div className="h-5 w-[25%] overflow-hidden text-ellipsis whitespace-nowrap">
+                    <div
+                        className="h-5 w-[25%] overflow-hidden text-ellipsis whitespace-nowrap"
+                        title={data.jobTitle}
+                    >
                         {data.jobTitle}
                     </div>
-                    <div className="h-5 w-24 overflow-hidden text-ellipsis whitespace-nowrap">
+                    <div
+                        className="h-5 w-24 overflow-hidden text-ellipsis whitespace-nowrap"
+                        title={data.location.locality}
+                    >
                         {data.location.locality}
                     </div>
                     <div className="flex items-center justify-end gap-1">
@@ -191,7 +201,11 @@ export default function TrackEntry({ data, userID }) {
                         <div className="flex max-h-48 w-full flex-col items-start justify-start gap-1">
                             <h1 className="text-base font-bold">Description</h1>
                             <p className="overflow-auto pr-2 text-left font-normal">
-                                {data.description}
+                                <section className="flex flex-col">
+                                    {formattedDescription.map((e) => (
+                                        <div key={e}>{e}</div>
+                                    ))}
+                                </section>
                             </p>
                         </div>
 
