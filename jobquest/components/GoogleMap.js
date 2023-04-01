@@ -4,7 +4,7 @@ import GoogleMapReact from "google-map-react";
 import Geocode from "react-geocode";
 
 export default function GoogleMap({ address }) {
-    const API_KEY = "AIzaSyBqF2K8FAS7mCf7bllWctWTZDeR538n5bY";
+    const API_KEY = process.env.NEXT_PUBLIC_GOOGLEMAP_APIKEY;
     Geocode.setApiKey(API_KEY);
     Geocode.setLanguage("en");
     Geocode.setRegion("sg");
