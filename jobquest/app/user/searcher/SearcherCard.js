@@ -9,7 +9,7 @@ import SmallCard from "./SmallCard";
 export default function SearcherCard({ jobs, userID }) {
     const [index, setIndex] = useState(0);
     const [expand, setExpand] = useState(false);
-    const [jobEnd, setJobEnd] = useState(false);
+    const [jobEnd, setJobEnd] = useState(jobs.length <= 0 ? true : false);
     const router = useRouter();
 
     const nextCard = () => {
