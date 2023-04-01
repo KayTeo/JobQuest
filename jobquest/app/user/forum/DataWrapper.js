@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import SearchPost from "./SearchPost";
+import SearchBar from "../../../components/SearchBar";
 import Post from "./Post";
 import PostModal from "./PostModal";
 import { Dialog } from "@headlessui/react";
@@ -22,7 +22,7 @@ export default function DataWrapper({ userID, postsData }) {
         <>
             <div className="flex flex-col items-center justify-center gap-4 py-10 text-black">
                 <header className="flex w-[384px] items-center justify-center gap-1 md:w-[690px]">
-                    <SearchPost search={search} setSearch={setSearch} />
+                    <SearchBar search={search} setSearch={setSearch} />
                     <button
                         onClick={() => setIsOpen(true)}
                         className="h-6 w-16 rounded-full bg-accent-500 text-center text-xs font-bold leading-6 text-white shadow-sm hover:bg-accent-300"

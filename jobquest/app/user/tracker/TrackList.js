@@ -3,7 +3,7 @@
 import { Dialog } from "@headlessui/react";
 import Modal from "./Modal";
 import TrackEntry from "./TrackEntry";
-import SearchPost from "../forum/SearchPost";
+import SearchBar from "../../../components/SearchBar";
 import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
 
@@ -63,7 +63,7 @@ export default function TrackList({ viewMode, userID, trackData }) {
                         +
                     </button>
                 </div>
-                <SearchPost search={search} setSearch={setSearch} />
+                <SearchBar search={search} setSearch={setSearch} />
                 <div
                     className={` ${
                         viewMode === "right" && "xl:w-[900px]"

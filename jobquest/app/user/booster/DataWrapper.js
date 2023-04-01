@@ -4,7 +4,7 @@ import { useState, useEffect } from "react";
 import Modal from "./Modal";
 import { Dialog } from "@headlessui/react";
 import { useRouter } from "next/navigation";
-import SearchPost from "../forum/SearchPost";
+import SearchBar from "../../../components/SearchBar";
 import BoosterJobEntry from "./BoosterJobEntry";
 
 export default function DataWrapper({
@@ -51,7 +51,7 @@ export default function DataWrapper({
                     </div>
                 </div>
                 <div className="flex w-full items-center justify-center">
-                    <SearchPost search={search} setSearch={setSearch} />
+                    <SearchBar search={search} setSearch={setSearch} />
                 </div>
                 <main className="flex flex-col items-center gap-2 pt-2">
                     {filteredJobs.map((e) => (

@@ -1,6 +1,6 @@
 import { MagnifyingGlassIcon } from "@heroicons/react/20/solid";
 
-const SearchPost = ({ search, setSearch }) => {
+const SearchBar = ({ search, setSearch }) => {
     return (
         <form onSubmit={(e) => e.preventDefault()} className="w-full">
             <label htmlFor="search" className="absolute left-[-99999px]">
@@ -21,4 +21,4 @@ const SearchPost = ({ search, setSearch }) => {
     );
 };
 
-export default SearchPost;
+export default SearchBar;

@@ -2,7 +2,7 @@
 
 import WishEntry from "./WishEntry";
 import Link from "next/link";
-import SearchPost from "../forum/SearchPost";
+import SearchBar from "../../../components/SearchBar";
 import { useState } from "react";
 
 export default function WishList({ viewMode, userID, wishData }) {
@@ -26,7 +26,7 @@ export default function WishList({ viewMode, userID, wishData }) {
                     +
                 </Link>
             </div>
-            <SearchPost search={search} setSearch={setSearch} />
+            <SearchBar search={search} setSearch={setSearch} />
             <div
                 className={` ${
                     viewMode === "left" && "xl:w-[900px]"
