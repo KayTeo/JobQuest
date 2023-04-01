@@ -94,7 +94,7 @@ export default function TrackEntry({ data, userID }) {
 
     function nextStatus() {
         const index = statusOptions.findIndex((e) => {
-            return e === status;
+            return e.name === status.name;
         });
 
         if (index === 8) {
