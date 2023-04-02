@@ -31,11 +31,7 @@ async function getPostAndCommentsData(postID) {
 export default function page({ params }) {
     const userID = useContext(UserContext);
 
-    const [postData, rawComments] = use(getPostAndCommentsData(params.id));
-
-    const commentsData = rawComments.sort((a, b) => {
-        a.author > b.author ? 1 : -1;
-    });
+    const [postData, commentsData] = use(getPostAndCommentsData(params.id));
 
     return (
         <div className="h-[calc(100vh-64px)] overflow-auto">

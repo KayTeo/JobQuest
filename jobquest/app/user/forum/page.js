@@ -22,11 +22,7 @@ async function getAllPosts() {
 
 export default function ForumPage() {
     const userID = useContext(UserContext);
-    const unorderedPostsData = use(getAllPosts());
-
-    const postsData = unorderedPostsData.sort((a, b) => {
-        a.commentNum > b.commentNum ? 1 : -1;
-    });
+    const postsData = use(getAllPosts());
 
     return (
         <>

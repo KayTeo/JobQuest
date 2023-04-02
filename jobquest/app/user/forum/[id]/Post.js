@@ -1,3 +1,5 @@
+import { getCurrentDate } from "@/utils/date";
+
 export default function CommentPost({ postData }) {
     const formattedPostContent = postData.content.split(/\r?\n/);
 
@@ -28,11 +30,7 @@ export default function CommentPost({ postData }) {
                     </section>
                 </main>
                 <div className="flex items-center justify-end text-[8px] font-light md:text-[10px]">
-                    <section>
-                        {postData.datePublished
-                            ? postData.datePublished
-                            : postData.commentDate}
-                    </section>
+                    <section>{getCurrentDate(postData.dateTime)}</section>
                 </div>
             </div>
         </div>

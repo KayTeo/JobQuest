@@ -1,8 +1,7 @@
 "use client";
 
 import { Dialog } from "@headlessui/react";
-import { getCurrentDate } from "@/utils/date";
-import { getCurrentTime } from "@/utils/time"
+import { getCurrentTime } from "@/utils/time";
 import { generateUUID } from "@/utils/uuid";
 
 import firebase from "@/firebase/firebase-config";
@@ -23,7 +22,6 @@ async function addPost(userID, newPost) {
     await db.collection("posts").doc(newPost.postID).set({
         title: newPost.title,
         content: newPost.content,
-        datePublished: newPost.datePublished,
         dateTime: newPost.dateTime,
         postID: newPost.postID,
         commentNum: 0,
@@ -39,7 +37,6 @@ export default function PostModal({ userID, setIsOpen }) {
         const newPost = {
             title: e.target.title.value,
             content: e.target.content.value,
-            datePublished: getCurrentDate(),
             dateTime: getCurrentTime(),
             postID: generateUUID(),
         };

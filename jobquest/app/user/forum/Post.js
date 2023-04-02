@@ -1,4 +1,4 @@
-"use client";
+import { getCurrentDate } from "@/utils/date";
 
 import { ChatBubbleBottomCenterIcon } from "@heroicons/react/24/outline";
 import Link from "next/link";
@@ -42,7 +42,9 @@ export default function Post({ postData }) {
                             {postData.commentNum}
                         </div>
                     </div>
-                    <div className="font-light">{postData.datePublished}</div>
+                    <div className="font-light">
+                        {getCurrentDate(postData.dateTime)}
+                    </div>
                 </div>
             </div>
         </Link>
