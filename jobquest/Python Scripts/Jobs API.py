@@ -100,7 +100,7 @@ def getJobData(filename, keywords = "", employmentType = "", salary = "", startP
     #Driver initialises the browser
     #Browser required as target site dynamically loads search and job data
     #driver = webdriver.Chrome(service = ChromeService(ChromeDriverManager().install()))
-    options = webdriver.ChromeOptions()
+    options = webdriver.ChromeOptions()image.pngimage.png
     options.add_experimental_option('excludeSwitches', ['enable-logging'])
 
     options.add_argument("--headless")
