@@ -82,6 +82,7 @@ export default function PostModal({ userID, setIsOpen }) {
                         placeholder="Insert Your Message..."
                         className="break-words rounded-xl border border-black p-1"
                         minLength="5"
+                        maxLength="5000"
                         required
                     ></textarea>
                 </section>

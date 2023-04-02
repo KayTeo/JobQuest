@@ -82,6 +82,7 @@ export default function CommentModal({ setIsOpen, userID, postID }) {
                         className="break-words rounded-xl border border-black p-1"
                         required
                         minLength="5"
+                        maxLength="5000"
                     ></textarea>
                 </section>
                 <section className="flex items-center justify-between">
