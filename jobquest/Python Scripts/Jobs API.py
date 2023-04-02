@@ -96,7 +96,7 @@ def getCardJSON(cardURL, driver):
 #page returns the nth page of the search results
 def getJobData(filename, keywords = "", employmentType = "", salary = "", startPage = 0, pages = 5):
     pages = int(pages)
-    employmentType = employmentType.upper()
+    employmentType = employmentType.lower()
     #Driver initialises the browser
     #Browser required as target site dynamically loads search and job data
     #driver = webdriver.Chrome(service = ChromeService(ChromeDriverManager().install()))
@@ -106,7 +106,7 @@ def getJobData(filename, keywords = "", employmentType = "", salary = "", startP
     options.add_argument("--headless")
     driver = webdriver.Chrome(options = options)
     
-    if employmentType != "FULL_TIME" and employmentType != "PART_TIME" and employmentType != "INTERNSHIP/ATTACHMENT" and employmentType != "OTHER" and employmentType != "":
+    if employmentType != "Full Time" and employmentType != "Part Time" and employmentType != "Contract" and employmentType != "Flexi-work" and employmentType != "Temporary" and employmentType != "Freelance" and  employmentType != "Internship/Attachment" and employmentType != "":
         employmentType = ""
         print("Error, please choose valid employment type")
 
