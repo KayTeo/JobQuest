@@ -71,13 +71,14 @@ export default function CommentModal({ setIsOpen, userID, postID }) {
                     <label htmlFor="content" className="font-bold">
                         Content:
                     </label>
-                    <input
+                    <textarea
                         id="content"
+                        rows="8"
                         placeholder="Insert Your Message..."
-                        className="rounded-xl break-words border border-black p-1"
+                        className="break-words rounded-xl border border-black p-1"
                         required
-                        pattern=".*\S+.*"
-                    ></input>
+                        minLength="5"
+                    ></textarea>
                 </section>
                 <section className="flex items-center justify-between">
                     <div></div>

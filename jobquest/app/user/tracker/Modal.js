@@ -93,6 +93,7 @@ export default function Modal({ setIsOpen, userID, defaultData }) {
                             name="address"
                             className="w-36 rounded-lg border border-black px-2 font-normal"
                             defaultValue={defaultData.location.address}
+                            pattern=".*\S+.*"
                         ></input>
                     </div>
                     <div className="flex flex-col items-start">
@@ -123,6 +124,7 @@ export default function Modal({ setIsOpen, userID, defaultData }) {
                             name="currency"
                             className="w-36 rounded-lg border border-black px-2 font-normal"
                             defaultValue={defaultData.salaryRange.currency}
+                            pattern=".*\S+.*"
                         ></input>
                     </div>
                     <div className="flex w-[85%] flex-col">
@@ -139,6 +141,7 @@ export default function Modal({ setIsOpen, userID, defaultData }) {
                             name="url"
                             className="w-full rounded-lg border border-black px-2 font-normal"
                             defaultValue={defaultData.jobLink}
+                            pattern=".*\S+.*"
                         ></input>
                     </div>
                 </div>
@@ -157,7 +160,7 @@ export default function Modal({ setIsOpen, userID, defaultData }) {
                         onClick={(e) => {
                             e.preventDefault(0);
                             const value = skillsInputRef.current.value;
-                            if (value === "" || skills.includes(value)) {
+                            if (value.trim() === "" || skills.includes(value)) {
                                 return;
                             }
                             setSkills([...skills, value]);
