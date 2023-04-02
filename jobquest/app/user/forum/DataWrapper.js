@@ -14,6 +14,14 @@ export default function DataWrapper({ userID, postsData }) {
         router.refresh();
     }, [isOpen]);
 
+    postsData.sort((a, b) => {
+        return a.dateTime > b.dateTime ? -1 : 1;
+    });
+
+    postsData.sort((a, b) => {
+        return a.commentNum > b.commentNum ? -1 : 1;
+    });
+
     const filteredPosts = postsData.filter((post) =>
         post.title.toLowerCase().includes(search.toLowerCase())
     );

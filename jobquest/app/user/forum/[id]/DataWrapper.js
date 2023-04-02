@@ -8,6 +8,10 @@ export default function DataWrapper({ postData, commentsData, userID }) {
     const [isOpen, setIsOpen] = useState(false);
     const router = useRouter();
 
+    commentsData.sort((a, b) => {
+        return a.dateTime > b.dateTime ? -1 : 1;
+    });
+
     useEffect(() => {
         router.refresh();
     }, [isOpen]);

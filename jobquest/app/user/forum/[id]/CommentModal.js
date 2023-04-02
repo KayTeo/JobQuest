@@ -1,8 +1,10 @@
 import { Dialog } from "@headlessui/react";
 import { getCurrentDate } from "@/utils/date";
+import { getCurrentTime } from "@/utils/time"
 import { generateUUID } from "@/utils/uuid";
 
 import firebase from "@/firebase/firebase-config";
+
 
 const db = firebase.firestore();
 
@@ -26,6 +28,7 @@ async function addComment(userID, newComment, postID) {
         .set({
             content: newComment.content,
             commentDate: newComment.datePublished,
+            dateTime: newComment.dateTime,
             commentID: newComment.commentID,
             author: user.displayName,
             photoURL: user.photoURL,
@@ -50,6 +53,7 @@ export default function CommentModal({ setIsOpen, userID, postID }) {
         const newComment = {
             content: e.target.content.value,
             datePublished: getCurrentDate(),
+            dateTime: getCurrentTime(),
             commentID: generateUUID(),
         };
         addComment(userID, newComment, postID);
