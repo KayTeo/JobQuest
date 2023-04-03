@@ -4,6 +4,7 @@ import { BriefcaseIcon } from "@heroicons/react/24/outline";
 import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
 import firebase from "@/firebase/firebase-config";
+import { toast } from "react-toastify";
 const db = firebase.firestore();
 
 async function sendRequest(url, data) {
@@ -150,7 +151,15 @@ export default function BoosterJobEntry({
                             onClick={async () => {
                                 setViewFlag(false);
                                 setLoadingBoost(true);
-                                await boostResume(userID, resumeData, jobData);
+                                await boostResume(
+                                    userID,
+                                    resumeData,
+                                    jobData
+                                ).catch((err) => {
+                                    toast.error(
+                                        "OpenAI API is currently down. Try again later."
+                                    );
+                                });
                                 setLoadingBoost(false);
                                 router.refresh();
                             }}

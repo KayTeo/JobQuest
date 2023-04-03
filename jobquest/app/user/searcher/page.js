@@ -7,6 +7,7 @@ import Search from "./Search";
 import Loading from "./loading";
 import Link from "next/link";
 import { MagnifyingGlassIcon } from "@heroicons/react/20/solid";
+import { toast } from "react-toastify";
 
 import firebase from "@/firebase/firebase-config";
 const db = firebase.firestore();
@@ -58,7 +59,11 @@ export default function SearcherPage() {
         } else {
             const keywords = e.target.keywords.value;
             setLoadingJobs(true);
-            const data = await getJobData(userID, keywords);
+            const data = await getJobData(userID, keywords).catch((err) => {
+                toast.error(
+                    "myCareersFuture API is currently down. Try again later."
+                );
+            });
             setJobsData(data.jobs);
             setLoadingJobs(false);
         }
