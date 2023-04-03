@@ -1,8 +1,5 @@
-"use client"
-
 import "./globals.css";
-import { ToastContainer } from "react-toastify";
-import "react-toastify/dist/ReactToastify.css";
+import AlertContainer from "@/components/AlertContainer";
 
 export const metadata = {
     title: "JobQuest",
@@ -14,18 +11,7 @@ export default function RootLayout({ children }) {
         <html lang="en">
             <body>
                 <main className="flex-col items-center justify-center bg-light-500 font-sans sm:flex">
-                    <ToastContainer
-                        position="top-center"
-                        autoClose={3000}
-                        hideProgressBar={false}
-                        newestOnTop={false}
-                        closeOnClick
-                        rtl={false}
-                        pauseOnFocusLoss
-                        draggable
-                        pauseOnHover
-                        theme="colored"
-                    />
+                    <AlertContainer />
                     {children}
                 </main>
             </body>
