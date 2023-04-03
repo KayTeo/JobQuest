@@ -22,7 +22,11 @@ export default function CommentPost({ postData }) {
                 </section>
                 <section
                     title={postData.author}
-                    className="flex w-[100px] justify-center overflow-hidden text-ellipsis whitespace-nowrap font-bold text-accent-500 md:text-sm"
+                    className={`flex w-[100px] ${
+                        postData.author.length > 13
+                            ? "justify-start"
+                            : "justify-center"
+                    } overflow-hidden text-ellipsis whitespace-nowrap font-bold text-accent-500 md:text-sm`}
                 >
                     {postData.author}
                 </section>
