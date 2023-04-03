@@ -27,7 +27,6 @@ async function boostResume(userID, resumeData, jobData) {
         resumeData: resumeData,
         jobData: jobData,
     };
-    console.log(payload);
     const boostedData = await sendRequest("/api/resumeboost", payload);
 
     const storedData = { ...boostedData, uuid: jobData.uuid };
