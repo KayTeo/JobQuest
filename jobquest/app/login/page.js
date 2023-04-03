@@ -4,6 +4,7 @@ import GoogleLogIn from "@/components/GoogleLogIn";
 import Image from "next/image";
 import { useRouter } from "next/navigation";
 import Cookies from "js-cookie";
+import { toast } from "react-toastify";
 
 import firebase from "@/firebase/firebase-config";
 const auth = firebase.auth();
@@ -24,7 +25,7 @@ export default function LogInPage() {
                 router.push("/user/searcher");
             })
             .catch((error) => {
-                alert(error.message);
+                toast.error("Please enter a valid email and password.");
             });
     }
 

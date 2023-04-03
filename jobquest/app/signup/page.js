@@ -5,6 +5,8 @@ import GoogleLogIn from "@/components/GoogleLogIn";
 import { useRouter } from "next/navigation";
 import Cookies from "js-cookie";
 import { useState } from "react";
+import { toast } from "react-toastify";
+
 
 import firebase from "@/firebase/firebase-config";
 const auth = firebase.auth();
@@ -32,18 +34,17 @@ export default function SignInPage() {
         );
 
         if (!emailRegex.test(e.target.email.value)) {
-            alert("Please enter a valid email.");
+            toast.error("Please enter a valid email.");
         } else if (e.target.username.value == "") {
-            alert("Username cannot be empty.");
+            toast.error("Username cannot be empty.");
         } else if (!passwordRegex.test(e.target.password.value)) {
-            alert(
-                "Password should be minimum 8 characters, containing at least 1 letter, number and special character."
-            );
+            toast.error(
+                "Password should be minimum 8 characters, containing at least 1 letter, number and special character.");
         } else if (!(e.target.password.value === e.target.cfmpassword.value)) {
-            alert("Two passwords do not match.");
+            toast.error("Two passwords do not match.");
         } else {
-            auth.createUserWithEmailAndPassword(email, password).then(
-                async (userCredential) => {
+            auth.createUserWithEmailAndPassword(email, password)
+                .then(async (userCredential) => {
                     setLoading(true);
                     const user = userCredential.user;
 
@@ -76,8 +77,12 @@ export default function SignInPage() {
                         });
                     Cookies.set("loggedin", true);
                     router.push("/user/searcher");
-                }
-            );
+                })
+                .catch((err) => {
+                    toast.error(
+                        "The current email is already in use. Please use another email or log in instead."
+                    );
+                });
         }
     }
 
