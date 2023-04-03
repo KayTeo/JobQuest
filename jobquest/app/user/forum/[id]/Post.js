@@ -6,7 +6,9 @@ export default function CommentPost({ postData }) {
     return (
         <div
             className={`flex w-full justify-between gap-3 rounded-xl bg-accent-100 px-3 py-4 text-xs shadow-lg ${
-                postData.postID ? "md:h-[250px] h-[200px]" : "h-[125px] md:h-[150px]"
+                postData.postID
+                    ? "h-[200px] md:h-[250px]"
+                    : "h-[125px] md:h-[150px]"
             }`}
         >
             <div className="flex w-[100px] flex-col items-center justify-center gap-1">
@@ -20,12 +22,18 @@ export default function CommentPost({ postData }) {
                 </section>
                 <section
                     title={postData.author}
-                    className="max-w-full overflow-hidden text-ellipsis whitespace-nowrap font-bold text-accent-500 md:text-sm"
+                    className="flex w-[100px] justify-center overflow-hidden text-ellipsis whitespace-nowrap font-bold text-accent-500 md:text-sm"
                 >
                     {postData.author}
                 </section>
             </div>
-            <div className="flex w-[calc(100vw-100px)] flex-col justify-between gap-1 overflow-auto">
+            <div
+                className={`flex ${
+                    postData.postID
+                        ? "w-[330px] md:w-[630px]"
+                        : "w-[290px] md:w-[590px]"
+                } flex-col justify-between gap-1 overflow-auto`}
+            >
                 <main className="break-words md:text-sm">
                     <section className="flex flex-col">
                         {formattedPostContent.map((e) => (
