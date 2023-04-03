@@ -8,6 +8,7 @@ import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
 
 const emptyEntry = {
+    status: null,
     uuid: null,
     company: {
         logo: null,
@@ -37,7 +38,7 @@ export default function TrackList({ viewMode, userID, trackData }) {
     const [isOpen, setIsOpen] = useState(false);
     const [search, setSearch] = useState("");
     const router = useRouter();
-
+    console.log(emptyEntry);
     useEffect(() => {
         router.refresh();
     }, [isOpen]);

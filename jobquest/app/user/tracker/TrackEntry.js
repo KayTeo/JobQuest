@@ -184,13 +184,13 @@ export default function TrackEntry({ data, userID }) {
                                 <h1 className="text-base font-bold">
                                     Description
                                 </h1>
-                                <p className="overflow-auto pr-2 text-left font-normal">
+                                <div className="w-full overflow-auto break-words pr-2 text-left font-normal">
                                     <section className="flex flex-col">
                                         {formattedDescription.map((e) => (
                                             <div key={e}>{e}</div>
                                         ))}
                                     </section>
-                                </p>
+                                </div>
                             </div>
 
                             <div className="flex w-full flex-col items-start justify-start">

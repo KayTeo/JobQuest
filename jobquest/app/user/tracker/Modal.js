@@ -22,29 +22,57 @@ export default function Modal({ setIsOpen, userID, defaultData }) {
     const [skills, setSkills] = useState(defaultData.skills);
     const router = useRouter();
     const skillsInputRef = useRef();
+    // console.log(defaultData);
 
     async function handleSubmit(e) {
         e.preventDefault();
-        const newEntry = { ...defaultData };
+        // const newEntry = { ...defaultData };
+        const newEntry = {
+            uuid: defaultData.uuid,
+            company: {
+                logo: defaultData.company.logo,
+                name: e.target.company.value,
+            },
+            datePosted: defaultData.company.logo,
+            description: e.target.description.value,
+            dueDate: defaultData.dueDate,
+            jobTitle: e.target.jobTitle.value,
+            jobType: defaultData.jobType,
+            location: {
+                address: e.target.address.value,
+                country: defaultData.location.country,
+                locality: e.target.country.value,
+            },
+            salaryRange: {
+                currency: e.target.currency.value,
+                maxValue: e.target.maxPay.value,
+                minValue: e.target.minPay.value,
+                payPeriod: defaultData.salaryRange.payPeriod,
+            },
+            jobLink: e.target.url.value,
+            skills: skills,
+            status: defaultData.status,
+        };
+
         if (!defaultData.uuid) {
             newEntry.status = { name: "Preparing", color: "bg-fuchsia-500" };
             newEntry.uuid = generateUUID();
         }
-        newEntry.company.name = e.target.company.value;
-        newEntry.jobTitle = e.target.jobTitle.value;
-        newEntry.location.locality = e.target.country.value;
-        newEntry.location.address = e.target.address.value;
-        newEntry.description = e.target.description.value;
-        newEntry.salaryRange.maxValue = e.target.maxPay.value;
-        newEntry.salaryRange.minValue = e.target.minPay.value;
-        newEntry.salaryRange.currency = e.target.currency.value;
-        newEntry.jobLink = e.target.url.value;
-        newEntry.skills = skills;
+        // newEntry.company.name = e.target.company.value;
+        // newEntry.jobTitle = e.target.jobTitle.value;
+        // newEntry.location.locality = e.target.country.value;
+        // newEntry.location.address = e.target.address.value;
+        // newEntry.description = e.target.description.value;
+        // newEntry.salaryRange.maxValue = e.target.maxPay.value;
+        // newEntry.salaryRange.minValue = e.target.minPay.value;
+        // newEntry.salaryRange.currency = e.target.currency.value;
+        // newEntry.jobLink = e.target.url.value;
+        // newEntry.skills = skills;
 
+        setIsOpen(false);
         await createEntry(userID, newEntry);
         // setTrackData([...trackData, newEntry]);
         router.refresh();
-        setIsOpen(false);
     }
 
     return (

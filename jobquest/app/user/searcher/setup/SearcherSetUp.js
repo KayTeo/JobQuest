@@ -66,10 +66,13 @@ const location = [
 ];
 
 const jobType = [
-    { name: "Internship" },
+    { name: "Full Time" },
+    { name: "Part Time" },
     { name: "Contract" },
-    { name: "Part-Time" },
-    { name: "Full-Time" },
+    { name: "Flexi-work" },
+    { name: "Temporary" },
+    { name: "Freelance" },
+    { name: "Internship/Attachment" },
 ];
 
 const citizenship = [
@@ -194,7 +197,10 @@ export default function SearcherSetUp({ userID, userData }) {
                             onClick={(e) => {
                                 e.preventDefault(0);
                                 const value = skillsInputRef.current.value;
-                                if (value.trim() === "" || skills.includes(value)) {
+                                if (
+                                    value.trim() === "" ||
+                                    skills.includes(value)
+                                ) {
                                     return;
                                 }
                                 setSkills([...skills, value]);
