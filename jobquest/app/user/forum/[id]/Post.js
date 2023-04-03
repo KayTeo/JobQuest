@@ -4,7 +4,11 @@ export default function CommentPost({ postData }) {
     const formattedPostContent = postData.content.split(/\r?\n/);
 
     return (
-        <div className="flex h-[125px] w-full justify-between gap-3 rounded-xl bg-accent-100 px-3 py-4 text-xs shadow-lg md:h-[150px]">
+        <div
+            className={`flex w-full justify-between gap-3 rounded-xl bg-accent-100 px-3 py-4 text-xs shadow-lg ${
+                postData.postID ? "md:h-[250px] h-[200px]" : "h-[125px] md:h-[150px]"
+            }`}
+        >
             <div className="flex w-[100px] flex-col items-center justify-center gap-1">
                 <section className="flex h-14 w-14 items-center justify-center md:h-16 md:w-16">
                     <img

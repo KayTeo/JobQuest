@@ -15,7 +15,7 @@ export default function DataWrapper({ userID, postsData }) {
     }, [isOpen]);
 
     postsData.sort((a, b) => {
-        return a.dateTime > b.dateTime ? -1 : 1;
+        return a.dateTime > b.dateTime ? 1 : -1;
     });
 
     postsData.sort((a, b) => {
