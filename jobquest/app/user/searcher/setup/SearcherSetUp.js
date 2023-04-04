@@ -198,7 +198,7 @@ export default function SearcherSetUp({ userID, userData }) {
                                 e.preventDefault(0);
                                 const value = skillsInputRef.current.value;
                                 if (
-                                    value.trim() === "" ||
+                                    value === "" ||
                                     skills.includes(value)
                                 ) {
                                     return;

@@ -188,7 +188,7 @@ export default function Modal({ setIsOpen, userID, defaultData }) {
                         onClick={(e) => {
                             e.preventDefault(0);
                             const value = skillsInputRef.current.value;
-                            if (value.trim() === "" || skills.includes(value)) {
+                            if (value === "" || skills.includes(value)) {
                                 return;
                             }
                             setSkills([...skills, value]);
