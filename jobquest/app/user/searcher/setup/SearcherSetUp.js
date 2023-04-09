@@ -117,6 +117,7 @@ export default function SearcherSetUp({ userID, userData }) {
         };
 
         addSearcherData(userID, data);
+        router.refresh();
         router.push("/user/searcher");
     }
 
@@ -197,10 +198,7 @@ export default function SearcherSetUp({ userID, userData }) {
                             onClick={(e) => {
                                 e.preventDefault(0);
                                 const value = skillsInputRef.current.value;
-                                if (
-                                    value === "" ||
-                                    skills.includes(value)
-                                ) {
+                                if (value === "" || skills.includes(value)) {
                                     return;
                                 }
                                 setSkills([...skills, value]);

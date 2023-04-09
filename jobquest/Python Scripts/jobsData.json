@@ -1,738 +1,6 @@
 {
     "jobs": [
         {
-            "dueDate": "2023-05-03",
-            "jobTitle": "Senior Software Engineer",
-            "skills": [
-                "MongoDB",
-                "Troubleshooting",
-                "Azure",
-                "Node.js",
-                "REST",
-                "Continuous Integration and Continuous Deployment",
-                "Software Engineering",
-                "Application Development",
-                "JavaScript",
-                "Solution Architecture",
-                "Architecture Design",
-                "React Native",
-                "Mobile Applications",
-                "Software Design",
-                "Web Application Development",
-                "Web Applications",
-                "API",
-                "Databases",
-                "React.js",
-                "Software Development"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "VERTEX, 33 UBI AVENUE 3"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/a810551f12190421412092ef89f28318/TECHZU%20ICHICODE%20PTE.%20LTD..png",
-                "name": "TECHZU ICHICODE PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Job Description  We are seeking a highly skilled Senior Software Engineer to join our team. The successful candidate will have at least 4 years of experience in web and mobile application development using MERN stack and React Native. Experience in Azure will be a great bonus. The Senior Software Engineer will be responsible for leading and managing the team's quality and timeline for all our projects, assisting in hiring, speeding up our development process, ensuring all team members do clean coding and follow company coding standards which are set up by themselves, and providing timely reports on teamwork progress.  Responsibilities    Lead and manage the team's quality and timeline for all our projects   Assist in hiring, training, and mentoring software engineers   Develop high-quality web and mobile applications using MERN stack and React Native   Collaborate with cross-functional teams, including project managers, UI/UX designers, and QA testers, to ensure project success   Ensure all team members do clean coding and follow company coding standards which are set up by themselves   Speed up the development process by optimizing code and using the latest development tools and methodologies   Troubleshoot and resolve technical issues that arise during the development lifecycle   Stay up-to-date with emerging trends and technologies in software engineering   Provide timely reports on teamwork progress to the project manager   Requirements    Bachelor's or master's degree in Computer Science or a related field   Minimum 4 years of experience in web and mobile application development using MERN stack and React Native   Strong knowledge of cloud services, preferably Azure   Proven experience in leading and managing software development projects   Strong knowledge of software development methodologies, tools, and processes   Excellent communication and interpersonal skills   Strong problem-solving and analytical skills   Ability to work well in a team environment   Ability to multitask and prioritise tasks effectively ",
-            "datePosted": "2023-04-03",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 8000,
-                "minValue": 5000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-software-engineer-techzu-ichicode-579f29861cc79784796f4bfd81a41b74?source=MCF&event=Search",
-            "uuid": "4b80fcb6-1bb0-4e55-acaf-f9a40a17c6d4"
-        },
-        {
-            "dueDate": "2023-05-03",
-            "jobTitle": "Senior Software Engineer",
-            "skills": [
-                "Git",
-                "SASS",
-                "CSS3",
-                "Web Design",
-                "Responsive Web Design",
-                "TypeScript",
-                "Software Engineering",
-                "Agile",
-                "JavaScript",
-                "HTML5",
-                "SQL",
-                "Python",
-                "Agile Scrum",
-                "Web Applications",
-                "Java",
-                "C#",
-                "Databases",
-                "Software Development"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "GOLDHILL PLAZA, 1 GOLDHILL PLAZA"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/6820d0e50265297a3703bd56d9670f4e/incube8.png",
-                "name": "INCUBE8 PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Incube8 is seeking a passionate Senior Software Engineer role specialising in React development, interested in building high-performance and scalable applications to handle millions of users. Your main responsibility is to maintain a social media web application with an emphasis on scale and performance. You will collaborate with the UI/UX designers, backend developers, other front-end developers, and the business to design and implement new and exciting features. You will also be involved in reviewing other engineers’ code to maintain and improve code quality. This is an opportunity to join a successful software company offering the chance to work on interesting and varied cross-platform projects using the latest development technologies.  Requirements    MUST HAVE: At least 5 years experience building and maintaining high traffic, socially interactive web applications built with React, and 10 years as a software engineer (Please do not apply if you do not meet this requirement.)   Previous Lead Front-End React Developer experience across multiple teams   Experience working with PWA, NextJs, Redux, React Router and ES6 features   Experience with Responsive Web Design (mobile first)   Experience with web applications with real-time data from chat, image and video   Experienced with micro frontend development   Solid understanding of the Typescript, CSS3, HTML5, SASS, Git   Portfolio of past projects written in React   Familiar with Front-end modern toolchains (Webpack, Babel, Vite, …) or similar ones   Familiar with Agile/Scrum methodology understanding ",
-            "datePosted": "2023-04-03",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 12000,
-                "minValue": 9000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/senior-software-engineer-incube8-31541ccb4386e4de8ab903284385e669?source=MCF&event=Search",
-            "uuid": "0a33fcfa-7a53-46d2-bf88-597343a377c2"
-        },
-        {
-            "dueDate": "2023-04-09",
-            "jobTitle": "Software Implementation/Business Development Intern (6 Months)",
-            "skills": [
-                "Commodity",
-                "Microsoft Office",
-                "Business Process Analysis",
-                "Microsoft SQL Server",
-                "PowerPoint",
-                "Enterprise Software",
-                "Windows Server",
-                "Operating Systems",
-                "Accountability",
-                "Facilitation"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "20 UBI CRESCENT"
-            },
-            "company": {
-                "logo": null,
-                "name": "APTIV8 IT SOLUTIONS PTE. LTD."
-            },
-            "jobType": [
-                "OTHER"
-            ],
-            "description": "Job Description - Lead generation to gain new/potential projects. - Supporting clients on existing projects - Writing quotations - Liaising with clients and collaborating with different internal departments - Conducting training sessions to client - Supporting partners on site  Job Requirements - Able to work in fast-paced environment - Possess good interpersonal skills - Good communication and writing skills - Proficient in Microsoft Office (Word, PowerPoint, Excel) - Basic data skills - Good organization and management skill",
-            "datePosted": "2023-03-10",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 1200,
-                "minValue": 800,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/software-implementation-business-development-intern-aptiv8-solutions-28b6482a72398ce95289553fa5b1a0df?source=MCF&event=SuggestedJob",
-            "uuid": "d69a9f5c-27bd-42b7-a792-56a3d8a7664a"
-        },
-        {
-            "dueDate": "2023-04-17",
-            "jobTitle": "Software Engineer",
-            "skills": [
-                ".NET",
-                "Physics",
-                "Mathematics",
-                "Software Engineering",
-                "System Testing",
-                "JavaScript",
-                "SQL",
-                "Software Testing",
-                "Test Methodologies",
-                "Java",
-                "C#",
-                "Software Development",
-                "C++",
-                "Visual Studio"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "TECHPOINT, 10 ANG MO KIO STREET 65"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/485d8033463192da5aae0cf1c10ac4c4/combuilder.jpg",
-                "name": "COMBUILDER PTE LTD"
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Responsibilities:    Performs software development and verification and ensure the implementation and completion of the system requirements, aligned with the given timelines. Works with interdisciplinary teams to achieve the project goals.   Perform extensive software and system testing in customer’s location for a duration of time.   Ensures that the requirements are implemented accurately, following given coding rules and guidelines. Ensure product quality with accurate unit-tests and realization within the given product architecture and coding standard.   Builds and maintains appropriate user documentation for the implementation. Comply and enforce to the company software Quality Management System and Safety requirements   Requirements:    Bachelor’s degree in software engineering, computer science\\engineering, Engineering, Physics, Mathematics, or equivalent.   Strong programming skills in C, C++, C#, .NET architecture and MS Visual Studio.   At least 2 years of software development experience   Experience in software testing will be an added advantage.   Knowledge of software development lifecycle processes, methodologies, and software test methodologies  ",
-            "datePosted": "2023-04-03",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 5500,
-                "minValue": 4500,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/software-engineer-combuilder-b1354ad0f9d1f87d04323fdcab87685e?source=MCF&event=Search",
-            "uuid": "a1705be0-521a-4f42-a93b-23d710de7611"
-        },
-        {
-            "dueDate": "2023-04-17",
-            "jobTitle": "SOFTWARE ENGINEER",
-            "skills": [
-                "Machine Learning",
-                "Technical Documentation",
-                "Software Engineering",
-                "Agile",
-                "JavaScript",
-                "Computer Vision",
-                "SQL",
-                "Publishing",
-                "Python",
-                "Java",
-                "C#",
-                "API",
-                "Databases",
-                "Linux",
-                "Software Development",
-                "C++"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "24 ST. PATRICK'S ROAD"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/5af8357e4dfd4d487abd8ae50103009d/rk-recruitment.jpg",
-                "name": "AI SEER PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Responsibilities ● Develop the beta version of our computer vision software by working closely with a small team including data scientists and software developers from diverse backgrounds. ● Develop backend computer vision modules based on physiological/behavioral baselines and deviations. ● Work with video/imaging data to develop and train Machine Learning models. ● Ensure algorithms are robust and work with a wide variety of subjects. ● Read papers to find latest work on CV for estimating human physiological responses ● Provide assistance on technical documentation, paper publishing and patent filing",
-            "datePosted": "2023-04-03",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 7300,
-                "minValue": 5500,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/consulting/software-engineer-ai-seer-1eb0c1d43a0eca82cdb2f1d6c37501c3?source=MCF&event=Search",
-            "uuid": "cd59cbc4-e454-462f-a21a-2b4e61eb5f0e"
-        },
-        {
-            "dueDate": "2023-05-03",
-            "jobTitle": "Software Engineer",
-            "skills": [
-                "RS232",
-                "TCP/IP",
-                "Control",
-                "Python",
-                "Modbus",
-                "RS485",
-                "Communications",
-                "C#",
-                "Software Development",
-                "C++"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "THE SYNERGY, 1 INTERNATIONAL BUSINESS PARK"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/6074a543c0102adb6894a886b5b617ca/xjera-labs.png",
-                "name": "XJERA LABS PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Job Description:   · Development of computer control and communication software to operate devices and sensors.   · Programming of hardware control and HMI using various programming languages, software testing and system tuning.  Job Requirements:   · A degree or Diploma in relevant engineering disciplines, including but not limited to: computer engineering, electrical/electronic engineering, mechanical engineering, mechatronics, computer science/engineering, and information engineering.   · Specialization in automation/ mechanical/ computer control/ electro-mechanical with relevant industrial experience.   · Programming experience in C# or C++, or Python using VS studio and VS Code, for sensor or digital IO communication and control, and data acquisition.   · Learn new programming languages from time to time as required   · Familiar with RS 232/485 serial communications and Modbus TCP/IP communications, servo and stepping motor control is a bonus.   · Must be able to read write and speak Mandarin Chinese(to liaise with Chinese-speaking clients).",
-            "datePosted": "2023-04-03",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 8000,
-                "minValue": 4000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/design/software-engineer-xjera-labs-b031c5a95d0a5d46e35e7d4676d89797?source=MCF&event=Search",
-            "uuid": "0077282c-b4d3-4a6b-99c0-04fd2a1624e4"
-        },
-        {
-            "dueDate": "2023-05-03",
-            "jobTitle": "Senior Software Engineer",
-            "skills": [
-                "RS232",
-                "TCP/IP",
-                "Control",
-                "Python",
-                "Modbus",
-                "RS485",
-                "Communications",
-                "C#",
-                "Software Development",
-                "C++"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "THE SYNERGY, 1 INTERNATIONAL BUSINESS PARK"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/6074a543c0102adb6894a886b5b617ca/xjera-labs.png",
-                "name": "XJERA LABS PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Job Description:   · Development of computer control and communication software to operate devices and sensors.   · Programming of hardware control and HMI using various programming languages, software testing and system tuning.  Job Requirements:   · A degree or Diploma in relevant engineering disciplines, including but not limited to: computer engineering, electrical/electronic engineering, mechanical engineering, mechatronics, computer science/engineering, and information engineering.   · Specialization in automation/ mechanical/ computer control/ electro-mechanical with relevant industrial experience.   · Programming experience in C# or C++, or Python using VS studio and VS Code, for sensor or digital IO communication and control, and data acquisition.   · Learn new programming languages from time to time as required   · Familiar with RS 232/485 serial communications and Modbus TCP/IP communications, servo and stepping motor control is a bonus.   · Must be able to read write and speak Mandarin Chinese(to liaise with Chinese-speaking clients).",
-            "datePosted": "2023-04-03",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 12000,
-                "minValue": 7000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/design/senior-software-engineer-xjera-labs-3ffd8a1998ca615800c4a3cb962e2648?source=MCF&event=Search",
-            "uuid": "c8c91161-5a2f-41de-a71e-50a1c2aadccc"
-        },
-        {
-            "dueDate": "2023-04-17",
-            "jobTitle": "Software Developer - Trading Services",
-            "skills": [
-                "Mentoring",
-                "Data Analysis",
-                "Algorithmic Trading",
-                "JavaScript",
-                "Financial Markets",
-                "Investment Management",
-                "SQL",
-                "Requirements Analysis",
-                "Application Support",
-                "Fixed Income",
-                "Java",
-                "C#",
-                "Linux",
-                "Software Development",
-                "Equities",
-                "C++"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "CapitaSpring Level 49, 88  Market Street"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/06833b7178d960f781d781e59e934b64/squarepoint-services-singapore.png",
-                "name": "SQUAREPOINT SERVICES SINGAPORE PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Squarepoint is a global investment management firm that utilizes a diversified portfolio of systematic and quantitative strategies across financial markets that seeks to achieve high quality, uncorrelated returns for our clients. We have deep expertise in trading, technology and operations and attribute our success to rigorous scientific research. As a technology and data-driven firm, we design and build our own cutting-edge systems, from high performance trading platforms to large scale data analysis and compute farms. With main investment offices in New York, London and Singapore, we emphasize true, global collaboration by aligning our investment, technology and operations teams functionally around the world.  Group            Algorithmic Trading Framework Position         Software Developer Main Function    We are looking for smart and problem-solver people who are passionate about technology and enjoy working on complex problems.   The role will involve developing and maintaining the algorithmic trading framework and other applications used by the trading desk.   The developer will be expected to follow the software development life-cycle (requirements analysis, design, development, testing and deployment) and will work in a global environment.  Responsibilities:    Design, develop and test real-time mission critical software for algorithmic trading.   Collaborate closely with quant researchers and peers in technology to ensure global consistency and maximize re-use of software components.   Work with technology operations to provide 2nd/3rd level application support as required.  Candidate Requirements Qualifications:    Bachelor’s Degree required with a strong computer science/ computer engineering background   5+ years C++ development experience on Linux (C++11, C++14)   Superior analytical and problem-solving skills   Strong interpersonal and communication skills   Strong experience designing and developing highly reliable and scalable multi-threaded and complex event processing architectures   Experience with regression/unit/integration testing  Desirable Qualifications:    Understanding of order management, exchange connectivity or market data handling for Equities, FX or fixed income products.   Understanding of Equity, FX, fixed income or other asset classes.   Experience developing large-scale concurrent, event-driven systems.   Experience mentoring developers ",
-            "datePosted": "2023-04-03",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 15850,
-                "minValue": 8400,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/banking-finance/software-developer-trading-services-squarepoint-services-singapore-60246a35804be34bac1ca0d652f7e91f?source=MCF&event=Search",
-            "uuid": "b10d752b-5fe0-416c-8bce-dd6e34d561bc"
-        },
-        {
-            "dueDate": "2023-05-03",
-            "jobTitle": "Software Programmer",
-            "skills": [
-                "user interaction",
-                "XML",
-                "designed",
-                "Job Descriptions",
-                "feasibility",
-                "JavaScript",
-                "Microsoft SQL Server",
-                "Motivated",
-                "reusable code",
-                "Java",
-                "C#",
-                "Programming",
-                "Databases",
-                "Software Development",
-                "C++"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "MIDVIEW CITY, 20 SIN MING LANE"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/cf5ea2b496d5799eb8f7fa2c82cf2c4a/metropolis-security-systems.png",
-                "name": "METROPOLIS SECURITY SYSTEMS PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Job Description:    Participate in the end-to-end life cycle of the production of software and applications (from ideation to delivery and maintenance)   Design technical solutions with our users in mind and collaborate with the full team to implement, test,      and evaluate those solutions.   Deliver high quality code in a highly collaborative, fast paced and iterative environment.   Be hands-on and deliver on frontend applications and backend platform services.   Build and operate infrastructure, toolset and CI/CD pipelines.   Develop individually to continue to grow and provide training to individuals and other functional groups as      needed.   Continuously improve digital solutions by innovating on the services offered.   Skills and Experience:    2+ years of experience in software engineering   Interested in working on front end and backend services.   Detail oriented, organized and diligent with ability to prioritize and execute on multiple tasks   Experienced running software in DevOps environments..   Experience with cloud infrastructure deployments (AWS, Azure, GCP)  Technologies you’ll work with:    TypeScript, Node.js, PHP      Laravel, Google Apps Scripting, Java, Pyhton, etc   HTML, CSS Bootstrap, Jquery   Google Cloud, Ubuntu, iOS,      Android, AWS, Linux (Nginx)   MSSQL, MySQL, MongoDB   React-Native, ReactJS,      Wordpress, Angular, Vue   GitHub ",
-            "datePosted": "2023-04-03",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 4000,
-                "minValue": 3100,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/education-training/software-programmer-metropolis-security-systems-b8209c066063461ae308b52c2d6abda3?source=MCF&event=Search",
-            "uuid": "6a5586f2-c417-47e0-a690-9367b5eae5d4"
-        },
-        {
-            "dueDate": "2023-05-03",
-            "jobTitle": "Software Developer",
-            "skills": [
-                "iOS",
-                "MongoDB",
-                "PHP",
-                "Scrum",
-                "SOAP",
-                "MySQL",
-                "Application Development",
-                "JavaScript",
-                "SWIFT",
-                "HTML5",
-                "Information Technology",
-                "Ruby",
-                "ElasticSearch",
-                "Objective-C",
-                "Laravel",
-                "React Native",
-                "Mobile Applications",
-                "Flutter",
-                "REST APIs",
-                "Software Development"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "198A Telok Ayer Street"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/9531c29d495c602ad686f38893b8ea87/xing-technology.png",
-                "name": "AN XING TECHNOLOGY PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Responsibilities:    Design, develop and test mobile applications for the iOS ; Android platform   Participate in full mobile application development life cycle   Works to keep informed on the latest trends, technologies and best practices in mobile software development   Write clean, high-quality, high-performance, maintainable code   Works on project teams or individually, to develop mobile applications   Follows best practices related to development, testing and change management procedures   Works with project stakeholders to develop an enhanced user experience   Ensure codes are in compliance to standards   Set, maintain and increase standards for development to reduce complexity   Ability to architect medium to large scale systems   Undertake any ad-hoc duties assigned by superior  Requirements:    Min Degree / Diploma in Information Technology or qualifications in similar discipline preferably with at least 3 year's working experience in similar capacity   Familiar with NoSQL and/or cloud database (Cloud Firestore or MongoDB)   Excellent understanding of the full mobile development life cycle (iOS, Android ; Hybrid Application)   Strong OOP and design knowledge for creating extensible, re-usable software   Experience with Flutter, and cloud services such as AWS/GCP   Ability to work independently, self-motivated and result oriented   Willingness to build peer relationships and to work in a team environment   Good analytical and problem solving skills   Entry-level candidates with excellent learning attitude are welcome to apply   In depth knowledge of Java, PHP, HTML5, MySQL, MSSQL, Android SDK, Android NDK, Javascript, Objective-C, SWIFT, React Native with Redux concept   Familiar with Cross-Platform Development, UI/UX Design Skills   Experience with Web Services (REST/SOAP), Multimedia Content Development   Experience between managing and switching between Dev and Dev/Ops environments   Experience working on third-party libraries and APIs   Knowledge in data gathering, manipulation and analysis   Knowledge in designing and building scalable application (e.g. Elasticsearch)   Excellent analytical skills with a good problem-solving attitude  * Please include detailed past working experiences in point form in your updated resume.",
-            "datePosted": "2023-04-03",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 7000,
-                "minValue": 4500,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/software-developer-xing-technology-faeb673e5fad27ddb4c8943538a71f3e?source=MCF&event=Search",
-            "uuid": "0034f6f9-e96d-4665-9368-0ec3e5cacfe8"
-        },
-        {
-            "dueDate": "2023-05-03",
-            "jobTitle": "IT Software Developer",
-            "skills": [
-                "Budgets",
-                "Hardware",
-                "Job Descriptions",
-                "Rollout",
-                "Analytical Abilities",
-                "JavaScript",
-                "Computer Hardware",
-                "SQL",
-                "Python",
-                "Statistics",
-                "Java",
-                "C#",
-                "API",
-                "Facilitation",
-                "Disaster Recovery",
-                "Software Development"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "17 Kallang Junction"
-            },
-            "company": {
-                "logo": null,
-                "name": "DELTA ELECTRONICS INT'L (SINGAPORE) PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "We are looking for a first line support engineer to design, implement ; maintain and support our growing business. Not only providing basic technical support but also assist for application development/enhancement on existing systems or BI reports based on user requirements as well as assist to maintain overall IT network infrastructure. Job Duties:    IT support for 5 Physical locations in Singapore (Occasional travel between offices) and remote support for APAC countries including Australia, PH, and MY.   Modifying software to fix errors, adapt it to new hardware, improve its performance, or upgrade interfaces.   Directing system testing and validation procedures.   Assist to develop BI reports by using company specify BI tool for supporting business.   Installing and configuring computer hardware, software, systems, networks, printers, and scanners.   Troubleshoot and resolve issues with software or hardware.   Work experience in an IT environment supporting desktops, laptops, peripherals, and printers.   Work experience in a service/help desk setting.  Job Requirements:    Diploma or degree in computer science or related fields   Minimum 3 years of experience as a software engineer or system operator   Outstanding all-round communication skills and ability to work collaboratively   Perform network maintenance and system upgrades including service packs, patches, hot fixes and security configurations   Monitor performance and ensure system availability and reliability   Hands-on experience with monitoring, network diagnostic and network analytics tools   SAP-ABAP or Power BI (DAX) related know-how is a plus in order to support business related reporting requirements   Proven hands-on network engineering experience   Understanding of networking protocols (e.g., IPSEC, HSRP, OSPF, QoS, SD WAN)   Understanding of the TCP/IP model   Programming language include but not limited to : Python, DAX, Java, ABAP ",
-            "datePosted": "2023-04-03",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 8000,
-                "minValue": 4000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/software-developer-delta-electronics-intl-5b2ba00ff8d5ecae35b8877658303802?source=MCF&event=Search",
-            "uuid": "562e8521-5f5c-4fe8-b9ef-94d804e3f878"
-        },
-        {
-            "dueDate": "2023-05-03",
-            "jobTitle": "Software & DevOps Engineer",
-            "skills": [
-                "Scalability",
-                "Kubernetes",
-                "Pipelines",
-                "High Availability",
-                "Software Engineering",
-                "Agile",
-                "Application Development",
-                "Reliability",
-                "Configuration Management",
-                "Networking",
-                "Python",
-                "Docker",
-                "Java",
-                "Orchestration",
-                "Virtualization",
-                "Software Development"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "111 North Bridge Road"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/b85dc1bb86d36965d41d4843251a38a5/zenith-infotech.png",
-                "name": "ZENITH INFOTECH (S) PTE LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Since 1997, Zenith Infotech has been supporting our clients from government ; corporates for their tech recruitment needs.   Currently one of our clients from the Air ; Land Transport domain is looking out for Devops or Site Reliability Engineer to support their In-Flight Entertainment projects.   Responsibilities: As a Software/DevOps Engineer, you will build our digital product and services that power our client's  Airline customers, and continuously improve engineering practices. You will design, implement and deploy applications and backend business services that will empower passenger experience for Airline customers and build data analytical solutions for better monitoring and reporting capabilities for operational support teams. You will be an individual contributor in a high visibility role, positioning you to deliver high impact at our client's IFE Digital Engineering team and challenging you with learning opportunities that will help you grow and accelerate your career.     Design, develop and deploy IFE digital solutions with focus on high availability and scalability.   Drive collaboration within Agile teams of Engineers and Product Owners and UI Designers to build new product features   Collaborate closely with squad engineers and become a valued member of an autonomous, cross- functional squad.   Collaboration with Cloud CoE team to improve the tooling, develop a safe, secure framework for fast deployment of Inflyt Experience digital solutions.   Be hands-on and deliver on frontend applications and backend platform services.   Build and operate infrastructure, toolset and CI/CD pipelines.   Develop individually to continue to grow and provide training to individuals and other functional groups as needed   Continuously improve IFE digital solutions by innovating on the services offered.   Requirements: Education and Experience    Bachelor's Degree in Software Engineering, Computer Science or any relevant field   Minimum 2 years of software development experience   Experience in web/mobile application development, networking or systems software development.   Experience with cloud platforms, Docker, CI tools, and configuration management tools.   Experience working with virtualization and clustered orchestration (Kubernetes).   Experience with infrastructure provisioning tools (Terraform).   Experience in Java, C/C++, C#, Python, JavaScript, NodeJs or Golang. ",
-            "datePosted": "2023-04-03",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 8000,
-                "minValue": 6500,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/software-devops-engineer-zenith-infotech-001e0335fac81b62d560de5a23025348?source=MCF&event=Search",
-            "uuid": "fa9cd6d1-b2d9-4d10-a826-5630233a8f05"
-        },
-        {
-            "dueDate": "2023-05-03",
-            "jobTitle": "Software Applications Development Engineer",
-            "skills": [
-                "Perl",
-                "Management Skills",
-                "Scrum",
-                "Software Engineering",
-                "Agile",
-                "Unix",
-                "SQL",
-                "Windows Operating Systems",
-                "Python",
-                "Writing",
-                "Java",
-                "C#",
-                "Linux",
-                "Software Development",
-                "C++",
-                "Agile Development"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "APERIA, 8 KALLANG AVENUE"
-            },
-            "company": {
-                "logo": null,
-                "name": "NTT SINGAPORE PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME",
-                "CONTRACTOR"
-            ],
-            "description": "   Broad understanding of computer science, with specific knowledge of computer programming, application design, and user-focused features   Creative problem solvers   Good interpersonal, communication, and organizational skills   Good team players and maintain the integrity and display good attention to detail   Ability to understand and analyze complex systems   Proficient in writing software using the Java Programming Language and a standard object library   Sound knowledge of software development process   Familiarity with agile development such as Scrum   Knowledge of software integrated development environments   Extensive knowledge in various programming languages (Java, Perl, Python, C++, etc.)   Demonstrated analytical, organizational, and project management skills, using relevant information to make timely and critical decisions that affect cross-functional teams   Ability to handle client and customer issues tactfully and professionally  Academic Qualifications and Certifications:    Bachelor's degree in computer science or software engineering   Relevant certifications  Required Experience:    Software Applications Engineering, Software Development experience, or related work experience   Experience with Programming Languages such as C, C++, Java, Python, etc.   Experienced with Linux or Unix and Windows operating systems   Experience working with SQL   Project management experience and/or experience working in an Agile environment ",
-            "datePosted": "2023-04-03",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 9000,
-                "minValue": 6500,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/software-applications-development-engineer-ntt-singapore-e67b0c007baf9eef5ea01627afd15c80?source=MCF&event=Search",
-            "uuid": "17d08797-9b8c-4f74-ac81-466d74d99524"
-        },
-        {
-            "dueDate": "2023-04-04",
-            "jobTitle": "Software Developer Intern",
-            "skills": [
-                "Technical Documentation",
-                "CSS3",
-                "Quality Improvement",
-                "HTML",
-                "MySQL",
-                "JavaScript",
-                "Information Technology",
-                "Test Automation",
-                "User Interface",
-                "Test Methodologies",
-                "Selenium",
-                "Web Applications",
-                "Debugging",
-                "versatile",
-                "Software Development",
-                "jQuery"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "LINK@AMK, 3 ANG MO KIO STREET 62"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/a29c61d01f69f6dd509f5441fed87c47/asia-innovatory-management-school.png",
-                "name": "ASIA INNOVATORY MANAGEMENT SCHOOL"
-            },
-            "jobType": [
-                "OTHER"
-            ],
-            "description": "The Software Developer intern reports to the CTO. The internship will be project-based and presents a fast-paced environment that emphasizes quality deliverables and continuous improvement to encourage one to sharpen their expertise. We are looking for creative, hardworking, and versatile developers who can bring fresh ideas regarding the works of Convolutional Neural Networks and Deep Learning. Engage in a meaningful software developer experience in the fast-growing EduTech industry today!  Job Description Assist in the developing of our existing solutions and recommend improvements to our existing solutions    Assist in delivering quality user experience and user interface  Assist with the Analysis, Design, Development, Testing, and Documentation of new software solutions    Assist in developing proof of concepts and technical designs   Assist in data modelling   Assist in the installation and configuration of plug-ins   Assist in technical documentation   Learn to develop, customise, and integrate of Moodle, Totara, and other PHP-based web applications   Learn to manage software development, enhancement, debugging, testing, and maintenance of the backend application   Learn to make design, code, testing, and system quality improvement to backend application programming interface (API)   Job Specifications    Basic knowledge in HTML/ CSS3 with JavaScript/ JQuery, MySQL, and CakePHP   Passion for IT and software development   Willingness to learn on the job   Able to work in a team who enjoys interaction at work and during recreation   Currently pursuing diploma in Computer Science, Information Technology, Information Systems, or equivalent  Benefits    Internship that is more than 3 months will entitle to 1 AL from 4th month onwards. ",
-            "datePosted": "2023-03-21",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 1000,
-                "minValue": 800,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/software-developer-intern-asia-innovatory-management-school-223d4ba991b92a511614b82e6a00029d?source=MCF&event=SuggestedJob",
-            "uuid": "5b228760-4134-409e-8b6b-80d74bc92b0f"
-        },
-        {
-            "dueDate": "2023-05-03",
-            "jobTitle": "Senior Software Engineer (ID1400)",
-            "skills": [
-                "Mentoring",
-                "Azure",
-                "Interpersonal Skills",
-                "Architectural",
-                "Software Engineering",
-                "JavaScript",
-                "Open Source",
-                "Python",
-                "Infrastructure Architecture",
-                "Docker",
-                "Java",
-                "Github",
-                "Linux"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "PRESTIGE CENTRE, 71 BUKIT BATOK CRESCENT"
-            },
-            "company": {
-                "logo": null,
-                "name": "JOB EXPRESS SERVICES PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Job Title: Senior Software Engineer (ID1400) Location: Customer Site Working Hours: Mon to Fri 9am to 6pm Salary: $7000 to $8000   Job Summary The candidate will play a key role in building a strong software engineers team and later leading this team in providing architectural development and implementation of complex, multi-tiered, and distributed software applications using DLT and blockchain technology.   Job Description • Hands-on development work (and lead a team of software engineers in delivering applications (50%) • Training, mentoring, and providing subject matter expertise to colleagues and business partners who will be collaborating with the company (30%) • Production support (Level-2 and Level-3) (20%)   Requirements: • Possess an Engineering related bachelor or post-graduate degree • Developer/architect with 7+ years of relevant experience • Experience with leading a team of software engineers in developing large scale distributed applications • Understanding of application and infrastructure architecture, both functional and non-functional aspects • Possess advanced knowledge of Object-Oriented Programming and Design. • Very good leadership skills with the ability to lead multiple development teams. • Thorough hands-on experience in working with AWS, Google Cloud or Azure cloud-based architecture and deploying web-based and web-enabled business application. • Strong technical knowledge and hands-on experience in Full Stack Development and /or DLT, Blockchain. • Good working knowledge of open source tools and technologies. • Bachelor’s or Master’s degree in technical subjects • A good understanding of Software Engineering Best Practices and ability to define and drive this within the teams. • Very good understanding and experience in design and implementation of enterprise applications. • Strong communication and interpersonal skills with ability to speak to technical level staff and business executives, stakeholders • Technologies We Use : Go, Java, Javascript, Python, Linux, AWS, Github, Docker, Blockchain Technologies - Ethereum, Hyperledger Fabric",
-            "datePosted": "2023-04-03",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 8000,
-                "minValue": 7000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/senior-software-engineer-job-express-services-ae5d17a6292639df93c5407eef8f3c3f?source=MCF&event=Search",
-            "uuid": "a51f56a8-60bc-42ae-a50f-8d0f51d32dc5"
-        },
-        {
-            "dueDate": "2023-05-03",
-            "jobTitle": "Software Test Automation Engineer",
-            "skills": [
-                "Performance Testing",
-                "Software Engineering",
-                "JavaScript",
-                "Test Cases",
-                "Audiology",
-                "Test Automation",
-                "Software Testing",
-                "Selenium",
-                "System Integration Testing",
-                "Test Strategy",
-                "C#",
-                "Agile Software Development",
-                "Test Management"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "18 TAI SENG, 18 TAI SENG STREET"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/c152b62a408152e0ed8b47295cf64348/sivantos.jpg",
-                "name": "SIVANTOS PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Are you a Software Test Automation Engineer with a passion for quality? We're looking for a skilled professional to be part of our R;D Software Engineering team in WS Audiology. You'll be responsible for developing and executing test plans, collaborating within an agile team and continuously improving our testing processes. The role will be located at our Singapore office at 18 Tai Seng Street.  The role     Review and analyze business and system requirements and develop various test specifications which include Functional Testing, System Integration Testing, Performance Testing and Compliance Testing   Design/ Develop, review and maintain test scenarios, test cases, test data for manual and automation tests   Perform trace analysis, execute manual and automation test   Ensure that all test activities adhere to company standards and expectations   Collaborate with a team of test engineers, subject-matter experts, stakeholders to ensure delivery of quality test artifacts   Drive continuous innovation and improvement around test processes and technical capabilities   Perform test management, test reporting and defect management for assigned projects   Provide lessons learnt based on the analysis of related test statistics collatedtime for innovation at regular intervals.  Experience     Bachelor's Degree in Software Engineering, Computer Science or similar disciplines   Minimum 3+ years of relevant software test experience   Good understanding of Agile Software Development Lifecycle and Azure DevOps Server   Good understanding of software development or testing background knowledge   Some knowledge and hands-on experience in commonly used tools and performance load testing tools will be an added advantage   Experience with either C# or Javascript will be preferred §Prior desktop/ web/ mobile software testing experience is ideal  Who we are  At WS Audiology, we provide innovative hearing aids and hearing health services. Together with our 12,000 colleagues in 130 countries, we invite you to help unlock human potential by bringing back hearing for millions of people around the world. With us, you will become part of a truly global company where we care for one another, welcome diversity and celebrate our successes.  Sounds wonderful? We can't wait to hear from you.  WS Audiology is an equal-opportunity employer and committed to creating an inclusive employee experience for all. Regardless of race, color, religion, national origin, age, sex, gender, gender identity, gender expression, sexual orientation, marital status, medical condition, ancestry, disability, military or veteran status we firmly believe that our work is at its best when everyone feels free to be their most authentic self.",
-            "datePosted": "2023-04-03",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 7000,
-                "minValue": 4000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/healthcare/software-test-automation-engineer-sivantos-6afa34a4f26887f9dc4a2567d34d7727?source=MCF&event=Search",
-            "uuid": "85266dba-8138-4d63-b01a-8c477f0e12dd"
-        },
-        {
-            "dueDate": "2023-05-03",
-            "jobTitle": "Staff Software Engineer",
-            "skills": [
-                "Ability to Multitask",
-                "Mentoring",
-                "iOS",
-                "Technology Architecture",
-                "Fundraising",
-                "Telehealth",
-                "Software Engineering",
-                "Application Development",
-                "Adaptable",
-                "Telemedicine",
-                "Distributed Systems",
-                "Angular",
-                "Java",
-                "Bridge",
-                "Web Development",
-                "Software Development"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "MTOWER, 460 ALEXANDRA ROAD"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/eba81ec45a2c122b9c8df4947415095f/doctor-anywhere-operations.png",
-                "name": "DOCTOR ANYWHERE OPERATIONS PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "About Doctor Anywhere Doctor Anywhere (DA) is on a mission to be the largest tech-enabled, omnichannel healthcare provider in Southeast Asia. First launched in Singapore in 2017, DA aims to bridge gaps in the healthcare ecosystem through developing innovative solutions and technologies. In 2021, DA raised SGD$88 million in Series C fundraising (August 2021) and acquired Doctor Raksa, the biggest telemedicine platform in Thailand which further strengthened our foundation for telehealth and healthcare offerings. Today, DA is present in Malaysia, Thailand, Philippines, Vietnam, Indonesia and India, serving more than 2.5 million (and growing) users across the region.  At DA, we believe in the value of innovation and collaboration. Grounded in our motto of “Keep Going, Keep Growing”, our team strives towards excellence every day, and values diversity in perspectives brought by every member. Together, we bring quality healthcare to your doorstep!  About the team Technology is the backbone of our business. Our engineering team consists of talented and passionate engineers who are responsible for building adaptable, reliable, scalable and secure platforms for our products and services. Working in cross functional teams, our engineers collaborate with Product, Infrastructure, Data and Security teams in delivering exceptional experiences for our customers.  About the role As a Staff Software Engineer/Solutions Architect, you will contribute in a multitude of ways, from architecting phenomenal systems, creating and encouraging good software development practices engineering-wide, driving strategic technical improvements, and mentoring other engineers to take our capabilities to the next level.  Responsibilities    Part of the team that owns the company wide technology architecture and roadmap   Collaborating with other engineers to execute the technical strategy by building high quality software that can meet the current and future needs of the business.   Drive adoption of contemporary practices, architectures, and technologies into our organization.   Evaluate and integrate 3rd party and partner solutions across regions and markets where Doctor Anywhere operates   Keep abreast of the latest technologies and develop strategies to adopt suitable and/or novel technologies  About you    At least 8 years software/product engineering experience in fast-paced environments   At least 4 years of experience in designing and implementing large scale internet based solutions   Track record of building scalable and highly available distributed systems.   Strong knowledge of trends in contemporary software engineering practices   Exceptional knowledge and awareness of end-to-end technologies required to build modern distributed software systems.   Strong knowledge and experience in at least two of the followingImplementation of services using Java, Go or NodeJS iOS , Android or hybrid mobile application development React or Angular web development Implementation of cloud deployed/cloud native (AWS, GCP) and/or container based applications   Strong communication skills with ability to work with individuals from multiple domains, from product owners to 3rd party partners   Ability to multitask and prioritize effectively in a fast paced environment ",
-            "datePosted": "2023-04-03",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 17000,
-                "minValue": 9000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/staff-software-engineer-doctor-anywhere-operations-da16cc700271f40784fd49a531891f64?source=MCF&event=Search",
-            "uuid": "bfed4f5f-17ab-4cf9-a050-08f611581570"
-        },
-        {
             "dueDate": "2023-04-14",
             "jobTitle": "Software Engineer",
             "skills": [
@@ -771,62 +39,501 @@
                 "payPeriod": "MONTH"
             },
             "jobLink": "https://www.mycareersfuture.gov.sg/job/building-construction/software-engineer-azbil-singapore-0a6f60e662e3cc853fdcb9b83ddfe8f5?source=MCF&event=Search",
-            "uuid": "ed10b906-cb92-406c-8388-b03b85e4be06"
+            "uuid": "c25d0a99-6478-4b93-883e-d50fb5877f23"
         },
         {
-            "dueDate": "2023-04-30",
-            "jobTitle": "Software Support Executive",
+            "dueDate": "2023-04-16",
+            "jobTitle": "Senior Software Engineer",
             "skills": [
-                "Troubleshooting",
-                "on-site support",
-                "software supporting",
-                "Payroll",
-                "MS Office",
-                "user training",
-                "Ticketing Systems",
-                "Software support",
-                "Presentation Skills",
-                "Customer Service"
+                "Requirements Gathering",
+                "UAT",
+                "Hardware",
+                "Project Quality",
+                "Software Documentation",
+                "System Testing",
+                "JavaScript",
+                "Information Technology",
+                "Configuration Management",
+                "Audits",
+                "Team Lead",
+                "Team Player",
+                "Integration Testing",
+                "Java",
+                "Disposition",
+                "Software Development"
             ],
             "location": {
                 "country": "SG",
                 "locality": "Singapore",
-                "address": "SIM LIM TOWER, 10 JALAN BESAR"
+                "address": "LTC BUILDING B, 12 ARUMUGAM ROAD"
             },
             "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/32af6174571cae4118a1c79b65bfc9d0/times-software.jpg",
-                "name": "TIMES SOFTWARE PTE LTD"
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/d3bf8a69518f9a037c3cdb5260a4f103/CARLSYS%20TECHNOLOGIES%20PTE.%20LTD..jpg",
+                "name": "CARLSYS TECHNOLOGIES PTE. LTD."
             },
             "jobType": [
                 "FULL_TIME"
             ],
-            "description": "Job descriptions and responsibilities: • Responsible for hotline support and train end-users on all company’s software products, • On-site support, installation and training at end-user office, • Trouble shooting of current software and new software, • Assisting sales and software staff on any sales or software activities if necessary, • Candidate with implementation of software projects will be an added advantage, • Any job functions to help the company function as a team that assigns to you.  Requirements: • Degree IT/Computer Science/PR/Marketing/Communication or equivalent. • Local Fresh Polytechnics graduates are encourage to apply. • Exposure to payroll, Human Resource and WEB knowledge will be an added asset. • Excellent communication and presentation skills. • Patient, polite, friendly and helpful personality. • Positive attitude, dynamic, resourceful and independent. • Must have interest in Software and IT industry. • Good PC ; Web Skills, knowledge in Windows, Windows XP-Pro, Win NT/2000/2003 ; above. • Familiar with MS Office and Windows software",
-            "datePosted": "2023-03-31",
+            "description": "Responsibilities:    Analyse process/program specifications ; translate specifications to program codes, conforming to program guidelines and programming best practices   Make changes to configurable items, which include hardware, software, documentation, etc. It covers configuration management planning, configuration identification, configuration controls ; audits   Develop unit test package, execute tests ; document test results to ensure the quality of the program   Assist in the integration testing, system testing, User Acceptance Test (UAT) ; implementation activities to fix the reported problems/bugs of the system to ensure the smooth execution of programs in the production environment   Investigate all reported problems/errors ; initiate amendments ; testing so that the system can operate correctly ; efficiently   Prepare ; maintain up-to-date system documentation.   Analyse functional requirements to translate into application design using established design methodologies and guidelines   Work with team lead to ensure design and programme codes conform to architecture and design standards, and that design satisfies functional and system requirements   Participate in requirements gathering; work with Business Analysts in reviewing and refining functional specifications   Participate in peer reviews to improve project quality  Requirements:    Diploma / Degree in Computer Science / Computer Engineering / Information Technology related field, or IT equivalent   Preferably 2 years of working experience in developing and delivering application software   Possess relevant system development / maintenance experience using JAVA-related technologies   Possess initiative and disposition with a strong commitment and orientation towards results and high-quality standards   Strong problem-solving skills and ability to think out of the box   Team player with strong communication and interpersonal skills   Self-motivator with a positive attitude and with high energy   Customer focused   Proficient in written and spoken English ",
+            "datePosted": "2023-03-17",
             "salaryRange": {
                 "currency": "SGD",
-                "maxValue": 3500,
-                "minValue": 2500,
+                "maxValue": 12000,
+                "minValue": 8000,
                 "payPeriod": "MONTH"
             },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/software-support-executive-times-software-9f191dbfea86b9501386e75e6e6001a4?source=MCF&event=Search",
-            "uuid": "3444bd86-2f03-49b8-8dfb-1cb1d825c0d5"
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-software-engineer-carlsys-technologies-20f1636fb43d5fcc5002d8ba3d427f87?source=MCF&event=Search",
+            "uuid": "4899c0f8-b94f-45ca-beca-674a2da98ae6"
         },
         {
-            "dueDate": "2023-04-17",
-            "jobTitle": "Software Application Support Executive(Inventory Management and Accounting Software co)",
+            "dueDate": "2023-04-19",
+            "jobTitle": "Software Engineer",
             "skills": [
-                "Fortinet",
-                "Citrix",
-                "Inventory",
-                "Windows Server",
-                "Accounting",
+                "CSS",
+                "Software Engineering",
+                "Agile",
+                "Scripting",
+                "JavaScript",
+                "SQL",
+                "Python",
+                "Java",
+                "C#",
+                "API",
+                "Databases",
+                "Linux",
+                "Software Development",
+                "C++"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "81 AYER RAJAH CRESCENT"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/f3fa80399806c1a871cde8a4fd6014e6/insider-security.png",
+                "name": "INSIDER SECURITY PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Job Scope    Software development of innovative cybersecurity products   New software engineers generally start off on general software engineering, and are given the opportunity to over time become domain experts in either back-end, front-end, algorithms or devops.  Requirements    Degree in Computer Science, Computer Engineering or Electrical Engineering   Strong in coding, eg, C, Go, Javascript or high-level scripting languages   Cybersecurity background is a plus but not required   Must be a Singapore resident  Benefits    Do meaningful work in big challenging problems   Build cutting-edge solutions   Mentorship by cybersecurity experts   Chalk up valuable experience and insights in the cybersecurity industry   Competitive salary   Hybrid work model (staff can work 2 days a week remotely)  After applying via mycareersfuture, kindly also submit your resume via https://apply.workable.com/insidersecurity/",
+            "datePosted": "2023-03-20",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 5500,
+                "minValue": 4500,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/software-engineer-insider-security-9a99f7549f8501683758fc230bacafd3?source=MCF&event=Search",
+            "uuid": "f3b658e6-82b9-4c8e-aec6-7ebc1f3b432e"
+        },
+        {
+            "dueDate": "2023-05-04",
+            "jobTitle": "SOFTWARE ENGINEER",
+            "skills": [
+                "Troubleshooting",
+                "Hardware",
+                "RF",
+                "Dynamics",
+                "Scripting",
+                "Wireless",
+                "Embedded Systems",
                 "Networking",
-                "Remote Desktop",
-                "Virtual Server",
-                "Training the End Users",
-                "Trouble shooting",
-                "Windows Server Hyper-V",
-                "Technical Support"
+                "Python",
+                "Firmware",
+                "Microcontrollers",
+                "Robotics",
+                "Wireless Networking",
+                "Linux",
+                "Software Development"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "KA CENTRE, 150 KAMPONG AMPAT"
+            },
+            "company": {
+                "logo": null,
+                "name": "DOODLE LABS (SG) PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Software Engineer Job Description Doodle Labs is the global leader in high-performance private IEEE 802.11 wireless networking systems. We provide cutting-edge Smart Radio mesh networks for robotics, drones, and the Industrial Internet of Things. Doodle Labs has experienced rapid growth over the past five years as our products have been adopted by Fortune 500 companies (e.g. Airbus, General Electric) and industry-leading innovators (e.g. Boston Dynamics, FLIR). We’re looking for an experienced software engineer to join our talented team of software, hardware and RF engineers and keen to take a leadership position in our organization. The candidate will be responsible for designing and implementing software that’s part of wireless router firmware. It should be a solid contributor and leader, able to design, develop, code, test, and debug system software and automation scripts. He/She must be able to write clean code and push the capabilities of our Smart Radio and respond to customer needs and problems, as well as perform prototyping and application tests to support the production process. Requirements · Candidate must possess at least a bachelor’s degree, Post Graduate Diploma or Professional Degree in Engineering or Computer Science or equivalent. A Master Degree or PhD is an additional plus. · Experience in Linux, C/C++ and microcontrollers and trouble-shooting embedded systems · Experience in common interfaces, networking protocols, and hardware subsystems · Knowledge of networking concepts · Experience with Linux wireless stack/kernel/driver/git is a plus · Scripting with Bash shell, Python is a plus · Experience with QCA drivers such as ath9k and ath10k and OpenWRT is a plus · Eager to learn and improve in tight deadline environment · Have project management experience · Strong communication skills and ability to engage and guide a cross-functional team",
+            "datePosted": "2023-04-04",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 8000,
+                "minValue": 5000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/software-engineer-doodle-labs-b32a4e0156b608fe09ad42a1b3d92dd5?source=MCF&event=Search",
+            "uuid": "a633ea3e-5e0b-4138-9df9-283b56e0d25a"
+        },
+        {
+            "dueDate": "2023-04-19",
+            "jobTitle": "Senior Software Engineer",
+            "skills": [
+                "Cloud Applications",
+                "Software Engineering",
+                "Agile",
+                "Scripting",
+                "JavaScript",
+                "Python",
+                "Scalable Web Applications",
+                "Docker",
+                "Scalable Architecture",
+                "API",
+                "Databases",
+                "Linux",
+                "Software Development",
+                "C++"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "81 AYER RAJAH CRESCENT"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/f3fa80399806c1a871cde8a4fd6014e6/insider-security.png",
+                "name": "INSIDER SECURITY PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Job Scope    Design and develop scalable software and architecture   Guide junior engineers in good software engineering processes   Software development of innovative cybersecurity products  Requirements    Degree in Computer Science or Computer Engineering   At least 4 years experience in software development   Experienced in tackling software complexity issues   Experience in building high quality software that can scale   Experienced in good software engineering practices   Strong in coding, eg, C, Go, Javascript or high-level scripting languages   Cybersecurity background is a plus but not required   Must be a Singapore resident  Benefits    Do meaningful work in big challenging problems   Build cutting-edge solutions   Chalk up valuable experience and insights in the cybersecurity industry   Competitive salary   Hybrid work model (staff can work 2 days a week remotely)  After applying via mycareersfuture, kindly also submit your resume via https://apply.workable.com/insidersecurity/",
+            "datePosted": "2023-03-20",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 8500,
+                "minValue": 7000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-software-engineer-insider-security-41dada9949885383b16bdf69271be615?source=MCF&event=Search",
+            "uuid": "2c49ab9c-9c99-42eb-bebf-c82ccbe526c5"
+        },
+        {
+            "dueDate": "2023-05-04",
+            "jobTitle": "Senior Software Engineer / Software Engineer",
+            "skills": [
+                "Aftersales",
+                "Customer Interaction",
+                "Software Engineering",
+                "System Integration",
+                "Drawing",
+                "SDLC",
+                "Team Player",
+                "C#",
+                "Software Development",
+                "C++"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "11 Kian Teck Road"
+            },
+            "company": {
+                "logo": null,
+                "name": "VISION ONE PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Requirements:    Full architecting and coding experience in C#, C++, C, for command, control and      communication (C3) applications;   Dashboards, .NET framework and backend server experience required;   Min 7 years experience in architecting and documentation in SDLC using C# or C++;   Min 5 years experience in design, system integration, drawing and reading electronic/electrical schematics;   Min BSEE or equivalent from a recognized university;   Self-starter, driven, hands-on and able to work under pressure;   Good communication and cheerful personality;   Positive working attitude and team player and overall team leader;   Holders of Bachelor’s degree in Computer Science are welcome to apply if the candidate has      experience in designing, programming in embedded environment, reading and      implementing systems integration with electrical schematics;   Candidates with less than 5 years experience are also welcome to apply with salary to commensurate with experience;  Responsibilities:    Supports new RFQ and customer interaction, if assigned;   Track project progress, drive external reviews with customer and internal reviews;   Ensure adherence to delivery schedule and product quality;   Write documentation for each stage of development and commercialization lifecycle, write user manuals and other bid documents, if assigned.   Drive internal and external reviews with team members and customers;   Drive all internal and external acceptance tests;   Support after-sales maintenance;   Other work as assigned. ",
+            "datePosted": "2023-04-04",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 7000,
+                "minValue": 4500,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/senior-software-engineer-software-engineer-vision-one-a3fd2cf6018286fc7b0216f2533338f4?source=MCF&event=Search",
+            "uuid": "df8da9d0-14a4-40c1-9c7e-84fd277f4523"
+        },
+        {
+            "dueDate": "2023-04-15",
+            "jobTitle": "Software Engineer",
+            "skills": [
+                "Troubleshooting",
+                "Ability To Work Independently",
+                "Software Engineering",
+                "JavaScript",
+                "Protocol",
+                "SQL",
+                "WebDriver",
+                "Python",
+                "Selenium",
+                "Team Player",
+                "Java",
+                "C#",
+                "Linux",
+                "Software Development"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": null
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/7f0e993e14801db87bc8c0459017302a/films-foils-international.png",
+                "name": "FILMS & FOILS INTERNATIONAL PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Roles ; Responsibilities What we expect:    Oversee the IT infrastructure and administration of the server, network, and relevant devices.  What we are looking for:    Candidate must possess at least a Diploma or Degree in Computer Science/Information Technology or equivalent.   At least 1 years of working experience in the related field is required for this position.   Ability to work independently and efficiently, managing timelines and expectations.   Good team player with strong analytical, communication, and troubleshooting skills.   1. Proficient in Linux, with experience in Linux development, able to independently resolve third-party software dependencies; 2. Proficient in at least one of the languages python/nodejs/golang, with experience in developing medium-scale projects; 3. Proficient in mysql/rabbitmq/redis, able to independently resolve general problems during use; 4. Experience using webdriver or selenium, with experience in crawling preferred; 5. Clear understanding and comprehension of the HTTP protocol; 6. Able to use excel for simple data conversion, processing, and analysis; 7. Experience in developing cluster systems, with experience in distributed/multi- node/high-latency environments.    What we offer:    Attractive rewards for long-term service staff   Energetic and friendly working environment (flexible working hours, quarterly events, staff birthday celebration and etc.)   Medical insurance  ",
+            "datePosted": "2023-03-16",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 12000,
+                "minValue": 5500,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/software-engineer-films-foils-international-9c1ff77a7789cf761fa15d0705ecbf27?source=MCF&event=Search",
+            "uuid": "5260fa52-d0d3-46ef-a2c2-546eb3791316"
+        },
+        {
+            "dueDate": "2023-04-19",
+            "jobTitle": "Software Engineer",
+            "skills": [
+                "Vendor Relationships",
+                "RDS",
+                "Multithreading",
+                "Scripting",
+                "SDLC",
+                "EC2",
+                "Continuous Integration",
+                "Database Design",
+                "Angular",
+                "Java",
+                "API",
+                "S3",
+                "System Architecture",
+                "Software Development"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "VISIONCREST, 103 PENANG ROAD"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/d3a822689069452757c942f5d108b53d/asia-digital-exchange.png",
+                "name": "ASIA DIGITAL EXCHANGE PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "ABOUT Us  AsiaNext is a trusted digital exchange for institutional investors in Asia and globally. It will offer integrated listing, trading, and post-trade services for digital assets, including digital payment tokens. The joint venture between the SBI Group in Japan and SIX Group AG in Switzerland will provide an institutional-grade platform to enable the tokenization and trading of existing securities and non-bankable assets. AsiaNext will support the growing institutional demand for trading of public and private digital assets. It will leverage the extensive networks of SBI in Asia and SIX in Switzerland and Europe, as well as their joint expertise in fulfilling institutional investors’ needs. Both SBI and SIX have demonstrated leadership in digital asset markets globally through multiple investments, issuances and initiatives in the space.  Why Join Us?  With SBI and SIX as its shareholders, AsiaNext has significant backing supporting its mission of building the world’s first institutional-grade digital exchange for institutional investors and fostering trust through rigorous security and compliance to regulations. The team comprises members with traditional finance, digital finance and technology background spanning decades at major regional and global banks, brokerages, exchanges, regulators, digital exchanges, and many others. If you are looking to develop your career in a professional and well-run environment, yet which moves and grows rapidly, join our diverse and talented team to build the digital exchange of choice for institutional investors.  About This Role:-  Reporting to the Head of Application, you will engage in the software development lifecycle that shapes the AsiaNext exchanges. You will analyse requirements and design, implement, deliver and support the IT solutions of the exchanges. You should be passionate about Blockchain, Securities Trading and Digital Assets, and are able to translate business needs to applications that support digital exchanges ecosystem.  Responsibilities     Design, code and implement the IT solutions of AsiaNext exchanges. This includes APIs and smart contracts for connectivity with financial institutions and blockchains respectively.   Keep proper documentation of functional specifications, project plans, system architecture and database design.   Prepare and run User Acceptance, Non-functional and Industrial Wide tests.   Conform to Software Development Life Cycle (SDLC) best practices, company policies and regulatory requirements to implement secure, resilient and scalable solutions.   Perform project management tasks such as tracking of progress, issues, risks, milestones, deliverables changes and ensure dependencies are within schedule and allocated costs.   Perform continuous integration and continuous delivery (CI/CD) to optimise operational environments.   Analyse technology trends and develop application strategy and architecture in line with these trends to meet business needs.   Manage vendor relationships and deliverables.   Qualifications And Experience  Education     Bachelor’s degree or higher in a computer related major or equivalent   Experience And Skill     At least 5 years of software development experience   Experience in securities exchange, derivatives trading, cryptocurrencies and blockchain would be an added advantage   Full stack developer with hands-on experience in Java, micro-services and frameworks such as Spring, React or Angular   Experience with AWS technologies such as API Gateway, EC2, RDS, S3 and EKS   Experience with smart contracts and blockchain preferred   Familiar with CI/CD deployment and toolsets such as Jenkins and Gitlab   Experience with FIX version 4.2 and above   Familiarity with scripting Selenium or Katalon preferred   Experience with multithreading and concurrency is a plus   Knowledge in financial exchange system/framework, especially matching engine and market supervision is a plus   Strong analysis and communication skill   Result-oriented, diligent and a team player   Employment Benefits     Competitive staff benefits - annual leave, life insurance, and medical insurance (includes dependents)   Competitive remuneration including variable bonus   How to Apply:-  If you are ready to take up a new challenge in a dynamic and fast-growing platform, please send your resume to hr@asianext.comstating your name and title of the position applied for in the subject line.  Only shortlisted candidates will be contacted for further discussion. All personal data collected will be kept strictly confidential for recruitment purposes only.   AsiaNext is an Equal Opportunity Employer. We do not discriminate on the basis of race, religion, colour, sex, gender identity or expression, sexual orientation, age, non-disqualifying physical or mental disability, national origin, or any other basis covered by appropriate law.",
+            "datePosted": "2023-03-20",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 9000,
+                "minValue": 6000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/software-engineer-asia-digital-exchange-bfd8892375fd3d05e8164d08643227f7?source=MCF&event=Search",
+            "uuid": "7d6c8232-62b2-4474-a9ae-8b3bdaf60274"
+        },
+        {
+            "dueDate": "2023-04-09",
+            "jobTitle": "Software Engineer",
+            "skills": [
+                "Hardware",
+                "Software Engineering",
+                "Agile",
+                "JavaScript",
+                "Reliability",
+                "Embedded Systems",
+                "User Interface",
+                "System Design",
+                "FPGA",
+                "Python",
+                "Microcontrollers",
+                "Satellite",
+                "Team Player",
+                "Java",
+                "API",
+                "Databases",
+                "Software Development",
+                "C++"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "TCH TECHCENTRE, 71 TOH GUAN ROAD EAST"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/6d1ab31b6244dbb037970be423a53863/zero-error-systems.png",
+                "name": "ZERO-ERROR SYSTEMS PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Job Title: Software Engineer  Role and Responsibilities  \tInvolve in product conceptualization, design, verification/validation for space/satellite and high-reliability applications \tDevelop application programming interface (API) to satellite payload and/or high-reliability applications \tDevelop test protocols/test programs using microcontrollers and/or Field-Programmable-Gate-Array (FPGA) means \tWork with hardware engineers to develop Graphic User Interface (GUI) for data acquisition for embedded systems \tSupport functional and reliability tests to ensure functional safety and performance of the embedded system \tGenerate and maintain the necessary documents   Qualifications  \tHave at least a bachelor’s degree in an engineering discipline preferably in computer engineering, computer science, or electrical/electronic engineering \tExperience in software development for embedded systems (e.g., leveraging on microcontrollers or FPGA) \tSkilled in at least one programming language in C/C++, Python, Java, Golang, Verilog/VHDL, etc.  \tExperience in Graphic User Interface (GUI) design  \tExperience in various hardware communication protocols (e.g., UART, SPI, I2C, DDR2/3/4, CAN, eMMC, etc.) \tKnowledgeable in quality/qualification workflows, including verification, validation, and reliability testing   \tKnowledge of space/satellite applications is a plus \tKnowledge of hardware/software functional safety standard (e.g., IEC 61508) is a plus \tKnowledge of cloud-based software system design is a plus \tIs a good team player that can work well in a team to solve problems to deliver solutions to meet market needs ",
+            "datePosted": "2023-03-10",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 8000,
+                "minValue": 5000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/design/software-engineer-zero-error-systems-3f0c695ec0096bf5148b85fecd3c97d3?source=MCF&event=Search",
+            "uuid": "e316a6f4-9ffe-4d19-8181-16ed3dae134f"
+        },
+        {
+            "dueDate": "2023-04-15",
+            "jobTitle": "Software Engineer",
+            "skills": [
+                "UML",
+                "Technical Documentation",
+                "MongoDB",
+                "Solutioning",
+                "Agile",
+                "Root Cause Analysis",
+                "JavaScript",
+                "JIRA",
+                "Teamoriented",
+                "Java",
+                "Software Development",
+                "Ability to Prioritize",
+                "Business Requirements",
+                "Technical Design"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "OXLEY BIZHUB, 71 UBI ROAD 1"
+            },
+            "company": {
+                "logo": null,
+                "name": "MGG SOFTWARE PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "RESPONSIBILITIES    Work closely with project management team to identify and analyse business requirements for system development and enhancements   Design solution and develop technical documentation (flow, UML, processing rules) to support system development   Work closely with fellow software engineers in project team to develop systems using JavaScript and Java   Deploy and implement your codes in test and production environments using CI/CD   Participate in daily meetings with development team to provide clarifications on design, business rules and data requirements and ensure alignment with business requirements   Undertake root cause analysis for problems to implement preventive and corrective measures to meet business and performance needs   REQUIREMENTS    At least 1 year of experience in designing and building software using JavaScript (ReactJS, NodeJS, VueJS, Express, MongoDB)   Strong analytical, problem-solving skills, and solutioning skills   Attention to data relationship and accuracy   Strong communicator, highly proficient in English and Chinese (written and spoken). Knowledge of Malay or Indonesian is highly advantageous.   Participated in at least one software development cycle using Agile and CI/CD   Multi-tasking and time-management skills, with the ability to prioritize tasks   Able to work in a fast-paced, team-oriented environment   Experience with using Agile and technical design tools and cloud-based tools, eg. Jira, Trello, Gitlab and Draw.io, etc   BENEFITS    Up to 16 days of annual leave   Medical coverage   Hybrid work option   Opportunities for project-based travel ",
+            "datePosted": "2023-03-16",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 5500,
+                "minValue": 4000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/software-engineer-mgg-software-7f8bd87df46794359fa0afd4c5bf2ea4?source=MCF&event=Search",
+            "uuid": "5cc21a9a-1d85-4966-930d-00a3c48b3512"
+        },
+        {
+            "dueDate": "2023-05-03",
+            "jobTitle": "Senior Software Engineer",
+            "skills": [
+                "Coaching",
+                "Mentoring",
+                "Version Control",
+                "Product Marketing",
+                "Autonomy",
+                "Analytic Thinking",
+                "Node.js",
+                "MySQL",
+                "JavaScript",
+                "SQL",
+                "Publishing",
+                "React Native",
+                "Web Applications",
+                "Java",
+                "Databases",
+                "React.js",
+                "Software Development"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": null
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/9cff4d61968c306a9d84fdfe0ceeea6b/2359-media.png",
+                "name": "2359 MEDIA PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME",
+                "CONTRACTOR"
+            ],
+            "description": "In 13 years, we've built an award-winning, multinational digital experience studio. It has been an adventure best described as a coherent and chaotic innovation. One that would not be possible without the ingenuity of our people. We still have the same dream. To improve the way people live and work through technology. Those who work here describe 2359 Media as a place to grow their skills and ability. The hierarchy is very flat and our time during work is focused on delivering great work to our clients. Here we value entrepreneurial spirit, initiative, teamwork and creativity. It’s rewarding to work where everyone is empowered to make a difference. Enjoy high-level autonomy, and be seen and heard for all the great work you do. Bask in our family-like culture, where we take every opportunity to celebrate our achievements because our most valued resource is our people. As a Senior Software Engineer, you will create impact by:    Utilizing and applying robust analytic thinking with the ability to identify, debug, and resolve technical issues.   Providing coaching and technical mentoring to more junior developers.   Conducting team code reviews.   Displaying initiative and an ability to lead others, and develop applications team disciplined manner.   Working and collaborating with the rest of the engineering team.   Working with product team and graphic designers.   Learning and understanding user interactions.   Developing and supporting graphical interfaces.   Supporting existing solutions.   Optimizing components for maximum performance across a vast array of web-capable devices and browsers.   Working independently to evaluate and make strategic decisions that will address specific technology design needs and issues within their technology area.  As a Senior Software Engineer, it would help for you to be:    Proficient in Node.js, Java, React Native or React.js  If you have what it takes to be part of a rapidly-iterating, highly dynamic ecosystem, get in touch with us at talent@2359media.com!",
+            "datePosted": "2023-04-03",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 8000,
+                "minValue": 4500,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-software-engineer-2359-media-51d26c3441921b81cad283983e37b191?source=MCF&event=Search",
+            "uuid": "5d8363f0-085f-4706-a2fc-ed8464f48aee"
+        },
+        {
+            "dueDate": "2023-04-10",
+            "jobTitle": "Software Engineer",
+            "skills": [
+                "MongoDB",
+                "Design Patterns",
+                "Software Engineering",
+                "MySQL",
+                "JavaScript",
+                "SQL",
+                "System Design",
+                "Ruby",
+                "Python",
+                "Web Applications",
+                "Product Development",
+                "Java",
+                "C#",
+                "Debugging",
+                "System Architecture",
+                "Databases",
+                "Software Development",
+                "C++"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "12 TAI SENG LINK"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/9a91b15fa83adfb53758da8df368187f/lorenz-technology.jpg",
+                "name": "LORENZ TECHNOLOGY PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Roles ; Responsibilities  Responsibilities:    Responsible for the new product development in the server   In-depth exploration and analysis of business needs, writing technical   solutions and system designs   Complete system design and coding according to product requirements   Remodel and optimize the system architecture   Deliver at the pace of business changes and requirements   Solve challenging technical problems both individually and cooperatively with   the team   Passion to bring out innovative ideas and try out new solutions, while being   open minded to feedback from the team   Relentless focus on quality   Requirements    Minimum 5 years of experience in software development (any tech stack included but not limited to Golang / Java / Python experience)   Minimum a Masters Degree in Engineering or any related course   ProCcient in at least one programming language such as Python, Go, Java, Node.js, Ruby, etc., and understand Python; Familiar with the use and optimization methods of common databases such as Redis, MySQL, MongoDB, and Memcached;   Familiar with consensus algorithm or consensus algorithm is preferred, such as PoW, PoS, DPoS, PBFT, Raft, etc.; Build the back-end of applications by creating the necessary APIs for integration.    Identifying risks involved with the development and providing solutions to resolve complex problems. Setting up best coding practices and conducting regular code reviews.   ",
+            "datePosted": "2023-03-27",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 13000,
+                "minValue": 11000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/software-engineer-lorenz-technology-d9a9f2550f56b2700b6878eca44e5990?source=MCF&event=SuggestedJob",
+            "uuid": "39e56d58-137e-43e6-bb22-3e19202d7e08"
+        },
+        {
+            "dueDate": "2023-04-12",
+            "jobTitle": "Software Engineer ",
+            "skills": [
+                "UML",
+                "JSON",
+                "Troubleshooting",
+                "XHTML",
+                "Web Services",
+                "JSP",
+                "Eclipse",
+                "XML",
+                "SOAP",
+                "Scripting",
+                "JDBC",
+                "SQL",
+                "AJAX",
+                "HTML 5",
+                "EJB",
+                "Java"
             ],
             "location": {
                 "country": "SG",
@@ -835,60 +542,275 @@
             },
             "company": {
                 "logo": null,
-                "name": "RECRUITMENT ALLIANCE"
+                "name": "ALLTECH SYSTEMS PTE. LTD."
             },
             "jobType": [
                 "FULL_TIME"
             ],
-            "description": "Our client: A 2 decades old profitable and dynamic industry pioneer, specialised in inventory and accounting software for diverse industries. Job scope: (1)Troubleshoot software application issues on a virtual server, windows server n  desktop (2)To set up ,maintain, provide end user with technical support  of accounting and inventory software   Requirements: -Diploma up in Information Technology or networking -Experience with setup ; maintenance of windows servers, virtual machines (HyperV, Citrix), remote desktop, Fortinet firewall -Possess Experience in implementation ; technical support of accounting or inventory software and accounting knowledge will be an added advantage Work Location: Eunos Please submit resumes to michelle@careersg.sg with the following details in MS Word format: - Position applying for - Current remuneration - Expected remuneration - Notice period Michelle Goh EA License No : 22C1142 We regret that only shortlisted candidates will be notified.",
-            "datePosted": "2023-04-03",
+            "description": "Job Description  · Code, modify, test, correct and document new and existing programs using assigned languages, tools and coding conventions; · Prepare and document test data; · Prepare and set up testing and production environment; · Prepare and maintain program and system documentation; · Assist in establishing file structures and processing logic requirements; · Produce deliverables according to group standards and procedures; · Assist Project Leaders in the study and design of application systems and work coordination, project management and user training work; · Troubleshooting and supporting end-users in the implementation and maintenance of application systems; · Train other contract programmers in the relevant skills; · Participate in Disaster Recovery activities eg simulation exercise at Disaster Recovery sites; · Learn / pick up new programming skills related to System Development and Maintenance as assigned by the supervisors; · Any other tasks related to System Development and Maintenance as assigned by the supervisors;  Job Requirements  a) Have three (3) years’ experience, within the past four (4) year’s timeframe, in each of the programming skills: - JSP, Servlet, Java Bean, Java Script, Session management, JDBC ; SQL b) Have two (2) years’ experience, within the past three (3) year’s timeframe, in coding programs using each of the skills: - HTML 5, XHTML, AJAX, Web Services (REST API), JSON, Java Server Faces ; EJB (session, entity ; message, Service Locator, Business Delegate, Data Transfer Object, Data Access Object). c) Preferably have hands on experience on the following: - IBM RAD9.0 or above or Eclipse or equivalent, Portal and Portlet development, n-Tier Architecture, Java Web Security/LDAP, JEE Security, JEE Transaction, XML, Web Services (SOAP), JNDI, UML diagrams ; Secure coding to prevent application vulnerabilities (for e.g. Cross-site scripting; Injection vulnerability flaws such as SQL injection, command injection; Race conditions; Improper error/ exception handling, etc).",
+            "datePosted": "2023-03-13",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 9000,
+                "minValue": 3500,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/software-engineer-alltech-systems-c91587f36a858e71342ca1e5305a1cbe?source=MCF&event=Search",
+            "uuid": "8cd79ad6-6970-4c37-837a-979b508e771b"
+        },
+        {
+            "dueDate": "2023-04-21",
+            "jobTitle": "Software Engineer ",
+            "skills": [
+                "MVC",
+                "Xamarin",
+                "CSS3",
+                "CSS",
+                "HTML",
+                "REST",
+                "Unit Testing",
+                "JavaScript",
+                "HTML5",
+                "Adonet",
+                "SQL",
+                "SQL Server",
+                "Windows Services",
+                "C#",
+                "Debugging",
+                "API"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "600 SIN MING AVENUE"
+            },
+            "company": {
+                "logo": null,
+                "name": "AUTOSCAN TECHNOLOGY PTE LTD"
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "   Design, Develop, test and maintain both new and existing code, ranging from client-side development using JavaScript, HTML, and CSS, to server-side code using C# and ASP.NET MVC, Web API, Windows Services, and ADO.NET for data persistence and retrieval. Xamarin for Moblie Development.   Work with management to create and adhere to schedules, while maintaining flexibility to adapt shifting market demands.   Rapid prototyping, and presenting conceptual design and working prototypes to mangement.   Collaborate on technical architecture and design.  Requirments    Solid understanding of OOP design and principles   Visual Studio 20XX, SQL, Server 20XX   Remote Debugging   Unit Testing  Front-End    C3, ASP.NET MVC, Web API   JavaScript, JQuery, AJAX   HTML5, CSS3, Reponsive deisgn   Understanding of web technology stacks including HTTP, REST,Cookies, caching, and asset loading.  Requirment    Diploma, Advanced/Higher/Graduate Diploma, Bachelor's Degree, Post Graduate Diploma, Professional Degree in Computer Science or Related Field   Min 2 years experience   Singaporean or PR   Office near Bishan MRT ",
+            "datePosted": "2023-03-22",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 5500,
+                "minValue": 4500,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/software-engineer-autoscan-technology-e31799cd6174482cb4495ee0774529f5?source=MCF&event=Search",
+            "uuid": "d5577e6e-9efd-4ae9-97b6-6663aafd497a"
+        },
+        {
+            "dueDate": "2023-04-14",
+            "jobTitle": "Software Engineer",
+            "skills": [
+                "Machine Learning",
+                "MVC",
+                "MongoDB",
+                "CSS",
+                "PHP",
+                "HTML",
+                "REST",
+                "MySQL",
+                "UI",
+                "Continuous Integration",
+                "Angular",
+                "Web Applications",
+                "Debugging",
+                "Web Development",
+                "Databases",
+                "Software Development"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "TRIVEX, 8 BURN ROAD"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/1413f503a6d9cda298a627a2fbbc07c1/iotalents.png",
+                "name": "IOTALENTS PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Responsibilities    Gather and refine web site/application design specifications and requirements based on business needs   Participate in the entire application lifecycle, focusing on coding and debugging   Write clean code to develop functional web applications   Build reusable code and libraries for future use   Develop well-designed, tested and efficient code using best software development practices   Create website layout/user interfaces by using standard HTML/CSS practices integrating data from various back-end servers and databases   Create and maintain software documentation   Maintain, expand, and scale the site as needed   Stay current with emerging technologies/industry trends and make recommendations accordingly.   Understanding of UI, cross-browser compatibility, general web functions and standards  Requirements    Degree/Diploma in Computer Science/Computer Engineering or related fields   Proven experience as a full stack developer   Comfortable creating and using web-based REST APIs   Proficiency with languages such as HTML, CSS, ECMAScript 6 (ES6), PHP   Expertise in Web development using Laravel, CakePHP (or other MVC frameworks)   Familiarity with front-end frameworks such as React, Angular.   Knowledge in relational and no-SQL databases (MongoDB, MySQL).   Knowledge of machine learning algorithms a big plus   Experience with software projects - source code control, continuous integration, documentation ",
+            "datePosted": "2023-03-15",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 5000,
+                "minValue": 3500,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/software-engineer-iotalents-d8b553dd2c8700270ba06e98fe01dc5b?source=MCF&event=Search",
+            "uuid": "466d64a5-cf42-48a6-a5c5-bfcba52c5baf"
+        },
+        {
+            "dueDate": "2023-04-16",
+            "jobTitle": "Software Engineer",
+            "skills": [
+                "Troubleshooting",
+                "Software Engineering",
+                "JavaScript",
+                "Positive Team Player",
+                "Windows",
+                "Software Design",
+                "Software Configuration Management",
+                "Java",
+                "Software Development",
+                "C++"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "PLAZA 8 @ CBP, 1 CHANGI BUSINESS PARK CRESCENT"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/bf550dd7a52653fb5f88ec996b518edc/hollysys.png",
+                "name": "HOLLYSYS (ASIA PACIFIC) PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Responsibilities · Designing and delivering software to meet customer requirements including architecture, design,   reuse, development, integration and verification. · Collaborating with the software development team on application design and development. · Developing software and overseeing the deployment of applications across platforms. · Software requirement analysis and documentation. · Trouble-shooting at site. · Using version control for software release management and documentation. · Guide and mentor junior developer in the technical aspect.  Requirements · At least 5 years of practical experience and excellent in C++ programming (Solid understanding of pointers, memory, polymorphism, STL and etc.). · Object-oriented programing knowledge and experience with QT framework. · Experience in Software design and implementation using C++/C/QT under a Windows or Linux environment. · Have an understanding of and experience with multithreaded systems, and low latency IO. · Strong analytical and problem-solving skills. · Experience with software configuration management tools/version control tools. · Knowledge of ACE or OPC UA is a plus. · Experience guiding/mentoring junior developers. · Excellent collaboration and communication skills.",
+            "datePosted": "2023-03-17",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 9000,
+                "minValue": 6500,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/software-engineer-hollysys-e14bdc50da7b6d8ad8871d3299d6fe88?source=MCF&event=Search",
+            "uuid": "4157b571-9ba8-47fe-8945-1fcf05d9bbad"
+        },
+        {
+            "dueDate": "2023-04-14",
+            "jobTitle": "Software Engineer",
+            "skills": [
+                "Operation",
+                "HTML",
+                "Job Descriptions",
+                "Software Engineering",
+                "MySQL",
+                "JavaScript",
+                "Production",
+                "SQL",
+                "Python",
+                "Inspection",
+                "Java",
+                "Linux",
+                "Software Development",
+                "C++"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "TRITECH BUILDING, 31 CHANGI SOUTH AVENUE 2"
+            },
+            "company": {
+                "logo": null,
+                "name": "TRITECH SYSENG (S) PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Job Description Job Description:    Develop in-house program for engineering instrument data process.   Design/setup/develop/maintain gateway for data transmission.   Documentation on operation ; maintenance instructions and manual.   Coordinate fabrication, inspection, testing, installation, and commissioning of hardware and software system.   Support daily operation and provide customer support.   Find out root cause of hardware, software, and system failure. Apply solution and implement future prevention.  Job Requirement:    Familiar Python 3 and its built-in libraries.   VueJS Framework, Go language   In depth experience in  o Network, TCP/IP o SQL o Managing Linux / windows OS    Bilingual in English and Chinese (to handle Chinese speaking customers’ technical enquires ; conduct trouble shooting based on customers’ feedback)   Graduate from Polytechnics/University   Must be hands-on and able to debug.   At least 3 years relevant experience ",
+            "datePosted": "2023-03-15",
             "salaryRange": {
                 "currency": "SGD",
                 "maxValue": 4000,
                 "minValue": 3000,
                 "payPeriod": "MONTH"
             },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/software-application-support-executive-recruitment-alliance-3df55301ae99aac4be61943bba35d099?source=MCF&event=Search",
-            "uuid": "9570d107-db2b-45e1-8cbe-9bca0b9e90b9"
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/software-engineer-tritech-syseng-56f2a21f7101969fbbdafbce31526d3f?source=MCF&event=Search",
+            "uuid": "880ef34b-d49b-4227-9044-7c099c24ae93"
         },
         {
-            "dueDate": "2023-04-04",
+            "dueDate": "2023-04-12",
             "jobTitle": "Software Engineer",
             "skills": [
-                "Embedded Software",
-                "Software Engineering",
-                "Agile",
+                "UML",
+                "MVC",
+                "JSON",
+                "Troubleshooting",
+                "Web Services",
+                "JSP",
+                "Eclipse",
+                "Scripting",
+                "JDBC",
                 "SQL",
-                "Operating Systems",
-                "Team Player",
-                "Product Development",
+                "AJAX",
+                "EJB",
                 "Java",
-                "Software Development",
-                "C++",
-                "Agile Development"
+                "WSDL",
+                "Software Development"
             ],
             "location": {
                 "country": "SG",
                 "locality": "Singapore",
-                "address": "GEMALTO BUILDING, 12 AYER RAJAH CRESCENT"
+                "address": null
             },
             "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/d3922350d65cc746e31b18df6900bc86/THALES%20DIS%20(SINGAPORE)%20PTE.%20LTD..jpg",
-                "name": "THALES DIS (SINGAPORE) PTE. LTD."
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/34fa7a4b350df9ea167bca4c7c1fe6eb/stie.png",
+                "name": "STIE PTE. LTD."
             },
             "jobType": [
                 "FULL_TIME"
             ],
-            "description": "Thales Singapore Engineering Competence Centre (ECC) is a well-established R;D and engineering centre serving major customers worldwide in Digital Identity and Security domains ranging from mobile connectivity, IoT, banking ; payment to government solutions.  As a Software Engineer in Thales Embedded Product Development Team in ECC, you will participate in the design, implementation, validation and deployment of Embedded Products for major OEM customers.  A week in the life of an Embedded Software Engineer:    Develop, validate and deploy new software components (for example advance software security mechanism and next generation IoT connectivity protocols) for embedded operating systems targeted for mobile and IoT devices, in applications such as mobile payment, digital identity and IoT connectivity   Participate to the development of next generation operating systems for future devices   Being in agile development environment to work closely within team and multiple teams around the world to build great products exceeding customer expectations   Contribute to continuous product and development methodology improvement  Knowledge, Skills and Experience:    Degree in Electrical/Electronics/Computer Engineering, or related fields   Proficient in C/Java programming languages   First professional experience or internship within embedded software development area preferred   Knowledge of embedded technologies/ecosystem, software security or Javacard knowledge is a plus   Team player with good communications and collaborative skills ",
-            "datePosted": "2023-03-05",
+            "description": "Job Description:  The Programmers shall be required to:  i. Code, modify, test, correct and document new and existing programs using assigned languages, tools and coding conventions; ii. Prepare and document test data; iii. Prepare and set up testing and production environment; iv. Prepare and maintain program and system documentation v. Assist in establishing file structures and processing logic requirements; vi. Produce deliverables according to group standards and procedures; vii. Assist Project Leaders in the study and design of application systems and work coordination, project management and user training work; viii. Troubleshooting and supporting end-users in the implementation and maintenance of application systems; ix. Train other contract programmers in the relevant skills; x. Participate in Disaster Recovery activities, e.g. simulation exercise at Disaster Recovery sites; xi. Learn / pick up new programming skills related to System Development and Maintenance as assigned by the supervisors; xii. Any other tasks related to System Development and Maintenance as assigned by the supervisors.  Working Experience and Skill Requirement  (i) Have six (6) years’ experience in each of the programming skills: - JSP, - Servlet, - Java Bean, - Java Script, - Session management - JDBC, SQL (ii) Have five (5) year experience in coding programs using each of the skills: - MVC modeling; - Java Server Faces - EJB (session, entity ; message, Service Locator, Business Delegate, Data Transfer Object, Data Access Object), (iii) Preferably have hands on experience on the following: - IBM RAD9.0 or above or Eclipse or equivalent - Portal and Portlet development using JSF - Jtpl (page template) - n-Tier Architecture - Java Web Security/LDAP - JEE Security - JEE Transaction - XML - Web Services (WSDL) - JNDI - Ajax - JSON - UML diagrams - Secure coding to prevent application vulnerabilities (for eg. Cross-site scripting; Injection vulnerability flaws such as SQL injection, command injection; Race conditions; Improper error / exception handling, etc)",
+            "datePosted": "2023-03-13",
             "salaryRange": {
                 "currency": "SGD",
-                "maxValue": 6800,
-                "minValue": 4500,
+                "maxValue": 5000,
+                "minValue": 3000,
                 "payPeriod": "MONTH"
             },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/software-engineer-thales-dis-7081888ed5137b2191a6455ccf9369f1?source=MCF&event=Search",
-            "uuid": "2f3de7dd-4954-4d3f-b2cb-3737e8fdac7a"
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/software-engineer-stie-b374b915abc4b7b22427dff366089b69?source=MCF&event=Search",
+            "uuid": "6aa750c4-c84c-445f-b068-9bbc65ba7c30"
+        },
+        {
+            "dueDate": "2023-04-30",
+            "jobTitle": "Software Engineer",
+            "skills": [
+                "Git",
+                "JSON",
+                "Able To Multitask",
+                "PHP",
+                "Software Engineering",
+                "MySQL",
+                "Agile",
+                "Bootstrap",
+                "JavaScript",
+                "SQL",
+                "Python",
+                "Docker",
+                "Applications Support",
+                "Java",
+                "Software Development"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "Vertex (Tower A), 33 Ubi Avenue 3"
+            },
+            "company": {
+                "logo": null,
+                "name": "COMMONTOWN PRIVATE LIMITED"
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "   Analyse, design, develop and implement mobile and/or web-based applications.   Develop Front-end and/or back-end applications.   Support product implementation and maintenance.  Requirements    Diploma/Degree in Computer Science.   Strong programming skills and good problem solving skills.   At least 2 years of extensive experience in 1 or more of these tool sets: 1. PHP, Nodejs, MySQL, JSON and Bootstrap, or 2. Java technologies (Spring Framework, RESTful/SOAP).    Working experience with these tools: NPM, Docker, Git is an advantage.    Knowledge of AWS is an advantage.    Proactive, able to multitask and work independently. ",
+            "datePosted": "2023-03-31",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 7000,
+                "minValue": 4000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/software-engineer-commontown-09a7bf4d379eee3ac73252e75fb91ebe?source=MCF&event=Search",
+            "uuid": "82dd044b-52a8-4a0b-a983-3426edc8fffc"
         }
     ]
 }
