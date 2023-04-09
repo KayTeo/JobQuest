@@ -198,7 +198,10 @@ export default function SearcherSetUp({ userID, userData }) {
                             onClick={(e) => {
                                 e.preventDefault(0);
                                 const value = skillsInputRef.current.value;
-                                if (value === "" || skills.includes(value)) {
+                                if (
+                                    value.trim() === "" ||
+                                    skills.includes(value)
+                                ) {
                                     return;
                                 }
                                 setSkills([...skills, value]);
