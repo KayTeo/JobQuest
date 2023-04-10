@@ -1,750 +1,311 @@
 {
     "jobs": [
         {
-            "dueDate": "2023-04-14",
-            "jobTitle": "Software Engineer",
+            "dueDate": "2023-04-30",
+            "jobTitle": "Mechanical Engineer (Design)",
             "skills": [
-                "Negotiation",
-                "Azure",
-                "Cloud Computing",
-                "Interpersonal Skills",
-                "MS Office",
-                "Building Automation",
-                "Project Management",
-                "Good Communication Skills",
-                "Writing",
-                "Assertiveness",
-                "Project Time Management",
-                "Team Work",
-                "Software Development"
+                "Equipment Sizing",
+                "Feasibility Studies",
+                "Revit",
+                "Autodesk Revit",
+                "Modeling",
+                "HVAC",
+                "Building Services",
+                "3D",
+                "Fabrication",
+                "Compliance",
+                "Digitization",
+                "AutoCAD",
+                "Bridge",
+                "Layout",
+                "CAD",
+                "Mechanical Engineering"
             ],
             "location": {
                 "country": "SG",
                 "locality": "Singapore",
-                "address": "THE STRATEGY , 2 INTERNATIONAL BUSINESS PARK "
+                "address": "UE SQUARE, 83 CLEMENCEAU AVENUE"
             },
             "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/d5158817d15b30ca50ea3b605687c7a5/azbil-singapore.jpg",
-                "name": "AZBIL SINGAPORE PTE. LTD."
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/21c7fd650fb37e317fc226d6797d4d32/coens-energy.jpg",
+                "name": "COENS ENERGY PTE. LTD."
             },
             "jobType": [
                 "FULL_TIME"
             ],
-            "description": "Azbil Singapore Pte Ltd, was, established since 1998, as an overseas base in Singapore with the commitment of serving our valued customers at their doorstep. Today, we are a leading solutions provider of sensors, valves, controllers, system, software and maintenance for Industrial, Factory and Building Automation industries. We are currently strengthening and expanding our operations base in Singapore and is looking for a Software Engineer for the Building Automation business to join our team. You will work closely with our Sales and Project team and involve in Design, develop, and deploy software application products of IBMS projects through requirements gathering and analyzing, planning, documenting, organizing, and managing the software development life cycle (SLDC) with internal and external teams to fulfil the customer requirements satisfactorily and meet the project timeline without any delay and defects. In additions, researching new technologies to improve performance and enhance the software products' efficiency, supporting the sales and marketing team to understand tender requirements and build POC, and supporting the maintenance team to troubleshoot and implement new functions and features to existing products.  Responsibilities:    Establishing the critical milestones with the support of the project team.   Requirement breakdown for architecting of the software products and modulizing the significant components for continuous integration and deployment.   Participating in handshake tests and site testing when necessary.   Establishing the Software Quality assurance procedure and performing T;C and user training.   Conducting sessions and workshops directly with the stakeholders to get requirements.   Arrange and plan the workforce commitment with the internal and external teams as required.   Maintaining proper communication between all the teams and the stakeholders.   Support Sales and Marketing teams to understand the tender requirements, especially for cloud-related solutions.   Observe new technologies in software development, cloud computing and project management to enhance the performance of existing software products and design new solutions for future requirements.   Build POC (Proof of Concept) solutions for demonstrations and exhibitions to get new projects.   Troubleshooting bugs of existing software products.   Establishing preventive maintenance strategies to avoid future disturbance.   Analyzing the new requirements to the existing products and planning the implementation with minimum disruption to the system.  Requirements:    Minimum Bachelor Degree related to Computer Engineering/Software Engineering/Computer Science   Certification on Software Development Methodologies   Certificate on Cloud Computing (AWS, Azure, Google Cloud etc.)   2-3 Years of Software Development Experience with latest technologies preferred   1-2 years of BMS/IBMS related Experience   1-2 Years of Cloud computing experience   2-3 Years of Software Development management experience preferred   Good verbal and writing skills in English   Having good communication skills manage conflicts between team and stakeholders.   Having good interpersonal skills, including leadership to motivate and mentor the team ",
-            "datePosted": "2023-03-15",
+            "description": "Job Responsibilities:    To involve in the planning and design of mechanical engineering works for building services    Prepare design reports, calculations, tender documents, detail design, technical specifications, and BOQ for tenders.   To attend the tender briefing and clarification meetings and to respond to RFI.   To carry out design authorship site visits for inspection, necessary supervision, and preparation of inspection reports.   To provide supervision when necessary for the installation and commissioning of mechanical services and airport systems.   To collaborate with peers of other disciplines in feasibility studies and design, as well as ensure excellent delivery of service to clients.  Job Requirements:    Degree in Mechanical Engineering/Building services from a recognized University.   Minimum 3 years of working experience in the building services design industry as a design engineer. Those with more than 6 years will be considered for the Senior role.    Proficient in Autodesk Revit MEP, and AutoCAD applications for mechanical, plumbing services design layout modeling, and detailing.   Proficient in mechanical and plumbing services design calculations   Well-versed in international building codes, International plumbing codes, NFPA standards 13, 14, 2001, and ASHRAE standards for understanding the requirement and design compliance check.   Candidates will be required to travel overseas to attend design presentations, client meetings, and design workshops. ",
+            "datePosted": "2023-03-31",
             "salaryRange": {
                 "currency": "SGD",
-                "maxValue": 6600,
-                "minValue": 3500,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/building-construction/software-engineer-azbil-singapore-0a6f60e662e3cc853fdcb9b83ddfe8f5?source=MCF&event=Search",
-            "uuid": "c25d0a99-6478-4b93-883e-d50fb5877f23"
-        },
-        {
-            "dueDate": "2023-04-16",
-            "jobTitle": "Senior Software Engineer",
-            "skills": [
-                "Requirements Gathering",
-                "UAT",
-                "Hardware",
-                "Project Quality",
-                "Software Documentation",
-                "System Testing",
-                "JavaScript",
-                "Information Technology",
-                "Configuration Management",
-                "Audits",
-                "Team Lead",
-                "Team Player",
-                "Integration Testing",
-                "Java",
-                "Disposition",
-                "Software Development"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "LTC BUILDING B, 12 ARUMUGAM ROAD"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/d3bf8a69518f9a037c3cdb5260a4f103/CARLSYS%20TECHNOLOGIES%20PTE.%20LTD..jpg",
-                "name": "CARLSYS TECHNOLOGIES PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Responsibilities:    Analyse process/program specifications ; translate specifications to program codes, conforming to program guidelines and programming best practices   Make changes to configurable items, which include hardware, software, documentation, etc. It covers configuration management planning, configuration identification, configuration controls ; audits   Develop unit test package, execute tests ; document test results to ensure the quality of the program   Assist in the integration testing, system testing, User Acceptance Test (UAT) ; implementation activities to fix the reported problems/bugs of the system to ensure the smooth execution of programs in the production environment   Investigate all reported problems/errors ; initiate amendments ; testing so that the system can operate correctly ; efficiently   Prepare ; maintain up-to-date system documentation.   Analyse functional requirements to translate into application design using established design methodologies and guidelines   Work with team lead to ensure design and programme codes conform to architecture and design standards, and that design satisfies functional and system requirements   Participate in requirements gathering; work with Business Analysts in reviewing and refining functional specifications   Participate in peer reviews to improve project quality  Requirements:    Diploma / Degree in Computer Science / Computer Engineering / Information Technology related field, or IT equivalent   Preferably 2 years of working experience in developing and delivering application software   Possess relevant system development / maintenance experience using JAVA-related technologies   Possess initiative and disposition with a strong commitment and orientation towards results and high-quality standards   Strong problem-solving skills and ability to think out of the box   Team player with strong communication and interpersonal skills   Self-motivator with a positive attitude and with high energy   Customer focused   Proficient in written and spoken English ",
-            "datePosted": "2023-03-17",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 12000,
-                "minValue": 8000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-software-engineer-carlsys-technologies-20f1636fb43d5fcc5002d8ba3d427f87?source=MCF&event=Search",
-            "uuid": "4899c0f8-b94f-45ca-beca-674a2da98ae6"
-        },
-        {
-            "dueDate": "2023-04-19",
-            "jobTitle": "Software Engineer",
-            "skills": [
-                "CSS",
-                "Software Engineering",
-                "Agile",
-                "Scripting",
-                "JavaScript",
-                "SQL",
-                "Python",
-                "Java",
-                "C#",
-                "API",
-                "Databases",
-                "Linux",
-                "Software Development",
-                "C++"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "81 AYER RAJAH CRESCENT"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/f3fa80399806c1a871cde8a4fd6014e6/insider-security.png",
-                "name": "INSIDER SECURITY PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Job Scope    Software development of innovative cybersecurity products   New software engineers generally start off on general software engineering, and are given the opportunity to over time become domain experts in either back-end, front-end, algorithms or devops.  Requirements    Degree in Computer Science, Computer Engineering or Electrical Engineering   Strong in coding, eg, C, Go, Javascript or high-level scripting languages   Cybersecurity background is a plus but not required   Must be a Singapore resident  Benefits    Do meaningful work in big challenging problems   Build cutting-edge solutions   Mentorship by cybersecurity experts   Chalk up valuable experience and insights in the cybersecurity industry   Competitive salary   Hybrid work model (staff can work 2 days a week remotely)  After applying via mycareersfuture, kindly also submit your resume via https://apply.workable.com/insidersecurity/",
-            "datePosted": "2023-03-20",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 5500,
-                "minValue": 4500,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/software-engineer-insider-security-9a99f7549f8501683758fc230bacafd3?source=MCF&event=Search",
-            "uuid": "f3b658e6-82b9-4c8e-aec6-7ebc1f3b432e"
-        },
-        {
-            "dueDate": "2023-05-04",
-            "jobTitle": "SOFTWARE ENGINEER",
-            "skills": [
-                "Troubleshooting",
-                "Hardware",
-                "RF",
-                "Dynamics",
-                "Scripting",
-                "Wireless",
-                "Embedded Systems",
-                "Networking",
-                "Python",
-                "Firmware",
-                "Microcontrollers",
-                "Robotics",
-                "Wireless Networking",
-                "Linux",
-                "Software Development"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "KA CENTRE, 150 KAMPONG AMPAT"
-            },
-            "company": {
-                "logo": null,
-                "name": "DOODLE LABS (SG) PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Software Engineer Job Description Doodle Labs is the global leader in high-performance private IEEE 802.11 wireless networking systems. We provide cutting-edge Smart Radio mesh networks for robotics, drones, and the Industrial Internet of Things. Doodle Labs has experienced rapid growth over the past five years as our products have been adopted by Fortune 500 companies (e.g. Airbus, General Electric) and industry-leading innovators (e.g. Boston Dynamics, FLIR). We’re looking for an experienced software engineer to join our talented team of software, hardware and RF engineers and keen to take a leadership position in our organization. The candidate will be responsible for designing and implementing software that’s part of wireless router firmware. It should be a solid contributor and leader, able to design, develop, code, test, and debug system software and automation scripts. He/She must be able to write clean code and push the capabilities of our Smart Radio and respond to customer needs and problems, as well as perform prototyping and application tests to support the production process. Requirements · Candidate must possess at least a bachelor’s degree, Post Graduate Diploma or Professional Degree in Engineering or Computer Science or equivalent. A Master Degree or PhD is an additional plus. · Experience in Linux, C/C++ and microcontrollers and trouble-shooting embedded systems · Experience in common interfaces, networking protocols, and hardware subsystems · Knowledge of networking concepts · Experience with Linux wireless stack/kernel/driver/git is a plus · Scripting with Bash shell, Python is a plus · Experience with QCA drivers such as ath9k and ath10k and OpenWRT is a plus · Eager to learn and improve in tight deadline environment · Have project management experience · Strong communication skills and ability to engage and guide a cross-functional team",
-            "datePosted": "2023-04-04",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 8000,
-                "minValue": 5000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/software-engineer-doodle-labs-b32a4e0156b608fe09ad42a1b3d92dd5?source=MCF&event=Search",
-            "uuid": "a633ea3e-5e0b-4138-9df9-283b56e0d25a"
-        },
-        {
-            "dueDate": "2023-04-19",
-            "jobTitle": "Senior Software Engineer",
-            "skills": [
-                "Cloud Applications",
-                "Software Engineering",
-                "Agile",
-                "Scripting",
-                "JavaScript",
-                "Python",
-                "Scalable Web Applications",
-                "Docker",
-                "Scalable Architecture",
-                "API",
-                "Databases",
-                "Linux",
-                "Software Development",
-                "C++"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "81 AYER RAJAH CRESCENT"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/f3fa80399806c1a871cde8a4fd6014e6/insider-security.png",
-                "name": "INSIDER SECURITY PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Job Scope    Design and develop scalable software and architecture   Guide junior engineers in good software engineering processes   Software development of innovative cybersecurity products  Requirements    Degree in Computer Science or Computer Engineering   At least 4 years experience in software development   Experienced in tackling software complexity issues   Experience in building high quality software that can scale   Experienced in good software engineering practices   Strong in coding, eg, C, Go, Javascript or high-level scripting languages   Cybersecurity background is a plus but not required   Must be a Singapore resident  Benefits    Do meaningful work in big challenging problems   Build cutting-edge solutions   Chalk up valuable experience and insights in the cybersecurity industry   Competitive salary   Hybrid work model (staff can work 2 days a week remotely)  After applying via mycareersfuture, kindly also submit your resume via https://apply.workable.com/insidersecurity/",
-            "datePosted": "2023-03-20",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 8500,
-                "minValue": 7000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-software-engineer-insider-security-41dada9949885383b16bdf69271be615?source=MCF&event=Search",
-            "uuid": "2c49ab9c-9c99-42eb-bebf-c82ccbe526c5"
-        },
-        {
-            "dueDate": "2023-05-04",
-            "jobTitle": "Senior Software Engineer / Software Engineer",
-            "skills": [
-                "Aftersales",
-                "Customer Interaction",
-                "Software Engineering",
-                "System Integration",
-                "Drawing",
-                "SDLC",
-                "Team Player",
-                "C#",
-                "Software Development",
-                "C++"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "11 Kian Teck Road"
-            },
-            "company": {
-                "logo": null,
-                "name": "VISION ONE PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Requirements:    Full architecting and coding experience in C#, C++, C, for command, control and      communication (C3) applications;   Dashboards, .NET framework and backend server experience required;   Min 7 years experience in architecting and documentation in SDLC using C# or C++;   Min 5 years experience in design, system integration, drawing and reading electronic/electrical schematics;   Min BSEE or equivalent from a recognized university;   Self-starter, driven, hands-on and able to work under pressure;   Good communication and cheerful personality;   Positive working attitude and team player and overall team leader;   Holders of Bachelor’s degree in Computer Science are welcome to apply if the candidate has      experience in designing, programming in embedded environment, reading and      implementing systems integration with electrical schematics;   Candidates with less than 5 years experience are also welcome to apply with salary to commensurate with experience;  Responsibilities:    Supports new RFQ and customer interaction, if assigned;   Track project progress, drive external reviews with customer and internal reviews;   Ensure adherence to delivery schedule and product quality;   Write documentation for each stage of development and commercialization lifecycle, write user manuals and other bid documents, if assigned.   Drive internal and external reviews with team members and customers;   Drive all internal and external acceptance tests;   Support after-sales maintenance;   Other work as assigned. ",
-            "datePosted": "2023-04-04",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 7000,
-                "minValue": 4500,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/senior-software-engineer-software-engineer-vision-one-a3fd2cf6018286fc7b0216f2533338f4?source=MCF&event=Search",
-            "uuid": "df8da9d0-14a4-40c1-9c7e-84fd277f4523"
-        },
-        {
-            "dueDate": "2023-04-15",
-            "jobTitle": "Software Engineer",
-            "skills": [
-                "Troubleshooting",
-                "Ability To Work Independently",
-                "Software Engineering",
-                "JavaScript",
-                "Protocol",
-                "SQL",
-                "WebDriver",
-                "Python",
-                "Selenium",
-                "Team Player",
-                "Java",
-                "C#",
-                "Linux",
-                "Software Development"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": null
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/7f0e993e14801db87bc8c0459017302a/films-foils-international.png",
-                "name": "FILMS & FOILS INTERNATIONAL PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Roles ; Responsibilities What we expect:    Oversee the IT infrastructure and administration of the server, network, and relevant devices.  What we are looking for:    Candidate must possess at least a Diploma or Degree in Computer Science/Information Technology or equivalent.   At least 1 years of working experience in the related field is required for this position.   Ability to work independently and efficiently, managing timelines and expectations.   Good team player with strong analytical, communication, and troubleshooting skills.   1. Proficient in Linux, with experience in Linux development, able to independently resolve third-party software dependencies; 2. Proficient in at least one of the languages python/nodejs/golang, with experience in developing medium-scale projects; 3. Proficient in mysql/rabbitmq/redis, able to independently resolve general problems during use; 4. Experience using webdriver or selenium, with experience in crawling preferred; 5. Clear understanding and comprehension of the HTTP protocol; 6. Able to use excel for simple data conversion, processing, and analysis; 7. Experience in developing cluster systems, with experience in distributed/multi- node/high-latency environments.    What we offer:    Attractive rewards for long-term service staff   Energetic and friendly working environment (flexible working hours, quarterly events, staff birthday celebration and etc.)   Medical insurance  ",
-            "datePosted": "2023-03-16",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 12000,
-                "minValue": 5500,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/software-engineer-films-foils-international-9c1ff77a7789cf761fa15d0705ecbf27?source=MCF&event=Search",
-            "uuid": "5260fa52-d0d3-46ef-a2c2-546eb3791316"
-        },
-        {
-            "dueDate": "2023-04-19",
-            "jobTitle": "Software Engineer",
-            "skills": [
-                "Vendor Relationships",
-                "RDS",
-                "Multithreading",
-                "Scripting",
-                "SDLC",
-                "EC2",
-                "Continuous Integration",
-                "Database Design",
-                "Angular",
-                "Java",
-                "API",
-                "S3",
-                "System Architecture",
-                "Software Development"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "VISIONCREST, 103 PENANG ROAD"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/d3a822689069452757c942f5d108b53d/asia-digital-exchange.png",
-                "name": "ASIA DIGITAL EXCHANGE PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "ABOUT Us  AsiaNext is a trusted digital exchange for institutional investors in Asia and globally. It will offer integrated listing, trading, and post-trade services for digital assets, including digital payment tokens. The joint venture between the SBI Group in Japan and SIX Group AG in Switzerland will provide an institutional-grade platform to enable the tokenization and trading of existing securities and non-bankable assets. AsiaNext will support the growing institutional demand for trading of public and private digital assets. It will leverage the extensive networks of SBI in Asia and SIX in Switzerland and Europe, as well as their joint expertise in fulfilling institutional investors’ needs. Both SBI and SIX have demonstrated leadership in digital asset markets globally through multiple investments, issuances and initiatives in the space.  Why Join Us?  With SBI and SIX as its shareholders, AsiaNext has significant backing supporting its mission of building the world’s first institutional-grade digital exchange for institutional investors and fostering trust through rigorous security and compliance to regulations. The team comprises members with traditional finance, digital finance and technology background spanning decades at major regional and global banks, brokerages, exchanges, regulators, digital exchanges, and many others. If you are looking to develop your career in a professional and well-run environment, yet which moves and grows rapidly, join our diverse and talented team to build the digital exchange of choice for institutional investors.  About This Role:-  Reporting to the Head of Application, you will engage in the software development lifecycle that shapes the AsiaNext exchanges. You will analyse requirements and design, implement, deliver and support the IT solutions of the exchanges. You should be passionate about Blockchain, Securities Trading and Digital Assets, and are able to translate business needs to applications that support digital exchanges ecosystem.  Responsibilities     Design, code and implement the IT solutions of AsiaNext exchanges. This includes APIs and smart contracts for connectivity with financial institutions and blockchains respectively.   Keep proper documentation of functional specifications, project plans, system architecture and database design.   Prepare and run User Acceptance, Non-functional and Industrial Wide tests.   Conform to Software Development Life Cycle (SDLC) best practices, company policies and regulatory requirements to implement secure, resilient and scalable solutions.   Perform project management tasks such as tracking of progress, issues, risks, milestones, deliverables changes and ensure dependencies are within schedule and allocated costs.   Perform continuous integration and continuous delivery (CI/CD) to optimise operational environments.   Analyse technology trends and develop application strategy and architecture in line with these trends to meet business needs.   Manage vendor relationships and deliverables.   Qualifications And Experience  Education     Bachelor’s degree or higher in a computer related major or equivalent   Experience And Skill     At least 5 years of software development experience   Experience in securities exchange, derivatives trading, cryptocurrencies and blockchain would be an added advantage   Full stack developer with hands-on experience in Java, micro-services and frameworks such as Spring, React or Angular   Experience with AWS technologies such as API Gateway, EC2, RDS, S3 and EKS   Experience with smart contracts and blockchain preferred   Familiar with CI/CD deployment and toolsets such as Jenkins and Gitlab   Experience with FIX version 4.2 and above   Familiarity with scripting Selenium or Katalon preferred   Experience with multithreading and concurrency is a plus   Knowledge in financial exchange system/framework, especially matching engine and market supervision is a plus   Strong analysis and communication skill   Result-oriented, diligent and a team player   Employment Benefits     Competitive staff benefits - annual leave, life insurance, and medical insurance (includes dependents)   Competitive remuneration including variable bonus   How to Apply:-  If you are ready to take up a new challenge in a dynamic and fast-growing platform, please send your resume to hr@asianext.comstating your name and title of the position applied for in the subject line.  Only shortlisted candidates will be contacted for further discussion. All personal data collected will be kept strictly confidential for recruitment purposes only.   AsiaNext is an Equal Opportunity Employer. We do not discriminate on the basis of race, religion, colour, sex, gender identity or expression, sexual orientation, age, non-disqualifying physical or mental disability, national origin, or any other basis covered by appropriate law.",
-            "datePosted": "2023-03-20",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 9000,
-                "minValue": 6000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/software-engineer-asia-digital-exchange-bfd8892375fd3d05e8164d08643227f7?source=MCF&event=Search",
-            "uuid": "7d6c8232-62b2-4474-a9ae-8b3bdaf60274"
-        },
-        {
-            "dueDate": "2023-04-09",
-            "jobTitle": "Software Engineer",
-            "skills": [
-                "Hardware",
-                "Software Engineering",
-                "Agile",
-                "JavaScript",
-                "Reliability",
-                "Embedded Systems",
-                "User Interface",
-                "System Design",
-                "FPGA",
-                "Python",
-                "Microcontrollers",
-                "Satellite",
-                "Team Player",
-                "Java",
-                "API",
-                "Databases",
-                "Software Development",
-                "C++"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "TCH TECHCENTRE, 71 TOH GUAN ROAD EAST"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/6d1ab31b6244dbb037970be423a53863/zero-error-systems.png",
-                "name": "ZERO-ERROR SYSTEMS PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Job Title: Software Engineer  Role and Responsibilities  \tInvolve in product conceptualization, design, verification/validation for space/satellite and high-reliability applications \tDevelop application programming interface (API) to satellite payload and/or high-reliability applications \tDevelop test protocols/test programs using microcontrollers and/or Field-Programmable-Gate-Array (FPGA) means \tWork with hardware engineers to develop Graphic User Interface (GUI) for data acquisition for embedded systems \tSupport functional and reliability tests to ensure functional safety and performance of the embedded system \tGenerate and maintain the necessary documents   Qualifications  \tHave at least a bachelor’s degree in an engineering discipline preferably in computer engineering, computer science, or electrical/electronic engineering \tExperience in software development for embedded systems (e.g., leveraging on microcontrollers or FPGA) \tSkilled in at least one programming language in C/C++, Python, Java, Golang, Verilog/VHDL, etc.  \tExperience in Graphic User Interface (GUI) design  \tExperience in various hardware communication protocols (e.g., UART, SPI, I2C, DDR2/3/4, CAN, eMMC, etc.) \tKnowledgeable in quality/qualification workflows, including verification, validation, and reliability testing   \tKnowledge of space/satellite applications is a plus \tKnowledge of hardware/software functional safety standard (e.g., IEC 61508) is a plus \tKnowledge of cloud-based software system design is a plus \tIs a good team player that can work well in a team to solve problems to deliver solutions to meet market needs ",
-            "datePosted": "2023-03-10",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 8000,
-                "minValue": 5000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/design/software-engineer-zero-error-systems-3f0c695ec0096bf5148b85fecd3c97d3?source=MCF&event=Search",
-            "uuid": "e316a6f4-9ffe-4d19-8181-16ed3dae134f"
-        },
-        {
-            "dueDate": "2023-04-15",
-            "jobTitle": "Software Engineer",
-            "skills": [
-                "UML",
-                "Technical Documentation",
-                "MongoDB",
-                "Solutioning",
-                "Agile",
-                "Root Cause Analysis",
-                "JavaScript",
-                "JIRA",
-                "Teamoriented",
-                "Java",
-                "Software Development",
-                "Ability to Prioritize",
-                "Business Requirements",
-                "Technical Design"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "OXLEY BIZHUB, 71 UBI ROAD 1"
-            },
-            "company": {
-                "logo": null,
-                "name": "MGG SOFTWARE PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "RESPONSIBILITIES    Work closely with project management team to identify and analyse business requirements for system development and enhancements   Design solution and develop technical documentation (flow, UML, processing rules) to support system development   Work closely with fellow software engineers in project team to develop systems using JavaScript and Java   Deploy and implement your codes in test and production environments using CI/CD   Participate in daily meetings with development team to provide clarifications on design, business rules and data requirements and ensure alignment with business requirements   Undertake root cause analysis for problems to implement preventive and corrective measures to meet business and performance needs   REQUIREMENTS    At least 1 year of experience in designing and building software using JavaScript (ReactJS, NodeJS, VueJS, Express, MongoDB)   Strong analytical, problem-solving skills, and solutioning skills   Attention to data relationship and accuracy   Strong communicator, highly proficient in English and Chinese (written and spoken). Knowledge of Malay or Indonesian is highly advantageous.   Participated in at least one software development cycle using Agile and CI/CD   Multi-tasking and time-management skills, with the ability to prioritize tasks   Able to work in a fast-paced, team-oriented environment   Experience with using Agile and technical design tools and cloud-based tools, eg. Jira, Trello, Gitlab and Draw.io, etc   BENEFITS    Up to 16 days of annual leave   Medical coverage   Hybrid work option   Opportunities for project-based travel ",
-            "datePosted": "2023-03-16",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 5500,
+                "maxValue": 6000,
                 "minValue": 4000,
                 "payPeriod": "MONTH"
             },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/software-engineer-mgg-software-7f8bd87df46794359fa0afd4c5bf2ea4?source=MCF&event=Search",
-            "uuid": "5cc21a9a-1d85-4966-930d-00a3c48b3512"
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/building-construction/mechanical-engineer-coens-energy-dfd17e8c370495a4144a16ca8344f64d?source=MCF&event=Search",
+            "uuid": "0ed030f4-9d9d-4d70-8fb4-1c8a547bb878"
         },
         {
-            "dueDate": "2023-05-03",
-            "jobTitle": "Senior Software Engineer",
+            "dueDate": "2023-05-06",
+            "jobTitle": "Technical Designer",
             "skills": [
-                "Coaching",
-                "Mentoring",
-                "Version Control",
-                "Product Marketing",
-                "Autonomy",
-                "Analytic Thinking",
-                "Node.js",
-                "MySQL",
-                "JavaScript",
-                "SQL",
-                "Publishing",
-                "React Native",
-                "Web Applications",
-                "Java",
-                "Databases",
-                "React.js",
-                "Software Development"
+                "Designer",
+                "Construction",
+                "Concept Design",
+                "Asbuilt Drawings",
+                "Architectural",
+                "Drawing",
+                "3D",
+                "Attentive",
+                "Autodesk Autocad",
+                "Engineering Design",
+                "Communication Skills",
+                "AutoCAD",
+                "Layout"
             ],
             "location": {
                 "country": "SG",
                 "locality": "Singapore",
-                "address": null
+                "address": "21 TUAS WEST AVENUE"
             },
             "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/9cff4d61968c306a9d84fdfe0ceeea6b/2359-media.png",
-                "name": "2359 MEDIA PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME",
-                "CONTRACTOR"
-            ],
-            "description": "In 13 years, we've built an award-winning, multinational digital experience studio. It has been an adventure best described as a coherent and chaotic innovation. One that would not be possible without the ingenuity of our people. We still have the same dream. To improve the way people live and work through technology. Those who work here describe 2359 Media as a place to grow their skills and ability. The hierarchy is very flat and our time during work is focused on delivering great work to our clients. Here we value entrepreneurial spirit, initiative, teamwork and creativity. It’s rewarding to work where everyone is empowered to make a difference. Enjoy high-level autonomy, and be seen and heard for all the great work you do. Bask in our family-like culture, where we take every opportunity to celebrate our achievements because our most valued resource is our people. As a Senior Software Engineer, you will create impact by:    Utilizing and applying robust analytic thinking with the ability to identify, debug, and resolve technical issues.   Providing coaching and technical mentoring to more junior developers.   Conducting team code reviews.   Displaying initiative and an ability to lead others, and develop applications team disciplined manner.   Working and collaborating with the rest of the engineering team.   Working with product team and graphic designers.   Learning and understanding user interactions.   Developing and supporting graphical interfaces.   Supporting existing solutions.   Optimizing components for maximum performance across a vast array of web-capable devices and browsers.   Working independently to evaluate and make strategic decisions that will address specific technology design needs and issues within their technology area.  As a Senior Software Engineer, it would help for you to be:    Proficient in Node.js, Java, React Native or React.js  If you have what it takes to be part of a rapidly-iterating, highly dynamic ecosystem, get in touch with us at talent@2359media.com!",
-            "datePosted": "2023-04-03",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 8000,
-                "minValue": 4500,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-software-engineer-2359-media-51d26c3441921b81cad283983e37b191?source=MCF&event=Search",
-            "uuid": "5d8363f0-085f-4706-a2fc-ed8464f48aee"
-        },
-        {
-            "dueDate": "2023-04-10",
-            "jobTitle": "Software Engineer",
-            "skills": [
-                "MongoDB",
-                "Design Patterns",
-                "Software Engineering",
-                "MySQL",
-                "JavaScript",
-                "SQL",
-                "System Design",
-                "Ruby",
-                "Python",
-                "Web Applications",
-                "Product Development",
-                "Java",
-                "C#",
-                "Debugging",
-                "System Architecture",
-                "Databases",
-                "Software Development",
-                "C++"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "12 TAI SENG LINK"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/9a91b15fa83adfb53758da8df368187f/lorenz-technology.jpg",
-                "name": "LORENZ TECHNOLOGY PTE. LTD."
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/06109d2fc66de53921768ffd28d88923/two-nine-six-o-trading.jpg",
+                "name": "TWO NINE SIX O TRADING PTE. LTD."
             },
             "jobType": [
                 "FULL_TIME"
             ],
-            "description": "Roles ; Responsibilities  Responsibilities:    Responsible for the new product development in the server   In-depth exploration and analysis of business needs, writing technical   solutions and system designs   Complete system design and coding according to product requirements   Remodel and optimize the system architecture   Deliver at the pace of business changes and requirements   Solve challenging technical problems both individually and cooperatively with   the team   Passion to bring out innovative ideas and try out new solutions, while being   open minded to feedback from the team   Relentless focus on quality   Requirements    Minimum 5 years of experience in software development (any tech stack included but not limited to Golang / Java / Python experience)   Minimum a Masters Degree in Engineering or any related course   ProCcient in at least one programming language such as Python, Go, Java, Node.js, Ruby, etc., and understand Python; Familiar with the use and optimization methods of common databases such as Redis, MySQL, MongoDB, and Memcached;   Familiar with consensus algorithm or consensus algorithm is preferred, such as PoW, PoS, DPoS, PBFT, Raft, etc.; Build the back-end of applications by creating the necessary APIs for integration.    Identifying risks involved with the development and providing solutions to resolve complex problems. Setting up best coding practices and conducting regular code reviews.   ",
-            "datePosted": "2023-03-27",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 13000,
-                "minValue": 11000,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/software-engineer-lorenz-technology-d9a9f2550f56b2700b6878eca44e5990?source=MCF&event=SuggestedJob",
-            "uuid": "39e56d58-137e-43e6-bb22-3e19202d7e08"
-        },
-        {
-            "dueDate": "2023-04-12",
-            "jobTitle": "Software Engineer ",
-            "skills": [
-                "UML",
-                "JSON",
-                "Troubleshooting",
-                "XHTML",
-                "Web Services",
-                "JSP",
-                "Eclipse",
-                "XML",
-                "SOAP",
-                "Scripting",
-                "JDBC",
-                "SQL",
-                "AJAX",
-                "HTML 5",
-                "EJB",
-                "Java"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": null
-            },
-            "company": {
-                "logo": null,
-                "name": "ALLTECH SYSTEMS PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Job Description  · Code, modify, test, correct and document new and existing programs using assigned languages, tools and coding conventions; · Prepare and document test data; · Prepare and set up testing and production environment; · Prepare and maintain program and system documentation; · Assist in establishing file structures and processing logic requirements; · Produce deliverables according to group standards and procedures; · Assist Project Leaders in the study and design of application systems and work coordination, project management and user training work; · Troubleshooting and supporting end-users in the implementation and maintenance of application systems; · Train other contract programmers in the relevant skills; · Participate in Disaster Recovery activities eg simulation exercise at Disaster Recovery sites; · Learn / pick up new programming skills related to System Development and Maintenance as assigned by the supervisors; · Any other tasks related to System Development and Maintenance as assigned by the supervisors;  Job Requirements  a) Have three (3) years’ experience, within the past four (4) year’s timeframe, in each of the programming skills: - JSP, Servlet, Java Bean, Java Script, Session management, JDBC ; SQL b) Have two (2) years’ experience, within the past three (3) year’s timeframe, in coding programs using each of the skills: - HTML 5, XHTML, AJAX, Web Services (REST API), JSON, Java Server Faces ; EJB (session, entity ; message, Service Locator, Business Delegate, Data Transfer Object, Data Access Object). c) Preferably have hands on experience on the following: - IBM RAD9.0 or above or Eclipse or equivalent, Portal and Portlet development, n-Tier Architecture, Java Web Security/LDAP, JEE Security, JEE Transaction, XML, Web Services (SOAP), JNDI, UML diagrams ; Secure coding to prevent application vulnerabilities (for e.g. Cross-site scripting; Injection vulnerability flaws such as SQL injection, command injection; Race conditions; Improper error/ exception handling, etc).",
-            "datePosted": "2023-03-13",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 9000,
-                "minValue": 3500,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/software-engineer-alltech-systems-c91587f36a858e71342ca1e5305a1cbe?source=MCF&event=Search",
-            "uuid": "8cd79ad6-6970-4c37-837a-979b508e771b"
-        },
-        {
-            "dueDate": "2023-04-21",
-            "jobTitle": "Software Engineer ",
-            "skills": [
-                "MVC",
-                "Xamarin",
-                "CSS3",
-                "CSS",
-                "HTML",
-                "REST",
-                "Unit Testing",
-                "JavaScript",
-                "HTML5",
-                "Adonet",
-                "SQL",
-                "SQL Server",
-                "Windows Services",
-                "C#",
-                "Debugging",
-                "API"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "600 SIN MING AVENUE"
-            },
-            "company": {
-                "logo": null,
-                "name": "AUTOSCAN TECHNOLOGY PTE LTD"
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "   Design, Develop, test and maintain both new and existing code, ranging from client-side development using JavaScript, HTML, and CSS, to server-side code using C# and ASP.NET MVC, Web API, Windows Services, and ADO.NET for data persistence and retrieval. Xamarin for Moblie Development.   Work with management to create and adhere to schedules, while maintaining flexibility to adapt shifting market demands.   Rapid prototyping, and presenting conceptual design and working prototypes to mangement.   Collaborate on technical architecture and design.  Requirments    Solid understanding of OOP design and principles   Visual Studio 20XX, SQL, Server 20XX   Remote Debugging   Unit Testing  Front-End    C3, ASP.NET MVC, Web API   JavaScript, JQuery, AJAX   HTML5, CSS3, Reponsive deisgn   Understanding of web technology stacks including HTTP, REST,Cookies, caching, and asset loading.  Requirment    Diploma, Advanced/Higher/Graduate Diploma, Bachelor's Degree, Post Graduate Diploma, Professional Degree in Computer Science or Related Field   Min 2 years experience   Singaporean or PR   Office near Bishan MRT ",
-            "datePosted": "2023-03-22",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 5500,
-                "minValue": 4500,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/software-engineer-autoscan-technology-e31799cd6174482cb4495ee0774529f5?source=MCF&event=Search",
-            "uuid": "d5577e6e-9efd-4ae9-97b6-6663aafd497a"
-        },
-        {
-            "dueDate": "2023-04-14",
-            "jobTitle": "Software Engineer",
-            "skills": [
-                "Machine Learning",
-                "MVC",
-                "MongoDB",
-                "CSS",
-                "PHP",
-                "HTML",
-                "REST",
-                "MySQL",
-                "UI",
-                "Continuous Integration",
-                "Angular",
-                "Web Applications",
-                "Debugging",
-                "Web Development",
-                "Databases",
-                "Software Development"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "TRIVEX, 8 BURN ROAD"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/1413f503a6d9cda298a627a2fbbc07c1/iotalents.png",
-                "name": "IOTALENTS PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Responsibilities    Gather and refine web site/application design specifications and requirements based on business needs   Participate in the entire application lifecycle, focusing on coding and debugging   Write clean code to develop functional web applications   Build reusable code and libraries for future use   Develop well-designed, tested and efficient code using best software development practices   Create website layout/user interfaces by using standard HTML/CSS practices integrating data from various back-end servers and databases   Create and maintain software documentation   Maintain, expand, and scale the site as needed   Stay current with emerging technologies/industry trends and make recommendations accordingly.   Understanding of UI, cross-browser compatibility, general web functions and standards  Requirements    Degree/Diploma in Computer Science/Computer Engineering or related fields   Proven experience as a full stack developer   Comfortable creating and using web-based REST APIs   Proficiency with languages such as HTML, CSS, ECMAScript 6 (ES6), PHP   Expertise in Web development using Laravel, CakePHP (or other MVC frameworks)   Familiarity with front-end frameworks such as React, Angular.   Knowledge in relational and no-SQL databases (MongoDB, MySQL).   Knowledge of machine learning algorithms a big plus   Experience with software projects - source code control, continuous integration, documentation ",
-            "datePosted": "2023-03-15",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 5000,
-                "minValue": 3500,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/software-engineer-iotalents-d8b553dd2c8700270ba06e98fe01dc5b?source=MCF&event=Search",
-            "uuid": "466d64a5-cf42-48a6-a5c5-bfcba52c5baf"
-        },
-        {
-            "dueDate": "2023-04-16",
-            "jobTitle": "Software Engineer",
-            "skills": [
-                "Troubleshooting",
-                "Software Engineering",
-                "JavaScript",
-                "Positive Team Player",
-                "Windows",
-                "Software Design",
-                "Software Configuration Management",
-                "Java",
-                "Software Development",
-                "C++"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "PLAZA 8 @ CBP, 1 CHANGI BUSINESS PARK CRESCENT"
-            },
-            "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/bf550dd7a52653fb5f88ec996b518edc/hollysys.png",
-                "name": "HOLLYSYS (ASIA PACIFIC) PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Responsibilities · Designing and delivering software to meet customer requirements including architecture, design,   reuse, development, integration and verification. · Collaborating with the software development team on application design and development. · Developing software and overseeing the deployment of applications across platforms. · Software requirement analysis and documentation. · Trouble-shooting at site. · Using version control for software release management and documentation. · Guide and mentor junior developer in the technical aspect.  Requirements · At least 5 years of practical experience and excellent in C++ programming (Solid understanding of pointers, memory, polymorphism, STL and etc.). · Object-oriented programing knowledge and experience with QT framework. · Experience in Software design and implementation using C++/C/QT under a Windows or Linux environment. · Have an understanding of and experience with multithreaded systems, and low latency IO. · Strong analytical and problem-solving skills. · Experience with software configuration management tools/version control tools. · Knowledge of ACE or OPC UA is a plus. · Experience guiding/mentoring junior developers. · Excellent collaboration and communication skills.",
-            "datePosted": "2023-03-17",
-            "salaryRange": {
-                "currency": "SGD",
-                "maxValue": 9000,
-                "minValue": 6500,
-                "payPeriod": "MONTH"
-            },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/software-engineer-hollysys-e14bdc50da7b6d8ad8871d3299d6fe88?source=MCF&event=Search",
-            "uuid": "4157b571-9ba8-47fe-8945-1fcf05d9bbad"
-        },
-        {
-            "dueDate": "2023-04-14",
-            "jobTitle": "Software Engineer",
-            "skills": [
-                "Operation",
-                "HTML",
-                "Job Descriptions",
-                "Software Engineering",
-                "MySQL",
-                "JavaScript",
-                "Production",
-                "SQL",
-                "Python",
-                "Inspection",
-                "Java",
-                "Linux",
-                "Software Development",
-                "C++"
-            ],
-            "location": {
-                "country": "SG",
-                "locality": "Singapore",
-                "address": "TRITECH BUILDING, 31 CHANGI SOUTH AVENUE 2"
-            },
-            "company": {
-                "logo": null,
-                "name": "TRITECH SYSENG (S) PTE. LTD."
-            },
-            "jobType": [
-                "FULL_TIME"
-            ],
-            "description": "Job Description Job Description:    Develop in-house program for engineering instrument data process.   Design/setup/develop/maintain gateway for data transmission.   Documentation on operation ; maintenance instructions and manual.   Coordinate fabrication, inspection, testing, installation, and commissioning of hardware and software system.   Support daily operation and provide customer support.   Find out root cause of hardware, software, and system failure. Apply solution and implement future prevention.  Job Requirement:    Familiar Python 3 and its built-in libraries.   VueJS Framework, Go language   In depth experience in  o Network, TCP/IP o SQL o Managing Linux / windows OS    Bilingual in English and Chinese (to handle Chinese speaking customers’ technical enquires ; conduct trouble shooting based on customers’ feedback)   Graduate from Polytechnics/University   Must be hands-on and able to debug.   At least 3 years relevant experience ",
-            "datePosted": "2023-03-15",
+            "description": "Roles ; Responsibilities · Coordinate with principals, sales, project team and clients to produce valued engineering design ; construction documents. · Strong knowledge of building/Façade systems · Plan concept design by studying construction specifications and material details. · Prepare 2D ; 3D Detail Drawings with Autocad. · Well organize design drawing sets. · Obtain approvals from clients with concept drawings. · Preparation of Shop, Construction and As-built drawings. · Maintains technical knowledge by attending design workshops. · Contributes to team effort by accomplishing related results as needed.  Requirements · Degree in Engineering related to construction sector. · Well versed with Autodesk Autocad software. · Good verbal, written and graphic communication skills. · Able to communicate well in English. · Self-motivated and enjoys contributing to highly collaborative teams · Possess initiative ; good working attitude · Flexible and well-rounded to accommodate shifting schedules, project demands, multiple time zones, and deadlines.  Kindly indicate the following information in your CV · Current / Last Drawn Salary (in SGD) · Expected Salary (in SGD) · Availability · Residency Status in Singapore",
+            "datePosted": "2023-04-06",
             "salaryRange": {
                 "currency": "SGD",
                 "maxValue": 4000,
                 "minValue": 3000,
                 "payPeriod": "MONTH"
             },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/software-engineer-tritech-syseng-56f2a21f7101969fbbdafbce31526d3f?source=MCF&event=Search",
-            "uuid": "880ef34b-d49b-4227-9044-7c099c24ae93"
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/building-construction/technical-designer-two-nine-six-o-trading-ed1697442d4db17623d1080d293b6123?source=MCF&event=Search",
+            "uuid": "69ee1e76-5836-4091-a606-6517d008faa3"
+        },
+        {
+            "dueDate": "2023-04-13",
+            "jobTitle": "Project Engineer",
+            "skills": [
+                "Revit",
+                "Autodesk Software",
+                "Microsoft Office",
+                "Construction",
+                "BIM",
+                "Drawing",
+                "Electrical",
+                "Risk Management",
+                "Project Planning",
+                "Project Management",
+                "Construction Drawings",
+                "Communication Skills",
+                "AutoCAD",
+                "Civil Engineering",
+                "Scheduling",
+                "Commissioning"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "102 HENDERSON ROAD"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/45b77b45d154693c4b2d7783bc2aa23f/gws-living-art.png",
+                "name": "GWS LIVING ART PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "GWS Living Art is a team of urban greenery specialists based in Singapore, we specialise in green technologies such as Green Wall and roof systems to bring greenery into your urban spaces. We also do Rainwater harvesting, automated irrigation systems to allow low watering requirements within an urban city. We truly believe that since our inception in 2017, that it is an urgent need to have more carbon sinks around our city and our world. We are looking a Project Engineer to join our team! In a construction team, the Project Engineer works under the guidance of the Project Manager in the execution of construction projects. Candidates who possess suitable qualities will be closely mentored to gain both technical and management qualities. It is a role with good developmental potential as candidates can eventually pursue a career in Project Management, Safety Management or Professional Certifications.  Job Description:    Assisting to plan for the progress of various projects through the deployment of manpower, equipment and logistics   Assist in the preparation of technical documents, such as construction drawings   Work together with other members of the team to effectively execute the operations plan   Assist in the safety and risk management of operations   Other ad hoc duties as required  Requirement:    1 or 2 years of working experience as a Project Engineer would be an advantage.   Both fresh graduate and experienced candidates are welcome to apply (mature and non-mature).   Recent postgrads with a Bachelor’s degree in Engineering preferably Mechanical ; Electrical / Civil Engineering / Environmental.   Basic Microsoft Office skills and Construction knowledge.   Knowledge of Safety and Risk Management would be advantage.   Knowledge of using any Autodesk software (e.g. AutoCAD/ Revit/ BIM 360) would be an advantage.   Good interpersonal and communication skills.   Able to start work in short notice will be preferred. ",
+            "datePosted": "2023-03-14",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 3500,
+                "minValue": 2800,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/building-construction/project-engineer-gws-living-art-34297c690e7fcb6e43119cdb96b056bb?source=MCF&event=Search",
+            "uuid": "06d9aa5b-028a-46bb-bebd-8184c15effcd"
         },
         {
             "dueDate": "2023-04-12",
-            "jobTitle": "Software Engineer",
+            "jobTitle": "Software Engineer [PSET- Developer Enablement - Autodesk Connected Delivery]_23WD67894",
             "skills": [
-                "UML",
-                "MVC",
-                "JSON",
                 "Troubleshooting",
-                "Web Services",
-                "JSP",
-                "Eclipse",
-                "Scripting",
-                "JDBC",
-                "SQL",
-                "AJAX",
-                "EJB",
+                "Analytical Abilities",
+                "Software Engineering",
+                "Agile",
+                "JavaScript",
+                "Python",
+                "Writing",
+                "Team Player",
                 "Java",
-                "WSDL",
+                "C++"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "SYMBIOSIS, 3 FUSIONOPOLIS WAY"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/5b42fc4da30fbbaaa8dcaf5f4a9cb4d3/autodesk-asia.png",
+                "name": "AUTODESK ASIA PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Position Overview We are Autodesk’s Delivery Platform Team. Our vision is to provide Autodesk's customers with a platform that enables a consistent and intuitive way to access Autodesk's products and services in a fast and reliable manner. We are on a mission to modernize our existing platform to offer a world-class experience. We embrace the values of an agile team. We are looking for an engineer who shares our values, particularly those who aspire to build cross-platform services, api, and applications. We are offering recent graduates or engineers with 0-2 years of Software Engineering experience with an exciting opportunity to join our amazing team, based in Singapore. Responsibilities    Collaborate with a team of highly skilled engineers and product managers in delivering software following agile practices and principles such as continuous improvement and continuous delivery   Help design, develop, deploy, and operate a platform that serves millions of users globally   Contribute to a team culture that values openness, collaboration, initiatives, and innovation while promoting individual and collective growth  Minimum Qualifications    Bachelor’s or Master’s degree in Computer Science, Computer Engineering or related technical discipline   0-2 years of Software Engineering experience   Good understanding of object-oriented design, and a good grasp on at least one programming language like C++, Java, Python etc.  The Ideal Candidate    You think about systems and love writing high-quality code We work mostly in C#/C++/Java/Python/Golang/JavaScript and AWS. However, languages and technology can be learned: we care much more about your general engineering skill than knowledge of a particular programming language, framework, or technology   You enjoy working in a highly collaborative team following agile practices such as test-driven development (TDD) and pair programming   You are passionate about learning new technologies and committed to continuous improvement   You are an ideal team player; you work with a sense of energy, passion, and personal responsibility, and taking on whatever you possibly can for the good of the team   You possess excellent communication, sharp analytical abilities, and love problem-solving ",
+            "datePosted": "2023-03-13",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 7017,
+                "minValue": 4683,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/software-engineer-pset-developer-enablement-autodesk-connected-delivery23wd67894-autodesk-asia-4f9bb281dc092bab78dbd9f96028dd53?source=MCF&event=Search",
+            "uuid": "ab82bede-8a91-41a1-8a16-6ac5c06def25"
+        },
+        {
+            "dueDate": "2023-04-12",
+            "jobTitle": "Software Engineer_23WD67320",
+            "skills": [
+                "Troubleshooting",
+                "Pipelines",
+                "Design Patterns",
+                "Data Structures",
+                "REST",
+                "Agile Methodologies",
+                "JavaScript",
+                "Amazon Web Services",
+                "3D",
+                "Logging",
+                "Ruby",
+                "Adaptability",
+                "Docker",
+                "Databases",
                 "Software Development"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "SYMBIOSIS, 3 FUSIONOPOLIS WAY"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/5b42fc4da30fbbaaa8dcaf5f4a9cb4d3/autodesk-asia.png",
+                "name": "AUTODESK ASIA PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Position Overview Autodesk's Design and Engineering innovative software enable Designers and Engineers to imagine, design, and create the world around us: cars, buildings, bridges, movies, clothes, 3D printed objects and so much more.  We provide our customers with a broad portfolio of software to solve their design, business, and environmental challenges. Autodesk’s cloud transformation is revolutionizing our industry, enabling Designers and Engineers to collaborate from anywhere on any device. Autodesk is seeking a highly motivated Software Development Engineer on Consolidated Subscription Services (CSS) team. You will be part of a team that designs and develops high-performance mission-critical cloud services that serve millions of requests per day using some of the latest technologies. Responsibilities    Demonstrate technical excellence resulting in scalable, reliable, performant and maintainable services   Contribute to the design and architecture to enable secure, scalable and maintainable software   Write high quality code and tests following test-driven design principles   Participate in code and design reviews to ensure new code conforms to highest standards   Work within an agile framework to continuously deliver quality software in a fast-paced environment   Assist in improving the operations of services, e.g., monitoring, alerting, metrics, logging and troubleshooting  Minimum Qualifications    Bachelor’s degree or higher in Computer Science, Engineering or related field   Experience of working with one or more of the following languages: Go, Ruby, JavaScript   Understanding of Object-Oriented design, data structures and algorithms  Preferred Qualifications    Experience in a variety of backend technologies:  REST APIs, caching, databases, event driven systems, stream processing, deployment pipelines, systems monitoring etc   Demonstrated ability to pick up new languages, tools and design patterns as needed   Hands-on experience working with Amazon Web Services   Experience with agile methodologies   Team player — you love to teach others about cool new tricks you have learned and absorb tips and tricks from developers; love solving problems as a team across platforms, and are enthusiastic about synchronous collaboration in addition to heads-down work   Comfortable working in newly forming ambiguous areas where learning and adaptability are key skills  Some of the technologies we use    All things AWS…   Go   JRuby   Node.js   Docker   Redis ",
+            "datePosted": "2023-03-13",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 7017,
+                "minValue": 4683,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/software-engineer23wd67320-autodesk-asia-535ac315f9c4cfafd7ed6c646796e5d6?source=MCF&event=Search",
+            "uuid": "8cc65f49-6916-48be-8115-5c95e5f0217f"
+        },
+        {
+            "dueDate": "2023-04-16",
+            "jobTitle": "Mechanical Design Engineer",
+            "skills": [
+                "Feasibility Studies",
+                "Pneumatics",
+                "Process Automation",
+                "Tolerance",
+                "Solidworks",
+                "Drawing",
+                "3D",
+                "Design for Manufacturing",
+                "Autodesk Inventor",
+                "Project Timeline",
+                "Vibration Control",
+                "Assembly Processes",
+                "Assembly",
+                "Manufacturing",
+                "CAD"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "TECHPLACE II, 5008 ANG MO KIO AVENUE 5"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/e4935c12f6f124c4af40b7c8b7ee9596/axis-tec.jpg",
+                "name": "AXIS-TEC PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Duties and Responsibilities:    To apply proper feasibility studies, drive design specifications, and provide support of design proposal.   Responsible of conceptual and detail design for standard and customized build automation/equipment such as material handling, process automation, fixturing and tooling.   Generation of detail CAD design and drawing using Autodesk Inventor or equivalent.   Generation and release full set of design documentation.   Perform tolerance stack-up and various analysis on critical design parameters on the quality of the development project.   Working closely with manufacturing team on DFM, generating assembly processes and qualification procedure including of documentation.   Hand on prototype assembly, testing and qualification inclusive of trouble shooting.   Collaborate with other teams to ensure the project timeline and budget is adhered and all design requirements are specified and delivered.  For Senior Engineer    To source, evaluate and procure all mechanical and process components.   Participation in implementation of development documentation control and database system.  Job Qualifications:    Min Bachelor’s degree in Mechanical/Mechatronics Engineering or equivalent   At least &gt;3 years / &gt;5 years for senior position in designing industrial automation equipment, product assembly and test fixtures.   Familiar with components sizing of pneumatics and motion components such as servo motors and mechanical drive components.   Experience in Design for Manufacturing (DFM) and Design for Assembly (DFA).   Good knowledge in Geometric Dimensioning and Tolerancing (GD;T)   Must be proficient in 3D cad preferable Autodesk Inventor.   Experience in several of these areas are added advantage such as motion system, opto-mechanical systems, thermal and vibration control, design of laser structures.   Committed and self-motivated, a life-learner and good team player, able to work with minimum supervision in a dynamic environment.   Willing to travel in Asia region for assignments with short notice. ",
+            "datePosted": "2023-03-17",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 5000,
+                "minValue": 3000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/mechanical-design-engineer-axis-tec-debf94e682114266e60f96f09b74583e?source=MCF&event=Search",
+            "uuid": "65322737-e257-4f12-8379-3659485c015f"
+        },
+        {
+            "dueDate": "2023-05-06",
+            "jobTitle": "Drafter",
+            "skills": [
+                "Microsoft Office",
+                "Construction",
+                "Asbuilt Drawings",
+                "Architectural",
+                "Drawing",
+                "3D",
+                "Autodesk Autocad",
+                "Communication Skills",
+                "AutoCAD",
+                "Layout",
+                "CAD"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "21 TUAS WEST AVENUE"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/06109d2fc66de53921768ffd28d88923/two-nine-six-o-trading.jpg",
+                "name": "TWO NINE SIX O TRADING PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Roles ; Responsibilities · Prepare 2D ; 3D Detail Drawings with Autocad. · Well organize design drawing sets. · Preparation of Shop, Construction and As-built drawings. · Maintains technical knowledge by attending design workshops. · Contributes to team effort by accomplishing related results as needed.  Requirements · Well versed with Autodesk Autocad software. · Good verbal, written and graphic communication skills. · Able to communicate well in English. · Self-motivated and enjoys contributing to highly collaborative teams · Possess initiative ; good working attitude · Flexible and well-rounded.  Kindly indicate the following information in your CV. · Current / Last Drawn Salary (in SGD) · Expected Salary (in SGD) · Availability · Residency Status in Singapore",
+            "datePosted": "2023-04-06",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 3800,
+                "minValue": 2900,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/building-construction/drafter-two-nine-six-o-trading-589081f9d5ec08543f226736cb492732?source=MCF&event=Search",
+            "uuid": "e8626883-7dfe-4e52-b98b-ed4ca914f7d6"
+        },
+        {
+            "dueDate": "2023-04-23",
+            "jobTitle": "Junior MEchanical Design Engineer (AUTOMATED TESTING EQUIPMENT)(ATE)",
+            "skills": [
+                "Pneumatics",
+                "Process Automation",
+                "Solidworks",
+                "Design for Manufacturing",
+                "Autodesk Inventor",
+                "Project Management",
+                "Geometric Dimensioning & Tolerancing",
+                "opto-mechanical engineering",
+                "Design for Assembly",
+                "Mechanical Engineering"
             ],
             "location": {
                 "country": "SG",
@@ -752,65 +313,445 @@
                 "address": null
             },
             "company": {
-                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/34fa7a4b350df9ea167bca4c7c1fe6eb/stie.png",
-                "name": "STIE PTE. LTD."
+                "logo": null,
+                "name": "RECRUITMENT ALLIANCE"
             },
             "jobType": [
                 "FULL_TIME"
             ],
-            "description": "Job Description:  The Programmers shall be required to:  i. Code, modify, test, correct and document new and existing programs using assigned languages, tools and coding conventions; ii. Prepare and document test data; iii. Prepare and set up testing and production environment; iv. Prepare and maintain program and system documentation v. Assist in establishing file structures and processing logic requirements; vi. Produce deliverables according to group standards and procedures; vii. Assist Project Leaders in the study and design of application systems and work coordination, project management and user training work; viii. Troubleshooting and supporting end-users in the implementation and maintenance of application systems; ix. Train other contract programmers in the relevant skills; x. Participate in Disaster Recovery activities, e.g. simulation exercise at Disaster Recovery sites; xi. Learn / pick up new programming skills related to System Development and Maintenance as assigned by the supervisors; xii. Any other tasks related to System Development and Maintenance as assigned by the supervisors.  Working Experience and Skill Requirement  (i) Have six (6) years’ experience in each of the programming skills: - JSP, - Servlet, - Java Bean, - Java Script, - Session management - JDBC, SQL (ii) Have five (5) year experience in coding programs using each of the skills: - MVC modeling; - Java Server Faces - EJB (session, entity ; message, Service Locator, Business Delegate, Data Transfer Object, Data Access Object), (iii) Preferably have hands on experience on the following: - IBM RAD9.0 or above or Eclipse or equivalent - Portal and Portlet development using JSF - Jtpl (page template) - n-Tier Architecture - Java Web Security/LDAP - JEE Security - JEE Transaction - XML - Web Services (WSDL) - JNDI - Ajax - JSON - UML diagrams - Secure coding to prevent application vulnerabilities (for eg. Cross-site scripting; Injection vulnerability flaws such as SQL injection, command injection; Race conditions; Improper error / exception handling, etc)",
+            "description": "5days, permanent, Ang Mo Kio Our client: Original equipment manufacturer (OEM) and of automated testing equipment (ATE) and system integrator of industrial automation solution. Year in business: 20 years Industries served: Semiconductor Job description: · To conceptualise and design for standard and customized automation equipment such as material handling, process automation, fixturing, and tooling. · To generate detailed CAD design and drawing using Autodesk Inventor or equivalent and release of the design documentation · To perform tolerance, stack up analyses on critical design parameters on the quality of the development project. · Project manage and cross department collaboration for DFM and DFA · Hands on in prototype assembly, testing, and qualification inclusive of troubleshooting. Requirement: · Diploma up in Mechanical/Mechatronics Engineering. · Familiar with components sizing of pneumatics and motion components such as servo motors and mechanical drive components. · Experience in Design for Manufacturing (DFM) and Design for Assembly (DFA) n project management. · Proficient in tolerance stack up in GD;T · proficient in the following are added advantage:  motion systems, Opto-mechanical systems, thermal and vibration control, design of laser structures. Whats on offer: (1) Good benefit (2) Stable Management (3) Dynamic work environment Please submit resumes to michelle@careersg.sg with the following details in MS Word format: - Position applying for - Current remuneration - Expected remuneration - Notice period Michelle Goh EA License No: 22C1142 We regret that only shortlisted candidates will be notified.",
+            "datePosted": "2023-04-09",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 5500,
+                "minValue": 3500,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/junior-mechanical-design-engineer-recruitment-alliance-30803ba7a44a76fd1e77befeb325d1ff?source=MCF&event=Search",
+            "uuid": "a7433172-3fd4-4c36-930f-6c17e991be78"
+        },
+        {
+            "dueDate": "2023-05-06",
+            "jobTitle": "Technical Designer",
+            "skills": [
+                "Designer",
+                "Construction",
+                "Concept Design",
+                "Asbuilt Drawings",
+                "Architectural",
+                "Drawing",
+                "3D",
+                "Attentive",
+                "Autodesk Autocad",
+                "Engineering Design",
+                "Communication Skills",
+                "AutoCAD",
+                "Layout"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "21 TUAS WEST AVENUE"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/82cffd62d5868a297824ec956c52a25f/zgg.png",
+                "name": "ZGG PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Roles ; Responsibilities · Coordinate with principals, sales, project team and clients to produce valued engineering design ; construction documents. · Strong knowledge of building/Façade systems · Plan concept design by studying construction specifications and material details. · Prepare 2D ; 3D Detail Drawings with Autocad. · Well organize design drawing sets. · Obtain approvals from clients with concept drawings. · Preparation of Shop, Construction and As-built drawings. · Maintains technical knowledge by attending design workshops. · Contributes to team effort by accomplishing related results as needed.  Requirements · Degree in Engineering related to construction sector. · Well versed with Autodesk Autocad software. · Good verbal, written and graphic communication skills. · Able to communicate well in English. · Self-motivated and enjoys contributing to highly collaborative teams · Possess initiative ; good working attitude · Flexible and well-rounded to accommodate shifting schedules, project demands, multiple time zones, and deadlines.  Kindly indicate the following information in your CV · Current / Last Drawn Salary (in SGD) · Expected Salary (in SGD) · Availability · Residency Status in Singapore",
+            "datePosted": "2023-04-06",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 4000,
+                "minValue": 3000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/building-construction/technical-designer-zgg-6a7abd0896814613fe12600f2be3f08f?source=MCF&event=Search",
+            "uuid": "fd71a778-aadb-47ff-bb2c-43b442ca1fab"
+        },
+        {
+            "dueDate": "2023-04-22",
+            "jobTitle": "BIM Modeller",
+            "skills": [
+                "3D Modeling",
+                "Designer",
+                "Autodesk Revit",
+                "Ability To Work Independently",
+                "BIM",
+                "Plant Design",
+                "3D",
+                "Autodesk Inventor",
+                "Structural Engineering",
+                "Piping",
+                "Autocad 2d",
+                "Wastewater Treatment",
+                "CAD",
+                "Commissioning"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "CLEANTECH ONE, 1 CLEANTECH LOOP"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/9923a166de0c37224f9ca74aa94f52fe/gradiant-international-holdings.png",
+                "name": "GRADIANT INTERNATIONAL HOLDINGS PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Job Summary: Gradiant is seeking a CAD Design Engineer to support CAD Design engineering work for Water ; Wastewater Treatment Projects in Asia Pacific region. The candidate should have good technical, organizational and communication skills related to developing, supporting, and managing CAD detail design ; engineering work. Essential Duties ; Responsibilities:    Support CAD detail design ; engineering work as per the instruction and guidance from the supervisor / Sr. Mechanical Engineer / Manager.   Prepare CAD drawings and documents as per the guidance of supervisor / Sr. Mechanical Engineer / Manager.   Responsible for the Plant design including Tanks, Skids, equipment and piping design for Water and wastewater treatment projects.   Ensure compliance with approved design standards to provide quality designs.   Develop 3D Drawings and Models as per the project requirement.   Work closely with the Mechanical and piping engineer to ensure the designs are applicable and feasible.   Support other engineering, project management, installation, commissioning, and operation department as per the supervisor’s instruction and company requirements.  Requirements:    Candidate must possess bachelor’s degree or Diploma in Mechanical / Civil / Structural engineering or similar qualification.   Minimum 4+ years’ experience for CAD detail design and 3D model design work for engineering projects.   Software Proficiencies in: Autodesk Revit ; BIM 360, AutoCAD 2D ; 3D, Autodesk Inventor.   Technical experience Plusses: Tank, Skids and plant piping design in AutoCAD 2D ; 3D, Autodesk Inventor and other 3D modeling software knowledge ; experience, Autodesk BIM 360 knowledge ; experience, Autodesk Revit Site Designer knowledge ; experience.   Basic understanding of water and wastewater processes, PFDs and PIDs.   Experience of CAD detail design work for Water / Wastewater Treatment projects.   Familiar with International and Singapore CAD design standards.   Excellent analytical thinking, interpersonal/communication skills, writing and problem-solving capacities.   Reliable, well-organized and detail oriented.   Must have the ability to work independently and in an interdisciplinary team environment to perform all duties in a professional and timely manner.   The job scope may require travelling and working outside Singapore. ",
+            "datePosted": "2023-03-23",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 4200,
+                "minValue": 3400,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/design/bim-modeller-gradiant-international-holdings-1fc1c7f4b0f754235239a56669bd7b39?source=MCF&event=Search",
+            "uuid": "8a820a04-254d-4afb-9a59-c79d6b277855"
+        },
+        {
+            "dueDate": "2023-04-12",
+            "jobTitle": "BIM Modeller",
+            "skills": [
+                "structural drawings",
+                "Revit",
+                "Autodesk Revit",
+                "Teamwork",
+                "Microsoft Excel",
+                "Construction",
+                "BIM",
+                "Civil & Structural Drafting",
+                "Highly responsible",
+                "Responsible for reporting",
+                "Drawing",
+                "Data Integration",
+                "Tekla Structures",
+                "Takeoffs",
+                "AutoCAD",
+                "Responsible for delivery"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "22 TANJONG KLING ROAD"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/0c80fb660a783e9b556e6ad28ead15de/natsteel-holdings.png",
+                "name": "NATSTEEL HOLDINGS PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Job Responsibilities 1. Perform BIM modelling in Tekla structures or autodesk revit 2. Perform reinforcement bar detailing in Tekla structures or autodesk revit 3. Perform reinforcement bar quantity take-offs. 4. Produce shop drawings (plans, elevations, sections and bar bending structures etc) 5. Maintenance company BIM standards / Carry out clash detection 6. Perform 2D reinforcement detailing as and when needed 7. Provide plug-ins and components to automate modelling and reinforcement detailing.  Job Requirements • Diploma or Degree in Civil structure engineering or its equivalent • Diploma or Modelling training in BIM certification • Minimum 2 years’ experience working as BIM coordinator/Modeller • Minimum 3 years of working experience in the Construction or consultancy industry • Initiative, teamwork, hardworking ; responsible • Able to work in a fast track project with tight deadlines • Familiar with BIM related software",
             "datePosted": "2023-03-13",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 4900,
+                "minValue": 3500,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/building-construction/bim-modeller-natsteel-holdings-988d12f2749c4576dc266ec0fd2d0aad?source=MCF&event=Search",
+            "uuid": "aaba5c68-0467-40e9-ba35-5bba110ad10d"
+        },
+        {
+            "dueDate": "2023-04-26",
+            "jobTitle": "Senior / Mechanical Engineer",
+            "skills": [
+                "Feasibility Studies",
+                "Autodesk Revit",
+                "Construction",
+                "Building Services",
+                "Project Management",
+                "AutoCAD",
+                "Building Codes",
+                "Green Building",
+                "Building design",
+                "Commissioning",
+                "Mechanical Engineering"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "WESTGATE TOWER, 1 GATEWAY DRIVE"
+            },
+            "company": {
+                "logo": null,
+                "name": "CPG CONSULTANTS PTE LTD"
+            },
+            "jobType": [
+                "FULL_TIME",
+                "CONTRACTOR"
+            ],
+            "description": "Job Responsibilities:    Responsible for leading the planning and design of Mechanical engineering works for building services and infrastructure works.   Review reports, specifications, calculations, drawings and other documents prepared for the different stages of a project.   Supervise the installation, testing and commissioning of Mechanical engineering works.   Work together with other disciplines in feasibility studies and design, as well as to ensure excellent service delivery to Clients.   Job Title will correspond with project experience acquired and individual competency in technical knowledge/skills, project management and contract administration.  Job Requirements:    Degree in Mechanical Engineering recognised by the Professional Engineers Board, Singapore.   Registered with the Professional Engineers Board, Singapore.   Minimum 6 years of relevant experience in Mechanical engineering design for building services and infrastructure works.   Good working experience in a consulting firm with a proven track record in major development projects.   Conversant with local codes and regulations, and authority submission procedures.   Strong planning, organizational and supervisory skills.   Knowledge of AutoCAD and/or Autodesk Revit is advantageous. ",
+            "datePosted": "2023-03-27",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 7500,
+                "minValue": 5000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/architecture/senior-mechanical-engineer-cpg-consultants-50f10f551c65bf28142cf980d59f2dfc?source=MCF&event=Search",
+            "uuid": "8c9870f4-b590-46d3-8cb3-a8168936ca07"
+        },
+        {
+            "dueDate": "2023-04-23",
+            "jobTitle": "Engineer",
+            "skills": [
+                "Troubleshooting",
+                "Construction",
+                "Hardware",
+                "Electrical",
+                "PowerPoint",
+                "SQL",
+                "Networking",
+                "Python",
+                "Java",
+                "Manufacturing",
+                "CAD",
+                "Linux",
+                "Electronics",
+                "Software Development",
+                "Technical Support"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "202 BEDOK SOUTH AVENUE 1"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/a5a0ed826fa42265aa221dc5fb14161a/panasonic-asia-pacific.jpg",
+                "name": "PANASONIC ASIA PACIFIC PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME",
+                "CONTRACTOR"
+            ],
+            "description": "Responsibilities:    As part of Manufacturing Innovation Group activities, we are developing and commercializing autonomous mobile robot systems. The target of this activity is to develop new autonomous mobile robot system based on the commercialized AMR, ”HOSPI”.   The main responsible is for developing autonomous mobile software and its server system software for control multiple robots and facilities. The responsible is also including robot instalment and ramping up to the customer.   Understand control software of the autonomous mobile robot “HOSPI” and modify it to the local customers   Understand management software of “HOSPI” (HOSPI server) and develop additional functions to it for the local customers   Develop and verify integration between the HOSPI server and the Robot Middleware Framework developed by CHART   Promote POC of the autonomous mobile robot with Panasonic System Solutions Asia Pacific which is the sales department.   Understand the operation and adjustment of HOSPI, and operate HOSPI   Install and ramp up HOSPI to the customers with applying the designates local functions  Requirements:    Technical skills in ROS or ROS2.   At least Diploma and above in engineering related fields.   Able to use CAD system (AutoDesk/Inventor, Solid works)   Basic PC knowledge (Excel, Word, Powerpoint)   Good IT knowledge and experience in OT environment (manufacturing) is an advantage. ",
+            "datePosted": "2023-03-24",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 5500,
+                "minValue": 4000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/engineer-panasonic-asia-pacific-b4b1535058d3010e13bf20527a4d05d9?source=MCF&event=Search",
+            "uuid": "f6bdbe94-cbc1-4518-94ac-7eb6202d69c4"
+        },
+        {
+            "dueDate": "2023-05-05",
+            "jobTitle": "BIM/CAD Technician MEP",
+            "skills": [
+                "Revit",
+                "Construction",
+                "BIM",
+                "Architectural",
+                "Rail",
+                "Drawing",
+                "HVAC",
+                "Electrical",
+                "Building Services",
+                "Sustainable Development",
+                "3D",
+                "Wellbeing",
+                "AutoCAD",
+                "Electrical Engineering",
+                "CAD"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "FRASERS TOWER, 182 CECIL STREET"
+            },
+            "company": {
+                "logo": null,
+                "name": "ARUP SINGAPORE PRIVATE LIMITED"
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Do you want to make a positive impact on the world? Sustainable development is at the heart of everything we do. Seventy-five years ago, we created a home for creative thinkers seeking to solve the world’s biggest challenges. Today, a collective of 16,000+ Arupians gather across the globe from 140 different countries to build a sustainable future. We strive to create an inclusive environment and give everyone a voice. Diversity drives innovation in our projects and offers empathy to the communities we serve. We welcome and encourage applications from people living with disability and provide workplace adjustments. At Arup, you’ll do more than work — you’ll shape a better world. About this role This role will be responsible for the production and quality checks on Building Services (Mechanical, Electrical and Plumbing) BIM Models and Drawings. What will I do?    Responsible in the production and quality checks on Building Services (Mechanical, Electrical and Plumbing) BIM models and drawings, and Combined Services coordination and drawing preparation   Produce or support production and quality checks on Civil and Structural, Architectural or other disciplines BIM models and drawings as the need arises   Resolve complex multidisciplinary modelling, engineering and design issues through coordination and liaison with internal Arup parties and external parties.   Perform spatial checks and undertake clash detection.   Prepare documents and drawings to assist engineers, planners or designers for submission to relevant Authorities and required to author non-standard models, drawings, letters, reports and other documentation.  What will I bring?    Recognized tertiary qualifications in Mechanical and Electrical Engineering, Architecture, Building Information Modelling, Computer Aided Drafting or similar domain   A minimum of 5 years relevant experience in the construction industry and built environment, and preferably in Heavy Infrastructure, Rail and Underground Metro   Building Construction Authority Academy Specialist Diploma in Building Information Modelling is preferred.   Experience in HVAC (Heating, Ventilating and Air-Conditioning) are preferred.   Working knowledge of at least one primary 3D BIM product including configuration, set-up and management of models supported by a common data environment with strong background using Autodesk suite of products, especially Revit and Autocad as well as Bentley suite products (V8i and Connect Edition)  Our firm  Dedicated to sustainable development, the firm is a collective of 16,000 designers, advisors and experts working across 140 countries. Founded to be both humane and excellent, we collaborate with our clients and partners using imagination, technology and rigour to shape a better world. We create spaces where everyone feels safe, seen and included and able to perform at their best. We take an approach to flexible working that supports the diversity and well-being of our members. Are you ready to shape a better world? Our open roles are waiting for you on the Arup careers page. If you like what you see here, apply today. Arup does not accept unsolicited resumes from recruiters or employment agencies.",
+            "datePosted": "2023-04-05",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 4500,
+                "minValue": 3500,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/bim-cad-technician-mep-arup-singapore-da998d7bffcb0a0c97bef40c87b97717?source=MCF&event=Search",
+            "uuid": "51d5a3b7-f817-4b8b-9ad6-8c5af93d9fa5"
+        },
+        {
+            "dueDate": "2023-04-28",
+            "jobTitle": "2D & 3D Drafter",
+            "skills": [
+                "Excavation",
+                "Revit",
+                "Construction",
+                "Concept Design",
+                "Asbuilt Drawings",
+                "BIM",
+                "Career Development",
+                "Drawing",
+                "3D",
+                "Vray",
+                "Interior Design",
+                "AutoCAD",
+                "Civil Engineering",
+                "3D Modelling",
+                "Layout",
+                "CAD"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "601 MACPHERSON ROAD"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/6fd102af748f74fc2c09de49c26f497b/nj-works.jpg",
+                "name": "NJ WORKS PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "    Positive and fun working environment   Career development opportunities   Walking Distance from MRT station (Tai Seng)      Job Responsibilities:      Produce accurate 2D ; 3D drafting and layout plan according to project requirement (Interior Design).   To prepare and update equipment, construction, coordinate and as-built drawings for submission based on information from Project Team.   Prepare AutoCAD drawings, such as plans, elevations, sections ; details.   Thinking creatively and critically to support the project team in the design process, to create sketches and drawings that work.   To plan all drawings to meet the stipulated deadline.   Other duties as and when assigned by the Management.      Requirements:   At least 1-2 years of experience and knowledge in AutoCAD.   Proficient in AutoCAD, 3D Max, V-Ray, 3D modelling competent, preferably in (Advance REVIT, AutoCAD, AutoDesk Inventer).   Preferably Junior Executive specialized in Architecture/Interior Design or equivalent.   Possess a recognized degree/diploma in Architecture or relevant field.   Required language: English and Mandarin   Able to Start Work Immediately or within short notice     ",
+            "datePosted": "2023-03-29",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 4000,
+                "minValue": 2500,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/architecture/2d-3d-drafter-nj-works-255214316b796eeb12f46979f234942a?source=MCF&event=Search",
+            "uuid": "eec40a63-d8db-41ff-9153-02b8ddf9d74c"
+        },
+        {
+            "dueDate": "2023-05-05",
+            "jobTitle": "2D / 3D Drafter",
+            "skills": [
+                "Excavation",
+                "Revit",
+                "Microsoft Office",
+                "Concept Design",
+                "BIM",
+                "Architectural",
+                "Electrical",
+                "Estimates",
+                "Civil Engineering",
+                "SketchUp",
+                "Layout"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "MAPEX, 37 JALAN PEMIMPIN"
+            },
+            "company": {
+                "logo": "https://static.mycareersfuture.gov.sg/images/company/logos/c01022f34844e1b8ac5d335b8b728ba7/ping-engineering.png",
+                "name": "PING ENGINEERING (S) PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "SME - M;E organisation seeking for 2D / 3D Drafter urgently. Proficient in MS Office/Project/AutoCAD (Autodesk 2D / 3D), ability to understand tender design drawings and develop 2D / 3D design drawings as well as create, review and modify drawings based on project requirement.",
+            "datePosted": "2023-04-05",
             "salaryRange": {
                 "currency": "SGD",
                 "maxValue": 5000,
                 "minValue": 3000,
                 "payPeriod": "MONTH"
             },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/software-engineer-stie-b374b915abc4b7b22427dff366089b69?source=MCF&event=Search",
-            "uuid": "6aa750c4-c84c-445f-b068-9bbc65ba7c30"
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/professional-services/2d-3d-drafter-ping-engineering-472e7c972f23f72306f48f306fc1cbcb?source=MCF&event=Search",
+            "uuid": "168f5044-fc23-4f12-a4e4-e95d596fdf93"
         },
         {
-            "dueDate": "2023-04-30",
-            "jobTitle": "Software Engineer",
+            "dueDate": "2023-05-05",
+            "jobTitle": "BIM/CAD Technician STR",
             "skills": [
-                "Git",
-                "JSON",
-                "Able To Multitask",
-                "PHP",
-                "Software Engineering",
-                "MySQL",
-                "Agile",
-                "Bootstrap",
-                "JavaScript",
-                "SQL",
-                "Python",
-                "Docker",
-                "Applications Support",
-                "Java",
-                "Software Development"
+                "Revit",
+                "Factory",
+                "Construction",
+                "BIM",
+                "Architectural",
+                "Rail",
+                "Drawing",
+                "Electrical",
+                "Sustainable Development",
+                "3D",
+                "Composites",
+                "Wellbeing",
+                "AutoCAD",
+                "Team Player",
+                "CAD"
             ],
             "location": {
                 "country": "SG",
                 "locality": "Singapore",
-                "address": "Vertex (Tower A), 33 Ubi Avenue 3"
+                "address": "FRASERS TOWER, 182 CECIL STREET"
             },
             "company": {
                 "logo": null,
-                "name": "COMMONTOWN PRIVATE LIMITED"
+                "name": "ARUP SINGAPORE PRIVATE LIMITED"
             },
             "jobType": [
                 "FULL_TIME"
             ],
-            "description": "   Analyse, design, develop and implement mobile and/or web-based applications.   Develop Front-end and/or back-end applications.   Support product implementation and maintenance.  Requirements    Diploma/Degree in Computer Science.   Strong programming skills and good problem solving skills.   At least 2 years of extensive experience in 1 or more of these tool sets: 1. PHP, Nodejs, MySQL, JSON and Bootstrap, or 2. Java technologies (Spring Framework, RESTful/SOAP).    Working experience with these tools: NPM, Docker, Git is an advantage.    Knowledge of AWS is an advantage.    Proactive, able to multitask and work independently. ",
-            "datePosted": "2023-03-31",
+            "description": "Do you want to make a positive impact on the world? Sustainable development is at the heart of everything we do. Seventy-five years ago, we created a home for creative thinkers seeking to solve the world’s biggest challenges. Today, a collective of 16,000+ Arupians gather across the globe from 140 different countries to build a sustainable future. We strive to create an inclusive environment and give everyone a voice. Diversity drives innovation in our projects and offers empathy to the communities we serve. We welcome and encourage applications from people living with disability and provide workplace adjustments. At Arup, you’ll do more than work — you’ll shape a better world. About this role This role will be responsible for the production and quality checks on Civil and Structural BIM Models Drawings. What will I do?    Be responsible for the production and quality checks on Civil and Structural BIM models and drawings.   Produce or support production and quality checks on Civil and Structural, Architectural, or other disciplines BIM models and drawings as the need arises.   Resolve complex multidisciplinary modelling, engineering and design issues through coordination and liaison with internal Arup parties and external parties.   Prepare documents and drawings to assist engineers, planners or designers for submission to relevant Authorities.   Be responsible for checking the quality and accuracy of their own and others work  What will I bring?    Recognized tertiary qualifications in Civil and Structural, Architecture, Building Information Modelling, Computer Aided Drafting or similar domain   A minimum of 5 years relevant experience in the construction industry and built environment, and preferably in Heavy Infrastructure, Rail and Underground Metro   Building Construction Authority Academy Specialist Diploma in Building Information Modelling is preferred.   Working knowledge of at least one primary 3D BIM product including configuration, set-up and management of models supported by a common data environment with strong background using Autodesk suite of products, especially Revit and Autocad   Knowledge with Bentley suite products (V8i and Connect Edition)  Our firm  Dedicated to sustainable development, the firm is a collective of 16,000 designers, advisors and experts working across 140 countries. Founded to be both humane and excellent, we collaborate with our clients and partners using imagination, technology and rigour to shape a better world. We create spaces where everyone feels safe, seen and included and able to perform at their best. We take an approach to flexible working that supports the diversity and well-being of our members. Are you ready to shape a better world? Our open roles are waiting for you on the Arup careers page. If you like what you see here, apply today. Arup does not accept unsolicited resumes from recruiters or employment agencies.",
+            "datePosted": "2023-04-05",
             "salaryRange": {
                 "currency": "SGD",
-                "maxValue": 7000,
-                "minValue": 4000,
+                "maxValue": 4500,
+                "minValue": 3500,
                 "payPeriod": "MONTH"
             },
-            "jobLink": "https://www.mycareersfuture.gov.sg/job/information-technology/software-engineer-commontown-09a7bf4d379eee3ac73252e75fb91ebe?source=MCF&event=Search",
-            "uuid": "82dd044b-52a8-4a0b-a983-3426edc8fffc"
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/engineering/bim-cad-technician-str-arup-singapore-0a2f36b60cbe6f7c2472085c5e8185d6?source=MCF&event=Search",
+            "uuid": "e94e082c-7e9a-4616-9045-46364c984e7e"
+        },
+        {
+            "dueDate": "2023-05-03",
+            "jobTitle": "(C&S) BIM Modeller",
+            "skills": [
+                "Revit",
+                "Autodesk Revit",
+                "Microsoft Excel",
+                "Construction",
+                "Modeling",
+                "BIM",
+                "Architectural",
+                "Mathematics",
+                "Drawing",
+                "Data Integration",
+                "3D",
+                "Python",
+                "AutoCAD",
+                "Layout",
+                "Credit Risk"
+            ],
+            "location": {
+                "country": "SG",
+                "locality": "Singapore",
+                "address": "SLF BUILDING, 510 THOMSON ROAD"
+            },
+            "company": {
+                "logo": null,
+                "name": "RANKINE & HILL (SINGAPORE) PTE. LTD."
+            },
+            "jobType": [
+                "FULL_TIME"
+            ],
+            "description": "Job Description    Create accurate and organized structural Revit (BIM) models and/or AutoCAD drawings   Develop plan, elevation, section, and detail drawings from the models with adequate detail and proper annotation for tender and construction.   Develop and maintain office BIM/CAD standards and procedures for sheet layout, layering, modelling processes, and drawing formats.   Work productively and coordinate activities on numerous projects concurrently.   Ability to work individually and as part of a team to meet deadlines  Requirements    Basic hand drafting skills   Experience utilizing Autodesk Revit modeling and AutoCAD software in a consultancy office preferred   Ability to read and understand architectural and structural construction documents   Graduate of a qualified technical school or program   Excellent time management skills ",
+            "datePosted": "2023-04-03",
+            "salaryRange": {
+                "currency": "SGD",
+                "maxValue": 4000,
+                "minValue": 2000,
+                "payPeriod": "MONTH"
+            },
+            "jobLink": "https://www.mycareersfuture.gov.sg/job/building-construction/bim-modeller-rankine-hill-6e0ea7369f0a0dd127eda38741badd0c?source=MCF&event=Search",
+            "uuid": "1b033ab4-55bc-4b7b-adc7-b2c47d060f1f"
         }
     ]
 }
